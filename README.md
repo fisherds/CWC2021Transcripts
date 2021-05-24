@@ -8,36 +8,38 @@ Status of each video could be (copy paste from here):
  4. Transcript review complete, ready for upload
  5. Uploaded
 
+
+
 ### Week 1 - Day 1
 
 | | Status |
 | :---        |    :----:   |
 | Status | 1. Waiting for Dr. Fisher to create a file|
-| Title   |         |
-| YouTube URL   | --        |
+| Title   | Alphabet Breakfast |
+| YouTube URL   | https://youtu.be/UY7fRGr7Qog |
  
 ### Week 1 - Day 2
 
 | | Status |
 | :---        |    :----:   |
 | Status | 1. Waiting for Dr. Fisher to create a file|
-| Title   |         |
-| YouTube URL   | --        |
+| Title   | Hedgehog Snack |
+| YouTube URL   | https://youtu.be/mFnrMbV56lg |
  
 ### Week 1 - Day 3
 
 | | Status |
 | :---        |    :----:   |
 | Status | 1. Waiting for Dr. Fisher to create a file|
-| Title   |         |
-| YouTube URL   | --        |
+| Title   | Fish Lunch |
+| YouTube URL   | https://youtu.be/ogfsUZnk_tU |
 
 ### Week 1 - Day 4
 
 | | Status |
 | :---        |    :----:   |
 | Status | 1. Waiting for Dr. Fisher to create a file|
-| Title   |         |
+| Title   | Catching Dinner |
 | YouTube URL   | --        |
 
 ### Week 1 - Day 5
@@ -45,7 +47,7 @@ Status of each video could be (copy paste from here):
 | | Status |
 | :---        |    :----:   |
 | Status | 1. Waiting for Dr. Fisher to create a file|
-| Title   |         |
+| Title   | Kaleidoscope Dessert |
 | YouTube URL   | --        |
  
  
@@ -54,7 +56,7 @@ Status of each video could be (copy paste from here):
 | | Status |
 | :---        |    :----:   |
 | Status | 1. Waiting for Dr. Fisher to create a file|
-| Title   |         |
+| Title   |  Dino Jump  |
 | YouTube URL   | --        |
 
 ### Week 2 - Day 2
@@ -62,7 +64,7 @@ Status of each video could be (copy paste from here):
 | | Status |
 | :---        |    :----:   |
 | Status | 1. Waiting for Dr. Fisher to create a file|
-| Title   |         |
+| Title   | Lawn Mower |
 | YouTube URL   | --        |
 
 ### Week 2 - Day 3
@@ -70,7 +72,7 @@ Status of each video could be (copy paste from here):
 | | Status |
 | :---        |    :----:   |
 | Status | 1. Waiting for Dr. Fisher to create a file|
-| Title   |         |
+| Title   | Irish Sheepdog |
 | YouTube URL   | --        |
 
 ### Week 2 - Day 4
@@ -78,7 +80,7 @@ Status of each video could be (copy paste from here):
 | | Status |
 | :---        |    :----:   |
 | Status | 1. Waiting for Dr. Fisher to create a file|
-| Title   |         |
+| Title   | Slide Puzzle |
 | YouTube URL   | --        |
 
 ### Week 2 - Day 5
@@ -86,5 +88,5 @@ Status of each video could be (copy paste from here):
 | | Status |
 | :---        |    :----:   |
 | Status | 1. Waiting for Dr. Fisher to create a file|
-| Title   |         |
+| Title   | Advanced Kaleidoscope |
 | YouTube URL   | --        |
