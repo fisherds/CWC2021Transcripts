@@ -1,0 +1,3804 @@
+0:00:00.390,0:00:05.120
+[Music]
+
+0:00:04.560,0:00:07.359
+hey hey
+
+0:00:05.120,0:00:09.280
+welcome back it's day number two of our
+
+0:00:07.359,0:00:10.559
+coding camp uh i'm here with my campers
+
+0:00:09.280,0:00:12.160
+again i'll let them introduce themselves
+
+0:00:10.559,0:00:15.839
+again
+
+0:00:12.160,0:00:18.800
+hi i'm bowen hi i'm keegan
+
+0:00:15.839,0:00:20.160
+hi i'm mckinley all right and we are uh
+
+0:00:18.800,0:00:21.439
+back and we're going to do some coding
+
+0:00:20.160,0:00:23.680
+activities today
+
+0:00:21.439,0:00:24.960
+uh before we get jumped into uh today
+
+0:00:23.680,0:00:26.480
+though i just want to quickly
+
+0:00:24.960,0:00:27.840
+reflect on some things we learned last
+
+0:00:26.480,0:00:29.199
+time it's a really good way to kind of
+
+0:00:27.840,0:00:29.760
+like submit some of these things in your
+
+0:00:29.199,0:00:31.519
+head
+
+0:00:29.760,0:00:34.079
+so things we learned last time so we did
+
+0:00:31.519,0:00:35.520
+avery uh with our alphabet breakfast
+
+0:00:34.079,0:00:37.680
+one thing we learned is that different
+
+0:00:35.520,0:00:38.960
+sprites have their own codes like avery
+
+0:00:37.680,0:00:40.960
+had some code
+
+0:00:38.960,0:00:42.160
+and then the apple had some code today
+
+0:00:40.960,0:00:43.360
+we're going to multiple sprites but
+
+0:00:42.160,0:00:44.640
+actually only one of them is going to
+
+0:00:43.360,0:00:46.800
+have code
+
+0:00:44.640,0:00:48.079
+other things we learned is that code
+
+0:00:46.800,0:00:49.840
+happens sequentially
+
+0:00:48.079,0:00:51.680
+so you do things in order so this is
+
+0:00:49.840,0:00:53.280
+like point towards mouse pointer move
+
+0:00:51.680,0:00:54.559
+these steps change this costume it
+
+0:00:53.280,0:00:56.559
+happens sequentially
+
+0:00:54.559,0:00:58.320
+we also use a lot of loops to make
+
+0:00:56.559,0:00:59.280
+things happen sequentially over and over
+
+0:00:58.320,0:01:01.120
+again
+
+0:00:59.280,0:01:03.039
+we learned about if statements so maybe
+
+0:01:01.120,0:01:04.559
+this thing happens maybe it doesn't but
+
+0:01:03.039,0:01:05.840
+if statements are something we use a lot
+
+0:01:04.559,0:01:07.200
+in our code
+
+0:01:05.840,0:01:09.280
+and then the last thing we learned about
+
+0:01:07.200,0:01:10.720
+was variables so last time we learned
+
+0:01:09.280,0:01:11.680
+about variables you had to create the
+
+0:01:10.720,0:01:13.760
+variable
+
+0:01:11.680,0:01:15.439
+you usually would initialize it you
+
+0:01:13.760,0:01:16.960
+would regularly modify a variable
+
+0:01:15.439,0:01:19.119
+because it's got to change if it's a
+
+0:01:16.960,0:01:21.119
+variable right and then you have to use
+
+0:01:19.119,0:01:22.720
+it somehow in your program
+
+0:01:21.119,0:01:24.560
+and so those are some skills we learned
+
+0:01:22.720,0:01:25.280
+last time and we're going to learn new
+
+0:01:24.560,0:01:27.280
+skills
+
+0:01:25.280,0:01:28.479
+this time let's show you a demo of what
+
+0:01:27.280,0:01:30.079
+we're making today
+
+0:01:28.479,0:01:32.159
+so i've got a demo solution on here that
+
+0:01:30.079,0:01:33.920
+i can show you
+
+0:01:32.159,0:01:35.520
+and so we're making a game called
+
+0:01:33.920,0:01:37.439
+hedgehog snack
+
+0:01:35.520,0:01:38.640
+so i'm going to make it full screen and
+
+0:01:37.439,0:01:40.960
+hit play
+
+0:01:38.640,0:01:42.560
+but what this is is this is a hedgehog
+
+0:01:40.960,0:01:43.280
+um and he's trying to get around the
+
+0:01:42.560,0:01:45.280
+maze
+
+0:01:43.280,0:01:46.640
+uh and you use the arrow keys to move
+
+0:01:45.280,0:01:49.040
+him around the maze
+
+0:01:46.640,0:01:50.640
+um and if you run into a wall um he he
+
+0:01:49.040,0:01:52.240
+won't go in the walls right so he just
+
+0:01:50.640,0:01:55.040
+bumps off the walls
+
+0:01:52.240,0:01:56.399
+um and then he is trying to uh get the
+
+0:01:55.040,0:01:58.320
+beetle
+
+0:01:56.399,0:02:00.079
+when he gets the beetle he chomps uh and
+
+0:01:58.320,0:02:00.960
+he says congratulations for finding the
+
+0:02:00.079,0:02:02.880
+beetle
+
+0:02:00.960,0:02:06.479
+we're also going to add a feature to our
+
+0:02:02.880,0:02:08.479
+game so this is another version of it
+
+0:02:06.479,0:02:09.840
+so almost the exact same game but in
+
+0:02:08.479,0:02:12.640
+this one we're gonna add a
+
+0:02:09.840,0:02:13.599
+timer so it's gonna be how fast can you
+
+0:02:12.640,0:02:15.760
+get the beetle
+
+0:02:13.599,0:02:17.040
+uh so you hit him um and he'll say you
+
+0:02:15.760,0:02:20.480
+found the beetle in
+
+0:02:17.040,0:02:22.800
+6.5 seconds and then your goal is to try
+
+0:02:20.480,0:02:24.640
+to be faster i was 6.5 last time do you
+
+0:02:22.800,0:02:28.160
+think i could be faster this time
+
+0:02:24.640,0:02:31.440
+come on hedgehog i was
+
+0:02:28.160,0:02:32.640
+5.7 right so that's the idea of our game
+
+0:02:31.440,0:02:34.720
+today
+
+0:02:32.640,0:02:36.319
+so let's go ahead and get started uh by
+
+0:02:34.720,0:02:39.599
+clicking on um
+
+0:02:36.319,0:02:40.640
+or go to scratch.mit.edu i'll go there
+
+0:02:39.599,0:02:43.920
+as well
+
+0:02:40.640,0:02:46.800
+and click on create up here
+
+0:02:43.920,0:02:47.120
+so we've got a blank screen we've got a
+
+0:02:46.800,0:02:49.200
+cat
+
+0:02:47.120,0:02:50.480
+on our screen the first thing that i
+
+0:02:49.200,0:02:52.160
+want to do is i want to get rid of the
+
+0:02:50.480,0:02:53.680
+cat we don't have a cat in our program
+
+0:02:52.160,0:02:55.599
+so go ahead and delete the cat for
+
+0:02:53.680,0:02:57.680
+trashcan icon here
+
+0:02:55.599,0:02:58.879
+and let's go ahead and add our hedgehog
+
+0:02:57.680,0:03:02.159
+so just like we did before
+
+0:02:58.879,0:03:03.599
+i click on choose a sprite
+
+0:03:02.159,0:03:05.760
+and the sprite that we're going to pick
+
+0:03:03.599,0:03:06.800
+is an animal
+
+0:03:05.760,0:03:08.640
+and the one i'm looking for is the
+
+0:03:06.800,0:03:10.400
+hedgehog so i'm just going to go through
+
+0:03:08.640,0:03:12.319
+here and pick the hedgehog
+
+0:03:10.400,0:03:13.840
+now yesterday i said try to use avery
+
+0:03:12.319,0:03:15.200
+walking but a bunch of my campers here
+
+0:03:13.840,0:03:16.720
+use something different anyway
+
+0:03:15.200,0:03:18.640
+i will say that if you want to use a
+
+0:03:16.720,0:03:19.360
+different sprite it'll work out okay
+
+0:03:18.640,0:03:20.720
+this time
+
+0:03:19.360,0:03:23.280
+but i'm going to use a hedgehog because
+
+0:03:20.720,0:03:26.400
+that's the way i design this game
+
+0:03:23.280,0:03:29.519
+so now we've got our hedgehog in here
+
+0:03:26.400,0:03:32.159
+our hedgehog is a certain size
+
+0:03:29.519,0:03:34.400
+as you can see the size of our hedgehog
+
+0:03:32.159,0:03:37.280
+affects how complex our maze can be
+
+0:03:34.400,0:03:38.879
+right so if you want a very simple maze
+
+0:03:37.280,0:03:40.560
+100 hedgehog work
+
+0:03:38.879,0:03:42.319
+but you can see that like about all i
+
+0:03:40.560,0:03:43.360
+could do is like maybe a u-shape if he's
+
+0:03:42.319,0:03:44.480
+100
+
+0:03:43.360,0:03:46.480
+so i'm going to make mine a little
+
+0:03:44.480,0:03:47.280
+smaller i'm going to make them like 50
+
+0:03:46.480,0:03:48.720
+percent
+
+0:03:47.280,0:03:50.400
+and now you can see that i could make a
+
+0:03:48.720,0:03:52.720
+more intricate maze
+
+0:03:50.400,0:03:54.000
+if i wanted to do that so pick the size
+
+0:03:52.720,0:03:55.760
+of your hedgehog
+
+0:03:54.000,0:03:57.760
+that you think is appropriate for you i
+
+0:03:55.760,0:03:58.879
+would guess somewhere like 40 to 60 type
+
+0:03:57.760,0:04:00.319
+range
+
+0:03:58.879,0:04:03.439
+the next thing i want to do is i want to
+
+0:04:00.319,0:04:05.280
+control how my hedgehog moves
+
+0:04:03.439,0:04:07.439
+so just like before if you click on
+
+0:04:05.280,0:04:09.760
+direction you can see that this hedgehog
+
+0:04:07.439,0:04:11.200
+can point uh any direction right
+
+0:04:09.760,0:04:13.599
+and so that's just how these sprites
+
+0:04:11.200,0:04:15.200
+work but what i want to do
+
+0:04:13.599,0:04:16.799
+is in this game i never want him to
+
+0:04:15.200,0:04:19.199
+point a weird direction
+
+0:04:16.799,0:04:20.720
+um and so i want to set his mode so you
+
+0:04:19.199,0:04:22.240
+can see his modes there's three modes
+
+0:04:20.720,0:04:24.639
+there's all around
+
+0:04:22.240,0:04:26.080
+there's left right um and then there's
+
+0:04:24.639,0:04:28.960
+do not rotate
+
+0:04:26.080,0:04:30.320
+so click on do not rotate um and so the
+
+0:04:28.960,0:04:32.160
+nice thing about do not rotate
+
+0:04:30.320,0:04:34.080
+is it doesn't actually matter which way
+
+0:04:32.160,0:04:34.880
+you point this arrow because he does not
+
+0:04:34.080,0:04:37.919
+rotate
+
+0:04:34.880,0:04:39.840
+um because i'm just a little ocd i'm
+
+0:04:37.919,0:04:42.000
+going to put him back to 90
+
+0:04:39.840,0:04:43.440
+but it genuinely doesn't matter where
+
+0:04:42.000,0:04:45.440
+you leave it but i like to leave mine at
+
+0:04:43.440,0:04:47.840
+90.
+
+0:04:45.440,0:04:49.280
+great so now we've got a hedgehog we've
+
+0:04:47.840,0:04:50.960
+also got to make
+
+0:04:49.280,0:04:53.440
+a drawing of the background i'm going to
+
+0:04:50.960,0:04:56.000
+put the code in for the hedgehog first
+
+0:04:53.440,0:04:57.360
+so whenever we start our code i'm going
+
+0:04:56.000,0:04:58.720
+to move the hedgehog to where i want him
+
+0:04:57.360,0:05:00.400
+to start my game
+
+0:04:58.720,0:05:02.880
+i'm going to make him start i'll make
+
+0:05:00.400,0:05:04.160
+him start in the upper left here
+
+0:05:02.880,0:05:06.160
+it doesn't really matter but i'm going
+
+0:05:04.160,0:05:07.840
+to put him in the upper left and i'm
+
+0:05:06.160,0:05:09.120
+going to start making code for my
+
+0:05:07.840,0:05:10.800
+hedgehog
+
+0:05:09.120,0:05:12.240
+so campers what's the first command that
+
+0:05:10.800,0:05:16.720
+we usually put into our code
+
+0:05:12.240,0:05:19.360
+to start things off yeah so go to events
+
+0:05:16.720,0:05:20.160
+and the way a lot of programs start is
+
+0:05:19.360,0:05:25.280
+with
+
+0:05:20.160,0:05:27.919
+when green flag clicks
+
+0:05:25.280,0:05:29.360
+and so once i click the green flag i
+
+0:05:27.919,0:05:31.280
+want to do something i want to make sure
+
+0:05:29.360,0:05:32.479
+that he snaps back to this starting
+
+0:05:31.280,0:05:34.240
+position
+
+0:05:32.479,0:05:35.600
+so to make sure that he snaps back to
+
+0:05:34.240,0:05:36.400
+the starting position that's going to be
+
+0:05:35.600,0:05:39.600
+in movement
+
+0:05:36.400,0:05:42.800
+so go to movement
+
+0:05:39.600,0:05:45.840
+and find one that says go to x
+
+0:05:42.800,0:05:47.440
+y uh so it's this one right here the
+
+0:05:45.840,0:05:49.360
+thing i really like about this command
+
+0:05:47.440,0:05:50.160
+is that if i move my hedgehog to this
+
+0:05:49.360,0:05:52.639
+position
+
+0:05:50.160,0:05:54.240
+first then the it's called the arguments
+
+0:05:52.639,0:05:56.560
+so the numbers in white here
+
+0:05:54.240,0:05:57.600
+are set to wherever i move my hedgehog
+
+0:05:56.560,0:05:59.840
+if yours
+
+0:05:57.600,0:06:00.720
+um is different numbers that's totally
+
+0:05:59.840,0:06:02.080
+fine um
+
+0:06:00.720,0:06:03.199
+they'll they'll be corresponding to
+
+0:06:02.080,0:06:04.240
+where he's at right now by the way you
+
+0:06:03.199,0:06:05.680
+can see that
+
+0:06:04.240,0:06:07.360
+because you can see his x and his wire
+
+0:06:05.680,0:06:08.720
+down here and they should match just
+
+0:06:07.360,0:06:11.280
+perfectly
+
+0:06:08.720,0:06:12.479
+the next thing i want to do is i want to
+
+0:06:11.280,0:06:14.880
+have my hedgehog do
+
+0:06:12.479,0:06:17.840
+things forever a very common thing to do
+
+0:06:14.880,0:06:17.840
+so go to control
+
+0:06:18.000,0:06:23.440
+and find the forever loop so very mean
+
+0:06:21.199,0:06:25.520
+to tell humans to do things forever
+
+0:06:23.440,0:06:28.479
+but in code it happens all the time
+
+0:06:25.520,0:06:30.880
+we're going to forever do things
+
+0:06:28.479,0:06:31.840
+so what are we going to do forever well
+
+0:06:30.880,0:06:34.639
+we're going to
+
+0:06:31.840,0:06:36.720
+listen for a user to press the up down
+
+0:06:34.639,0:06:38.960
+left and right arrow keys
+
+0:06:36.720,0:06:40.319
+and whenever they press those keys we're
+
+0:06:38.960,0:06:41.680
+going to move in that direction does
+
+0:06:40.319,0:06:45.440
+that make sense
+
+0:06:41.680,0:06:48.479
+so let's go ahead and stub out
+
+0:06:45.440,0:06:52.319
+four if statements so one
+
+0:06:48.479,0:06:53.360
+two three four
+
+0:06:52.319,0:06:56.960
+so you can see that we're going to have
+
+0:06:53.360,0:06:59.120
+four keys up down left and right
+
+0:06:56.960,0:07:00.720
+and inside of each one of these there's
+
+0:06:59.120,0:07:02.720
+a condition
+
+0:07:00.720,0:07:04.639
+and then there's code that runs if that
+
+0:07:02.720,0:07:08.479
+condition is true
+
+0:07:04.639,0:07:10.000
+a lot of conditions are inside sensing
+
+0:07:08.479,0:07:14.000
+so for this condition that's on the
+
+0:07:10.000,0:07:14.000
+inside go to sensing
+
+0:07:14.240,0:07:18.240
+and we want to know if they're pressing
+
+0:07:16.479,0:07:19.599
+a key or not
+
+0:07:18.240,0:07:21.520
+so the one that we want is this one
+
+0:07:19.599,0:07:24.080
+right here um
+
+0:07:21.520,0:07:25.199
+key space pressed so go ahead and put
+
+0:07:24.080,0:07:27.280
+this in here
+
+0:07:25.199,0:07:28.479
+now obviously you don't care about the
+
+0:07:27.280,0:07:31.039
+space bar
+
+0:07:28.479,0:07:32.720
+what you care about is a different key
+
+0:07:31.039,0:07:34.160
+that's where this little white drop down
+
+0:07:32.720,0:07:35.440
+comes into play so click on this white
+
+0:07:34.160,0:07:38.800
+drop down
+
+0:07:35.440,0:07:39.840
+and make it say up arrow so i'm going to
+
+0:07:38.800,0:07:42.639
+let you finish
+
+0:07:39.840,0:07:44.639
+the other three so go ahead and do that
+
+0:07:42.639,0:07:47.360
+same trick put a space in
+
+0:07:44.639,0:07:48.479
+for up while we've already got up down
+
+0:07:47.360,0:07:51.120
+left and right
+
+0:07:48.479,0:07:52.560
+so go ahead and finish that up all right
+
+0:07:51.120,0:07:54.479
+so i've got mine in there if you did
+
+0:07:52.560,0:07:56.240
+yours in a different order that's okay
+
+0:07:54.479,0:07:57.919
+the order doesn't actually matter
+
+0:07:56.240,0:07:59.840
+um but now we're going to put things
+
+0:07:57.919,0:08:00.960
+into them so we're going to do the same
+
+0:07:59.840,0:08:02.240
+thing we're going to do
+
+0:08:00.960,0:08:06.240
+one together then i'm going to let you
+
+0:08:02.240,0:08:09.120
+make the rest so go into motion
+
+0:08:06.240,0:08:11.680
+and we want to do two things we want to
+
+0:08:09.120,0:08:14.560
+point in a certain direction
+
+0:08:11.680,0:08:14.560
+so let's find
+
+0:08:14.720,0:08:21.680
+point uh where is it at uh point in
+
+0:08:17.919,0:08:21.680
+direction 90. there's the one
+
+0:08:22.319,0:08:26.000
+now where it says 90 this is kind of fun
+
+0:08:25.120,0:08:28.080
+uh what direction
+
+0:08:26.000,0:08:29.360
+is 90 you can actually just click on the
+
+0:08:28.080,0:08:30.720
+number 90
+
+0:08:29.360,0:08:33.120
+and it'll show you what direction it
+
+0:08:30.720,0:08:34.640
+considers 90. so 90 is apparently
+
+0:08:33.120,0:08:36.479
+straight over to the right
+
+0:08:34.640,0:08:38.839
+well if we press the up arrow i want to
+
+0:08:36.479,0:08:41.839
+go up so i want that arrow to go
+
+0:08:38.839,0:08:42.640
+up and then after i point in that
+
+0:08:41.839,0:08:47.360
+direction
+
+0:08:42.640,0:08:47.360
+i want to move 10 steps
+
+0:08:47.680,0:08:51.200
+so maybe you see the pattern already but
+
+0:08:49.360,0:08:55.680
+i'll do one more with you
+
+0:08:51.200,0:08:58.959
+so i find a point in direction 90.
+
+0:08:55.680,0:09:00.800
+i click on the 90 and i make it the
+
+0:08:58.959,0:09:02.320
+direction that the arrow says so this is
+
+0:09:00.800,0:09:05.519
+a down arrow
+
+0:09:02.320,0:09:09.279
+so i want it to be down
+
+0:09:05.519,0:09:10.800
+and then i grab a move 10 steps
+
+0:09:09.279,0:09:13.680
+so see if you can finish the other two
+
+0:09:10.800,0:09:15.120
+up for left and right
+
+0:09:13.680,0:09:16.399
+all right so i got mine in there
+
+0:09:15.120,0:09:17.040
+actually it turns out that i did the
+
+0:09:16.399,0:09:19.040
+easy two
+
+0:09:17.040,0:09:20.160
+up and down my campers had a little more
+
+0:09:19.040,0:09:21.519
+problems with uh
+
+0:09:20.160,0:09:22.880
+with left and right just people didn't
+
+0:09:21.519,0:09:24.480
+know they're left and right so left is
+
+0:09:22.880,0:09:26.560
+over that way which is negative 90 and
+
+0:09:24.480,0:09:29.600
+right is that which is positive 90.
+
+0:09:26.560,0:09:31.040
+um go ahead and try it out uh and see
+
+0:09:29.600,0:09:31.519
+how it goes so go ahead and hit your
+
+0:09:31.040,0:09:33.680
+green
+
+0:09:31.519,0:09:35.440
+uh flag button um and if you press your
+
+0:09:33.680,0:09:37.279
+down arrow it should go down
+
+0:09:35.440,0:09:39.040
+your right arrow should go right up
+
+0:09:37.279,0:09:40.240
+should go up left should go left and so
+
+0:09:39.040,0:09:41.519
+now you kind of move around
+
+0:09:40.240,0:09:43.120
+you can also kind of sort of do
+
+0:09:41.519,0:09:45.040
+diagonals if you hold down two keys at
+
+0:09:43.120,0:09:48.000
+the same time
+
+0:09:45.040,0:09:49.760
+now the speed might feel like it's just
+
+0:09:48.000,0:09:51.200
+fine right now
+
+0:09:49.760,0:09:53.600
+but that's because there's no walls in
+
+0:09:51.200,0:09:55.920
+the way this actually is kind of a fast
+
+0:09:53.600,0:09:57.440
+speed and so what we want to do is we
+
+0:09:55.920,0:10:00.320
+want to change the speed
+
+0:09:57.440,0:10:02.000
+um we're going to make it slower but
+
+0:10:00.320,0:10:03.360
+instead of just changing each one you'll
+
+0:10:02.000,0:10:04.079
+find that this is annoying so it's like
+
+0:10:03.360,0:10:05.519
+oh maybe
+
+0:10:04.079,0:10:06.880
+seven is the right number so i'd change
+
+0:10:05.519,0:10:08.000
+them all to seven you don't have to do
+
+0:10:06.880,0:10:09.200
+that right
+
+0:10:08.000,0:10:10.720
+and then you run it you're like oh
+
+0:10:09.200,0:10:11.839
+that's a little too fast maybe i want
+
+0:10:10.720,0:10:13.200
+six
+
+0:10:11.839,0:10:15.360
+and you can see how whenever you have
+
+0:10:13.200,0:10:17.519
+the same number in your code
+
+0:10:15.360,0:10:19.519
+in many different places it's better to
+
+0:10:17.519,0:10:22.320
+make a variable
+
+0:10:19.519,0:10:23.519
+that is set one time and then you can
+
+0:10:22.320,0:10:25.490
+use it everywhere else
+
+0:10:23.519,0:10:27.839
+so i go and click on variables
+
+0:10:25.490,0:10:31.519
+[Music]
+
+0:10:27.839,0:10:32.720
+and click on make a variable
+
+0:10:31.519,0:10:35.920
+and we're going to make a variable
+
+0:10:32.720,0:10:38.160
+called speed
+
+0:10:35.920,0:10:40.000
+now speed is is a different variable
+
+0:10:38.160,0:10:42.160
+than like we used last time so last time
+
+0:10:40.000,0:10:44.000
+we created it we instantiated it we
+
+0:10:42.160,0:10:46.480
+modified it we read it
+
+0:10:44.000,0:10:48.160
+this one is actually a variable called
+
+0:10:46.480,0:10:49.600
+speed that's going to be a constant
+
+0:10:48.160,0:10:51.600
+um so we're going to set it once and
+
+0:10:49.600,0:10:53.279
+we're going to use it multiple places
+
+0:10:51.600,0:10:55.920
+it can be for all sprites and that's
+
+0:10:53.279,0:10:56.959
+fine but it's actually specific to just
+
+0:10:55.920,0:10:59.200
+the hedgehog
+
+0:10:56.959,0:11:00.880
+so i'm going to click on for this sprite
+
+0:10:59.200,0:11:03.279
+only because only
+
+0:11:00.880,0:11:06.399
+the hedgehog needs to know his speed so
+
+0:11:03.279,0:11:08.000
+i'm going to click on ok
+
+0:11:06.399,0:11:10.560
+now whenever you put it in here you can
+
+0:11:08.000,0:11:11.920
+see mine says hedgehog colon speed i
+
+0:11:10.560,0:11:12.800
+actually i don't want to display it on
+
+0:11:11.920,0:11:13.920
+the screen
+
+0:11:12.800,0:11:15.040
+whenever you don't want to display a
+
+0:11:13.920,0:11:17.519
+variable on the screen just hit this
+
+0:11:15.040,0:11:19.120
+little check box beside it
+
+0:11:17.519,0:11:20.640
+so there's no need to display it on the
+
+0:11:19.120,0:11:22.560
+screen we don't really want that so we
+
+0:11:20.640,0:11:24.480
+just uncheck that
+
+0:11:22.560,0:11:25.600
+now we will need to do the the other
+
+0:11:24.480,0:11:28.399
+normal task
+
+0:11:25.600,0:11:29.760
+so we need to set my speed somewhere at
+
+0:11:28.399,0:11:32.959
+the top
+
+0:11:29.760,0:11:34.800
+so drop in this set now you'll notice it
+
+0:11:32.959,0:11:36.000
+defaulted to my variable that's not the
+
+0:11:34.800,0:11:39.760
+one i wanted
+
+0:11:36.000,0:11:41.680
+i want speed by the way if you're
+
+0:11:39.760,0:11:42.959
+annoyed about this variable called my
+
+0:11:41.680,0:11:44.800
+variable that's still around
+
+0:11:42.959,0:11:46.480
+you can this is completely optional you
+
+0:11:44.800,0:11:48.480
+can right click on it
+
+0:11:46.480,0:11:50.079
+and you can delete my variable if you
+
+0:11:48.480,0:11:51.040
+want and then it goes away because we
+
+0:11:50.079,0:11:52.720
+don't need it
+
+0:11:51.040,0:11:55.360
+so i'm going to set my speed to
+
+0:11:52.720,0:11:59.200
+something i'm going to set it to
+
+0:11:55.360,0:12:01.519
+five now the idea is
+
+0:11:59.200,0:12:03.040
+we've made the variable which is good
+
+0:12:01.519,0:12:05.760
+we've set its value
+
+0:12:03.040,0:12:07.279
+to five in this case and then the next
+
+0:12:05.760,0:12:08.959
+thing we want to do is we want to use
+
+0:12:07.279,0:12:10.560
+this variable in places
+
+0:12:08.959,0:12:11.839
+if i run the code now it won't be any
+
+0:12:10.560,0:12:12.639
+different there's nothing magic about
+
+0:12:11.839,0:12:14.399
+the word speed
+
+0:12:12.639,0:12:16.880
+i've got to actually drop this variable
+
+0:12:14.399,0:12:18.959
+in to all these places that say move
+
+0:12:16.880,0:12:20.639
+so i'm going to drag speed and i'm going
+
+0:12:18.959,0:12:22.240
+to drop it into that one
+
+0:12:20.639,0:12:23.760
+and i'm going to grab speed and drop it
+
+0:12:22.240,0:12:25.040
+into that one
+
+0:12:23.760,0:12:28.959
+i think you see the pattern go ahead and
+
+0:12:25.040,0:12:32.639
+hit the last two speed
+
+0:12:28.959,0:12:34.800
+and speed
+
+0:12:32.639,0:12:36.240
+cool so now the fun thing about this is
+
+0:12:34.800,0:12:38.560
+while i'm developing
+
+0:12:36.240,0:12:39.440
+i can try five and i can see how five
+
+0:12:38.560,0:12:41.120
+works
+
+0:12:39.440,0:12:43.200
+um and i'm actually happy enough with
+
+0:12:41.120,0:12:44.240
+five but if five wasn't good i could
+
+0:12:43.200,0:12:45.839
+change into something different let's
+
+0:12:44.240,0:12:47.760
+say i wanted four even right
+
+0:12:45.839,0:12:49.760
+so maybe i've got a really intricate
+
+0:12:47.760,0:12:51.120
+maze um and i need to like go a little
+
+0:12:49.760,0:12:52.959
+slower through it
+
+0:12:51.120,0:12:54.959
+but it's nice to do things like this
+
+0:12:52.959,0:12:55.760
+because then you can set it in only one
+
+0:12:54.959,0:12:57.279
+place
+
+0:12:55.760,0:12:59.040
+and then you can use it and all these
+
+0:12:57.279,0:13:00.560
+different things it's called avoiding
+
+0:12:59.040,0:13:03.360
+magic numbers
+
+0:13:00.560,0:13:05.360
+all right little digress there alright
+
+0:13:03.360,0:13:07.600
+so i'm pretty happy with
+
+0:13:05.360,0:13:10.560
+our hedgehog i think what i really want
+
+0:13:07.600,0:13:12.720
+to do next is i want to get into drawing
+
+0:13:10.560,0:13:14.079
+so i'm going to hop over to the solution
+
+0:13:12.720,0:13:15.920
+just kind of see it again
+
+0:13:14.079,0:13:17.839
+you can see that what we have to do here
+
+0:13:15.920,0:13:20.880
+is we have to draw a maze
+
+0:13:17.839,0:13:23.920
+for our hedgehog to go around to get to
+
+0:13:20.880,0:13:25.279
+his goal so the way i drew this maze
+
+0:13:23.920,0:13:28.880
+there's many ways to draw it
+
+0:13:25.279,0:13:30.639
+is i made a solid like dark brown
+
+0:13:28.880,0:13:32.240
+that filled up the whole screen so it's
+
+0:13:30.639,0:13:32.880
+actually a rectangle it's solid it's
+
+0:13:32.240,0:13:34.399
+dark brown
+
+0:13:32.880,0:13:36.079
+maybe i'll just go in and look at it
+
+0:13:34.399,0:13:37.519
+here so it's a solid dark brown
+
+0:13:36.079,0:13:39.839
+rectangle that feels little screen
+
+0:13:37.519,0:13:40.880
+and then i drew a series of light brown
+
+0:13:39.839,0:13:42.800
+rectangles
+
+0:13:40.880,0:13:43.920
+um on top of it to kind of like make the
+
+0:13:42.800,0:13:45.519
+path
+
+0:13:43.920,0:13:46.720
+there's many ways to draw but that's
+
+0:13:45.519,0:13:48.399
+going to be the strategy that we're
+
+0:13:46.720,0:13:49.760
+going to use together
+
+0:13:48.399,0:13:51.760
+so go ahead and do this for me let's
+
+0:13:49.760,0:13:52.959
+draw our background so the first thing
+
+0:13:51.760,0:13:55.680
+you have to do is you have to click over
+
+0:13:52.959,0:13:58.160
+here where it says backdrops
+
+0:13:55.680,0:13:58.959
+and a backdrop just like sprites i can
+
+0:13:58.160,0:14:01.519
+have code
+
+0:13:58.959,0:14:02.800
+if you want and then this tab right here
+
+0:14:01.519,0:14:04.079
+called backdrops this is where we're
+
+0:14:02.800,0:14:05.519
+going to be doing our modifying
+
+0:14:04.079,0:14:06.959
+he can also have sounds by the way we
+
+0:14:05.519,0:14:08.240
+don't care about sounds for him but we
+
+0:14:06.959,0:14:10.160
+do want backdrops
+
+0:14:08.240,0:14:11.519
+now before what we did is we just used a
+
+0:14:10.160,0:14:13.600
+built-in image
+
+0:14:11.519,0:14:15.760
+but this time we're going to draw uh
+
+0:14:13.600,0:14:18.480
+from scratch ourselves
+
+0:14:15.760,0:14:20.240
+drawing um it's like i don't know
+
+0:14:18.480,0:14:21.760
+there's there's like a peppa pig episode
+
+0:14:20.240,0:14:23.600
+where like she gets glitter but as soon
+
+0:14:21.760,0:14:24.480
+as like kids get glitter they just go
+
+0:14:23.600,0:14:27.440
+crazy with that
+
+0:14:24.480,0:14:28.959
+somehow it just goes nuts drawing can be
+
+0:14:27.440,0:14:30.959
+the same way so make sure you have
+
+0:14:28.959,0:14:32.079
+patience with your little ones um but
+
+0:14:30.959,0:14:32.880
+what we want to do is we want to do some
+
+0:14:32.079,0:14:34.560
+drawing
+
+0:14:32.880,0:14:36.880
+let's get you familiar with the drawing
+
+0:14:34.560,0:14:37.920
+editor um it's really powerful to get
+
+0:14:36.880,0:14:39.760
+good at drawing
+
+0:14:37.920,0:14:41.600
+it's kind of like where steam comes in
+
+0:14:39.760,0:14:43.680
+it's a combination of art
+
+0:14:41.600,0:14:44.959
+and science but you do have to get good
+
+0:14:43.680,0:14:46.480
+at your tools so you can see that
+
+0:14:44.959,0:14:48.000
+there's a number of different tools
+
+0:14:46.480,0:14:49.920
+the one we're going to focus on today is
+
+0:14:48.000,0:14:51.839
+the rectangle tool
+
+0:14:49.920,0:14:54.480
+and then the select tool so these are
+
+0:14:51.839,0:14:55.600
+the only two that we care about today
+
+0:14:54.480,0:14:57.680
+so the first thing i want to do is i
+
+0:14:55.600,0:14:59.920
+want to draw a big rectangle on here
+
+0:14:57.680,0:15:00.959
+for that dark brown color that fills up
+
+0:14:59.920,0:15:03.519
+the whole screen
+
+0:15:00.959,0:15:05.519
+so what i do is i click on fill color
+
+0:15:03.519,0:15:07.600
+mine defaulted to purple for some reason
+
+0:15:05.519,0:15:10.000
+and i'm going to try to find uh the
+
+0:15:07.600,0:15:12.240
+color that i want for my brown
+
+0:15:10.000,0:15:13.920
+their system uses something called um
+
+0:15:12.240,0:15:15.120
+color saturation brightness
+
+0:15:13.920,0:15:17.040
+which i think might be a little
+
+0:15:15.120,0:15:17.920
+confusing for kids uh but but you'll get
+
+0:15:17.040,0:15:19.680
+used to it but you
+
+0:15:17.920,0:15:22.079
+you pick what color the rainbow you want
+
+0:15:19.680,0:15:24.079
+first um then you pick like
+
+0:15:22.079,0:15:25.519
+how uh you know like intense you want it
+
+0:15:24.079,0:15:27.120
+to be the saturation
+
+0:15:25.519,0:15:30.160
+and then you pick the brightness so i'm
+
+0:15:27.120,0:15:32.639
+going to make mine kind of like a brown
+
+0:15:30.160,0:15:33.600
+the outline i actually don't want an
+
+0:15:32.639,0:15:34.720
+outline
+
+0:15:33.600,0:15:37.440
+so i'm going to click on this little
+
+0:15:34.720,0:15:39.600
+like red line and this means
+
+0:15:37.440,0:15:41.040
+don't give me an outline at all right so
+
+0:15:39.600,0:15:41.920
+it's like transparent it's like it's not
+
+0:15:41.040,0:15:44.800
+there
+
+0:15:41.920,0:15:46.880
+so now i'm ready to draw so what i want
+
+0:15:44.800,0:15:49.040
+to do is i want to draw a rectangle
+
+0:15:46.880,0:15:51.600
+that's just big enough it does not have
+
+0:15:49.040,0:15:53.199
+to be perfect to fill the whole screen
+
+0:15:51.600,0:15:54.800
+what they've decided to do in scratch is
+
+0:15:53.199,0:15:57.199
+that this white box
+
+0:15:54.800,0:15:58.959
+this is your screen and anything you
+
+0:15:57.199,0:15:59.839
+draw like outside of your screen doesn't
+
+0:15:58.959,0:16:00.959
+really matter
+
+0:15:59.839,0:16:03.680
+so i'm just going to make it big enough
+
+0:16:00.959,0:16:05.040
+to go beyond my screen
+
+0:16:03.680,0:16:06.959
+you can see what i'm doing here is after
+
+0:16:05.040,0:16:08.959
+you draw a rectangle you
+
+0:16:06.959,0:16:11.040
+um go into a mode where you've selected
+
+0:16:08.959,0:16:12.320
+that rectangle and you can modify it
+
+0:16:11.040,0:16:14.880
+which is kind of neat so i can now
+
+0:16:12.320,0:16:16.240
+modify it by grabbing these handles
+
+0:16:14.880,0:16:18.160
+that's something that they added by the
+
+0:16:16.240,0:16:18.560
+way there's also what's called bitmap
+
+0:16:18.160,0:16:20.000
+mode
+
+0:16:18.560,0:16:21.680
+we don't want that we want to be able to
+
+0:16:20.000,0:16:22.320
+modify our rectangles after we put them
+
+0:16:21.680,0:16:25.360
+on
+
+0:16:22.320,0:16:26.639
+so that's my big background color the
+
+0:16:25.360,0:16:28.240
+next thing i want to do is i want to
+
+0:16:26.639,0:16:31.279
+click off of that rectangle
+
+0:16:28.240,0:16:32.160
+so by the way if you use the select tool
+
+0:16:31.279,0:16:33.839
+you can click on it
+
+0:16:32.160,0:16:35.360
+and you can see these blue lines around
+
+0:16:33.839,0:16:36.639
+it or you can click off of it
+
+0:16:35.360,0:16:39.120
+if you click on it you're going to
+
+0:16:36.639,0:16:40.560
+modify it if you click off of it you're
+
+0:16:39.120,0:16:41.519
+going to draw something new
+
+0:16:40.560,0:16:44.639
+so i'm going to draw some more
+
+0:16:41.519,0:16:45.920
+rectangles uh so for mine i'm just going
+
+0:16:44.639,0:16:50.720
+to use
+
+0:16:45.920,0:16:51.680
+maybe like a lighter brown for his path
+
+0:16:50.720,0:16:53.120
+and i'm going to start drawing
+
+0:16:51.680,0:16:54.880
+rectangles so i'm going to draw a
+
+0:16:53.120,0:16:58.320
+rectangle that kind of comes
+
+0:16:54.880,0:16:59.759
+down and then what i choose to do is i
+
+0:16:58.320,0:17:01.120
+kind of like click off of it so it's no
+
+0:16:59.759,0:17:02.880
+longer selected
+
+0:17:01.120,0:17:04.640
+and then i'm going to draw a rectangle
+
+0:17:02.880,0:17:06.160
+uh so it's not a very good rectangle
+
+0:17:04.640,0:17:08.160
+draw a rectangle that comes like over
+
+0:17:06.160,0:17:10.240
+this way
+
+0:17:08.160,0:17:12.079
+um and you can choose to make your maze
+
+0:17:10.240,0:17:14.720
+as complex or as simple
+
+0:17:12.079,0:17:16.400
+as you would like right just make sure
+
+0:17:14.720,0:17:18.640
+that you can in fact get through your
+
+0:17:16.400,0:17:20.240
+rectangle um
+
+0:17:18.640,0:17:22.480
+or else your your game is going to not
+
+0:17:20.240,0:17:24.319
+be playable the other nice thing is if
+
+0:17:22.480,0:17:25.199
+you decide like oh this is kind of too
+
+0:17:24.319,0:17:26.720
+low i'm going to
+
+0:17:25.199,0:17:28.880
+move this up you could always move
+
+0:17:26.720,0:17:30.720
+things up afterwards so i'm not going to
+
+0:17:28.880,0:17:33.360
+tell you what to draw
+
+0:17:30.720,0:17:34.400
+it's completely up to you but you can
+
+0:17:33.360,0:17:37.280
+make it as
+
+0:17:34.400,0:17:38.640
+simple or as complex as you like um i
+
+0:17:37.280,0:17:40.799
+don't know why but i felt like making
+
+0:17:38.640,0:17:43.840
+mine a little bit more complex this time
+
+0:17:40.799,0:17:46.640
+was that a good plan i'm not sure um
+
+0:17:43.840,0:17:48.240
+but i chose to make mine kind of complex
+
+0:17:46.640,0:17:51.280
+and so you're going to pick
+
+0:17:48.240,0:17:53.919
+like where is the end goal of your
+
+0:17:51.280,0:17:56.960
+of your maze so for mine my end goal is
+
+0:17:53.919,0:17:56.960
+going to be up here at the top
+
+0:17:57.120,0:18:01.360
+so i'll make that a little bigger there
+
+0:17:59.039,0:18:04.240
+so i'm going to eventually put my beetle
+
+0:18:01.360,0:18:05.840
+up here you can also be ocd about
+
+0:18:04.240,0:18:07.520
+getting the edges to line up
+
+0:18:05.840,0:18:09.840
+it's like this edge is just a little bit
+
+0:18:07.520,0:18:13.280
+low there and i can try to get that
+
+0:18:09.840,0:18:14.000
+just perfect on there and the nice thing
+
+0:18:13.280,0:18:15.919
+about this tool
+
+0:18:14.000,0:18:17.200
+is that you can always modify things uh
+
+0:18:15.919,0:18:19.039
+after the fact
+
+0:18:17.200,0:18:20.400
+so i think that that is probably good
+
+0:18:19.039,0:18:22.640
+enough um
+
+0:18:20.400,0:18:24.240
+maybe i'll move that up just a little
+
+0:18:22.640,0:18:27.440
+and i'll call mine done
+
+0:18:24.240,0:18:28.240
+so pause the video and spend as long as
+
+0:18:27.440,0:18:31.440
+you need
+
+0:18:28.240,0:18:33.200
+uh to draw a maze do keep in mind
+
+0:18:31.440,0:18:34.480
+that your hedgehog has to be able to go
+
+0:18:33.200,0:18:35.840
+through it um
+
+0:18:34.480,0:18:37.760
+so what i'm going to do really quick is
+
+0:18:35.840,0:18:38.960
+i'm going to take my hedgehog now so i'm
+
+0:18:37.760,0:18:40.080
+actually just going to click on him over
+
+0:18:38.960,0:18:41.520
+here
+
+0:18:40.080,0:18:43.200
+and i'm going to make sure that he fits
+
+0:18:41.520,0:18:44.720
+everywhere so he kind of sort of fits
+
+0:18:43.200,0:18:46.240
+through there
+
+0:18:44.720,0:18:47.840
+does he fit through here yeah he kind of
+
+0:18:46.240,0:18:48.640
+sort of mostly fits does he fit through
+
+0:18:47.840,0:18:51.520
+here
+
+0:18:48.640,0:18:53.039
+yeah so make sure you can just drag your
+
+0:18:51.520,0:18:54.640
+hedgehog around
+
+0:18:53.039,0:18:56.960
+and make sure he fits through your whole
+
+0:18:54.640,0:18:58.080
+maze mine's just a little bit on the
+
+0:18:56.960,0:18:59.760
+tight side
+
+0:18:58.080,0:19:02.000
+so instead of 50 big i'm going to make
+
+0:18:59.760,0:19:04.320
+him 40 big
+
+0:19:02.000,0:19:05.919
+all right so pause the video get your
+
+0:19:04.320,0:19:06.960
+hedgehog together
+
+0:19:05.919,0:19:09.600
+and i'm going to come around i'm going
+
+0:19:06.960,0:19:10.720
+to see how my kiddos did with their maze
+
+0:19:09.600,0:19:12.640
+drawings
+
+0:19:10.720,0:19:14.480
+all right neely you're up first uh so
+
+0:19:12.640,0:19:16.240
+neila drew a maze
+
+0:19:14.480,0:19:18.720
+um let's see what kind of maze you drew
+
+0:19:16.240,0:19:19.280
+nila tell us about it nila where's your
+
+0:19:18.720,0:19:22.240
+where's your
+
+0:19:19.280,0:19:23.520
+victory point gonna be [ __ ] mostly
+
+0:19:22.240,0:19:25.840
+helped me with it
+
+0:19:23.520,0:19:27.679
+yeah and that's my factory and you're
+
+0:19:25.840,0:19:30.400
+gonna go up there great
+
+0:19:27.679,0:19:31.840
+all right bowen what's your theme oh no
+
+0:19:30.400,0:19:32.240
+hedgehogs in this one all right what do
+
+0:19:31.840,0:19:34.720
+you got
+
+0:19:32.240,0:19:35.840
+underwater they're trying to be friends
+
+0:19:34.720,0:19:37.039
+watch
+
+0:19:35.840,0:19:38.320
+so they're trying to be friends so
+
+0:19:37.039,0:19:38.880
+you're going to try to bring them around
+
+0:19:38.320,0:19:41.760
+and
+
+0:19:38.880,0:19:41.760
+make them be friends
+
+0:19:42.880,0:19:47.280
+yeah normally don't yeah don't octopus
+
+0:19:44.960,0:19:48.480
+normally eat jellyfish bowen
+
+0:19:47.280,0:19:50.880
+but this time they're trying to be
+
+0:19:48.480,0:19:51.520
+friends all right mckinley will do yours
+
+0:19:50.880,0:19:53.200
+next
+
+0:19:51.520,0:19:55.039
+oh we got a spiral thing going on here
+
+0:19:53.200,0:19:58.080
+so what what are your creatures
+
+0:19:55.039,0:19:59.760
+uh mine is an owl and a mouse
+
+0:19:58.080,0:20:02.240
+the mouth is actually bigger than the
+
+0:19:59.760,0:20:02.240
+album
+
+0:20:03.360,0:20:07.840
+and so i was gonna eat it uh and keegan
+
+0:20:05.440,0:20:09.360
+oh man yours is very elaborate what uh
+
+0:20:07.840,0:20:11.840
+what's your uh what's your plan here
+
+0:20:09.360,0:20:13.679
+keegan so you've got like a dog
+
+0:20:11.840,0:20:15.760
+um going through a very elaborate red
+
+0:20:13.679,0:20:17.360
+maze so keegan chose to do one that's
+
+0:20:15.760,0:20:17.919
+very elaborate it looks really cool
+
+0:20:17.360,0:20:20.159
+buddy
+
+0:20:17.919,0:20:22.480
+um but he's gonna finish it later uh
+
+0:20:20.159,0:20:24.080
+because it was kind of taking a while
+
+0:20:22.480,0:20:25.600
+um i love it are you excited about your
+
+0:20:24.080,0:20:29.120
+maze are you guys
+
+0:20:25.600,0:20:30.000
+excited about your mazes uh-huh all
+
+0:20:29.120,0:20:33.039
+right
+
+0:20:30.000,0:20:34.000
+so uh we've got our backgrounds ready to
+
+0:20:33.039,0:20:37.360
+go
+
+0:20:34.000,0:20:41.280
+and we're ready to add some more code
+
+0:20:37.360,0:20:43.280
+so first off go ahead and play your game
+
+0:20:41.280,0:20:45.120
+um and actually this is a fix i'm gonna
+
+0:20:43.280,0:20:47.039
+have to make my starting spot wasn't
+
+0:20:45.120,0:20:48.960
+quite right for my hedgehog
+
+0:20:47.039,0:20:50.240
+so i'm going to actually adjust my
+
+0:20:48.960,0:20:51.919
+starting spot so you can see how he
+
+0:20:50.240,0:20:54.080
+accidentally starts on the wall
+
+0:20:51.919,0:20:55.360
+whoops so i'm going to fix that so what
+
+0:20:54.080,0:20:56.640
+i'm going to do is i'm going to move him
+
+0:20:55.360,0:20:58.159
+over to here
+
+0:20:56.640,0:20:59.679
+so i want him to actually start right
+
+0:20:58.159,0:21:01.280
+here so that was a little change
+
+0:20:59.679,0:21:03.840
+now i've got two options i can either
+
+0:21:01.280,0:21:04.320
+change these numbers so like it says 186
+
+0:21:03.840,0:21:07.120
+there
+
+0:21:04.320,0:21:08.320
+so i could just change it or i could
+
+0:21:07.120,0:21:09.760
+bring in that command again
+
+0:21:08.320,0:21:11.440
+either way would work so i'm going to
+
+0:21:09.760,0:21:15.440
+change mine to match like what it says
+
+0:21:11.440,0:21:17.039
+there so it says 186 159
+
+0:21:15.440,0:21:18.320
+uh hopefully you planned to head better
+
+0:21:17.039,0:21:19.679
+than me and you don't need to move your
+
+0:21:18.320,0:21:21.840
+hedgehog
+
+0:21:19.679,0:21:23.200
+but for me i had to do a little movement
+
+0:21:21.840,0:21:24.720
+so now i can see that i'm going to try
+
+0:21:23.200,0:21:26.640
+to get around my maze
+
+0:21:24.720,0:21:28.799
+and everything's going to be good so the
+
+0:21:26.640,0:21:31.280
+thing that i want to fix next personally
+
+0:21:28.799,0:21:32.799
+is i don't like that i can just go right
+
+0:21:31.280,0:21:33.520
+through the walls right like this is
+
+0:21:32.799,0:21:34.720
+going to make my game
+
+0:21:33.520,0:21:36.080
+really easy if i can go just right
+
+0:21:34.720,0:21:36.720
+through the walls just zipping through
+
+0:21:36.080,0:21:38.799
+there
+
+0:21:36.720,0:21:40.000
+so let's write some code to stop that
+
+0:21:38.799,0:21:42.159
+from happening
+
+0:21:40.000,0:21:43.360
+so find the bottom of your code mine's
+
+0:21:42.159,0:21:45.760
+getting kind of long
+
+0:21:43.360,0:21:48.000
+and let's add another if statement if
+
+0:21:45.760,0:21:51.440
+statements are in control
+
+0:21:48.000,0:21:51.440
+and here's an if statement right here
+
+0:21:52.080,0:21:55.440
+now what we want to do with this if
+
+0:21:53.600,0:21:58.640
+statement is we want to see
+
+0:21:55.440,0:22:01.120
+if we're touching the wall right
+
+0:21:58.640,0:22:03.200
+so um touching is something that's in
+
+0:22:01.120,0:22:04.559
+sensing
+
+0:22:03.200,0:22:06.880
+and the way we know if we're touching
+
+0:22:04.559,0:22:10.720
+the wall or not is through this
+
+0:22:06.880,0:22:14.559
+touching color so grab a touching color
+
+0:22:10.720,0:22:16.240
+and drop it into your if statement
+
+0:22:14.559,0:22:18.400
+now how do we get this color this color
+
+0:22:16.240,0:22:20.320
+has to be exactly right so there's like
+
+0:22:18.400,0:22:21.919
+literally millions of different shades
+
+0:22:20.320,0:22:23.520
+of colors so i want the color to be
+
+0:22:21.919,0:22:25.120
+exactly right so you can click on this
+
+0:22:23.520,0:22:27.679
+and you could try to like select the
+
+0:22:25.120,0:22:30.480
+color but let me assure you
+
+0:22:27.679,0:22:32.320
+it would be hopeless completely hopeless
+
+0:22:30.480,0:22:33.440
+that's where this eyedropper comes in
+
+0:22:32.320,0:22:36.320
+so you're going to click on this
+
+0:22:33.440,0:22:38.240
+eyedropper and it immediately kind of
+
+0:22:36.320,0:22:40.000
+changes your screen a little bit
+
+0:22:38.240,0:22:41.280
+and the idea is it wants you to hover
+
+0:22:40.000,0:22:42.400
+your mouse somewhere over your
+
+0:22:41.280,0:22:44.240
+background that's why it's like an
+
+0:22:42.400,0:22:45.440
+eyedropper of the background
+
+0:22:44.240,0:22:47.280
+and what you want to do is you want to
+
+0:22:45.440,0:22:49.200
+pick one of your walls um
+
+0:22:47.280,0:22:50.480
+and it'll change to be that color and
+
+0:22:49.200,0:22:53.440
+then you just click
+
+0:22:50.480,0:22:54.640
+right and so what that did for you which
+
+0:22:53.440,0:22:57.760
+is super easy
+
+0:22:54.640,0:22:59.280
+is it picked exactly that shade um off
+
+0:22:57.760,0:22:59.760
+by a little bit in the shade won't work
+
+0:22:59.280,0:23:01.039
+at all
+
+0:22:59.760,0:23:02.640
+by the way that's a good reminder make
+
+0:23:01.039,0:23:03.919
+sure that your walls are exactly the
+
+0:23:02.640,0:23:05.200
+same color right you can't have
+
+0:23:03.919,0:23:08.000
+variations
+
+0:23:05.200,0:23:09.440
+because it'll only detect that shade so
+
+0:23:08.000,0:23:12.159
+if you're touching that color
+
+0:23:09.440,0:23:13.760
+what do we want to do um well if i could
+
+0:23:12.159,0:23:15.919
+stand up and still bring the camera so
+
+0:23:13.760,0:23:17.039
+imagine that i'm walking and i hit the
+
+0:23:15.919,0:23:19.760
+wall
+
+0:23:17.039,0:23:21.760
+then what i would do is i would do this
+
+0:23:19.760,0:23:22.240
+and if you think about describing words
+
+0:23:21.760,0:23:24.240
+uh
+
+0:23:22.240,0:23:26.080
+what happened there so i hit the wall
+
+0:23:24.240,0:23:28.559
+and then bone what did i do next can you
+
+0:23:26.080,0:23:28.559
+figure it out
+
+0:23:28.960,0:23:32.159
+yeah so i turned around and bounced off
+
+0:23:30.400,0:23:35.360
+that's exactly correct way to go bo
+
+0:23:32.159,0:23:38.159
+so those are both motions so
+
+0:23:35.360,0:23:38.880
+how do i turn around um so i can see
+
+0:23:38.159,0:23:43.200
+there's a turn
+
+0:23:38.880,0:23:44.559
+15 degrees and i put this in here
+
+0:23:43.200,0:23:46.960
+and it doesn't matter if you do turn
+
+0:23:44.559,0:23:49.520
+left or turn right so i hit the wall
+
+0:23:46.960,0:23:50.799
+and i turn around now this might be a
+
+0:23:49.520,0:23:53.679
+question for keegan
+
+0:23:50.799,0:23:54.240
+um keegan how many degrees is it if i
+
+0:23:53.679,0:23:56.240
+turn
+
+0:23:54.240,0:23:58.159
+completely the opposite direction do you
+
+0:23:56.240,0:23:59.919
+know how many degrees that is
+
+0:23:58.159,0:24:02.400
+180 you got it so you're going to do a
+
+0:23:59.919,0:24:04.640
+180 way to go bud
+
+0:24:02.400,0:24:06.559
+um and then we're gonna jump off the
+
+0:24:04.640,0:24:08.240
+wall some amount
+
+0:24:06.559,0:24:11.679
+now what i'd like to do is i'd like to
+
+0:24:08.240,0:24:11.679
+drop in another move 10
+
+0:24:12.400,0:24:16.480
+and when i hit the wall i'm going to
+
+0:24:14.559,0:24:19.600
+choose to bounce off
+
+0:24:16.480,0:24:21.840
+more than just one um speed amount
+
+0:24:19.600,0:24:22.640
+i'm going to bounce off double what my
+
+0:24:21.840,0:24:24.320
+speed is
+
+0:24:22.640,0:24:26.320
+does that make sense so so if we were to
+
+0:24:24.320,0:24:29.039
+hit and turn we want to jump off
+
+0:24:26.320,0:24:31.039
+twice what our speed is so how do you do
+
+0:24:29.039,0:24:34.320
+twice your speed
+
+0:24:31.039,0:24:36.400
+so you need an operator and so we want
+
+0:24:34.320,0:24:37.679
+to take speed and multiply it by two so
+
+0:24:36.400,0:24:39.679
+you've got to find the operator which is
+
+0:24:37.679,0:24:43.600
+for multiplication it looks like this
+
+0:24:39.679,0:24:45.279
+it's a little star and drop it in here
+
+0:24:43.600,0:24:46.880
+by the way you'll notice that it's
+
+0:24:45.279,0:24:48.240
+always outlines it in white when you can
+
+0:24:46.880,0:24:49.600
+drop it
+
+0:24:48.240,0:24:51.520
+but what i want to put in here is i want
+
+0:24:49.600,0:24:56.720
+to move two
+
+0:24:51.520,0:24:56.720
+times speed and speeds in my variables
+
+0:24:58.320,0:25:02.159
+so if i hit the wall i want to turn a
+
+0:25:00.720,0:25:04.880
+180
+
+0:25:02.159,0:25:06.240
+and then i want to move off two speed
+
+0:25:04.880,0:25:08.640
+amounts right and that's just
+
+0:25:06.240,0:25:10.799
+just so you bounce off quite a bit right
+
+0:25:08.640,0:25:12.240
+uh let's try it
+
+0:25:10.799,0:25:14.000
+so we're going to hit the uh the green
+
+0:25:12.240,0:25:16.159
+flag button and then now
+
+0:25:14.000,0:25:18.000
+when you hit a wall what should happen
+
+0:25:16.159,0:25:20.559
+is it should just kind of like
+
+0:25:18.000,0:25:21.520
+jump you off of it so you can like try
+
+0:25:20.559,0:25:23.200
+to go through it
+
+0:25:21.520,0:25:24.559
+but it shouldn't let you right so it
+
+0:25:23.200,0:25:25.120
+should stop you before you go through
+
+0:25:24.559,0:25:27.679
+the holes
+
+0:25:25.120,0:25:29.919
+so test a few of your walls and make
+
+0:25:27.679,0:25:31.120
+sure that you can bounce off of them
+
+0:25:29.919,0:25:32.240
+you also notice that i don't have
+
+0:25:31.120,0:25:34.000
+anything on the bottom here so i can
+
+0:25:32.240,0:25:35.679
+kind of like go down into the bottom
+
+0:25:34.000,0:25:37.360
+maybe i considered that a feature or
+
+0:25:35.679,0:25:39.919
+maybe i didn't think about it i can kind
+
+0:25:37.360,0:25:41.760
+of go off to the side some
+
+0:25:39.919,0:25:43.039
+but overall i'd say that mine's working
+
+0:25:41.760,0:25:44.799
+and i'm happy with it
+
+0:25:43.039,0:25:46.720
+if you made your maze too tight
+
+0:25:44.799,0:25:47.840
+somewhere this is probably where you're
+
+0:25:46.720,0:25:49.440
+going to figure it out
+
+0:25:47.840,0:25:50.880
+so if you've got a spot in your maze
+
+0:25:49.440,0:25:52.720
+that you can't go through oh i did
+
+0:25:50.880,0:25:55.200
+something crazy there
+
+0:25:52.720,0:25:56.799
+yikes i'm not going to worry about that
+
+0:25:55.200,0:25:58.080
+if you found a spot that you can't get
+
+0:25:56.799,0:25:59.200
+through or something that's just too
+
+0:25:58.080,0:26:01.840
+tight
+
+0:25:59.200,0:26:03.600
+you can go into your maze and fix it oh
+
+0:26:01.840,0:26:07.440
+i discovered a bug in my game if i if i
+
+0:26:03.600,0:26:07.440
+go at a diagonal i can go through walls
+
+0:26:07.919,0:26:12.000
+all right um that was an unexpected
+
+0:26:09.840,0:26:13.600
+feature so don't use diagonals
+
+0:26:12.000,0:26:16.320
+all right so i think mine's going pretty
+
+0:26:13.600,0:26:18.240
+good um what i want to do is i like
+
+0:26:16.320,0:26:19.919
+sounds right so like when i hit a wall i
+
+0:26:18.240,0:26:22.400
+like to have some kind of like small
+
+0:26:19.919,0:26:23.039
+sound now there's a lot of sounds that
+
+0:26:22.400,0:26:24.880
+are built in
+
+0:26:23.039,0:26:26.720
+and we could use one of those but i want
+
+0:26:24.880,0:26:28.159
+to use it as an opportunity to show you
+
+0:26:26.720,0:26:30.080
+something new
+
+0:26:28.159,0:26:31.200
+so down here in the lower left there's
+
+0:26:30.080,0:26:35.279
+like this ad
+
+0:26:31.200,0:26:37.760
+extensions thing click on add extensions
+
+0:26:35.279,0:26:39.679
+and there's actually a lot of additional
+
+0:26:37.760,0:26:41.760
+code extensions that you can add
+
+0:26:39.679,0:26:43.919
+some connect to robots and some do neat
+
+0:26:41.760,0:26:45.760
+things the one we want now is music so
+
+0:26:43.919,0:26:47.520
+go ahead and click on music
+
+0:26:45.760,0:26:48.960
+and when you add an extension what it'll
+
+0:26:47.520,0:26:50.640
+do is it'll basically just kind of like
+
+0:26:48.960,0:26:53.279
+add a new category
+
+0:26:50.640,0:26:54.240
+to the bottom of your toolbox so there's
+
+0:26:53.279,0:26:57.360
+a bunch of these
+
+0:26:54.240,0:26:59.120
+that you can add this one is is music
+
+0:26:57.360,0:27:01.760
+and so what i want to do is i want to
+
+0:26:59.120,0:27:04.880
+add a play drum
+
+0:27:01.760,0:27:06.720
+so whenever i hit the wall i want to
+
+0:27:04.880,0:27:08.880
+play a drum
+
+0:27:06.720,0:27:10.880
+you can pick between a snare drum or a
+
+0:27:08.880,0:27:12.480
+bass drum or all kinds of drums
+
+0:27:10.880,0:27:14.480
+i think i feel like a conglomerate drum
+
+0:27:12.480,0:27:16.880
+right now for no real reason
+
+0:27:14.480,0:27:18.320
+what should happen now is whenever i run
+
+0:27:16.880,0:27:21.840
+my game
+
+0:27:18.320,0:27:21.840
+when i hit the wall
+
+0:27:22.320,0:27:25.520
+it should play a little sound right so
+
+0:27:23.919,0:27:27.120
+add a little sound to your game
+
+0:27:25.520,0:27:29.279
+um and if you're not happy with one you
+
+0:27:27.120,0:27:30.960
+pick you can always try another one
+
+0:27:29.279,0:27:32.640
+uh the next thing i want to do is
+
+0:27:30.960,0:27:34.640
+actually save my game because i have not
+
+0:27:32.640,0:27:37.279
+saved it at all yet
+
+0:27:34.640,0:27:38.320
+so you can type in whatever you want i'm
+
+0:27:37.279,0:27:40.799
+going to call mine
+
+0:27:38.320,0:27:43.760
+hedgehog snack because he's going to eat
+
+0:27:40.799,0:27:43.760
+something here in a second
+
+0:27:43.840,0:27:47.760
+and then like i say it automatically
+
+0:27:45.840,0:27:51.200
+saves so you don't have to hit
+
+0:27:47.760,0:27:53.600
+anything for saved but you can hit file
+
+0:27:51.200,0:27:55.440
+save now if you'd like and then it gives
+
+0:27:53.600,0:27:57.919
+you that like warm fuzzy feeling
+
+0:27:55.440,0:27:58.960
+that you've got it saved all right the
+
+0:27:57.919,0:28:01.440
+next thing i want to do
+
+0:27:58.960,0:28:02.000
+is i want to have something that's my
+
+0:28:01.440,0:28:04.159
+goal my
+
+0:28:02.000,0:28:06.000
+target the thing i'm trying to get to
+
+0:28:04.159,0:28:08.399
+since i'm a hedgehog and i want a snack
+
+0:28:06.000,0:28:10.159
+i want something a hedgehog might eat
+
+0:28:08.399,0:28:12.000
+so i'm going to go into choose a sprite
+
+0:28:10.159,0:28:14.399
+here so go ahead and click on the circle
+
+0:28:12.000,0:28:16.320
+down here for choose a sprite
+
+0:28:14.399,0:28:17.919
+and i'm going to choose that a hedgehog
+
+0:28:16.320,0:28:21.279
+might like to eat beetles
+
+0:28:17.919,0:28:22.799
+um so i'm going to select the beetle um
+
+0:28:21.279,0:28:25.360
+obviously you can pick anything you'd
+
+0:28:22.799,0:28:26.799
+like but i'm going to pick up beetle
+
+0:28:25.360,0:28:28.640
+i'm going to make my beetle kind of
+
+0:28:26.799,0:28:30.480
+appropriately sized
+
+0:28:28.640,0:28:33.039
+and put him into the maze at the
+
+0:28:30.480,0:28:34.880
+location where i want him to go
+
+0:28:33.039,0:28:36.320
+now to be honest my beetle is a pretty
+
+0:28:34.880,0:28:38.960
+simple sprite
+
+0:28:36.320,0:28:40.080
+he doesn't move he doesn't have any code
+
+0:28:38.960,0:28:42.080
+at all
+
+0:28:40.080,0:28:43.120
+we're just going to detect if we hit him
+
+0:28:42.080,0:28:44.880
+or not
+
+0:28:43.120,0:28:46.720
+and if we hit him that's how we know we
+
+0:28:44.880,0:28:50.080
+won the game so he's just about the
+
+0:28:46.720,0:28:51.919
+easiest sprite you could possibly have
+
+0:28:50.080,0:28:53.520
+but you do see that there's no code here
+
+0:28:51.919,0:28:56.559
+go back to your hedgehog
+
+0:28:53.520,0:28:58.320
+and all your code will reappear so the
+
+0:28:56.559,0:29:01.200
+next thing i want to do is i want an
+
+0:28:58.320,0:29:02.080
+if statement to see if i'm touching my
+
+0:29:01.200,0:29:03.840
+beetle
+
+0:29:02.080,0:29:06.480
+um so we've done if statements a few
+
+0:29:03.840,0:29:09.440
+times go to control
+
+0:29:06.480,0:29:11.120
+i drag out an if statement by the way
+
+0:29:09.440,0:29:12.720
+one thing to be careful of bowen did
+
+0:29:11.120,0:29:14.640
+this for me as an example
+
+0:29:12.720,0:29:16.399
+is he accidentally put the if statement
+
+0:29:14.640,0:29:17.840
+like inside of another if statement
+
+0:29:16.399,0:29:19.840
+that's bad don't do that right
+
+0:29:17.840,0:29:22.399
+so make sure it's inside the forever
+
+0:29:19.840,0:29:24.080
+loop but all your if statements
+
+0:29:22.399,0:29:25.120
+like none of them should be like inside
+
+0:29:24.080,0:29:26.080
+of the other one so you can always kind
+
+0:29:25.120,0:29:27.679
+of like see
+
+0:29:26.080,0:29:30.080
+that they're all independent if
+
+0:29:27.679,0:29:32.399
+statements and that's important
+
+0:29:30.080,0:29:34.480
+and if your code's freaking out that may
+
+0:29:32.399,0:29:38.240
+be something that you have wrong
+
+0:29:34.480,0:29:39.200
+so this last one so if some condition
+
+0:29:38.240,0:29:40.720
+then do this
+
+0:29:39.200,0:29:42.480
+it's going to be a sensing condition
+
+0:29:40.720,0:29:44.480
+again
+
+0:29:42.480,0:29:45.520
+instead of a color we're going to say if
+
+0:29:44.480,0:29:49.120
+touching
+
+0:29:45.520,0:29:50.960
+mouse pointer but obviously we don't
+
+0:29:49.120,0:29:53.919
+want mouse pointer we want beetle
+
+0:29:50.960,0:29:54.559
+so if we're touching the beetle then we
+
+0:29:53.919,0:29:56.720
+want to
+
+0:29:54.559,0:29:58.960
+to win the game so we want to win the
+
+0:29:56.720,0:30:00.640
+game there
+
+0:29:58.960,0:30:01.919
+when i win the game what i want to do is
+
+0:30:00.640,0:30:03.039
+a couple things first i want to make
+
+0:30:01.919,0:30:05.679
+some sounds
+
+0:30:03.039,0:30:06.240
+let's see what sounds my hedgehog has
+
+0:30:05.679,0:30:09.360
+he's got
+
+0:30:06.240,0:30:11.360
+pop i don't want pop pop doesn't sound
+
+0:30:09.360,0:30:14.000
+like i'm eating a beetle
+
+0:30:11.360,0:30:15.919
+so i want to add a sound so just to
+
+0:30:14.000,0:30:18.399
+recap i went into hedgehog
+
+0:30:15.919,0:30:19.279
+i went into sounds and then down here
+
+0:30:18.399,0:30:22.159
+i'm going to click on
+
+0:30:19.279,0:30:23.600
+choose a sound and i think the sound
+
+0:30:22.159,0:30:26.799
+that i would recommend for you is
+
+0:30:23.600,0:30:28.399
+chomp the easiest way i think to find it
+
+0:30:26.799,0:30:31.360
+is to start typing it
+
+0:30:28.399,0:30:33.360
+and then to add chomp and so if you play
+
+0:30:31.360,0:30:35.120
+chomp
+
+0:30:33.360,0:30:37.120
+um we actually use that with apple if
+
+0:30:35.120,0:30:40.559
+you remember
+
+0:30:37.120,0:30:41.440
+now chomp sounds okay but i would rather
+
+0:30:40.559,0:30:43.760
+repeat
+
+0:30:41.440,0:30:45.520
+chomp four times and i'm going to do
+
+0:30:43.760,0:30:48.799
+that in my code right
+
+0:30:45.520,0:30:50.320
+so as soon as i hit the beetle i want to
+
+0:30:48.799,0:30:53.520
+chomp four times
+
+0:30:50.320,0:30:53.520
+so i'm going to go to control
+
+0:30:53.760,0:30:57.279
+and i'm going to add a repeat loop
+
+0:30:58.000,0:31:01.360
+to go four times
+
+0:31:01.600,0:31:04.799
+and what i want to do four times is i
+
+0:31:03.039,0:31:09.440
+want to chomp until
+
+0:31:04.799,0:31:11.120
+done so play sound chomp until done
+
+0:31:09.440,0:31:12.559
+so i'm going to try this out and then it
+
+0:31:11.120,0:31:13.279
+sounds like i need to help my campers
+
+0:31:12.559,0:31:16.640
+out some
+
+0:31:13.279,0:31:18.559
+so i'm going to go ahead and move around
+
+0:31:16.640,0:31:20.240
+i'm trying not to use diagonals because
+
+0:31:18.559,0:31:21.440
+i discovered diagonals are bad which i
+
+0:31:20.240,0:31:23.039
+learned just now
+
+0:31:21.440,0:31:26.159
+um and then as soon as i get to my
+
+0:31:23.039,0:31:26.159
+beetle what should happen
+
+0:31:28.159,0:31:32.559
+um it goes forever right so it kind of
+
+0:31:30.960,0:31:34.799
+sort of almost worked
+
+0:31:32.559,0:31:36.720
+um the thing that didn't work is it just
+
+0:31:34.799,0:31:38.320
+kept doing it forever and ever and ever
+
+0:31:36.720,0:31:40.000
+so i'm going to fix this one thing and
+
+0:31:38.320,0:31:42.799
+then i'll help my campers
+
+0:31:40.000,0:31:44.640
+so the last thing i want to do to fix it
+
+0:31:42.799,0:31:47.279
+is i want the game to end
+
+0:31:44.640,0:31:50.240
+after i start chopping them to end the
+
+0:31:47.279,0:31:53.760
+game go to control
+
+0:31:50.240,0:31:55.919
+go to stop all and then put it on the
+
+0:31:53.760,0:31:57.519
+bottom of your repeat floor
+
+0:31:55.919,0:32:00.000
+and then things should things should
+
+0:31:57.519,0:32:01.279
+work better so as you play your game i'm
+
+0:32:00.000,0:32:02.320
+going to cheat here and go diagonally
+
+0:32:01.279,0:32:03.679
+through my wall
+
+0:32:02.320,0:32:06.080
+which i discovered i could do only
+
+0:32:03.679,0:32:06.080
+recently
+
+0:32:06.240,0:32:09.679
+and so it chomps one two three four
+
+0:32:07.760,0:32:11.120
+times and then the game ends
+
+0:32:09.679,0:32:13.120
+see if you can get that working in your
+
+0:32:11.120,0:32:14.240
+code and i'll help my campers do the
+
+0:32:13.120,0:32:15.600
+same
+
+0:32:14.240,0:32:17.840
+all right so i think mine's going pretty
+
+0:32:15.600,0:32:19.039
+good uh one bug uh that mckinley had
+
+0:32:17.840,0:32:22.960
+which was kind of interesting
+
+0:32:19.039,0:32:24.399
+um her uh target um just so happened to
+
+0:32:22.960,0:32:27.120
+have the same color
+
+0:32:24.399,0:32:29.039
+as her walls so when she like almost hit
+
+0:32:27.120,0:32:30.960
+her target it bounced him off
+
+0:32:29.039,0:32:32.399
+if that does happen to you just draw a
+
+0:32:30.960,0:32:34.240
+different color kind of on the outside
+
+0:32:32.399,0:32:35.840
+of it and it'll it'll fix that bug so
+
+0:32:34.240,0:32:36.480
+you might have that it's kind of a weird
+
+0:32:35.840,0:32:38.559
+bug
+
+0:32:36.480,0:32:40.000
+that'll affect some people uh let's go
+
+0:32:38.559,0:32:41.679
+ahead and add one more feature
+
+0:32:40.000,0:32:44.559
+the feature that i want to add is a
+
+0:32:41.679,0:32:45.279
+timer um a timer is a very special type
+
+0:32:44.559,0:32:47.519
+of variable
+
+0:32:45.279,0:32:50.080
+because it's built in um and so if you
+
+0:32:47.519,0:32:52.640
+go to motion
+
+0:32:50.080,0:32:54.080
+there's a built-in timer uh in here
+
+0:32:52.640,0:32:55.679
+which is kind of interesting
+
+0:32:54.080,0:32:57.760
+um so i've got to scroll around oh it's
+
+0:32:55.679,0:33:01.039
+not it's not a motion it's in sensing
+
+0:32:57.760,0:33:02.000
+um there's a built-in timer um and so
+
+0:33:01.039,0:33:05.200
+this timer
+
+0:33:02.000,0:33:06.960
+starts when your game starts um and
+
+0:33:05.200,0:33:08.640
+i like to go ahead and like do that
+
+0:33:06.960,0:33:11.279
+explicitly so when my game starts
+
+0:33:08.640,0:33:12.480
+i want to reset the timer so what i'm
+
+0:33:11.279,0:33:13.840
+going to do is i'm going to take reset
+
+0:33:12.480,0:33:15.440
+timer and put it in here
+
+0:33:13.840,0:33:17.840
+to make sure that it zeros out when the
+
+0:33:15.440,0:33:20.399
+game starts
+
+0:33:17.840,0:33:22.320
+and then what i want to do is i want to
+
+0:33:20.399,0:33:25.279
+say what my time was
+
+0:33:22.320,0:33:26.880
+at the end so scroll down to the end
+
+0:33:25.279,0:33:28.559
+here
+
+0:33:26.880,0:33:31.039
+and so i'm going to go chomp chomp chomp
+
+0:33:28.559,0:33:32.320
+but before i say stop all i want to say
+
+0:33:31.039,0:33:36.159
+something i want to say
+
+0:33:32.320,0:33:40.799
+either time so go into looks
+
+0:33:36.159,0:33:40.799
+i put on a say hello for two seconds
+
+0:33:41.600,0:33:45.600
+um and then what i want to do is i want
+
+0:33:43.360,0:33:48.080
+to say like your time was
+
+0:33:45.600,0:33:49.360
+uh and then the timer um since i want to
+
+0:33:48.080,0:33:50.960
+do kind of like two things i want to say
+
+0:33:49.360,0:33:53.919
+like your time was and then also
+
+0:33:50.960,0:33:54.799
+i do the timer i've gotta put those
+
+0:33:53.919,0:33:58.399
+together
+
+0:33:54.799,0:33:59.760
+uh with a join command once you see it
+
+0:33:58.399,0:34:01.120
+it'll make sense so instead of just
+
+0:33:59.760,0:34:06.159
+saying a single thing i'm gonna say
+
+0:34:01.120,0:34:10.000
+join i'm gonna say your time
+
+0:34:06.159,0:34:11.280
+was and then
+
+0:34:10.000,0:34:14.560
+what i'm going to say is i'm going to
+
+0:34:11.280,0:34:16.639
+grab that timer from out of sensing
+
+0:34:14.560,0:34:19.520
+so your time was and then it's just
+
+0:34:16.639,0:34:21.359
+going to say a number
+
+0:34:19.520,0:34:24.159
+and you can phrase it however you want
+
+0:34:21.359,0:34:27.520
+you can say your time was
+
+0:34:24.159,0:34:29.520
+or you could just say time or you could
+
+0:34:27.520,0:34:31.599
+you can make it whatever you want you
+
+0:34:29.520,0:34:32.960
+could also put multiple of these joins
+
+0:34:31.599,0:34:34.720
+together and put it in the middle of
+
+0:34:32.960,0:34:36.560
+your sentence
+
+0:34:34.720,0:34:38.079
+knock yourself out right i'm going to
+
+0:34:36.560,0:34:40.720
+keep it simple and i'm just going to say
+
+0:34:38.079,0:34:43.040
+say and i'm going to join the word time
+
+0:34:40.720,0:34:47.919
+and timer for two seconds
+
+0:34:43.040,0:34:49.839
+so now whenever i run it my game starts
+
+0:34:47.919,0:34:52.079
+um and so i can run around i can do my
+
+0:34:49.839,0:34:52.079
+game
+
+0:34:54.320,0:35:03.200
+uh and when i finish uh it says my
+
+0:34:58.240,0:35:05.359
+time was 12 uh something
+
+0:35:03.200,0:35:06.960
+now some little tweaks so the things i
+
+0:35:05.359,0:35:08.560
+didn't like these are little tweaks
+
+0:35:06.960,0:35:11.040
+i would like for it to save my time for
+
+0:35:08.560,0:35:12.800
+a little longer maybe five seconds
+
+0:35:11.040,0:35:15.520
+just so i can read it so i can register
+
+0:35:12.800,0:35:16.800
+whether it's better than previous or not
+
+0:35:15.520,0:35:19.119
+another thing i don't like is i don't
+
+0:35:16.800,0:35:20.640
+like that when i click the green flag
+
+0:35:19.119,0:35:22.000
+my timer starts me right away because
+
+0:35:20.640,0:35:23.440
+i've got to click the green flag and i
+
+0:35:22.000,0:35:24.400
+got to move my hand over to the arrow
+
+0:35:23.440,0:35:26.640
+keys
+
+0:35:24.400,0:35:27.599
+so just just to fix that this is a
+
+0:35:26.640,0:35:30.400
+little fix
+
+0:35:27.599,0:35:32.320
+i'm going to say something just to kind
+
+0:35:30.400,0:35:34.720
+of like pause the game a little bit
+
+0:35:32.320,0:35:37.359
+so i'm going to go into looks i'm going
+
+0:35:34.720,0:35:39.200
+to drag say hello for 2 seconds
+
+0:35:37.359,0:35:41.200
+and i'm going to put it just before i
+
+0:35:39.200,0:35:43.520
+reset the timer
+
+0:35:41.200,0:35:45.119
+and it's just going to say ready or
+
+0:35:43.520,0:35:46.960
+maybe get ready
+
+0:35:45.119,0:35:48.960
+whatever you want so now if i hit the
+
+0:35:46.960,0:35:50.960
+green flag it says get ready and it
+
+0:35:48.960,0:35:53.839
+gives me a second to move my hands over
+
+0:35:50.960,0:35:54.800
+and now i can start uh trying to get to
+
+0:35:53.839,0:35:56.560
+my goal
+
+0:35:54.800,0:35:58.640
+i hit the wall a couple times so this is
+
+0:35:56.560,0:36:02.119
+not going to be my best ever
+
+0:35:58.640,0:36:05.520
+and then i get to it chomp chomp chomp
+
+0:36:02.119,0:36:06.480
+11.25 so you can play your game as many
+
+0:36:05.520,0:36:07.760
+times as you want
+
+0:36:06.480,0:36:10.320
+[Music]
+
+0:36:07.760,0:36:11.920
+and you can try to see if you can get an
+
+0:36:10.320,0:36:14.640
+optimum time
+
+0:36:11.920,0:36:15.599
+and then of course you want to have your
+
+0:36:14.640,0:36:18.000
+parent play it
+
+0:36:15.599,0:36:19.119
+uh and see what they can do so mine that
+
+0:36:18.000,0:36:22.800
+time
+
+0:36:19.119,0:36:25.520
+was oh 10.4 a little bit better
+
+0:36:22.800,0:36:27.040
+all right so a little feature there uh
+
+0:36:25.520,0:36:28.800
+with like getting you ready it's kind of
+
+0:36:27.040,0:36:31.359
+like a get ready set go
+
+0:36:28.800,0:36:31.920
+um and then a little feature down here
+
+0:36:31.359,0:36:34.400
+uh
+
+0:36:31.920,0:36:34.960
+for the for the timer all right so i'm
+
+0:36:34.400,0:36:36.560
+gonna
+
+0:36:34.960,0:36:38.800
+uh go around and i'm gonna see how my
+
+0:36:36.560,0:36:40.560
+campers did i'm also gonna click this
+
+0:36:38.800,0:36:42.480
+share button
+
+0:36:40.560,0:36:44.000
+and the share button gives me a url that
+
+0:36:42.480,0:36:45.520
+i could share with other people
+
+0:36:44.000,0:36:47.040
+in order to be able to share remember
+
+0:36:45.520,0:36:48.640
+you have to have a logged in as an
+
+0:36:47.040,0:36:49.839
+account and you have to verify your
+
+0:36:48.640,0:36:51.119
+email address
+
+0:36:49.839,0:36:53.359
+all right campers you're ready for me to
+
+0:36:51.119,0:36:55.359
+see what you made all right neela you're
+
+0:36:53.359,0:36:58.079
+up first let's see what you've got
+
+0:36:55.359,0:36:59.520
+so it says get ready um and then you're
+
+0:36:58.079,0:37:00.480
+going to take your hedgehog around your
+
+0:36:59.520,0:37:02.480
+maze
+
+0:37:00.480,0:37:04.720
+um your your game is very difficult
+
+0:37:02.480,0:37:08.079
+because of all those diagonals isn't it
+
+0:37:04.720,0:37:10.320
+so you kind of work your way down
+
+0:37:08.079,0:37:12.160
+you're doing great babe neil made it
+
+0:37:10.320,0:37:13.599
+past the hard spot
+
+0:37:12.160,0:37:15.040
+i had to edit a little bit there because
+
+0:37:13.599,0:37:16.400
+it took just a little bit yours is
+
+0:37:15.040,0:37:18.000
+challenging neil get the bread and we'll
+
+0:37:16.400,0:37:21.680
+see what your time was
+
+0:37:18.000,0:37:24.320
+your time was oh yeah 38 seconds
+
+0:37:21.680,0:37:27.680
+great job neela give us the vist there
+
+0:37:24.320,0:37:30.880
+all right bone let's see it hit go
+
+0:37:27.680,0:37:33.040
+i'll save your green flag bowen
+
+0:37:30.880,0:37:35.280
+all right so bowen says get ready uh and
+
+0:37:33.040,0:37:36.880
+he's got this octopus theme
+
+0:37:35.280,0:37:38.480
+uh so he's going around he's trying to
+
+0:37:36.880,0:37:40.320
+get the jellyfish
+
+0:37:38.480,0:37:42.000
+now the jellyfish to be clear is not
+
+0:37:40.320,0:37:45.760
+going to get eaten by the octopus the
+
+0:37:42.000,0:37:45.760
+jellyfish and the octopus are friends
+
+0:37:48.960,0:37:54.560
+cool looks great you got a time of 15.2
+
+0:37:53.200,0:37:56.960
+great job bone did you have fun making
+
+0:37:54.560,0:38:00.240
+this game great job
+
+0:37:56.960,0:38:03.200
+we'll go with [ __ ] next so sissy's got
+
+0:38:00.240,0:38:04.400
+uh the owl theme and as mentioned she
+
+0:38:03.200,0:38:07.359
+has a black
+
+0:38:04.400,0:38:08.960
+uh wall and her mouse had black on it so
+
+0:38:07.359,0:38:09.920
+she had to like outline it in red or
+
+0:38:08.960,0:38:11.119
+something
+
+0:38:09.920,0:38:12.160
+all right so she's playing her game
+
+0:38:11.119,0:38:13.440
+where are you at session i don't even
+
+0:38:12.160,0:38:16.640
+see oh
+
+0:38:13.440,0:38:17.680
+her her owl is teeny tiny um she is
+
+0:38:16.640,0:38:20.480
+playing
+
+0:38:17.680,0:38:21.119
+it's just the world's smallest owl and
+
+0:38:20.480,0:38:23.680
+this al
+
+0:38:21.119,0:38:25.520
+books it around the course so it's a
+
+0:38:23.680,0:38:28.560
+super spiral
+
+0:38:25.520,0:38:31.040
+it's minnie albers mega mouse
+
+0:38:28.560,0:38:33.040
+and so you got it in 23 seconds great
+
+0:38:31.040,0:38:34.400
+job sis great creativity
+
+0:38:33.040,0:38:36.960
+all right keegan let's see yours hit the
+
+0:38:34.400,0:38:36.960
+green flag
+
+0:38:37.440,0:38:44.960
+um get ready so he's got a super dog
+
+0:38:41.359,0:38:44.960
+that is not the right path super dog
+
+0:38:45.040,0:38:48.880
+so he's got a super dog running around
+
+0:38:46.720,0:38:51.280
+his red maze
+
+0:38:48.880,0:38:53.520
+is this dog man is that who this is no
+
+0:38:51.280,0:38:53.520
+way
+
+0:38:55.119,0:39:06.160
+go the right way
+
+0:39:01.040,0:39:07.920
+i want a bark sound effect 24057
+
+0:39:06.160,0:39:09.520
+all right great job everybody everybody
+
+0:39:07.920,0:39:11.920
+have fun yes
+
+0:39:09.520,0:39:14.240
+yes yeah cool uh so i'll go and say a
+
+0:39:11.920,0:39:16.240
+couple things uh just to wrap it up uh
+
+0:39:14.240,0:39:18.079
+so the the learning things from today
+
+0:39:16.240,0:39:19.599
+coding is fun uh you can do this that's
+
+0:39:18.079,0:39:22.240
+kind of our message every day
+
+0:39:19.599,0:39:22.960
+um art and science like this drawing
+
+0:39:22.240,0:39:24.720
+things
+
+0:39:22.960,0:39:26.720
+really are important to make your games
+
+0:39:24.720,0:39:28.560
+custom and make uh you own it
+
+0:39:26.720,0:39:29.760
+and your creativity uh you can see just
+
+0:39:28.560,0:39:30.320
+from my campers here is really what
+
+0:39:29.760,0:39:32.640
+makes this
+
+0:39:30.320,0:39:34.240
+uh things interesting a few more things
+
+0:39:32.640,0:39:36.320
+in here but i won't worry about those
+
+0:39:34.240,0:39:38.240
+i look forward to seeing you tomorrow i
+
+0:39:36.320,0:39:42.910
+will start another coding adventure
+
+0:39:38.240,0:39:44.720
+see you then bye
+
+0:39:42.910,0:39:46.079
+[Music]
+
+0:39:44.720,0:39:48.480
+i didn't know you could do that
+
+0:39:46.079,0:39:50.160
+apparently if you do it
+
+0:39:48.480,0:39:52.800
+if you go at a diagonal you just go
+
+0:39:50.160,0:39:55.760
+right to the wall
+
+0:39:52.800,0:39:58.400
+neither bob nor i tried diagonals i
+
+0:39:55.760,0:40:02.000
+didn't even think about diagonals until
+
+0:39:58.400,0:40:02.560
+needles mate by the way i had to make
+
+0:40:02.000,0:40:04.240
+this
+
+0:40:02.560,0:40:05.520
+if it bothered you that if you hold down
+
+0:40:04.240,0:40:06.160
+two keys at the same time that you
+
+0:40:05.520,0:40:08.240
+actually can
+
+0:40:06.160,0:40:10.000
+sometimes walk through walls oh this is
+
+0:40:08.240,0:40:12.319
+where now i can't even do it
+
+0:40:10.000,0:40:14.319
+but oh there we go i got through if it
+
+0:40:12.319,0:40:16.160
+bothers you about the diagonals um
+
+0:40:14.319,0:40:18.319
+one one way you can fix it this is not
+
+0:40:16.160,0:40:20.000
+required at all
+
+0:40:18.319,0:40:22.160
+is really there's this code right here
+
+0:40:20.000,0:40:23.599
+so there's this if statement right here
+
+0:40:22.160,0:40:25.440
+that's asking if you're touching the
+
+0:40:23.599,0:40:27.040
+color um well here's what i'm going to
+
+0:40:25.440,0:40:28.160
+do to fix it this is completely optional
+
+0:40:27.040,0:40:30.720
+you just watch me
+
+0:40:28.160,0:40:32.079
+is i really want to take this code and
+
+0:40:30.720,0:40:34.720
+separate it by itself
+
+0:40:32.079,0:40:35.920
+and i want to call this code after every
+
+0:40:34.720,0:40:37.440
+move
+
+0:40:35.920,0:40:39.359
+and a good way to do this this is a
+
+0:40:37.440,0:40:41.359
+great way to introduce like functions
+
+0:40:39.359,0:40:42.560
+um functions in scratch are called
+
+0:40:41.359,0:40:43.760
+blocks
+
+0:40:42.560,0:40:46.640
+you can just watch this you don't have
+
+0:40:43.760,0:40:49.599
+to do it but if i make a function called
+
+0:40:46.640,0:40:50.880
+check for the wall which is not really a
+
+0:40:49.599,0:40:52.240
+great name for a function but that's my
+
+0:40:50.880,0:40:54.560
+name for the function
+
+0:40:52.240,0:40:56.400
+so this code right here is the function
+
+0:40:54.560,0:40:59.680
+check for the wall
+
+0:40:56.400,0:41:02.960
+and now i can put that in everywhere
+
+0:40:59.680,0:41:04.800
+after move speed and now what will
+
+0:41:02.960,0:41:06.560
+happen is i've made that function that i
+
+0:41:04.800,0:41:08.560
+can reuse you can see i used it four
+
+0:41:06.560,0:41:10.480
+times
+
+0:41:08.560,0:41:11.920
+and now it shouldn't let me go through
+
+0:41:10.480,0:41:13.280
+the wall so even if i'm like down here
+
+0:41:11.920,0:41:14.319
+and i hold down both keys to go to
+
+0:41:13.280,0:41:16.640
+diagonal
+
+0:41:14.319,0:41:18.400
+i just can't get through there right so
+
+0:41:16.640,0:41:20.319
+you do not have to add that
+
+0:41:18.400,0:41:22.240
+is not a requirement maybe the next time
+
+0:41:20.319,0:41:23.839
+i film this i'll put it in there
+
+0:41:22.240,0:41:26.160
+but it is a great time to show you
+
+0:41:23.839,0:41:27.200
+functions um and functions or whenever
+
+0:41:26.160,0:41:28.880
+you're gonna have the same code in
+
+0:41:27.200,0:41:31.119
+multiple places here i've got it in
+
+0:41:28.880,0:41:32.160
+four different places and you can see
+
+0:41:31.119,0:41:34.240
+how i broke that out
+
+0:41:32.160,0:41:35.520
+and it fixed this bug uh going through
+
+0:41:34.240,0:41:37.599
+the wall all right
+
+0:41:35.520,0:41:38.960
+that little edition it just bugged my
+
+0:41:37.599,0:41:39.760
+family so i thought i'd show you how to
+
+0:41:38.960,0:41:41.280
+fix it if it
+
+0:41:39.760,0:41:48.720
+happened to bother you all right thanks
+
+0:41:41.280,0:41:48.720
+for joining us bye
+

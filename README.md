@@ -14,7 +14,7 @@ Status of each video could be (copy paste from here):
 
 | | Status |
 | :---        |    :----:   |
-| Status | 1. Waiting for Dr. Fisher to create a file|
+| Status | 2. Ready for transcript review |
 | Title   | Alphabet Breakfast |
 | YouTube URL   | https://youtu.be/UY7fRGr7Qog |
  
@@ -22,7 +22,7 @@ Status of each video could be (copy paste from here):
 
 | | Status |
 | :---        |    :----:   |
-| Status | 1. Waiting for Dr. Fisher to create a file|
+| Status | 2. Ready for transcript review |
 | Title   | Hedgehog Snack |
 | YouTube URL   | https://youtu.be/mFnrMbV56lg |
  
@@ -30,7 +30,7 @@ Status of each video could be (copy paste from here):
 
 | | Status |
 | :---        |    :----:   |
-| Status | 1. Waiting for Dr. Fisher to create a file|
+| Status | 2. Ready for transcript review |
 | Title   | Fish Lunch |
 | YouTube URL   | https://youtu.be/ogfsUZnk_tU |
 

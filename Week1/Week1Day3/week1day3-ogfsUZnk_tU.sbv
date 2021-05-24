@@ -1,0 +1,3723 @@
+0:00:00.390,0:00:06.319
+[Music]
+
+0:00:05.120,0:00:08.480
+hey hey welcome back
+
+0:00:06.319,0:00:10.000
+it's day three uh i'm here with my
+
+0:00:08.480,0:00:11.360
+campers again i'll go and let them
+
+0:00:10.000,0:00:14.639
+introduce themselves again hi
+
+0:00:11.360,0:00:18.000
+i'm lila hi i'm bowen
+
+0:00:14.639,0:00:19.920
+hi i'm i'm mckinley hi i'm keegan
+
+0:00:18.000,0:00:21.760
+all right we've got all our campers here
+
+0:00:19.920,0:00:22.480
+today uh what we're going to be doing
+
+0:00:21.760,0:00:25.359
+today
+
+0:00:22.480,0:00:26.720
+is um making a game about fish if you
+
+0:00:25.359,0:00:28.640
+choose a fish theme
+
+0:00:26.720,0:00:30.160
+uh but before we hop in let's just kind
+
+0:00:28.640,0:00:31.599
+of quickly glance at some things we
+
+0:00:30.160,0:00:33.280
+learned last time so
+
+0:00:31.599,0:00:35.200
+one of the big things we learned last
+
+0:00:33.280,0:00:36.640
+time is that we learned how to draw
+
+0:00:35.200,0:00:38.239
+right so we learned about these drawing
+
+0:00:36.640,0:00:40.000
+tools we're going to continue our
+
+0:00:38.239,0:00:42.000
+drawing tools some this time
+
+0:00:40.000,0:00:43.280
+last time it was for the background and
+
+0:00:42.000,0:00:44.399
+so this time we're going to draw a
+
+0:00:43.280,0:00:46.800
+sprite together
+
+0:00:44.399,0:00:48.640
+which should be fun we're also going to
+
+0:00:46.800,0:00:51.280
+learn like a new way of movement
+
+0:00:48.640,0:00:52.800
+so before we did avery walking where she
+
+0:00:51.280,0:00:55.360
+followed the mouse pointer around
+
+0:00:52.800,0:00:57.280
+that was how she moved uh the hedgehog
+
+0:00:55.360,0:00:59.199
+moved with this up down left right
+
+0:00:57.280,0:01:01.440
+keys and then this time we're going to
+
+0:00:59.199,0:01:03.600
+move in a different way that i call
+
+0:01:01.440,0:01:05.439
+a race car movement we're also going to
+
+0:01:03.600,0:01:07.520
+learn about something at the very end
+
+0:01:05.439,0:01:09.920
+called broadcasting events so we'll get
+
+0:01:07.520,0:01:12.240
+into that let's look at a solution
+
+0:01:09.920,0:01:14.000
+for what we're trying to build today so
+
+0:01:12.240,0:01:17.119
+mine is called fish lunch
+
+0:01:14.000,0:01:18.880
+so this version was made by bob um and
+
+0:01:17.119,0:01:19.360
+the idea of this game is that you're the
+
+0:01:18.880,0:01:21.920
+fish
+
+0:01:19.360,0:01:23.040
+so i'm nemo here and nemo's trying to
+
+0:01:21.920,0:01:24.640
+eat his food
+
+0:01:23.040,0:01:27.280
+so there he just kind of made it to some
+
+0:01:24.640,0:01:29.840
+food and you're trying not to let these
+
+0:01:27.280,0:01:31.680
+these things hit you one feature that
+
+0:01:29.840,0:01:33.600
+you kind of see is i sped up nemo there
+
+0:01:31.680,0:01:36.400
+so nemo actually got a little faster
+
+0:01:33.600,0:01:38.079
+so i can use the up and down arrow keys
+
+0:01:36.400,0:01:40.240
+and then i hit some trash and so i got a
+
+0:01:38.079,0:01:41.600
+score of three that time
+
+0:01:40.240,0:01:42.880
+but you can see that there's a lot going
+
+0:01:41.600,0:01:43.520
+on because we have to worry about our
+
+0:01:42.880,0:01:46.159
+hero
+
+0:01:43.520,0:01:47.119
+that's nemo we have to be able to speed
+
+0:01:46.159,0:01:48.560
+up nemo
+
+0:01:47.119,0:01:51.520
+and then we also have to be able to slow
+
+0:01:48.560,0:01:52.479
+down nemo nemo can swim backwards as
+
+0:01:51.520,0:01:54.320
+well
+
+0:01:52.479,0:01:55.520
+we've got the food that we're going to
+
+0:01:54.320,0:01:57.439
+draw um
+
+0:01:55.520,0:01:58.799
+and then we've got all these enemies
+
+0:01:57.439,0:02:01.280
+that are around us as well
+
+0:01:58.799,0:02:02.479
+so don't be surprised if uh today takes
+
+0:02:01.280,0:02:04.000
+a little longer
+
+0:02:02.479,0:02:05.520
+that's designed by the camp the first
+
+0:02:04.000,0:02:06.240
+day kind of an intro the second one it's
+
+0:02:05.520,0:02:08.399
+a little harder
+
+0:02:06.240,0:02:09.920
+the third is the hardest day in general
+
+0:02:08.399,0:02:11.599
+and then we start tapering down summer
+
+0:02:09.920,0:02:12.879
+at the end so don't be surprised
+
+0:02:11.599,0:02:15.040
+if you need a couple breaks in this
+
+0:02:12.879,0:02:15.599
+video but let's go ahead and dive right
+
+0:02:15.040,0:02:17.760
+in
+
+0:02:15.599,0:02:21.040
+and go and get started so go ahead and
+
+0:02:17.760,0:02:23.280
+visit scratch.mit.edu
+
+0:02:21.040,0:02:25.280
+click on create and it will bring you to
+
+0:02:23.280,0:02:26.959
+a new project
+
+0:02:25.280,0:02:28.640
+now what i'm going to do is i'm going to
+
+0:02:26.959,0:02:30.560
+make my theme
+
+0:02:28.640,0:02:33.040
+similar to what this one was so fish
+
+0:02:30.560,0:02:33.519
+themed if you want to use a different
+
+0:02:33.040,0:02:35.440
+theme
+
+0:02:33.519,0:02:38.400
+you can but what i'm going to do is i'm
+
+0:02:35.440,0:02:40.640
+going to choose choose a sprite
+
+0:02:38.400,0:02:42.400
+and for me i'm going to choose a fish so
+
+0:02:40.640,0:02:43.680
+here's my fish right here
+
+0:02:42.400,0:02:45.599
+this fish is kind of interesting because
+
+0:02:43.680,0:02:47.920
+he's got different costumes
+
+0:02:45.599,0:02:49.519
+so now i can delete my cat so this fish
+
+0:02:47.920,0:02:51.440
+has different costumes and sometimes
+
+0:02:49.519,0:02:52.640
+costumes are like animations
+
+0:02:51.440,0:02:54.080
+but you can see that this one has
+
+0:02:52.640,0:02:55.120
+different costumes or just completely
+
+0:02:54.080,0:02:57.120
+different fish
+
+0:02:55.120,0:02:58.640
+so i'm gonna pick the fish that i want i
+
+0:02:57.120,0:03:01.040
+really like the one that looks like nemo
+
+0:02:58.640,0:03:02.319
+i think he's fun so now i've got my fish
+
+0:03:01.040,0:03:04.560
+on here
+
+0:03:02.319,0:03:06.480
+i can change things like his size like
+
+0:03:04.560,0:03:08.720
+maybe i want him to be a little smaller
+
+0:03:06.480,0:03:10.480
+so i can have him be teeny tiny you can
+
+0:03:08.720,0:03:11.120
+pick whatever size fish you want maybe
+
+0:03:10.480,0:03:14.159
+40
+
+0:03:11.120,0:03:14.879
+would be good just like before you can
+
+0:03:14.159,0:03:17.040
+think about
+
+0:03:14.879,0:03:19.680
+his directions whether he can rotate all
+
+0:03:17.040,0:03:22.560
+around or only left right or not rotate
+
+0:03:19.680,0:03:23.840
+this one i do want to rotate all around
+
+0:03:22.560,0:03:24.799
+all right so now we've picked out our
+
+0:03:23.840,0:03:26.799
+hero
+
+0:03:24.799,0:03:28.480
+and our hero is on our screen if you did
+
+0:03:26.799,0:03:29.599
+a fish great if you did something
+
+0:03:28.480,0:03:31.920
+different that's fine
+
+0:03:29.599,0:03:33.280
+let's do some code first thing we want
+
+0:03:31.920,0:03:34.080
+to add campers where do you think we
+
+0:03:33.280,0:03:37.519
+need to start
+
+0:03:34.080,0:03:39.599
+click on the green flag yeah so event
+
+0:03:37.519,0:03:43.200
+when green flag clicked so this is where
+
+0:03:39.599,0:03:44.640
+we start a lot of our games
+
+0:03:43.200,0:03:46.400
+and then eventually we're going to have
+
+0:03:44.640,0:03:47.599
+a forever loop but before we do the
+
+0:03:46.400,0:03:49.280
+forever loop
+
+0:03:47.599,0:03:51.360
+i first want to set his starting
+
+0:03:49.280,0:03:53.920
+position and his starting direction
+
+0:03:51.360,0:03:55.840
+so decide where your fish or whatever
+
+0:03:53.920,0:03:57.280
+your hero is is going to start your game
+
+0:03:55.840,0:03:58.959
+so i'm going to choose to start in just
+
+0:03:57.280,0:04:00.720
+a lower left corner but you can do it
+
+0:03:58.959,0:04:02.799
+wherever you want
+
+0:04:00.720,0:04:05.360
+once you position them in that location
+
+0:04:02.799,0:04:09.439
+you can go to motion
+
+0:04:05.360,0:04:11.840
+and find this go to xy
+
+0:04:09.439,0:04:13.599
+and again what's nice about this command
+
+0:04:11.840,0:04:15.840
+is if you've moved the fish to where you
+
+0:04:13.599,0:04:16.720
+want so here it's negative 168 negative
+
+0:04:15.840,0:04:18.400
+129
+
+0:04:16.720,0:04:20.320
+you can see that that command the
+
+0:04:18.400,0:04:22.079
+arguments those things in whites
+
+0:04:20.320,0:04:23.280
+auto update to where he's at which is
+
+0:04:22.079,0:04:24.080
+kind of nice that's why i put him in
+
+0:04:23.280,0:04:26.960
+position
+
+0:04:24.080,0:04:28.080
+first before i add that command and then
+
+0:04:26.960,0:04:30.000
+i'm going to grab
+
+0:04:28.080,0:04:32.320
+something that says point in direction
+
+0:04:30.000,0:04:34.400
+90. this is so that my fish
+
+0:04:32.320,0:04:36.560
+starts going this way when the game
+
+0:04:34.400,0:04:38.880
+begins
+
+0:04:36.560,0:04:40.960
+now we're ready for our forever loop so
+
+0:04:38.880,0:04:43.680
+very common in code
+
+0:04:40.960,0:04:46.400
+to do something forever forever loops
+
+0:04:43.680,0:04:46.400
+are in control
+
+0:04:46.880,0:04:50.880
+and here's my forever loop that i'm
+
+0:04:48.960,0:04:52.720
+going to put on my fish
+
+0:04:50.880,0:04:54.800
+so a lot of these concepts are things
+
+0:04:52.720,0:04:56.160
+we've seen before we try to do this by
+
+0:04:54.800,0:04:57.520
+design and games where we have these
+
+0:04:56.160,0:04:59.680
+same concepts
+
+0:04:57.520,0:05:01.199
+over and over and you can kind of see
+
+0:04:59.680,0:05:02.160
+that there's a little bit of setup stuff
+
+0:05:01.199,0:05:04.560
+at the start
+
+0:05:02.160,0:05:05.759
+and then a loop that goes forever now
+
+0:05:04.560,0:05:08.320
+what i want to do forever
+
+0:05:05.759,0:05:08.960
+is my fish is always swimming so i'm
+
+0:05:08.320,0:05:12.800
+going to grab
+
+0:05:08.960,0:05:15.680
+a move and put it in here
+
+0:05:12.800,0:05:17.120
+right now it's move 10 steps that's
+
+0:05:15.680,0:05:18.639
+going to be a little too fast i'm going
+
+0:05:17.120,0:05:22.479
+to start him at 3
+
+0:05:18.639,0:05:22.479
+so move 3 steps
+
+0:05:22.639,0:05:26.479
+if i did run the game right now uh he
+
+0:05:24.639,0:05:29.039
+would start swimming in a straight line
+
+0:05:26.479,0:05:30.400
+which would be great um if i stopped the
+
+0:05:29.039,0:05:32.240
+game and i started again he would swim
+
+0:05:30.400,0:05:34.560
+in a straight line again
+
+0:05:32.240,0:05:35.360
+uh straight lines aren't much fun uh we
+
+0:05:34.560,0:05:37.199
+want to do something
+
+0:05:35.360,0:05:38.400
+different so i want the left arrow key
+
+0:05:37.199,0:05:41.600
+and the right arrow key
+
+0:05:38.400,0:05:45.919
+to let me change my direction so
+
+0:05:41.600,0:05:45.919
+we want if statements so go to control
+
+0:05:46.400,0:05:53.840
+and drag over two if statements so one
+
+0:05:50.639,0:05:53.840
+and then another
+
+0:05:54.160,0:05:57.199
+and what these if statements want to do
+
+0:05:56.080,0:06:00.319
+is they want to say
+
+0:05:57.199,0:06:01.039
+if somebody is pressing the left arrow
+
+0:06:00.319,0:06:03.759
+key
+
+0:06:01.039,0:06:04.639
+then we want to rotate left a little bit
+
+0:06:03.759,0:06:06.080
+then the other one's going to say if
+
+0:06:04.639,0:06:08.000
+somebody's pressing the right arrow key
+
+0:06:06.080,0:06:10.639
+we want to rotate right a little bit
+
+0:06:08.000,0:06:12.319
+so we'll do now we can do one together
+
+0:06:10.639,0:06:15.120
+then let's do the other
+
+0:06:12.319,0:06:15.120
+so sensing
+
+0:06:16.240,0:06:20.080
+if the key space is pressed i don't want
+
+0:06:18.800,0:06:23.600
+to switch space to be
+
+0:06:20.080,0:06:24.960
+left arrow so if the key left arrow is
+
+0:06:23.600,0:06:28.000
+pressed
+
+0:06:24.960,0:06:29.039
+then inside motion i want to do a left
+
+0:06:28.000,0:06:32.000
+turn
+
+0:06:29.039,0:06:33.280
+see if you can do the right turn and
+
+0:06:32.000,0:06:35.280
+then see if you can try it so right now
+
+0:06:33.280,0:06:38.080
+my fish can turn to the left
+
+0:06:35.280,0:06:38.800
+um but he really can't turn uh to the
+
+0:06:38.080,0:06:40.319
+right yet
+
+0:06:38.800,0:06:42.639
+so see if you can do that all by
+
+0:06:40.319,0:06:44.720
+yourself
+
+0:06:42.639,0:06:45.680
+all right so i added mine uh so now i
+
+0:06:44.720,0:06:47.680
+can go left
+
+0:06:45.680,0:06:48.960
+uh or i can go right and he can swim
+
+0:06:47.680,0:06:51.919
+around
+
+0:06:48.960,0:06:52.639
+now just for fun the speed right now is
+
+0:06:51.919,0:06:55.039
+always
+
+0:06:52.639,0:06:55.919
+three and you'll notice that we don't
+
+0:06:55.039,0:06:58.000
+need the up
+
+0:06:55.919,0:06:59.759
+uh or down arrows for this style of
+
+0:06:58.000,0:07:00.479
+motion so we're going to add a fun
+
+0:06:59.759,0:07:02.479
+feature
+
+0:07:00.479,0:07:04.639
+and learn a little bit about variables
+
+0:07:02.479,0:07:05.199
+so instead of the speed always being
+
+0:07:04.639,0:07:07.039
+three
+
+0:07:05.199,0:07:09.520
+let's make a variable so click on
+
+0:07:07.039,0:07:12.880
+variables
+
+0:07:09.520,0:07:14.080
+click on make a variable and we're going
+
+0:07:12.880,0:07:17.520
+to make a variable called
+
+0:07:14.080,0:07:19.120
+speed that's for this sprite only
+
+0:07:17.520,0:07:21.039
+so see how there's kind of two options
+
+0:07:19.120,0:07:22.400
+it can be for all sprites they all share
+
+0:07:21.039,0:07:25.520
+the variable
+
+0:07:22.400,0:07:26.319
+or the speed is for the sprite only so
+
+0:07:25.520,0:07:30.080
+speed
+
+0:07:26.319,0:07:31.599
+for this sprite only and hit okay now
+
+0:07:30.080,0:07:33.759
+whenever we make a variable there's
+
+0:07:31.599,0:07:36.080
+usually three things we need to do
+
+0:07:33.759,0:07:36.960
+we need to set its value initially so
+
+0:07:36.080,0:07:40.639
+i'm going to
+
+0:07:36.960,0:07:43.440
+drag a set uh into my like starting area
+
+0:07:40.639,0:07:44.080
+so notice how it's near the top and i'm
+
+0:07:43.440,0:07:47.599
+going to set the
+
+0:07:44.080,0:07:50.240
+speed to be three so we
+
+0:07:47.599,0:07:51.840
+we made the variable uh we set its
+
+0:07:50.240,0:07:53.360
+initial value
+
+0:07:51.840,0:07:54.879
+um and then we're going to use the
+
+0:07:53.360,0:07:55.199
+variable so i'm going to go ahead and
+
+0:07:54.879,0:08:00.240
+take
+
+0:07:55.199,0:08:03.440
+speed and drop it into move speed steps
+
+0:08:00.240,0:08:04.400
+so with that change it's the exact same
+
+0:08:03.440,0:08:07.440
+as it was before
+
+0:08:04.400,0:08:08.879
+no no no change at all yet right
+
+0:08:07.440,0:08:11.199
+but usually what we want to do with
+
+0:08:08.879,0:08:13.120
+variables is we want to create them
+
+0:08:11.199,0:08:14.720
+we want to initialize their value we
+
+0:08:13.120,0:08:15.199
+want to use them we also want to change
+
+0:08:14.720,0:08:16.800
+them
+
+0:08:15.199,0:08:19.599
+so let's go ahead and do this to change
+
+0:08:16.800,0:08:23.919
+it let's add two more if statements
+
+0:08:19.599,0:08:25.919
+i add an if statement for up arrow
+
+0:08:23.919,0:08:27.840
+and for down arrow so i'll go ahead and
+
+0:08:25.919,0:08:32.240
+do one of them with you
+
+0:08:27.840,0:08:34.000
+so if touching up arrow
+
+0:08:32.240,0:08:38.000
+well with up arrow we want the speed to
+
+0:08:34.000,0:08:38.000
+go up so i'm going to go to variables
+
+0:08:38.479,0:08:42.080
+and this time i'm going to say change
+
+0:08:41.039,0:08:45.760
+the variable so
+
+0:08:42.080,0:08:47.120
+change speed and i'm going to make it go
+
+0:08:45.760,0:08:49.680
+up by just a half
+
+0:08:47.120,0:08:51.279
+so i'm going to go up a half so this
+
+0:08:49.680,0:08:54.320
+will be kind of hard for you
+
+0:08:51.279,0:08:56.000
+but we've got the key up arrow makes it
+
+0:08:54.320,0:08:58.240
+go up by a half
+
+0:08:56.000,0:08:59.680
+how could down arrow make it go like
+
+0:08:58.240,0:09:00.959
+down by a half
+
+0:08:59.680,0:09:02.880
+so you're going to need a negative in
+
+0:09:00.959,0:09:04.640
+there see if you can do it all by
+
+0:09:02.880,0:09:07.120
+yourself
+
+0:09:04.640,0:09:08.000
+all right so i got mine added so i said
+
+0:09:07.120,0:09:10.240
+if down
+
+0:09:08.000,0:09:11.279
+arrow pressed then change speed by
+
+0:09:10.240,0:09:12.720
+negative 0.5
+
+0:09:11.279,0:09:14.320
+now let's review the code a little bit
+
+0:09:12.720,0:09:15.920
+before we move on because there's a lot
+
+0:09:14.320,0:09:17.920
+of little pieces here
+
+0:09:15.920,0:09:19.279
+so when green flag collect the two
+
+0:09:17.920,0:09:20.959
+motions i think we got that
+
+0:09:19.279,0:09:22.959
+here's what all we did was speed we set
+
+0:09:20.959,0:09:24.720
+it up to the top make sure it says speed
+
+0:09:22.959,0:09:26.240
+in your code not my variable
+
+0:09:24.720,0:09:28.160
+by the way sometimes i like to delete
+
+0:09:26.240,0:09:29.920
+that old nasty my variable
+
+0:09:28.160,0:09:31.839
+because it just causes me problems right
+
+0:09:29.920,0:09:33.839
+make sure it says speed speed
+
+0:09:31.839,0:09:35.120
+speed speed no my variables anywhere so
+
+0:09:33.839,0:09:38.160
+we set it
+
+0:09:35.120,0:09:40.160
+we use it and we modify it i think
+
+0:09:38.160,0:09:42.720
+mine's ready to go so now my fish
+
+0:09:40.160,0:09:44.320
+can swim around now my fish kind of
+
+0:09:42.720,0:09:46.080
+turns a little quick
+
+0:09:44.320,0:09:47.200
+if i wanted to i could change that but
+
+0:09:46.080,0:09:48.240
+i'm not worried about it the thing i
+
+0:09:47.200,0:09:50.320
+want to test here is
+
+0:09:48.240,0:09:52.240
+does my up arrow change my speed oh it
+
+0:09:50.320,0:09:52.880
+sure does so now i'm kind of zipping and
+
+0:09:52.240,0:09:56.240
+zooming
+
+0:09:52.880,0:09:57.680
+um i could also uh slow down so
+
+0:09:56.240,0:09:59.279
+uh it's interesting i can actually make
+
+0:09:57.680,0:10:01.200
+my fish to where he stops
+
+0:09:59.279,0:10:02.560
+which is kind of cool and then this is
+
+0:10:01.200,0:10:04.959
+not really realistic
+
+0:10:02.560,0:10:06.399
+but your fish can in fact swim backwards
+
+0:10:04.959,0:10:08.320
+right
+
+0:10:06.399,0:10:11.839
+that's fine right but it's a really good
+
+0:10:08.320,0:10:11.839
+example of variables
+
+0:10:12.000,0:10:15.279
+all right so let's go ahead and save our
+
+0:10:14.399,0:10:20.480
+game
+
+0:10:15.279,0:10:22.720
+i'm going to call mine fish lunch
+
+0:10:20.480,0:10:24.560
+um and i think we're ready to add our
+
+0:10:22.720,0:10:26.000
+next sprite
+
+0:10:24.560,0:10:28.000
+so the next sprite that we're going to
+
+0:10:26.000,0:10:29.200
+add is the uh actually let's put a
+
+0:10:28.000,0:10:30.959
+background on first i
+
+0:10:29.200,0:10:33.920
+my fish is swimming around in white
+
+0:10:30.959,0:10:35.920
+let's go ahead and choose a background
+
+0:10:33.920,0:10:38.079
+you can choose any background that's
+
+0:10:35.920,0:10:40.800
+appropriate for what you want
+
+0:10:38.079,0:10:42.000
+mine's a fish so mine's underwater so
+
+0:10:40.800,0:10:44.000
+you can see i've got two good
+
+0:10:42.000,0:10:47.200
+underwater options i'll just pick this
+
+0:10:44.000,0:10:48.560
+one so now i've got a background
+
+0:10:47.200,0:10:50.640
+and now what i really want to do is i
+
+0:10:48.560,0:10:51.600
+want to go see what my campers have
+
+0:10:50.640,0:10:52.959
+picked for their
+
+0:10:51.600,0:10:54.480
+uh because i'm sure that they did not
+
+0:10:52.959,0:10:55.120
+all pick fish right because they're all
+
+0:10:54.480,0:10:57.120
+crazy
+
+0:10:55.120,0:10:58.560
+uh what they picked for their fish what
+
+0:10:57.120,0:11:00.000
+they picked for the background
+
+0:10:58.560,0:11:01.120
+and things like that all right neela
+
+0:11:00.000,0:11:02.320
+what do you make what do you have going
+
+0:11:01.120,0:11:05.360
+on the party
+
+0:11:02.320,0:11:06.079
+where the care bears are trying to get
+
+0:11:05.360,0:11:08.720
+the units
+
+0:11:06.079,0:11:10.480
+so she made a party with a unicorn uh
+
+0:11:08.720,0:11:12.240
+and she's got a plan to have like
+
+0:11:10.480,0:11:14.640
+care bears in there bowen what did you
+
+0:11:12.240,0:11:18.000
+do i made a draco
+
+0:11:14.640,0:11:20.399
+a draco that's a type of gecko
+
+0:11:18.000,0:11:21.680
+make him fly around some yeah i'll make
+
+0:11:20.399,0:11:24.160
+it that's cool
+
+0:11:21.680,0:11:25.440
+so my campers uh have a few skills that
+
+0:11:24.160,0:11:27.519
+we're going to teach you today about how
+
+0:11:25.440,0:11:28.800
+to get things off the internet so draco
+
+0:11:27.519,0:11:30.880
+actually came from the internet we'll
+
+0:11:28.800,0:11:32.720
+teach you how to do that today
+
+0:11:30.880,0:11:34.399
+uh mckinley's got a dolphin swimming
+
+0:11:32.720,0:11:36.240
+around so she's also got an underwater
+
+0:11:34.399,0:11:37.920
+she's zipping and zooming
+
+0:11:36.240,0:11:40.399
+and then keegan what have you got today
+
+0:11:37.920,0:11:41.120
+minion uh he's got a minion so yeah so
+
+0:11:40.399,0:11:42.640
+he also
+
+0:11:41.120,0:11:45.279
+uh grabbed something from the internet
+
+0:11:42.640,0:11:46.560
+uh which we will show you uh today
+
+0:11:45.279,0:11:49.839
+all right so the next thing we want to
+
+0:11:46.560,0:11:52.160
+do is uh make a new sprite
+
+0:11:49.839,0:11:53.600
+this next sprite is going to be our food
+
+0:11:52.160,0:11:56.480
+so you can see that we've got the
+
+0:11:53.600,0:11:58.079
+the food over here the food what i want
+
+0:11:56.480,0:11:58.959
+you to do is i want you to practice
+
+0:11:58.079,0:12:02.480
+drawing
+
+0:11:58.959,0:12:02.880
+for a sprite so click on um or hover
+
+0:12:02.480,0:12:05.200
+over
+
+0:12:02.880,0:12:06.720
+sorry where it says choose a sprite and
+
+0:12:05.200,0:12:07.200
+in the past we've always just clicked it
+
+0:12:06.720,0:12:09.120
+right
+
+0:12:07.200,0:12:10.800
+well clicking it is actually the same as
+
+0:12:09.120,0:12:11.440
+choose a sprite right so it's the same
+
+0:12:10.800,0:12:14.000
+thing
+
+0:12:11.440,0:12:16.160
+but you can also paint a sprite or you
+
+0:12:14.000,0:12:17.360
+can upload an image of a sprite
+
+0:12:16.160,0:12:19.200
+this time what i want you to do for your
+
+0:12:17.360,0:12:22.240
+food is i want you to paint a sprite
+
+0:12:19.200,0:12:25.279
+so go ahead and click on paint
+
+0:12:22.240,0:12:26.800
+that will bring up the drawing canvas um
+
+0:12:25.279,0:12:27.920
+and what i want you to do is i want you
+
+0:12:26.800,0:12:31.839
+to draw
+
+0:12:27.920,0:12:34.560
+your food so for example uh my fish food
+
+0:12:31.839,0:12:37.040
+is just gonna be a few brown circles so
+
+0:12:34.560,0:12:39.839
+i'm gonna learn about the circle tool
+
+0:12:37.040,0:12:41.839
+so i set my color to a brown i can
+
+0:12:39.839,0:12:44.160
+decide if it has an outline or not
+
+0:12:41.839,0:12:45.680
+maybe i want a thin outline so maybe
+
+0:12:44.160,0:12:48.160
+i'll make like a really thin outline
+
+0:12:45.680,0:12:49.360
+um and i'll just draw a couple uh food
+
+0:12:48.160,0:12:52.320
+pellets right
+
+0:12:49.360,0:12:53.839
+so this is just kind of fish food you
+
+0:12:52.320,0:12:56.880
+can also do things with
+
+0:12:53.839,0:12:59.360
+with different colors if you want so i
+
+0:12:56.880,0:13:02.240
+can make some of them brown
+
+0:12:59.360,0:13:03.060
+or maybe i can make another one like a
+
+0:13:02.240,0:13:04.639
+darker green
+
+0:13:03.060,0:13:05.839
+[Music]
+
+0:13:04.639,0:13:07.519
+you can really just kind of draw
+
+0:13:05.839,0:13:08.800
+whatever you want there's there's no
+
+0:13:07.519,0:13:11.680
+right or wrong answer
+
+0:13:08.800,0:13:13.440
+uh to fish food right so feel free to
+
+0:13:11.680,0:13:15.279
+just play around a little bit
+
+0:13:13.440,0:13:16.639
+until you're happy with uh with your
+
+0:13:15.279,0:13:18.000
+food
+
+0:13:16.639,0:13:19.680
+don't worry about the size when you're
+
+0:13:18.000,0:13:20.880
+drawing because the size you'll take
+
+0:13:19.680,0:13:23.519
+care of
+
+0:13:20.880,0:13:24.959
+with the size that's over here so draw
+
+0:13:23.519,0:13:28.480
+it big
+
+0:13:24.959,0:13:31.279
+and then resize it over there so
+
+0:13:28.480,0:13:34.000
+go nuts until you're really happy with
+
+0:13:31.279,0:13:36.160
+your food sprites
+
+0:13:34.000,0:13:38.560
+all right so my camper's got their food
+
+0:13:36.160,0:13:41.040
+drawn some some some good food out there
+
+0:13:38.560,0:13:42.320
+let's go into the code for the food so
+
+0:13:41.040,0:13:45.279
+this is a sprite
+
+0:13:42.320,0:13:46.959
+so it's got code like most codes it's
+
+0:13:45.279,0:13:49.839
+going to start off with a win
+
+0:13:46.959,0:13:51.920
+green flag clicked it's a very common
+
+0:13:49.839,0:13:53.360
+thing to do
+
+0:13:51.920,0:13:55.360
+and then the next thing i like to do is
+
+0:13:53.360,0:13:56.240
+i like to set the starting position of
+
+0:13:55.360,0:13:57.680
+the food
+
+0:13:56.240,0:13:59.600
+but it's going to be a little different
+
+0:13:57.680,0:14:02.639
+i want it to be different every time
+
+0:13:59.600,0:14:05.199
+so i'm actually going to say go to
+
+0:14:02.639,0:14:05.760
+random position so you can try this a
+
+0:14:05.199,0:14:07.040
+couple times
+
+0:14:05.760,0:14:09.440
+when i hit the game start you can see
+
+0:14:07.040,0:14:10.880
+one time it showed up up here
+
+0:14:09.440,0:14:13.760
+and then i hit game start again it
+
+0:14:10.880,0:14:15.839
+showed up way way down there
+
+0:14:13.760,0:14:17.120
+and every time you play your game the
+
+0:14:15.839,0:14:18.959
+food will start
+
+0:14:17.120,0:14:20.639
+somewhere different which is kind of the
+
+0:14:18.959,0:14:22.399
+goal
+
+0:14:20.639,0:14:24.240
+by the way if this fish speed is in your
+
+0:14:22.399,0:14:25.760
+way you can
+
+0:14:24.240,0:14:28.160
+you can move it to somewhere different
+
+0:14:25.760,0:14:29.920
+if you want so like maybe like jam it
+
+0:14:28.160,0:14:32.240
+way up over here
+
+0:14:29.920,0:14:33.440
+you could also change its readout so you
+
+0:14:32.240,0:14:35.440
+can make it like a
+
+0:14:33.440,0:14:37.120
+number readout if you wanted so you
+
+0:14:35.440,0:14:38.720
+right click on it
+
+0:14:37.120,0:14:40.240
+or you could change it to a slider
+
+0:14:38.720,0:14:41.519
+readout
+
+0:14:40.240,0:14:43.360
+or you could change it to just the
+
+0:14:41.519,0:14:44.800
+normal readout just letting you know
+
+0:14:43.360,0:14:45.279
+that you can kind of move those around a
+
+0:14:44.800,0:14:47.360
+little bit
+
+0:14:45.279,0:14:48.399
+i'm going to jam mine in the upper right
+
+0:14:47.360,0:14:50.560
+hand corner
+
+0:14:48.399,0:14:51.920
+just to kind of get it out of the way
+
+0:14:50.560,0:14:53.519
+all right so right now
+
+0:14:51.920,0:14:55.199
+your food shows up in a random spot but
+
+0:14:53.519,0:14:57.600
+when you eat the food
+
+0:14:55.199,0:14:58.720
+nothing happens right so i want to fix
+
+0:14:57.600,0:15:02.000
+that
+
+0:14:58.720,0:15:04.320
+so i want my food to forever
+
+0:15:02.000,0:15:05.680
+be sensing for the fish so the food is
+
+0:15:04.320,0:15:06.480
+going to check to see if the fish
+
+0:15:05.680,0:15:08.079
+touches it
+
+0:15:06.480,0:15:10.320
+so i got to do it forever so the first
+
+0:15:08.079,0:15:13.120
+thing is i go to control
+
+0:15:10.320,0:15:14.720
+or add a forever loop one mistake people
+
+0:15:13.120,0:15:15.920
+sometimes make is they add on an if
+
+0:15:14.720,0:15:17.040
+statement right now
+
+0:15:15.920,0:15:19.199
+and that would be bad because it would
+
+0:15:17.040,0:15:19.680
+just check one time and then never never
+
+0:15:19.199,0:15:21.519
+again
+
+0:15:19.680,0:15:23.519
+we want to forever check right so i'm
+
+0:15:21.519,0:15:26.639
+going to say forever
+
+0:15:23.519,0:15:28.639
+and then i'm going to do if and then i
+
+0:15:26.639,0:15:31.600
+want to sense if i'm touching the fish
+
+0:15:28.639,0:15:32.480
+so the if part is going to be in sensing
+
+0:15:31.600,0:15:36.079
+i'm going to say
+
+0:15:32.480,0:15:37.600
+touching mouse pointer
+
+0:15:36.079,0:15:39.519
+now obviously i don't want the mouse
+
+0:15:37.600,0:15:41.759
+pointer but that's why that white
+
+0:15:39.519,0:15:42.560
+drop down is on there so i hit the white
+
+0:15:41.759,0:15:45.519
+drop down
+
+0:15:42.560,0:15:46.079
+and now you can select the name of your
+
+0:15:45.519,0:15:48.720
+sprite
+
+0:15:46.079,0:15:51.279
+so in this case in my case it's the fish
+
+0:15:48.720,0:15:54.639
+so if i'm touching the fish
+
+0:15:51.279,0:15:55.920
+what happens so um i like sounds
+
+0:15:54.639,0:15:58.079
+so i'm probably going to make some kind
+
+0:15:55.920,0:15:58.800
+of sound i'm going to see what kind of
+
+0:15:58.079,0:16:00.399
+sounds
+
+0:15:58.800,0:16:02.160
+this thing has by default it's got it
+
+0:16:00.399,0:16:04.639
+it's got a pop sound
+
+0:16:02.160,0:16:05.759
+pop is okay i could use pop but if you
+
+0:16:04.639,0:16:08.480
+want to make a different sound just
+
+0:16:05.759,0:16:11.600
+click on this choose a sound down here
+
+0:16:08.480,0:16:14.320
+and i always like chomp
+
+0:16:11.600,0:16:15.839
+so now i can play a pop sound or i can
+
+0:16:14.320,0:16:17.440
+play a chop sound
+
+0:16:15.839,0:16:19.120
+so now i've got those kind of like in my
+
+0:16:17.440,0:16:21.040
+library i go back to the codes you can
+
+0:16:19.120,0:16:22.959
+easily switch to sounds
+
+0:16:21.040,0:16:25.600
+or you can go back to code and in code
+
+0:16:22.959,0:16:28.800
+what i want to do is i want to go sound
+
+0:16:25.600,0:16:29.279
+and i want to put on a play or sorry
+
+0:16:28.800,0:16:32.240
+start
+
+0:16:29.279,0:16:32.959
+sound chomp note that there's two
+
+0:16:32.240,0:16:35.199
+versions
+
+0:16:32.959,0:16:36.000
+there's start the sound which means just
+
+0:16:35.199,0:16:38.240
+play it real quick
+
+0:16:36.000,0:16:39.199
+and keep moving or there's play until
+
+0:16:38.240,0:16:41.920
+done
+
+0:16:39.199,0:16:43.120
+in this case i want to just start it
+
+0:16:41.920,0:16:45.120
+because i want to immediately do
+
+0:16:43.120,0:16:46.720
+something else
+
+0:16:45.120,0:16:48.800
+the next thing i want to do is i want to
+
+0:16:46.720,0:16:50.000
+give them a point so we're going to keep
+
+0:16:48.800,0:16:51.519
+a score
+
+0:16:50.000,0:16:53.680
+and so we're going to need a variable
+
+0:16:51.519,0:16:54.720
+for score so i've got to make another
+
+0:16:53.680,0:16:57.759
+variable
+
+0:16:54.720,0:16:58.880
+so go to variables or like old pros at
+
+0:16:57.759,0:17:00.720
+variables
+
+0:16:58.880,0:17:01.920
+you'll notice that this sprite has no
+
+0:17:00.720,0:17:05.839
+variables
+
+0:17:01.920,0:17:05.839
+so go and click on make a variable
+
+0:17:08.319,0:17:12.799
+i'm going to call this variable score
+
+0:17:11.199,0:17:15.199
+now the score variable
+
+0:17:12.799,0:17:17.520
+is global right so everybody uses score
+
+0:17:15.199,0:17:19.199
+the fish increments the score
+
+0:17:17.520,0:17:21.520
+other people see the score the score is
+
+0:17:19.199,0:17:25.039
+for all sprites so that's global
+
+0:17:21.520,0:17:27.360
+so i'm going to hit ok so now he's got a
+
+0:17:25.039,0:17:29.440
+score variable
+
+0:17:27.360,0:17:30.559
+somewhere we've got to initialize it to
+
+0:17:29.440,0:17:32.160
+zero
+
+0:17:30.559,0:17:34.400
+we could do it we could do this on
+
+0:17:32.160,0:17:36.000
+either place we could do it on the fish
+
+0:17:34.400,0:17:38.559
+or we could do it on the food
+
+0:17:36.000,0:17:40.720
+doesn't matter um since i'm currently
+
+0:17:38.559,0:17:43.360
+looking at the code for the for the
+
+0:17:40.720,0:17:45.280
+food um i put it on the food so i set
+
+0:17:43.360,0:17:47.440
+the score to zero to start
+
+0:17:45.280,0:17:49.120
+so the same pattern so we made it we
+
+0:17:47.440,0:17:50.640
+initialized a value
+
+0:17:49.120,0:17:52.559
+the next thing we want to do is we want
+
+0:17:50.640,0:17:55.919
+to change it
+
+0:17:52.559,0:18:01.200
+so inside the if statement
+
+0:17:55.919,0:18:03.200
+put a change score by 1.
+
+0:18:01.200,0:18:05.200
+and then the last thing we want to do is
+
+0:18:03.200,0:18:07.760
+we want to move our food
+
+0:18:05.200,0:18:08.559
+to a different spot so they they score a
+
+0:18:07.760,0:18:12.880
+point
+
+0:18:08.559,0:18:17.600
+and then it moves on you so go to motion
+
+0:18:12.880,0:18:17.600
+and find go to random position
+
+0:18:19.600,0:18:24.000
+so you can see that it starts at zero it
+
+0:18:22.559,0:18:27.039
+goes to random position
+
+0:18:24.000,0:18:29.679
+if the fish touches it i make the sound
+
+0:18:27.039,0:18:30.559
+i change the score and i go somewhere
+
+0:18:29.679,0:18:33.440
+new
+
+0:18:30.559,0:18:35.919
+let's try it so i run my code so now
+
+0:18:33.440,0:18:39.120
+whenever i get my food
+
+0:18:35.919,0:18:41.520
+it makes a chomp i score a point
+
+0:18:39.120,0:18:42.559
+and it goes somewhere new now since
+
+0:18:41.520,0:18:44.080
+there's no enemies
+
+0:18:42.559,0:18:46.799
+the game's pretty easy right so i can
+
+0:18:44.080,0:18:50.559
+just go pretty fast with my fish
+
+0:18:46.799,0:18:50.559
+and i can just chomp things away wow
+
+0:18:51.840,0:18:56.400
+now with no enemies you can do this
+
+0:18:54.559,0:18:58.640
+until you get bored
+
+0:18:56.400,0:18:59.840
+but eventually you will get tired of
+
+0:18:58.640,0:19:02.240
+collecting food
+
+0:18:59.840,0:19:03.679
+because it's a little bit too easy right
+
+0:19:02.240,0:19:05.840
+i mean it's still fun
+
+0:19:03.679,0:19:06.799
+but it's but it's a little bit too easy
+
+0:19:05.840,0:19:07.840
+all right i'm going to see how my
+
+0:19:06.799,0:19:10.080
+campers are doing
+
+0:19:07.840,0:19:11.760
+i want to get them caught up uh show us
+
+0:19:10.080,0:19:16.160
+what you've got so far
+
+0:19:11.760,0:19:20.640
+so this is nila's so she's got a unicorn
+
+0:19:16.160,0:19:23.679
+um and then she's got a um
+
+0:19:20.640,0:19:25.620
+rainbow that she's uh she's collecting
+
+0:19:23.679,0:19:26.960
+cool so fun fun theme nila
+
+0:19:25.620,0:19:29.440
+[Music]
+
+0:19:26.960,0:19:31.440
+let's see what bowen's got oh bowen did
+
+0:19:29.440,0:19:35.039
+a great job with drawing
+
+0:19:31.440,0:19:37.679
+uh he drew a little fly um and he's got
+
+0:19:35.039,0:19:40.720
+his draco lizard that's flying around
+
+0:19:37.679,0:19:40.720
+why can't i catch you
+
+0:19:41.039,0:19:45.039
+oh it's close uh and bow and your score
+
+0:19:43.600,0:19:46.720
+isn't incrementing yet but we'll fix
+
+0:19:45.039,0:19:49.200
+that easy peasy okay buddy
+
+0:19:46.720,0:19:50.240
+okay uh let's have [ __ ] let's see what
+
+0:19:49.200,0:19:53.840
+you've got
+
+0:19:50.240,0:19:56.400
+so you've got uh a dolphin uh eating uh
+
+0:19:53.840,0:19:57.280
+a little tuna fish right uh-huh or like
+
+0:19:56.400,0:19:59.120
+a goldfish
+
+0:19:57.280,0:20:01.360
+you did a nice job a little like orange
+
+0:19:59.120,0:20:04.240
+goldfish nice
+
+0:20:01.360,0:20:04.960
+keegan what's your theme uh you've got a
+
+0:20:04.240,0:20:07.679
+minion
+
+0:20:04.960,0:20:09.200
+uh eating a banana that's a pretty
+
+0:20:07.679,0:20:10.640
+impressively drawn banana i'm
+
+0:20:09.200,0:20:11.120
+questioning whether you drew it all or
+
+0:20:10.640,0:20:14.400
+not
+
+0:20:11.120,0:20:17.360
+uh but it looks uh it looks great cool
+
+0:20:14.400,0:20:19.520
+super progress you guys all right i
+
+0:20:17.360,0:20:21.120
+think we are ready for some enemies
+
+0:20:19.520,0:20:23.600
+because our game is too easy
+
+0:20:21.120,0:20:25.360
+so i'm going to add one enemy that's
+
+0:20:23.600,0:20:26.799
+like from the the library
+
+0:20:25.360,0:20:28.400
+so we've kind of discovered that you can
+
+0:20:26.799,0:20:29.840
+either just click on the circle or you
+
+0:20:28.400,0:20:31.679
+can click on this magnifying glass it's
+
+0:20:29.840,0:20:35.440
+the same button right
+
+0:20:31.679,0:20:37.840
+and what mine is is my game is a fish
+
+0:20:35.440,0:20:39.120
+and so i'm going to add a shark now you
+
+0:20:37.840,0:20:40.240
+can see that there's a couple different
+
+0:20:39.120,0:20:42.320
+sharks here
+
+0:20:40.240,0:20:44.240
+this one is like either a hammerhead
+
+0:20:42.320,0:20:46.159
+shark or regular shark
+
+0:20:44.240,0:20:48.080
+and then this shark actually has like an
+
+0:20:46.159,0:20:51.280
+animation i'm going to add
+
+0:20:48.080,0:20:53.520
+this shark as you can see it switched
+
+0:20:51.280,0:20:55.280
+over to his code which we have none
+
+0:20:53.520,0:20:56.720
+no big surprise we're going to start
+
+0:20:55.280,0:21:00.559
+with the event
+
+0:20:56.720,0:21:00.559
+when green flag clips
+
+0:21:00.640,0:21:04.000
+the next thing that i like to do is i
+
+0:21:02.240,0:21:06.320
+like to set his starting position
+
+0:21:04.000,0:21:07.679
+and his starting direction um oh by the
+
+0:21:06.320,0:21:09.600
+way he's a little big so i'm going to
+
+0:21:07.679,0:21:11.280
+move him to where i want him
+
+0:21:09.600,0:21:13.200
+i'm going to adjust his size if
+
+0:21:11.280,0:21:15.039
+necessary
+
+0:21:13.200,0:21:16.640
+and so i'm going to have my shark always
+
+0:21:15.039,0:21:18.320
+start from right here
+
+0:21:16.640,0:21:20.480
+so if i want to always start from right
+
+0:21:18.320,0:21:24.799
+there i go to motion
+
+0:21:20.480,0:21:27.440
+and i drag over a go to xy
+
+0:21:24.799,0:21:29.360
+again as long as you've set him there
+
+0:21:27.440,0:21:30.640
+those numbers will just be correct
+
+0:21:29.360,0:21:33.120
+right that's one thing that i love about
+
+0:21:30.640,0:21:35.200
+scratch the next thing we're going to do
+
+0:21:33.120,0:21:38.559
+is we're going to decide what direction
+
+0:21:35.200,0:21:40.960
+that he should point in so he's going to
+
+0:21:38.559,0:21:44.159
+just continually move in a line
+
+0:21:40.960,0:21:45.520
+in some direction now if we ran this
+
+0:21:44.159,0:21:47.840
+game right now
+
+0:21:45.520,0:21:49.280
+he would be pointing to the right and
+
+0:21:47.840,0:21:50.240
+eventually he's going to move he's not
+
+0:21:49.280,0:21:51.840
+moving yet
+
+0:21:50.240,0:21:54.400
+let's go and make a move so let's go
+
+0:21:51.840,0:21:58.159
+control
+
+0:21:54.400,0:22:01.039
+forever and then in motion we're going
+
+0:21:58.159,0:22:01.039
+to make him move
+
+0:22:01.600,0:22:07.840
+and then this is a fun trick
+
+0:22:04.720,0:22:10.840
+inside movement there's a very special
+
+0:22:07.840,0:22:13.020
+type of movement it says if on edge
+
+0:22:10.840,0:22:14.559
+bounce this is kind of fun
+
+0:22:13.020,0:22:17.840
+[Music]
+
+0:22:14.559,0:22:18.640
+if on edge bounce so right now if you
+
+0:22:17.840,0:22:20.320
+run him
+
+0:22:18.640,0:22:22.559
+he's going to point to the right and
+
+0:22:20.320,0:22:24.840
+he's just going to go back and forth
+
+0:22:22.559,0:22:27.280
+the whole time which is kind of neat
+
+0:22:24.840,0:22:29.520
+right
+
+0:22:27.280,0:22:30.559
+now that's good i'm happy about how
+
+0:22:29.520,0:22:32.240
+things are going
+
+0:22:30.559,0:22:34.240
+but i don't want him to always go to the
+
+0:22:32.240,0:22:36.320
+right i could set a different direction
+
+0:22:34.240,0:22:37.760
+for him but i want him to go in a random
+
+0:22:36.320,0:22:39.280
+direction every time
+
+0:22:37.760,0:22:41.760
+so here's what we're going to do instead
+
+0:22:39.280,0:22:44.880
+of saying point in direction 90
+
+0:22:41.760,0:22:47.760
+i'm going to go to operators and i'm
+
+0:22:44.880,0:22:49.360
+going to pick a random number
+
+0:22:47.760,0:22:51.679
+so i'm going to drag over this pick
+
+0:22:49.360,0:22:52.159
+random and i'm going to put it right
+
+0:22:51.679,0:22:55.280
+here
+
+0:22:52.159,0:22:56.960
+on point in direction
+
+0:22:55.280,0:22:58.799
+uh now this seems like a math lesson
+
+0:22:56.960,0:23:02.159
+opportunity right now it says
+
+0:22:58.799,0:23:03.280
+one degree to 10 degrees if i want all
+
+0:23:02.159,0:23:05.280
+the different options
+
+0:23:03.280,0:23:06.320
+so like not just one but all the
+
+0:23:05.280,0:23:07.280
+different options so you can start in
+
+0:23:06.320,0:23:08.960
+any direction
+
+0:23:07.280,0:23:10.559
+what number do i need to put here
+
+0:23:08.960,0:23:12.000
+campers this might be a question for
+
+0:23:10.559,0:23:13.000
+keegan keegan what's all the way around
+
+0:23:12.000,0:23:16.320
+the circle
+
+0:23:13.000,0:23:16.919
+108 not 180 different number double that
+
+0:23:16.320,0:23:20.480
+much
+
+0:23:16.919,0:23:23.919
+360. 360. neil i got it
+
+0:23:20.480,0:23:26.320
+way to go neela so now if i run it uh
+
+0:23:23.919,0:23:27.840
+one time he picked that direction uh and
+
+0:23:26.320,0:23:29.360
+then another time he picked a different
+
+0:23:27.840,0:23:31.200
+direction but this gives him a
+
+0:23:29.360,0:23:32.640
+a little bit of randomness right so
+
+0:23:31.200,0:23:34.720
+every time you do it
+
+0:23:32.640,0:23:36.080
+he goes in a different direction all
+
+0:23:34.720,0:23:38.480
+right next thing i want to do
+
+0:23:36.080,0:23:40.640
+is if i hit the fish um something should
+
+0:23:38.480,0:23:43.200
+happen right so like if i hit the fish
+
+0:23:40.640,0:23:44.559
+um the the game should end right so i
+
+0:23:43.200,0:23:47.679
+need an if statement
+
+0:23:44.559,0:23:47.679
+so i'm going to go into control
+
+0:23:47.919,0:23:51.840
+i'm going to take an if statement here
+
+0:23:52.559,0:23:57.679
+and what i want to do is i want to sense
+
+0:23:55.600,0:24:00.880
+whether i'm touching the fish or not so
+
+0:23:57.679,0:24:00.880
+i'm going to say touching
+
+0:24:02.840,0:24:07.440
+fish
+
+0:24:04.960,0:24:09.360
+so if i'm touching the fish i want
+
+0:24:07.440,0:24:10.960
+something to happen
+
+0:24:09.360,0:24:12.559
+in this particular case we're going to
+
+0:24:10.960,0:24:15.200
+make something interesting happen
+
+0:24:12.559,0:24:17.039
+we're going to broadcast an event that
+
+0:24:15.200,0:24:18.720
+we've hit the fish
+
+0:24:17.039,0:24:20.640
+broadcasting events is something new
+
+0:24:18.720,0:24:22.000
+it's something we've never seen before
+
+0:24:20.640,0:24:24.559
+but if i hit the fish i'm going to
+
+0:24:22.000,0:24:26.960
+scream to everybody i hit the fish
+
+0:24:24.559,0:24:28.400
+um and then everybody can respond to it
+
+0:24:26.960,0:24:31.120
+that's that way we know
+
+0:24:28.400,0:24:32.000
+so events are actually well sorry
+
+0:24:31.120,0:24:34.400
+they're in the events
+
+0:24:32.000,0:24:35.760
+area and so i want to broadcast this
+
+0:24:34.400,0:24:39.760
+event so find where it says
+
+0:24:35.760,0:24:42.799
+broadcast message one and stick that
+
+0:24:39.760,0:24:44.840
+inside of here and what i want to do
+
+0:24:42.799,0:24:46.320
+here is i want to say instead of message
+
+0:24:44.840,0:24:49.600
+one
+
+0:24:46.320,0:24:52.400
+i want to broadcast a new message
+
+0:24:49.600,0:24:55.039
+and i'm going to broadcast a message
+
+0:24:52.400,0:24:55.039
+called hit
+
+0:24:56.960,0:25:00.320
+so it's kind of crazy i don't do
+
+0:24:58.640,0:25:02.480
+anything at all inside of here
+
+0:25:00.320,0:25:03.520
+i just scream to everybody i hit the
+
+0:25:02.480,0:25:05.600
+fish
+
+0:25:03.520,0:25:06.559
+and then everybody can respond to it
+
+0:25:05.600,0:25:08.559
+including me
+
+0:25:06.559,0:25:09.760
+right so including me i can respond to
+
+0:25:08.559,0:25:11.360
+this event
+
+0:25:09.760,0:25:12.960
+all right so what we want to do is we
+
+0:25:11.360,0:25:16.240
+want to
+
+0:25:12.960,0:25:16.960
+find a event that says like when i
+
+0:25:16.240,0:25:19.600
+receive
+
+0:25:16.960,0:25:20.799
+hit uh and so it's right here when i
+
+0:25:19.600,0:25:22.720
+receive
+
+0:25:20.799,0:25:24.240
+and you can see it says uh message one
+
+0:25:22.720,0:25:27.039
+i'm gonna switch that to hit
+
+0:25:24.240,0:25:28.080
+so everybody is gonna listen for this
+
+0:25:27.039,0:25:29.520
+event
+
+0:25:28.080,0:25:31.120
+and it's really no different than the
+
+0:25:29.520,0:25:32.720
+green flag event so the green flag is
+
+0:25:31.120,0:25:35.360
+when they press the green flag
+
+0:25:32.720,0:25:37.200
+and this is when the event hit occurs so
+
+0:25:35.360,0:25:39.200
+what do i want to do
+
+0:25:37.200,0:25:41.279
+when a hit occurs well the first thing i
+
+0:25:39.200,0:25:43.760
+want to do is i want to stop
+
+0:25:41.279,0:25:44.799
+my other script right so i want to stop
+
+0:25:43.760,0:25:48.080
+moving
+
+0:25:44.799,0:25:49.440
+so that's in control and this is kind of
+
+0:25:48.080,0:25:52.720
+confusing but it's
+
+0:25:49.440,0:25:54.320
+it's stop all but notice how this all
+
+0:25:52.720,0:25:55.520
+has a white arrow so you know you can
+
+0:25:54.320,0:25:58.880
+change it
+
+0:25:55.520,0:26:00.480
+i want to stop the other scripts so
+
+0:25:58.880,0:26:02.640
+the first thing that happens whenever
+
+0:26:00.480,0:26:03.919
+somebody hits whether it's this fish or
+
+0:26:02.640,0:26:06.799
+somebody else
+
+0:26:03.919,0:26:08.799
+we stop the other script so we're no
+
+0:26:06.799,0:26:09.840
+longer running that script anymore it's
+
+0:26:08.799,0:26:11.760
+done
+
+0:26:09.840,0:26:13.440
+now the only thing that happens is my
+
+0:26:11.760,0:26:16.000
+code here
+
+0:26:13.440,0:26:17.120
+just for fun what i want to do is i want
+
+0:26:16.000,0:26:20.799
+to glide
+
+0:26:17.120,0:26:22.080
+to the bottom so i try this this is
+
+0:26:20.799,0:26:26.559
+going to be something new for us
+
+0:26:22.080,0:26:26.559
+find the glide that has the x and the y
+
+0:26:27.600,0:26:31.919
+now gliding to the bottom uh the y is
+
+0:26:30.640,0:26:36.000
+like negative
+
+0:26:31.919,0:26:38.960
+180 i think that's the very bottom
+
+0:26:36.000,0:26:41.039
+and the x i don't want to move my
+
+0:26:38.960,0:26:42.799
+current x so wherever i hit the fish at
+
+0:26:41.039,0:26:44.400
+from that point i want to glide to the
+
+0:26:42.799,0:26:45.840
+bottom so the x
+
+0:26:44.400,0:26:47.840
+we actually there's no number we could
+
+0:26:45.840,0:26:49.120
+type in there instead we want the
+
+0:26:47.840,0:26:52.080
+variable that's called
+
+0:26:49.120,0:26:54.480
+x position so basically that means don't
+
+0:26:52.080,0:26:57.600
+change my x
+
+0:26:54.480,0:26:58.400
+so from wherever i'm at i want to glide
+
+0:26:57.600,0:27:01.039
+to the bottom
+
+0:26:58.400,0:27:02.320
+straight down which is at negative 180
+
+0:27:01.039,0:27:03.600
+in the y and i want to keep my x
+
+0:27:02.320,0:27:05.360
+position the same
+
+0:27:03.600,0:27:07.930
+you can decide how long to do that i'm
+
+0:27:05.360,0:27:10.559
+going to do it over two seconds
+
+0:27:07.930,0:27:13.520
+[Music]
+
+0:27:10.559,0:27:16.080
+so we're going to try our code now we
+
+0:27:13.520,0:27:18.000
+are broadcasting this hit message
+
+0:27:16.080,0:27:19.840
+but the only person so far that's
+
+0:27:18.000,0:27:21.440
+listening is
+
+0:27:19.840,0:27:22.070
+just the shark so i'm going to go and
+
+0:27:21.440,0:27:23.520
+hit play
+
+0:27:22.070,0:27:25.679
+[Music]
+
+0:27:23.520,0:27:26.559
+by the way my shark is way too fast i'll
+
+0:27:25.679,0:27:29.440
+fix that
+
+0:27:26.559,0:27:30.960
+and so you can see that once um once i
+
+0:27:29.440,0:27:34.559
+hit the shark
+
+0:27:30.960,0:27:36.640
+he does that fall to the bottom right
+
+0:27:34.559,0:27:37.600
+now other people should also listen to
+
+0:27:36.640,0:27:39.919
+this message
+
+0:27:37.600,0:27:40.720
+right so when i hit him he falls to the
+
+0:27:39.919,0:27:44.159
+bottom
+
+0:27:40.720,0:27:46.640
+all right so it's kind of silly for the
+
+0:27:44.159,0:27:48.000
+enemy to die but the fish to keep right
+
+0:27:46.640,0:27:51.120
+on swimming so let's have
+
+0:27:48.000,0:27:54.399
+the fish also respond to this head event
+
+0:27:51.120,0:27:55.760
+so come over to the fish's code and now
+
+0:27:54.399,0:27:57.200
+what we want to do with the fish is we
+
+0:27:55.760,0:27:59.039
+want to do the same thing we're going to
+
+0:27:57.200,0:28:01.760
+go to events
+
+0:27:59.039,0:28:04.240
+and he also is going to respond to the
+
+0:28:01.760,0:28:07.039
+hit event so when i receive hit
+
+0:28:04.240,0:28:08.399
+i'm going to do some things as well the
+
+0:28:07.039,0:28:10.799
+first thing i want to do
+
+0:28:08.399,0:28:12.080
+is i want to stop that other script that
+
+0:28:10.799,0:28:13.039
+was what was moving me around i want to
+
+0:28:12.080,0:28:15.440
+stop it
+
+0:28:13.039,0:28:17.440
+that's in control it's nor the very
+
+0:28:15.440,0:28:18.799
+bottom
+
+0:28:17.440,0:28:21.039
+i think this is confusing it's the one
+
+0:28:18.799,0:28:22.720
+that says stop all we don't want to stop
+
+0:28:21.039,0:28:25.760
+all not yet at least
+
+0:28:22.720,0:28:26.559
+but we want to stop other scripts in
+
+0:28:25.760,0:28:28.880
+this sprite
+
+0:28:26.559,0:28:30.320
+so i want to stop all the other scripts
+
+0:28:28.880,0:28:32.080
+so that's this script right here we're
+
+0:28:30.320,0:28:34.000
+going to stop doing it
+
+0:28:32.080,0:28:35.360
+and then we're going to make a sound
+
+0:28:34.000,0:28:38.080
+we're going to say like
+
+0:28:35.360,0:28:40.000
+game over or something like that now
+
+0:28:38.080,0:28:42.880
+normally what we do with sounds
+
+0:28:40.000,0:28:43.840
+is we go into the sound area and we pick
+
+0:28:42.880,0:28:45.200
+a sound
+
+0:28:43.840,0:28:46.880
+but you'll notice that there's different
+
+0:28:45.200,0:28:47.440
+options here too you can you can choose
+
+0:28:46.880,0:28:49.039
+the sound
+
+0:28:47.440,0:28:50.960
+just like you could choose uh sprite
+
+0:28:49.039,0:28:53.600
+images or you could
+
+0:28:50.960,0:28:54.640
+select a sound from your computer um or
+
+0:28:53.600,0:28:54.960
+this is the one we're going to do this
+
+0:28:54.640,0:28:57.039
+time
+
+0:28:54.960,0:28:58.240
+you could record a sound so we're going
+
+0:28:57.039,0:29:01.679
+to record a sound
+
+0:28:58.240,0:29:02.720
+so click on record it should ask you on
+
+0:29:01.679,0:29:04.159
+your computer
+
+0:29:02.720,0:29:06.080
+if you want to allow your microphone to
+
+0:29:04.159,0:29:07.360
+be used you have to say yes to that
+
+0:29:06.080,0:29:10.240
+and then you're going to click on record
+
+0:29:07.360,0:29:12.399
+here game over
+
+0:29:10.240,0:29:13.279
+so i recorded myself saying game over
+
+0:29:12.399,0:29:16.159
+once uh
+
+0:29:13.279,0:29:17.279
+you make a sound you can trim uh these
+
+0:29:16.159,0:29:18.720
+sides
+
+0:29:17.279,0:29:22.559
+uh such that it kind of like matches
+
+0:29:18.720,0:29:24.240
+your sound and then you can save it
+
+0:29:22.559,0:29:25.679
+you can name it if you want that's
+
+0:29:24.240,0:29:26.000
+optional i'm going to choose to name
+
+0:29:25.679,0:29:29.440
+mine
+
+0:29:26.000,0:29:30.000
+game over and then you can go back into
+
+0:29:29.440,0:29:31.760
+the code
+
+0:29:30.000,0:29:34.320
+and now you can use this sound just like
+
+0:29:31.760,0:29:37.760
+any other sound so i'm going to
+
+0:29:34.320,0:29:37.760
+start sound game over
+
+0:29:38.000,0:29:40.799
+and i'm going to play it now and see if
+
+0:29:39.200,0:29:42.640
+it works so whenever i hit my shark
+
+0:29:40.799,0:29:45.360
+who's still moving too fast
+
+0:29:42.640,0:29:46.159
+uh where yeah sure it should say game
+
+0:29:45.360,0:29:48.640
+over
+
+0:29:46.159,0:29:49.760
+so see if you can record your sound and
+
+0:29:48.640,0:29:51.919
+get it to say
+
+0:29:49.760,0:29:55.840
+game over or whatever you'd like
+
+0:29:51.919,0:29:55.840
+whenever your fish hits an enemy
+
+0:29:56.159,0:30:00.159
+all right so it says a message uh when
+
+0:29:58.640,0:30:00.880
+you when you lose the game says your
+
+0:30:00.159,0:30:02.960
+game over
+
+0:30:00.880,0:30:04.880
+let's also have it say something uh to
+
+0:30:02.960,0:30:06.799
+put your score on the screen
+
+0:30:04.880,0:30:08.960
+so to say something like in a speech
+
+0:30:06.799,0:30:10.240
+bubble that's in looks
+
+0:30:08.960,0:30:14.480
+and so we're going to grab the one that
+
+0:30:10.240,0:30:14.480
+says say hello for two seconds
+
+0:30:15.120,0:30:17.679
+now i'm going to zoom in a little bit
+
+0:30:16.399,0:30:19.440
+here so you can see what i'm about to do
+
+0:30:17.679,0:30:23.600
+now instead of saying hello
+
+0:30:19.440,0:30:27.039
+i want to say like you know great job
+
+0:30:23.600,0:30:28.640
+and then your score uh colon
+
+0:30:27.039,0:30:31.760
+so i want to tell them what their score
+
+0:30:28.640,0:30:33.600
+is now we did this last time too
+
+0:30:31.760,0:30:34.799
+if you want to like put two strings
+
+0:30:33.600,0:30:37.840
+together it's called
+
+0:30:34.799,0:30:41.200
+join and it's over in operators so i
+
+0:30:37.840,0:30:42.880
+want to find the one that says join
+
+0:30:41.200,0:30:44.880
+i'm going to put it in here on what i
+
+0:30:42.880,0:30:46.720
+typed was a loss there
+
+0:30:44.880,0:30:48.080
+so now i'm going to type it again great
+
+0:30:46.720,0:30:52.080
+job
+
+0:30:48.080,0:30:55.520
+score colon and then in variables
+
+0:30:52.080,0:30:58.159
+i'm going to drag over the score
+
+0:30:55.520,0:30:59.840
+so now when you finish the game so that
+
+0:30:58.159,0:31:03.120
+i got one point
+
+0:30:59.840,0:31:04.720
+it says great job score one
+
+0:31:03.120,0:31:06.240
+mine looked pretty good i want to say it
+
+0:31:04.720,0:31:06.720
+for a little longer i'm going to say it
+
+0:31:06.240,0:31:08.320
+for
+
+0:31:06.720,0:31:10.640
+five seconds just so they can kind of
+
+0:31:08.320,0:31:12.880
+see their score i'm going to go help my
+
+0:31:10.640,0:31:14.480
+campers type this but before i do
+
+0:31:12.880,0:31:16.240
+the last thing we're going to add on to
+
+0:31:14.480,0:31:20.159
+this script is
+
+0:31:16.240,0:31:22.240
+stop all so when the game is truly over
+
+0:31:20.159,0:31:23.679
+um it's nice to put a stop all in there
+
+0:31:22.240,0:31:24.799
+because you can see my green flag is
+
+0:31:23.679,0:31:26.240
+still like pressed down
+
+0:31:24.799,0:31:27.840
+that's because i didn't have that stop
+
+0:31:26.240,0:31:28.159
+all on there so i'm gonna do it one more
+
+0:31:27.840,0:31:30.799
+time
+
+0:31:28.159,0:31:31.679
+then i'm gonna help my campers so says
+
+0:31:30.799,0:31:34.880
+great job score
+
+0:31:31.679,0:31:37.360
+zero um and then it actually says um
+
+0:31:34.880,0:31:37.919
+stop all after five seconds four seconds
+
+0:31:37.360,0:31:39.840
+is probably
+
+0:31:37.919,0:31:42.080
+funny i'm gonna go help my campers type
+
+0:31:39.840,0:31:43.600
+some all right so i got mine tight for
+
+0:31:42.080,0:31:45.279
+everybody so we're doing pretty good the
+
+0:31:43.600,0:31:47.519
+only thing i want to change is i want to
+
+0:31:45.279,0:31:49.360
+change the speed of the enemy
+
+0:31:47.519,0:31:51.919
+and i also want to change the number of
+
+0:31:49.360,0:31:53.360
+enemies let's go play with his speed
+
+0:31:51.919,0:31:55.600
+now what i want to do is i want the game
+
+0:31:53.360,0:31:57.039
+to get progressively harder
+
+0:31:55.600,0:31:59.919
+so i'm going to go into my enemy over
+
+0:31:57.039,0:32:00.960
+here and i'm going to make a variable
+
+0:31:59.919,0:32:04.960
+and i'm going to call it
+
+0:32:00.960,0:32:06.399
+enemy speed so enemy speed is going to
+
+0:32:04.960,0:32:07.760
+be shared by all the enemies there's
+
+0:32:06.399,0:32:08.480
+eventually going to be a few different
+
+0:32:07.760,0:32:12.240
+enemies
+
+0:32:08.480,0:32:15.120
+so it's going to be for all sprites
+
+0:32:12.240,0:32:17.360
+so we created it like we normally do
+
+0:32:15.120,0:32:20.000
+we're going to set its value
+
+0:32:17.360,0:32:21.200
+we could set its value over in the fish
+
+0:32:20.000,0:32:22.799
+we could set it in the food
+
+0:32:21.200,0:32:24.480
+doesn't matter i'm going to set it right
+
+0:32:22.799,0:32:28.240
+here on my enemy code and i'm going to
+
+0:32:24.480,0:32:30.720
+set it to 10 to start with
+
+0:32:28.240,0:32:31.440
+and then i'm going to use enemy speed
+
+0:32:30.720,0:32:34.000
+where it says
+
+0:32:31.440,0:32:34.000
+move 10
+
+0:32:35.039,0:32:38.240
+and so now my speed is going to be
+
+0:32:36.720,0:32:39.840
+variable
+
+0:32:38.240,0:32:41.519
+i'm going to take my enemy speed and i'm
+
+0:32:39.840,0:32:42.960
+going to kind of put it up over here
+
+0:32:41.519,0:32:45.519
+by the other speed just to kind of like
+
+0:32:42.960,0:32:48.880
+smoosh them together
+
+0:32:45.519,0:32:51.039
+and so this speed can get increased
+
+0:32:48.880,0:32:53.200
+other places in the code so what i'm
+
+0:32:51.039,0:32:54.559
+going to do is i'm going to increase the
+
+0:32:53.200,0:32:55.840
+speed
+
+0:32:54.559,0:32:58.159
+other places in the code i'm going to
+
+0:32:55.840,0:32:59.840
+increase it over where food is at
+
+0:32:58.159,0:33:01.919
+so this is a neat interaction of things
+
+0:32:59.840,0:33:04.559
+so if i go over to food
+
+0:33:01.919,0:33:06.399
+food has totally different code food
+
+0:33:04.559,0:33:08.399
+increases the score
+
+0:33:06.399,0:33:10.240
+he's also going to change the enemy
+
+0:33:08.399,0:33:14.240
+speed so grab a change
+
+0:33:10.240,0:33:16.080
+enemy speed and put it right in here
+
+0:33:14.240,0:33:18.159
+and he's gonna bump up the enemy speed
+
+0:33:16.080,0:33:20.159
+by two
+
+0:33:18.159,0:33:21.919
+now i know it looks like the speed's
+
+0:33:20.159,0:33:22.559
+already too fast we're making it faster
+
+0:33:21.919,0:33:25.039
+that's coming
+
+0:33:22.559,0:33:26.640
+bear with me but it's kind of the same
+
+0:33:25.039,0:33:27.519
+pattern we did before we created the
+
+0:33:26.640,0:33:30.640
+variable
+
+0:33:27.519,0:33:31.919
+we initialized the variable we modified
+
+0:33:30.640,0:33:34.399
+it in a different sprite
+
+0:33:31.919,0:33:35.919
+that's fine and then we used it in this
+
+0:33:34.399,0:33:37.200
+sprite now what i'm going to do to slow
+
+0:33:35.919,0:33:39.039
+it down is i'm actually going to go to
+
+0:33:37.200,0:33:42.519
+control
+
+0:33:39.039,0:33:45.679
+and i'm going to add a weight of
+
+0:33:42.519,0:33:48.320
+0.1 seconds
+
+0:33:45.679,0:33:49.840
+and the reason i'm adding this delay is
+
+0:33:48.320,0:33:51.679
+that my sprite
+
+0:33:49.840,0:33:52.799
+has costumes that he can go through so
+
+0:33:51.679,0:33:54.080
+he can kind of like go through this
+
+0:33:52.799,0:33:56.159
+animation
+
+0:33:54.080,0:33:57.200
+so what i'm going to do for my sprite
+
+0:33:56.159,0:33:59.519
+since she has
+
+0:33:57.200,0:34:01.679
+different costumes is i'm going to drag
+
+0:33:59.519,0:34:04.480
+over a next costume
+
+0:34:01.679,0:34:05.840
+if your sprite only has one costume or
+
+0:34:04.480,0:34:08.079
+the different costumes don't look like
+
+0:34:05.840,0:34:09.440
+an animation you don't have to do that
+
+0:34:08.079,0:34:10.960
+but what i'm going to do here is now
+
+0:34:09.440,0:34:12.800
+it's going to kind of slow my guy down a
+
+0:34:10.960,0:34:16.079
+little bit to start with
+
+0:34:12.800,0:34:17.440
+and he's using his animation now what i
+
+0:34:16.079,0:34:19.119
+want to do is i want to see if he speeds
+
+0:34:17.440,0:34:20.720
+up so my fish is going to grab some food
+
+0:34:19.119,0:34:22.159
+pellets
+
+0:34:20.720,0:34:24.079
+and so you'll notice that now the enemy
+
+0:34:22.159,0:34:27.280
+speed for me is at 14
+
+0:34:24.079,0:34:30.399
+uh 16. so he it slowly
+
+0:34:27.280,0:34:31.839
+gets faster and faster right
+
+0:34:30.399,0:34:35.040
+and so you can kind of sense that he's
+
+0:34:31.839,0:34:38.960
+going faster now and then he ate my fish
+
+0:34:35.040,0:34:41.280
+head on so i'm actually pretty happy
+
+0:34:38.960,0:34:42.399
+with my code i've got an enemy speed
+
+0:34:41.280,0:34:44.320
+that increases
+
+0:34:42.399,0:34:45.520
+the only thing that i want to do is i
+
+0:34:44.320,0:34:48.079
+want to have more
+
+0:34:45.520,0:34:49.760
+enemies right now i could go into the
+
+0:34:48.079,0:34:50.560
+sprite library and i could get more
+
+0:34:49.760,0:34:52.480
+enemies
+
+0:34:50.560,0:34:53.760
+but i'm going to show you another trick
+
+0:34:52.480,0:34:56.000
+i'm going to show you this
+
+0:34:53.760,0:34:57.760
+upload sprite so what i'm going to do is
+
+0:34:56.000,0:35:01.040
+i'm going to go to the internet
+
+0:34:57.760,0:35:03.599
+so i'm going to go to to google
+
+0:35:01.040,0:35:04.240
+um and i'm gonna search for some type of
+
+0:35:03.599,0:35:06.000
+enemy
+
+0:35:04.240,0:35:08.640
+well if i'm a fish in the ocean one of
+
+0:35:06.000,0:35:12.240
+my main enemies uh is trash right
+
+0:35:08.640,0:35:15.599
+so i'm gonna click uh search for um soda
+
+0:35:12.240,0:35:17.680
+plastic rings so i'm
+
+0:35:15.599,0:35:19.359
+looking for images so whenever you're
+
+0:35:17.680,0:35:21.200
+looking for images in google you click
+
+0:35:19.359,0:35:22.880
+on images
+
+0:35:21.200,0:35:24.960
+and i actually want a certain type of
+
+0:35:22.880,0:35:26.079
+images i want images with transparent
+
+0:35:24.960,0:35:28.640
+backgrounds
+
+0:35:26.079,0:35:30.800
+you can improve the search results by
+
+0:35:28.640,0:35:34.480
+clicking on tools
+
+0:35:30.800,0:35:35.760
+uh color transparent so you type in what
+
+0:35:34.480,0:35:37.599
+you're searching for
+
+0:35:35.760,0:35:39.359
+and then you go to images i don't want
+
+0:35:37.599,0:35:40.000
+just any any images i want to go to
+
+0:35:39.359,0:35:42.880
+tools
+
+0:35:40.000,0:35:44.560
+i want transparent background images and
+
+0:35:42.880,0:35:45.920
+so now i've got some things that i think
+
+0:35:44.560,0:35:47.680
+that i want so i think that this one
+
+0:35:45.920,0:35:49.280
+looks pretty good
+
+0:35:47.680,0:35:51.839
+if it shows you this checker pattern
+
+0:35:49.280,0:35:53.359
+it's probably a transparent background
+
+0:35:51.839,0:35:55.680
+so you can right click on it and you can
+
+0:35:53.359,0:35:59.200
+say save image as
+
+0:35:55.680,0:36:01.440
+i will warn you that sometimes they
+
+0:35:59.200,0:36:02.320
+put they cheat like the internet's uh
+
+0:36:01.440,0:36:04.000
+ornery right
+
+0:36:02.320,0:36:06.400
+they put a checkerboard background on
+
+0:36:04.000,0:36:08.079
+there that's not actually transparent
+
+0:36:06.400,0:36:10.960
+now what i want to do over in sprite is
+
+0:36:08.079,0:36:14.720
+i want to say upload a sprite
+
+0:36:10.960,0:36:17.040
+and i'm going to pick my rings
+
+0:36:14.720,0:36:18.079
+um and so now my rings are part of this
+
+0:36:17.040,0:36:19.520
+and notice that since they had a
+
+0:36:18.079,0:36:20.720
+transparent background they look really
+
+0:36:19.520,0:36:23.359
+good right
+
+0:36:20.720,0:36:24.800
+i'm going to change their size and then
+
+0:36:23.359,0:36:26.720
+the nice thing about their code is that
+
+0:36:24.800,0:36:27.760
+their code is almost identical to the
+
+0:36:26.720,0:36:29.200
+sharks
+
+0:36:27.760,0:36:31.440
+the only thing that's different is where
+
+0:36:29.200,0:36:33.119
+it starts at right
+
+0:36:31.440,0:36:35.359
+when you have the same code it's nice
+
+0:36:33.119,0:36:38.400
+and easy you just
+
+0:36:35.359,0:36:40.000
+drag it from the shark over
+
+0:36:38.400,0:36:41.839
+and i want to drag both of these things
+
+0:36:40.000,0:36:44.079
+over
+
+0:36:41.839,0:36:45.119
+so now you can see my rings as soon as i
+
+0:36:44.079,0:36:47.599
+zoom out some
+
+0:36:45.119,0:36:49.040
+they should have the exact same code
+
+0:36:47.599,0:36:50.000
+where's the codec
+
+0:36:49.040,0:36:52.720
+all right i guess i'm going to do it
+
+0:36:50.000,0:36:56.160
+again so drag this one and drop it
+
+0:36:52.720,0:36:58.720
+on the rings there it came over
+
+0:36:56.160,0:37:00.800
+and the only thing that's different is
+
+0:36:58.720,0:37:02.640
+the starting position
+
+0:37:00.800,0:37:04.720
+so what i like to do is i like to put it
+
+0:37:02.640,0:37:07.359
+in the position that i want it
+
+0:37:04.720,0:37:09.440
+go to motion and then i can see that
+
+0:37:07.359,0:37:10.720
+what i really want is i want this go to
+
+0:37:09.440,0:37:12.240
+xy
+
+0:37:10.720,0:37:14.640
+now i can do i can do a couple of
+
+0:37:12.240,0:37:16.320
+different things i can just drop it in
+
+0:37:14.640,0:37:18.640
+after this one that would actually work
+
+0:37:16.320,0:37:20.720
+fine or i can get
+
+0:37:18.640,0:37:22.400
+rid of that one um or i could have just
+
+0:37:20.720,0:37:24.240
+changed the numbers in that one
+
+0:37:22.400,0:37:25.839
+so go add a couple of enemies what would
+
+0:37:24.240,0:37:27.680
+another good in may be
+
+0:37:25.839,0:37:29.440
+what did i use in my my first example oh
+
+0:37:27.680,0:37:32.640
+i used a water bottle
+
+0:37:29.440,0:37:34.480
+so i'm going to say water bottle
+
+0:37:32.640,0:37:36.160
+now one thing that annoys me about
+
+0:37:34.480,0:37:38.160
+google is it lost my my
+
+0:37:36.160,0:37:40.079
+tools color transparent so i have to
+
+0:37:38.160,0:37:43.040
+like put that back on every time
+
+0:37:40.079,0:37:44.640
+i'm not quite sure um and so you have to
+
+0:37:43.040,0:37:47.119
+try to find a good
+
+0:37:44.640,0:37:48.240
+um transparent background those are all
+
+0:37:47.119,0:37:49.520
+pretty good water bottles
+
+0:37:48.240,0:37:52.800
+i'm just gonna accept this one it'll be
+
+0:37:49.520,0:37:54.160
+fine right click save images
+
+0:37:52.800,0:37:56.320
+and i'm going to change there's a
+
+0:37:54.160,0:37:58.720
+shorter file name so bottle
+
+0:37:56.320,0:38:00.240
+is a good short name and you can see
+
+0:37:58.720,0:38:01.359
+i've already done this once
+
+0:38:00.240,0:38:03.680
+and then i'm going to come over to
+
+0:38:01.359,0:38:04.960
+scratch again i'm going to say upload
+
+0:38:03.680,0:38:07.440
+sprite
+
+0:38:04.960,0:38:08.720
+i'm going to pick that bottle image and
+
+0:38:07.440,0:38:09.440
+if it's got a good transparent
+
+0:38:08.720,0:38:10.880
+background
+
+0:38:09.440,0:38:13.119
+it should show up and kind of integrate
+
+0:38:10.880,0:38:14.320
+nicely with my game pretty common to
+
+0:38:13.119,0:38:16.480
+come in huge
+
+0:38:14.320,0:38:18.160
+i'm just going to make it a smaller size
+
+0:38:16.480,0:38:20.160
+so i think you kind of see the pattern
+
+0:38:18.160,0:38:21.440
+um and then you copy your code over from
+
+0:38:20.160,0:38:24.640
+another one
+
+0:38:21.440,0:38:25.680
+so you drop it in there you drop it in
+
+0:38:24.640,0:38:27.520
+there
+
+0:38:25.680,0:38:29.040
+and then the only thing that's different
+
+0:38:27.520,0:38:32.079
+about the code this time
+
+0:38:29.040,0:38:34.560
+is the starting position so go to
+
+0:38:32.079,0:38:35.119
+xy i'm going to put that one on and take
+
+0:38:34.560,0:38:37.680
+that one
+
+0:38:35.119,0:38:38.320
+out so i think that i've got a finished
+
+0:38:37.680,0:38:40.320
+game
+
+0:38:38.320,0:38:41.599
+so let's let me go ahead and try it so i
+
+0:38:40.320,0:38:43.040
+can get the the
+
+0:38:41.599,0:38:45.440
+the food i'm going to make a full screen
+
+0:38:43.040,0:38:47.520
+here i can get the food
+
+0:38:45.440,0:38:49.920
+um and my enemies get just a little bit
+
+0:38:47.520,0:38:51.200
+harder um and i can speed my fish up if
+
+0:38:49.920,0:38:53.119
+he's going too slow
+
+0:38:51.200,0:38:55.280
+uh so i'm going to go and try to get the
+
+0:38:53.119,0:38:57.760
+food up there oh i'm in trouble
+
+0:38:55.280,0:38:58.560
+so i got two that time but i think my
+
+0:38:57.760,0:39:01.920
+game is
+
+0:38:58.560,0:39:04.560
+done uh which is cool and you can see
+
+0:39:01.920,0:39:05.119
+uh how your game plays ah just won that
+
+0:39:04.560,0:39:07.200
+time
+
+0:39:05.119,0:39:09.520
+um but it should hopefully be uh pretty
+
+0:39:07.200,0:39:11.280
+fun so i think what i'm gonna do
+
+0:39:09.520,0:39:12.800
+is i'm gonna help my campers uh get
+
+0:39:11.280,0:39:14.800
+theirs finished uh
+
+0:39:12.800,0:39:16.960
+and then i'm going to see how they've
+
+0:39:14.800,0:39:17.440
+done i also like to click on share by
+
+0:39:16.960,0:39:20.000
+the way
+
+0:39:17.440,0:39:21.520
+it gives me a public page i like to send
+
+0:39:20.000,0:39:22.400
+this link to the grandparents and things
+
+0:39:21.520,0:39:28.400
+like that
+
+0:39:22.400,0:39:30.640
+all right campers let's see how you did
+
+0:39:28.400,0:39:31.839
+all right so you're first so tell us
+
+0:39:30.640,0:39:34.160
+what you've got
+
+0:39:31.839,0:39:34.160
+okay
+
+0:39:35.599,0:39:42.079
+so who's your uh who's your hero here
+
+0:39:38.960,0:39:43.550
+going around so you've got a unicorn and
+
+0:39:42.079,0:39:46.000
+care bears huh
+
+0:39:43.550,0:39:48.960
+[Music]
+
+0:39:46.000,0:39:51.119
+nina that's so cool did you decide to do
+
+0:39:48.960,0:39:53.520
+those care bears
+
+0:39:51.119,0:39:55.040
+i did all three of them all three of
+
+0:39:53.520,0:39:57.520
+them gotcha that's great
+
+0:39:55.040,0:39:58.320
+and so you can see that uh neila has a
+
+0:39:57.520,0:40:00.640
+lot of fun
+
+0:39:58.320,0:40:02.720
+uh making her game specific to her so
+
+0:40:00.640,0:40:04.480
+unicorns and care bears
+
+0:40:02.720,0:40:05.760
+uh bowen what's the uh what's the theme
+
+0:40:04.480,0:40:09.119
+on your game buddy
+
+0:40:05.760,0:40:11.040
+i'm a draco a draco all right play it
+
+0:40:09.119,0:40:14.079
+let's see
+
+0:40:11.040,0:40:16.240
+so it's a draco gekko um and he's trying
+
+0:40:14.079,0:40:18.400
+to catch the fly down there
+
+0:40:16.240,0:40:20.319
+great job so you got to score one and
+
+0:40:18.400,0:40:22.319
+then what are they scored so fourth
+
+0:40:20.319,0:40:24.480
+two your score so far is two with it
+
+0:40:22.319,0:40:26.160
+your best ever yes all right so you've
+
+0:40:24.480,0:40:29.200
+got the enemies coming towards you so go
+
+0:40:26.160,0:40:29.200
+catch the fly again
+
+0:40:30.319,0:40:36.160
+great job buddy nice work all right
+
+0:40:33.359,0:40:37.839
+we'll show sissy's next
+
+0:40:36.160,0:40:39.280
+so mckinley let's uh let's see what
+
+0:40:37.839,0:40:41.359
+you've got so you've got the dolphin
+
+0:40:39.280,0:40:42.640
+going around he's the hero and the
+
+0:40:41.359,0:40:45.839
+dolphin is catching the
+
+0:40:42.640,0:40:48.400
+the goldfish and then she's got three
+
+0:40:45.839,0:40:52.000
+enemies so she's got a great white shark
+
+0:40:48.400,0:40:54.560
+an orca so a killer whale cool
+
+0:40:52.000,0:40:56.640
+so you gotta score a three i love it
+
+0:40:54.560,0:40:58.319
+[ __ ] really really good
+
+0:40:56.640,0:41:00.480
+uh and then we got keegan over here
+
+0:40:58.319,0:41:04.720
+keegan what's your game
+
+0:41:00.480,0:41:06.079
+keegan is all minions uh so he's got
+
+0:41:04.720,0:41:08.640
+play again buddy let's see if you can
+
+0:41:06.079,0:41:10.880
+get get one so he's got a minion
+
+0:41:08.640,0:41:13.359
+um and then the enemies are these purple
+
+0:41:10.880,0:41:15.280
+minions so the evil purple minions
+
+0:41:13.359,0:41:17.520
+uh and his minion is trying to get
+
+0:41:15.280,0:41:21.200
+bananas
+
+0:41:17.520,0:41:21.200
+no this is my very last one
+
+0:41:22.960,0:41:26.400
+great job keegan took a little bit there
+
+0:41:25.920,0:41:28.800
+all right
+
+0:41:26.400,0:41:30.160
+so uh a harder game uh so this is
+
+0:41:28.800,0:41:30.800
+probably going to be our hardest game in
+
+0:41:30.160,0:41:32.560
+the camp
+
+0:41:30.800,0:41:34.240
+but i mean if you can get this uh this
+
+0:41:32.560,0:41:36.079
+working i'd be
+
+0:41:34.240,0:41:38.240
+really impressed with your efforts uh
+
+0:41:36.079,0:41:41.440
+things we run this time is each sprite
+
+0:41:38.240,0:41:43.119
+has its own code science and art come
+
+0:41:41.440,0:41:45.040
+together in this interesting way so lots
+
+0:41:43.119,0:41:47.760
+of drawing and things like this
+
+0:41:45.040,0:41:48.880
+variables can tend to be commonplace uh
+
+0:41:47.760,0:41:50.800
+and useful
+
+0:41:48.880,0:41:52.560
+and we learned a new movement style and
+
+0:41:50.800,0:41:54.880
+about broadcast events
+
+0:41:52.560,0:41:55.760
+a great job accomplishing the video
+
+0:41:54.880,0:42:03.839
+today
+
+0:41:55.760,0:42:03.839
+see you next time bye
+
