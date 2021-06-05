@@ -14,7 +14,7 @@ Status of each video could be (copy paste from here):
 
 | | Status |
 | :---        |    :----:   |
-| Status | 2. Ready for transcript review |
+| Status | 3. Transcript review in progress |
 | Title   | Alphabet Breakfast |
 | YouTube URL   | https://youtu.be/UY7fRGr7Qog |
  
@@ -22,7 +22,7 @@ Status of each video could be (copy paste from here):
 
 | | Status |
 | :---        |    :----:   |
-| Status | 2. Ready for transcript review |
+| Status | 3. Transcript review in progress |
 | Title   | Hedgehog Snack |
 | YouTube URL   | https://youtu.be/mFnrMbV56lg |
  
