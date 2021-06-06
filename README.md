@@ -22,7 +22,7 @@ Status of each video could be (copy paste from here):
 
 | | Status |
 | :---        |    :----:   |
-| Status | 3. Transcript review in progress |
+| Status | 4. Transcript review complete, ready for upload |
 | Title   | Hedgehog Snack |
 | YouTube URL   | https://youtu.be/mFnrMbV56lg |
  
