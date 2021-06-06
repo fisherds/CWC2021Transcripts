@@ -30,7 +30,7 @@ Status of each video could be (copy paste from here):
 
 | | Status |
 | :---        |    :----:   |
-| Status | 3. Transcript review in progress |
+| Status | 4. Transcript review complete, ready for upload |
 | Title   | Fish Lunch |
 | YouTube URL   | https://youtu.be/ogfsUZnk_tU |
 
