@@ -1,0 +1,2595 @@
+0:00:00.390,0:00:07.040
+[Music]
+
+0:00:04.640,0:00:07.440
+hey hey welcome back you made it it is
+
+0:00:07.040,0:00:10.240
+day
+
+0:00:07.440,0:00:10.719
+five it is the final day of the final
+
+0:00:10.240,0:00:12.480
+week
+
+0:00:10.719,0:00:13.759
+uh of the coding camp uh you should
+
+0:00:12.480,0:00:15.360
+really pat yourself in the back just for
+
+0:00:13.759,0:00:18.480
+getting this far honestly there's a
+
+0:00:15.360,0:00:19.039
+big drop off in the camp and we lose
+
+0:00:18.480,0:00:21.439
+people
+
+0:00:19.039,0:00:23.920
+as it goes uh so i'm back here again
+
+0:00:21.439,0:00:25.039
+today and no surprise with my campers
+
+0:00:23.920,0:00:27.039
+i'll go and let them introduce
+
+0:00:25.039,0:00:28.800
+themselves so i'm here with my campers
+
+0:00:27.039,0:00:29.439
+again today oh what nice looking shirts
+
+0:00:28.800,0:00:32.399
+you have
+
+0:00:29.439,0:00:32.960
+it's the connecting with code 2021
+
+0:00:32.399,0:00:34.480
+orange
+
+0:00:32.960,0:00:36.399
+very nice all right go ahead and
+
+0:00:34.480,0:00:38.079
+introduce yourself hello my name is
+
+0:00:36.399,0:00:41.200
+keegan fisher
+
+0:00:38.079,0:00:43.440
+and you hi i'm mckinley
+
+0:00:41.200,0:00:44.640
+you guys ready for your last day yes
+
+0:00:43.440,0:00:46.079
+super duper
+
+0:00:44.640,0:00:48.719
+so today's actually going to be kind of
+
+0:00:46.079,0:00:52.079
+fun we're going to do a project called
+
+0:00:48.719,0:00:54.079
+advanced kaleidoscope and the first part
+
+0:00:52.079,0:00:55.440
+is going to be regular kaleidoscope and
+
+0:00:54.079,0:00:56.719
+mckinley is going to teach it
+
+0:00:55.440,0:00:59.120
+but first i'm going to introduce kind of
+
+0:00:56.719,0:01:01.840
+what we're doing uh so the thing we're
+
+0:00:59.120,0:01:04.320
+doing is a kaleidoscope so that's a fun
+
+0:01:01.840,0:01:06.080
+word to say that's for sure
+
+0:01:04.320,0:01:07.600
+and there's a solution here which i
+
+0:01:06.080,0:01:08.479
+thought was already up but it now is it
+
+0:01:07.600,0:01:10.640
+up
+
+0:01:08.479,0:01:12.000
+so the way the solution works is it will
+
+0:01:10.640,0:01:14.080
+ask you
+
+0:01:12.000,0:01:16.000
+how many sprites would you like so this
+
+0:01:14.080,0:01:17.439
+is kind of part of the advanced thing
+
+0:01:16.000,0:01:20.000
+i'm going to say that i want five
+
+0:01:17.439,0:01:21.680
+sprites and what it does is it lets you
+
+0:01:20.000,0:01:23.360
+use the arrow keys
+
+0:01:21.680,0:01:24.720
+to move around your five sprites and you
+
+0:01:23.360,0:01:26.320
+can use left and right
+
+0:01:24.720,0:01:28.159
+to kind of make neat patterns and things
+
+0:01:26.320,0:01:30.400
+like that
+
+0:01:28.159,0:01:32.000
+it of course doesn't have to be five so
+
+0:01:30.400,0:01:33.439
+if you run it again
+
+0:01:32.000,0:01:35.360
+it'll ask you how many sprites would you
+
+0:01:33.439,0:01:38.799
+like let's say i want
+
+0:01:35.360,0:01:40.560
+i don't know 40 sprites so it'll make 40
+
+0:01:38.799,0:01:41.040
+individual sprites and now when you do
+
+0:01:40.560,0:01:42.960
+it
+
+0:01:41.040,0:01:44.320
+it'll actually kind of move all 40 which
+
+0:01:42.960,0:01:46.240
+admittedly kind of always look like
+
+0:01:44.320,0:01:47.680
+circles
+
+0:01:46.240,0:01:49.439
+you can also do a thing where you can
+
+0:01:47.680,0:01:51.280
+switch the costumes so you can kind of
+
+0:01:49.439,0:01:52.799
+like change everybody's color
+
+0:01:51.280,0:01:55.600
+to make another neat pattern and things
+
+0:01:52.799,0:01:57.200
+like that so it's a it's a neat program
+
+0:01:55.600,0:01:58.799
+you can do a lot of like crazy shapes
+
+0:01:57.200,0:02:00.880
+and things with it you've probably seen
+
+0:01:58.799,0:02:02.640
+like some of mckinley's
+
+0:02:00.880,0:02:04.079
+patterns but she does these crazy
+
+0:02:02.640,0:02:07.200
+kaleidoscope things
+
+0:02:04.079,0:02:08.640
+so that's the goal today it's kind of
+
+0:02:07.200,0:02:11.200
+meant to be a little bit shorter
+
+0:02:08.640,0:02:12.560
+uh is is the hope um and we're going to
+
+0:02:11.200,0:02:14.640
+also kind of test you
+
+0:02:12.560,0:02:15.520
+uh on a couple things so the first thing
+
+0:02:14.640,0:02:16.959
+we're going to do is we're going to
+
+0:02:15.520,0:02:19.360
+build what i consider a
+
+0:02:16.959,0:02:21.040
+regular kaleidoscope and then we're
+
+0:02:19.360,0:02:22.959
+going to have you turn it into like
+
+0:02:21.040,0:02:24.959
+using clones and things like that
+
+0:02:22.959,0:02:27.200
+so for regular kaleidoscope i'm actually
+
+0:02:24.959,0:02:28.560
+going to have mckinley come up
+
+0:02:27.200,0:02:29.760
+and she's going to lead us through this
+
+0:02:28.560,0:02:30.480
+this is going to be the same if you
+
+0:02:29.760,0:02:32.800
+happen to work
+
+0:02:30.480,0:02:35.040
+week one this is going to be the same as
+
+0:02:32.800,0:02:36.480
+what we did on day five of week one
+
+0:02:35.040,0:02:38.879
+so we're gonna do that together and then
+
+0:02:36.480,0:02:39.840
+we're gonna make it into advanced uh
+
+0:02:38.879,0:02:41.200
+version
+
+0:02:39.840,0:02:43.760
+all right mckinley come on up it's all
+
+0:02:41.200,0:02:45.920
+yours hi my name is mckinley fisher in
+
+0:02:43.760,0:02:49.840
+case you've forgotten
+
+0:02:45.920,0:02:53.040
+and i'm going to be building the uh
+
+0:02:49.840,0:02:53.760
+kaleidoscope code so the first thing you
+
+0:02:53.040,0:02:57.360
+need to do
+
+0:02:53.760,0:03:00.000
+is go to scratch.mit.edu
+
+0:02:57.360,0:03:03.120
+and then create a new game and your
+
+0:03:00.000,0:03:03.120
+screen should look like this
+
+0:03:03.200,0:03:11.040
+the first thing you're going to do
+
+0:03:06.480,0:03:14.159
+is to delete the cat sprite
+
+0:03:11.040,0:03:18.959
+and add a new sprite
+
+0:03:14.159,0:03:21.120
+this new spray is going to be ball
+
+0:03:18.959,0:03:22.239
+and your bell sprite should have shown
+
+0:03:21.120,0:03:25.440
+up on
+
+0:03:22.239,0:03:28.080
+on the screen and then
+
+0:03:25.440,0:03:30.840
+um we're gonna start with a green flag
+
+0:03:28.080,0:03:33.840
+when green flagged
+
+0:03:30.840,0:03:33.840
+clicked
+
+0:03:33.920,0:03:41.840
+and then we are going to choose
+
+0:03:38.560,0:03:44.080
+what direction it's pointing in so
+
+0:03:41.840,0:03:45.599
+we're gonna have this ballpoint in
+
+0:03:44.080,0:03:49.280
+direction zero
+
+0:03:45.599,0:03:51.760
+so it's a pointing straight up
+
+0:03:49.280,0:03:53.040
+and then we're gonna have it go to zero
+
+0:03:51.760,0:04:01.519
+zero the exact
+
+0:03:53.040,0:04:04.640
+middle of the screen
+
+0:04:01.519,0:04:10.080
+once you do that you're going to
+
+0:04:04.640,0:04:11.920
+go into control and find a forever loop
+
+0:04:10.080,0:04:14.159
+okay so i zoomed in a little so you
+
+0:04:11.920,0:04:17.199
+could um see better
+
+0:04:14.159,0:04:19.440
+and so this is our code so far when
+
+0:04:17.199,0:04:20.880
+green flag clicked point in direction go
+
+0:04:19.440,0:04:24.000
+to
+
+0:04:20.880,0:04:27.199
+x0 y0 and then a forever loop
+
+0:04:24.000,0:04:30.639
+in that parabola loop you're gonna put
+
+0:04:27.199,0:04:30.639
+four if statements
+
+0:04:37.840,0:04:42.720
+inside of those if statements you're
+
+0:04:39.919,0:04:46.000
+going to go to sensing
+
+0:04:42.720,0:04:57.360
+and put in a key space
+
+0:04:46.000,0:05:00.080
+press for each of them
+
+0:04:57.360,0:05:00.639
+once you do do that you're going to
+
+0:05:00.080,0:05:04.639
+change
+
+0:05:00.639,0:05:08.320
+space to up
+
+0:05:04.639,0:05:12.560
+down left
+
+0:05:08.320,0:05:12.560
+and right arrow key
+
+0:05:14.740,0:05:18.960
+[Music]
+
+0:05:16.880,0:05:19.919
+once you do that you're going to go back
+
+0:05:18.960,0:05:23.199
+up to motion
+
+0:05:19.919,0:05:25.759
+so that you can actually move
+
+0:05:23.199,0:05:27.600
+and for the up arrow key you want to
+
+0:05:25.759,0:05:30.880
+drag in a move
+
+0:05:27.600,0:05:34.479
+10 steps so now if you were
+
+0:05:30.880,0:05:36.160
+to run your program and press the up
+
+0:05:34.479,0:05:39.440
+arrow key your ball would move
+
+0:05:36.160,0:05:41.520
+but no other keys would work
+
+0:05:39.440,0:05:44.960
+we're actually going to change that 10
+
+0:05:41.520,0:05:44.960
+steps to 3
+
+0:05:46.320,0:05:50.160
+and we're going to do almost the exact
+
+0:05:48.000,0:05:52.080
+same thing for the down arrow
+
+0:05:50.160,0:05:54.800
+except that we're going to do negative
+
+0:05:52.080,0:05:54.800
+three steps
+
+0:05:58.800,0:06:02.240
+now if you run your program your balls
+
+0:06:00.720,0:06:06.960
+should be able to go down
+
+0:06:02.240,0:06:09.919
+and up
+
+0:06:06.960,0:06:10.319
+for left arrow key you're gonna um you
+
+0:06:09.919,0:06:13.520
+see
+
+0:06:10.319,0:06:14.160
+these two turn blocks the one that is
+
+0:06:13.520,0:06:17.440
+turning
+
+0:06:14.160,0:06:21.199
+left 15 degrees you're going to drag
+
+0:06:17.440,0:06:24.639
+into the left arrow
+
+0:06:21.199,0:06:26.400
+you're going to change that 15 to 5
+
+0:06:24.639,0:06:28.080
+and then for the right arrow you're
+
+0:06:26.400,0:06:31.680
+going to choose the
+
+0:06:28.080,0:06:35.520
+turn that is turning right and change
+
+0:06:31.680,0:06:37.280
+that to 5 as well
+
+0:06:35.520,0:06:39.280
+now if you run your program you should
+
+0:06:37.280,0:06:42.319
+be able to move your ball around
+
+0:06:39.280,0:06:44.800
+however you would like
+
+0:06:42.319,0:06:46.880
+now that's great but it's quite a bit
+
+0:06:44.800,0:06:47.199
+boring so we're now we're going to make
+
+0:06:46.880,0:06:50.160
+the
+
+0:06:47.199,0:06:53.440
+kaleidoscope part of it to that to do
+
+0:06:50.160,0:06:57.599
+that you have to go into extensions
+
+0:06:53.440,0:07:03.199
+and your screen should um look like this
+
+0:06:57.599,0:07:06.160
+and you're going to click on the pen
+
+0:07:03.199,0:07:08.639
+so now you see that opens um got you
+
+0:07:06.160,0:07:10.400
+some new blocks
+
+0:07:08.639,0:07:12.080
+so the first block that you're going to
+
+0:07:10.400,0:07:15.680
+drag in from this new
+
+0:07:12.080,0:07:18.400
+area is erase all
+
+0:07:15.680,0:07:20.000
+and you're going to put that at the very
+
+0:07:18.400,0:07:22.319
+top
+
+0:07:20.000,0:07:23.680
+or it could be underneath point
+
+0:07:22.319,0:07:27.120
+direction and go to
+
+0:07:23.680,0:07:27.759
+your choice now you're going to put a
+
+0:07:27.120,0:07:31.199
+stamp
+
+0:07:27.759,0:07:32.319
+under the move 3 and so now if you run
+
+0:07:31.199,0:07:35.440
+your program
+
+0:07:32.319,0:07:37.360
+it should leave a trail
+
+0:07:35.440,0:07:39.120
+so that's the first step of your
+
+0:07:37.360,0:07:42.240
+kaleidoscope
+
+0:07:39.120,0:07:43.440
+now this is optional but you can put a
+
+0:07:42.240,0:07:46.319
+stamp block
+
+0:07:43.440,0:07:47.039
+under the backwards arrow so that way if
+
+0:07:46.319,0:07:49.680
+you move
+
+0:07:47.039,0:07:50.720
+backwards it'll also leave a trail that
+
+0:07:49.680,0:07:54.319
+is completely
+
+0:07:50.720,0:07:55.919
+optional to you so now you should be
+
+0:07:54.319,0:07:57.360
+able to move your ball around and it
+
+0:07:55.919,0:08:00.479
+should leave a colored
+
+0:07:57.360,0:08:02.560
+trail and that looks pretty good but now
+
+0:08:00.479,0:08:04.720
+we're going to add two more balls
+
+0:08:02.560,0:08:06.800
+to do that you're going to click on the
+
+0:08:04.720,0:08:09.520
+ball and you're going to click on
+
+0:08:06.800,0:08:10.560
+duplicate so now you should have a
+
+0:08:09.520,0:08:12.319
+second ball
+
+0:08:10.560,0:08:13.840
+and you're gonna duplicate it one more
+
+0:08:12.319,0:08:18.240
+time and
+
+0:08:13.840,0:08:18.240
+you should have three balls in total
+
+0:08:18.319,0:08:21.440
+now the first thing you're going to do
+
+0:08:19.840,0:08:23.680
+to these other balls is
+
+0:08:21.440,0:08:24.479
+you can change the color of all your
+
+0:08:23.680,0:08:26.160
+balls
+
+0:08:24.479,0:08:28.800
+so you see that the balls already have
+
+0:08:26.160,0:08:31.680
+built-in costumes of different colors
+
+0:08:28.800,0:08:33.760
+for the first ball i'm going to choose a
+
+0:08:31.680,0:08:36.800
+blue costume
+
+0:08:33.760,0:08:40.640
+for the second ball i'm going to choose
+
+0:08:36.800,0:08:43.839
+a green costume and for the third ball
+
+0:08:40.640,0:08:46.080
+i'm going to choose a purple
+
+0:08:43.839,0:08:48.880
+and so now you see that my balls are all
+
+0:08:46.080,0:08:48.880
+different colors
+
+0:08:49.440,0:08:52.959
+and they should and they all were the
+
+0:08:51.920,0:08:55.120
+only problem is
+
+0:08:52.959,0:08:57.440
+is that they're always on top of each
+
+0:08:55.120,0:09:01.120
+other to change that
+
+0:08:57.440,0:09:04.240
+you're gonna go um into ball two's
+
+0:09:01.120,0:09:05.600
+code it's gonna look exactly the same as
+
+0:09:04.240,0:09:08.240
+the first ball
+
+0:09:05.600,0:09:09.440
+but there's one modification that we
+
+0:09:08.240,0:09:11.600
+need to make
+
+0:09:09.440,0:09:13.040
+so you see this line that says point in
+
+0:09:11.600,0:09:15.120
+direction zero
+
+0:09:13.040,0:09:16.720
+that's duplicated from the first ball
+
+0:09:15.120,0:09:20.880
+you're gonna change that zero
+
+0:09:16.720,0:09:22.000
+to one twenty and so now if you run your
+
+0:09:20.880,0:09:24.800
+program you see
+
+0:09:22.000,0:09:25.760
+you'll see that the green ball moves a
+
+0:09:24.800,0:09:29.040
+slightly different
+
+0:09:25.760,0:09:30.720
+um different from the blue ball and the
+
+0:09:29.040,0:09:31.680
+purple ball because it's pointing a
+
+0:09:30.720,0:09:33.839
+different direction
+
+0:09:31.680,0:09:35.680
+at the start you're going to do almost
+
+0:09:33.839,0:09:38.120
+the same thing to ball three
+
+0:09:35.680,0:09:40.800
+except that it's going to be negative
+
+0:09:38.120,0:09:44.160
+120.
+
+0:09:40.800,0:09:47.839
+if you run your program you should have
+
+0:09:44.160,0:09:50.160
+a regular kaleidoscope and so
+
+0:09:47.839,0:09:51.440
+now you can play around with it and that
+
+0:09:50.160,0:09:54.160
+you can
+
+0:09:51.440,0:09:56.160
+um you programmed the um regular
+
+0:09:54.160,0:09:56.560
+kaleidoscope now my dad's going to take
+
+0:09:56.160,0:09:59.839
+over
+
+0:09:56.560,0:10:02.079
+and make the advanced kaleidoscope
+
+0:09:59.839,0:10:03.200
+all right that was that was awesome sis
+
+0:10:02.079,0:10:05.120
+so she made
+
+0:10:03.200,0:10:06.399
+a kaleidoscope just like we did last
+
+0:10:05.120,0:10:08.800
+week and she did it uh
+
+0:10:06.399,0:10:10.240
+perfectly the only thing that i would
+
+0:10:08.800,0:10:13.200
+change is i don't take this uh
+
+0:10:10.240,0:10:14.720
+stamp on the the negative direction of a
+
+0:10:13.200,0:10:15.760
+difference that mckinley and i have had
+
+0:10:14.720,0:10:18.000
+for a long time
+
+0:10:15.760,0:10:19.680
+so everything is working and everything
+
+0:10:18.000,0:10:21.440
+is good
+
+0:10:19.680,0:10:23.040
+but you know the advanced version we
+
+0:10:21.440,0:10:24.640
+want to do more so there's
+
+0:10:23.040,0:10:26.320
+two reasons we want to make an advanced
+
+0:10:24.640,0:10:28.480
+version well number one
+
+0:10:26.320,0:10:29.760
+reason is that we want to make it to
+
+0:10:28.480,0:10:32.079
+where you can actually
+
+0:10:29.760,0:10:33.839
+select how many of these balls you want
+
+0:10:32.079,0:10:36.079
+right so you know you might want to say
+
+0:10:33.839,0:10:37.440
+seven or something like that and then
+
+0:10:36.079,0:10:39.440
+you can make seven and now
+
+0:10:37.440,0:10:40.959
+we don't want to make seven balls right
+
+0:10:39.440,0:10:42.880
+that would take forever to duplicate
+
+0:10:40.959,0:10:44.480
+make seven you could also do things like
+
+0:10:42.880,0:10:46.480
+a hundred right
+
+0:10:44.480,0:10:48.240
+so you would never want to actually like
+
+0:10:46.480,0:10:51.120
+duplicate the sprite
+
+0:10:48.240,0:10:52.640
+99 times and make 100 of them but you
+
+0:10:51.120,0:10:54.079
+can see that with this version of the
+
+0:10:52.640,0:10:56.640
+advanced kaleidoscope
+
+0:10:54.079,0:10:58.000
+you actually can make 100 sprites of
+
+0:10:56.640,0:11:00.320
+something
+
+0:10:58.000,0:11:01.519
+and the solution to this duplication is
+
+0:11:00.320,0:11:03.200
+to clone something
+
+0:11:01.519,0:11:04.800
+so that's one of the big advantages of
+
+0:11:03.200,0:11:05.920
+cloning is that you can have as many of
+
+0:11:04.800,0:11:07.920
+something as you want
+
+0:11:05.920,0:11:09.600
+the other advantage is let's say that
+
+0:11:07.920,0:11:10.160
+you did want to make a change to your
+
+0:11:09.600,0:11:11.519
+code
+
+0:11:10.160,0:11:13.360
+so if i wanted to make a change to this
+
+0:11:11.519,0:11:15.440
+code let's say i wanted to take out this
+
+0:11:13.360,0:11:17.519
+stamp on the negative direction well if
+
+0:11:15.440,0:11:19.040
+i take it out of one of them
+
+0:11:17.519,0:11:21.040
+and i go forwards and i turn and then i
+
+0:11:19.040,0:11:22.959
+go backwards you can see that their code
+
+0:11:21.040,0:11:24.560
+is actually different right
+
+0:11:22.959,0:11:26.640
+and so that's another reason that you
+
+0:11:24.560,0:11:27.600
+prefer clones instead of duplicating
+
+0:11:26.640,0:11:29.519
+sprites
+
+0:11:27.600,0:11:31.200
+so here's what i want to do i want to
+
+0:11:29.519,0:11:32.240
+get it down to where there's only one
+
+0:11:31.200,0:11:34.240
+sprite again
+
+0:11:32.240,0:11:36.640
+so i'm going to delete the second and
+
+0:11:34.240,0:11:38.800
+this third copy
+
+0:11:36.640,0:11:41.839
+and my goal is to make just this one
+
+0:11:38.800,0:11:44.000
+sprite be my only sprite in the game
+
+0:11:41.839,0:11:45.040
+and then to make clones of it the other
+
+0:11:44.000,0:11:47.920
+thing i'll say is that
+
+0:11:45.040,0:11:49.600
+since we're using clone tricks you don't
+
+0:11:47.920,0:11:50.079
+really care about where this ball starts
+
+0:11:49.600,0:11:51.600
+at all
+
+0:11:50.079,0:11:53.040
+um in fact you can just kind of like put
+
+0:11:51.600,0:11:54.240
+it off into space just kind of like
+
+0:11:53.040,0:11:56.160
+prove that fact
+
+0:11:54.240,0:11:57.839
+and you can also hide it right because
+
+0:11:56.160,0:11:59.200
+that's the original we don't care about
+
+0:11:57.839,0:12:00.639
+the original at all that's a pretty
+
+0:11:59.200,0:12:04.240
+common trick with clones that
+
+0:12:00.639,0:12:06.320
+we just hide the original and then also
+
+0:12:04.240,0:12:08.240
+uh whenever we're dealing with clones we
+
+0:12:06.320,0:12:08.959
+actually don't use wind green flag
+
+0:12:08.240,0:12:10.880
+clicks
+
+0:12:08.959,0:12:12.480
+so i'm going to take that off of when
+
+0:12:10.880,0:12:15.279
+green flag clicked
+
+0:12:12.480,0:12:16.240
+and i'm instead going to control and i'm
+
+0:12:15.279,0:12:20.160
+going to find
+
+0:12:16.240,0:12:21.680
+when i start as clone and so that's also
+
+0:12:20.160,0:12:24.000
+another trick that we use for clones a
+
+0:12:21.680,0:12:26.000
+lot now the thing we've got to remember
+
+0:12:24.000,0:12:27.360
+is how were the sprites different uh and
+
+0:12:26.000,0:12:27.839
+the way that they were different was
+
+0:12:27.360,0:12:31.200
+this
+
+0:12:27.839,0:12:32.480
+point in direction so the trick we've
+
+0:12:31.200,0:12:33.519
+used in the past and i'm going to go
+
+0:12:32.480,0:12:34.320
+ahead and get you kind of started on
+
+0:12:33.519,0:12:36.880
+this here
+
+0:12:34.320,0:12:37.440
+is we've made a variable um that we've
+
+0:12:36.880,0:12:40.399
+like
+
+0:12:37.440,0:12:41.680
+set and then we've done the clone if you
+
+0:12:40.399,0:12:42.959
+uh hopefully can kind of remember that
+
+0:12:41.680,0:12:43.839
+trick so i'm going to make a variable
+
+0:12:42.959,0:12:48.800
+called
+
+0:12:43.839,0:12:48.800
+uh the starting direction
+
+0:12:49.040,0:12:53.680
+and i again use my camel case system for
+
+0:12:51.920,0:12:55.760
+starting direction and it's going to be
+
+0:12:53.680,0:12:57.680
+for all sprites
+
+0:12:55.760,0:12:59.839
+so now what i want you to try to do and
+
+0:12:57.680,0:13:01.680
+this is going to be a little tricky
+
+0:12:59.839,0:13:03.040
+i don't really need to show the starting
+
+0:13:01.680,0:13:05.200
+direction variable
+
+0:13:03.040,0:13:06.720
+is i want you to see if you remember
+
+0:13:05.200,0:13:08.639
+some of the skills we've used in this
+
+0:13:06.720,0:13:10.480
+camp for making clones
+
+0:13:08.639,0:13:12.079
+and see if you can do it on your own and
+
+0:13:10.480,0:13:13.760
+so this clone right here
+
+0:13:12.079,0:13:17.120
+is almost done the only thing he's
+
+0:13:13.760,0:13:19.040
+missing is a is a show command
+
+0:13:17.120,0:13:20.160
+i usually like to show it after i do the
+
+0:13:19.040,0:13:21.519
+go to
+
+0:13:20.160,0:13:23.920
+but that's because the original is
+
+0:13:21.519,0:13:27.120
+invisible and then this guy showed
+
+0:13:23.920,0:13:30.639
+so he is almost done he needs
+
+0:13:27.120,0:13:33.120
+this point in direction to actually use
+
+0:13:30.639,0:13:34.959
+this variable
+
+0:13:33.120,0:13:36.480
+and the thing i want you to just try on
+
+0:13:34.959,0:13:38.480
+your own it's going to be a challenge
+
+0:13:36.480,0:13:40.160
+is i want you to try writing the code
+
+0:13:38.480,0:13:42.880
+that's going to make
+
+0:13:40.160,0:13:44.959
+three balls and so i want you to make
+
+0:13:42.880,0:13:46.639
+three balls three clones
+
+0:13:44.959,0:13:49.199
+and typically where we put code like
+
+0:13:46.639,0:13:52.560
+that is over on the stage
+
+0:13:49.199,0:13:55.920
+so you're going to have to you know
+
+0:13:52.560,0:13:57.680
+make a clone change the starting angle
+
+0:13:55.920,0:13:59.120
+make another clone change the starting
+
+0:13:57.680,0:14:01.600
+angle make another clone
+
+0:13:59.120,0:14:03.279
+change the starting angle if you can i'd
+
+0:14:01.600,0:14:03.920
+rather you did it with a loop instead of
+
+0:14:03.279,0:14:05.600
+just three
+
+0:14:03.920,0:14:07.120
+three of those statements and also
+
+0:14:05.600,0:14:09.040
+remember there's a little bug to where
+
+0:14:07.120,0:14:11.040
+you should put a small delay
+
+0:14:09.040,0:14:13.600
+after you create your clone so take a
+
+0:14:11.040,0:14:14.959
+minute you can review some old code if
+
+0:14:13.600,0:14:16.639
+that helps you
+
+0:14:14.959,0:14:18.720
+but see if you can write the code for
+
+0:14:16.639,0:14:20.399
+the stage yourself without my help
+
+0:14:18.720,0:14:21.839
+i'll come back i'll write it in a minute
+
+0:14:20.399,0:14:22.240
+um but see if you can write it without
+
+0:14:21.839,0:14:24.880
+your
+
+0:14:22.240,0:14:26.959
+without my help to make three bowls they
+
+0:14:24.880,0:14:28.079
+will all be the same color right now
+
+0:14:26.959,0:14:31.440
+that's okay
+
+0:14:28.079,0:14:32.880
+but see if you can do that
+
+0:14:31.440,0:14:34.959
+all right i think my camper's got it
+
+0:14:32.880,0:14:35.519
+mckinley knocked it out uh no problem at
+
+0:14:34.959,0:14:37.680
+all uh
+
+0:14:35.519,0:14:38.560
+keegan's uh not quite his experience uh
+
+0:14:37.680,0:14:40.880
+i helped him some
+
+0:14:38.560,0:14:42.399
+but but he did get it um i'm not
+
+0:14:40.880,0:14:43.360
+expecting you to get it i just wanted
+
+0:14:42.399,0:14:44.959
+you to try
+
+0:14:43.360,0:14:46.800
+so i'm going to write it with you so
+
+0:14:44.959,0:14:48.480
+this is on the stage
+
+0:14:46.800,0:14:51.600
+so things start when the green flag is
+
+0:14:48.480,0:14:52.959
+clicked so that's a good way to start
+
+0:14:51.600,0:14:54.480
+and then what i know i'm going to do is
+
+0:14:52.959,0:14:56.240
+i know i'm going to repeat something
+
+0:14:54.480,0:14:58.000
+three times
+
+0:14:56.240,0:15:00.160
+and the thing i'm going to repeat is
+
+0:14:58.000,0:15:02.959
+going to involve making a clone
+
+0:15:00.160,0:15:04.320
+so i'm going to say create clone of ball
+
+0:15:02.959,0:15:06.000
+uh and then the little bug that we've
+
+0:15:04.320,0:15:07.440
+kind of learned about is that you need a
+
+0:15:06.000,0:15:08.800
+small delay
+
+0:15:07.440,0:15:11.120
+after you create the clone with the
+
+0:15:08.800,0:15:13.360
+tricks we're using um and so now i just
+
+0:15:11.120,0:15:14.720
+need to uh if i if i did this uh you
+
+0:15:13.360,0:15:16.959
+know i could put it on and run it
+
+0:15:14.720,0:15:18.560
+um but it's going to create three bowls
+
+0:15:16.959,0:15:21.680
+that are all right on top of each other
+
+0:15:18.560,0:15:23.360
+right so not quite what i was after uh
+
+0:15:21.680,0:15:25.600
+if i go into variables what i really
+
+0:15:23.360,0:15:28.639
+want to do is i want to set
+
+0:15:25.600,0:15:29.600
+that starting direction to zero at the
+
+0:15:28.639,0:15:30.959
+beginning
+
+0:15:29.600,0:15:32.720
+and you can see that the ball has
+
+0:15:30.959,0:15:33.680
+already used that variable starting
+
+0:15:32.720,0:15:35.199
+direction
+
+0:15:33.680,0:15:36.959
+and so i want to set it to zero there
+
+0:15:35.199,0:15:39.199
+and then i want to change it
+
+0:15:36.959,0:15:40.000
+after i make a ball so my starting
+
+0:15:39.199,0:15:41.199
+direction and the amount
+
+0:15:40.000,0:15:43.199
+i wanted to change it back if you
+
+0:15:41.199,0:15:46.560
+remember from the simple version uh
+
+0:15:43.199,0:15:48.720
+is 120 and the reason it's 120 is
+
+0:15:46.560,0:15:49.920
+because there's three bowls
+
+0:15:48.720,0:15:52.320
+and all the way around the circle would
+
+0:15:49.920,0:15:55.120
+be 360. so 360
+
+0:15:52.320,0:15:56.880
+divided by 3 is 120 so that's how i got
+
+0:15:55.120,0:15:58.240
+that value
+
+0:15:56.880,0:15:59.839
+and i'm also going to delete this my
+
+0:15:58.240,0:16:01.360
+variable just because it was annoying me
+
+0:15:59.839,0:16:02.639
+so i'm going to delete my variable
+
+0:16:01.360,0:16:04.240
+variable
+
+0:16:02.639,0:16:05.680
+i did not delete starting direction so i
+
+0:16:04.240,0:16:08.720
+just deleted this one
+
+0:16:05.680,0:16:11.440
+and so now it does what i want and it
+
+0:16:08.720,0:16:13.360
+actually like makes three clones
+
+0:16:11.440,0:16:15.120
+and it works kind of like it did before
+
+0:16:13.360,0:16:16.560
+the only problem that you see now is
+
+0:16:15.120,0:16:18.000
+that they're all blue
+
+0:16:16.560,0:16:20.079
+and so we want to do something to make
+
+0:16:18.000,0:16:22.480
+them not all blue there's a couple
+
+0:16:20.079,0:16:23.920
+different solutions to this
+
+0:16:22.480,0:16:25.440
+but i think what i'm going to do just to
+
+0:16:23.920,0:16:27.759
+keep it simple is i'm just going to
+
+0:16:25.440,0:16:28.959
+randomly pick a costume i think that's
+
+0:16:27.759,0:16:31.120
+that's good enough for this step because
+
+0:16:28.959,0:16:34.800
+we're going to change it later anyway
+
+0:16:31.120,0:16:37.839
+so go into looks i go into switch
+
+0:16:34.800,0:16:40.720
+costume 2 and i'm just going to stick it
+
+0:16:37.839,0:16:42.959
+just before my show here
+
+0:16:40.720,0:16:45.279
+and you might remember you can address
+
+0:16:42.959,0:16:47.839
+costumes by their name
+
+0:16:45.279,0:16:48.959
+or by their number and so if we look at
+
+0:16:47.839,0:16:51.839
+this ball
+
+0:16:48.959,0:16:54.000
+we can see that it's got five costumes
+
+0:16:51.839,0:16:56.959
+and so a good way to randomly pick one
+
+0:16:54.000,0:16:57.839
+is to go into operators and say pick
+
+0:16:56.959,0:16:59.199
+random
+
+0:16:57.839,0:17:00.959
+and so we're going to refer to it by
+
+0:16:59.199,0:17:02.639
+number and we're going to pick one from
+
+0:17:00.959,0:17:04.480
+one to five
+
+0:17:02.639,0:17:06.319
+now this isn't a great solution because
+
+0:17:04.480,0:17:07.760
+it could have duplicates uh so like
+
+0:17:06.319,0:17:11.199
+there you know i had two
+
+0:17:07.760,0:17:13.199
+um yellows uh here i've got two purples
+
+0:17:11.199,0:17:14.799
+uh there i finally got uh all three
+
+0:17:13.199,0:17:16.160
+colors the other way you could have
+
+0:17:14.799,0:17:17.600
+written that is you could have like made
+
+0:17:16.160,0:17:19.679
+a variable called like
+
+0:17:17.600,0:17:21.199
+costume number and then you could have
+
+0:17:19.679,0:17:22.000
+like indexed through it one two and
+
+0:17:21.199,0:17:23.280
+three
+
+0:17:22.000,0:17:25.439
+but we're going to change how we want to
+
+0:17:23.280,0:17:28.000
+do it anyway
+
+0:17:25.439,0:17:29.360
+cool so things are going really well the
+
+0:17:28.000,0:17:29.840
+next thing i want to do is going to be a
+
+0:17:29.360,0:17:32.880
+little
+
+0:17:29.840,0:17:33.600
+trickier we want to do not just three
+
+0:17:32.880,0:17:37.200
+balls
+
+0:17:33.600,0:17:39.120
+but we want to do any number of balls
+
+0:17:37.200,0:17:40.320
+all right so [ __ ] was jumping out of
+
+0:17:39.120,0:17:41.760
+her seat because she already figured it
+
+0:17:40.320,0:17:44.720
+out so i told her that she could show
+
+0:17:41.760,0:17:47.760
+you how to do it so take it over sis
+
+0:17:44.720,0:17:49.760
+okay so i have figured out the secret of
+
+0:17:47.760,0:17:53.039
+making much more balls
+
+0:17:49.760,0:17:55.039
+how to do is you go to stage and
+
+0:17:53.039,0:17:57.440
+you see that we already have this code
+
+0:17:55.039,0:18:00.000
+here you're gonna go to sensing
+
+0:17:57.440,0:18:01.280
+it has this built-in question that is
+
+0:18:00.000,0:18:02.720
+very handy for
+
+0:18:01.280,0:18:04.400
+the type of thing we're about to be
+
+0:18:02.720,0:18:07.120
+doing so you're gonna
+
+0:18:04.400,0:18:07.840
+um drag over ask what's your name and
+
+0:18:07.120,0:18:09.280
+weight
+
+0:18:07.840,0:18:11.600
+and you're gonna put it at the top of
+
+0:18:09.280,0:18:12.160
+the code you're gonna change what's your
+
+0:18:11.600,0:18:16.880
+name
+
+0:18:12.160,0:18:21.679
+to how many balls
+
+0:18:16.880,0:18:21.679
+do you want
+
+0:18:22.080,0:18:26.960
+and then you wait and then um instead of
+
+0:18:25.440,0:18:30.000
+repeating three times
+
+0:18:26.960,0:18:33.360
+you're gonna repeat the answer so
+
+0:18:30.000,0:18:35.760
+like if you put in 26 balls
+
+0:18:33.360,0:18:37.440
+uh that would be the answer repeat 26
+
+0:18:35.760,0:18:40.880
+balls to make 26
+
+0:18:37.440,0:18:42.640
+uh clones of the ball and then um
+
+0:18:40.880,0:18:44.080
+one last thing with the answer is you
+
+0:18:42.640,0:18:46.720
+need to go
+
+0:18:44.080,0:18:47.440
+into operators and define find this
+
+0:18:46.720,0:18:50.559
+division
+
+0:18:47.440,0:18:51.120
+sign now you're going to take 360 which
+
+0:18:50.559,0:18:54.160
+is
+
+0:18:51.120,0:18:56.480
+um all the degrees in a circle and
+
+0:18:54.160,0:18:59.760
+divide it by the answer so all your
+
+0:18:56.480,0:19:02.960
+balls are equally spaced out
+
+0:18:59.760,0:19:06.160
+and so once you do that it should work
+
+0:19:02.960,0:19:09.039
+and so if i say 26
+
+0:19:06.160,0:19:10.400
+balls and i hit enter should make all
+
+0:19:09.039,0:19:13.679
+those balls and
+
+0:19:10.400,0:19:17.679
+so um that is how you make
+
+0:19:13.679,0:19:17.679
+multiple clones of the ball
+
+0:19:17.919,0:19:22.160
+all right sis you're very clever uh by
+
+0:19:20.080,0:19:23.760
+the way my son keegan discovered that if
+
+0:19:22.160,0:19:25.360
+you type in like a bunch of balls like
+
+0:19:23.760,0:19:27.039
+123
+
+0:19:25.360,0:19:28.720
+and you start driving like before it
+
+0:19:27.039,0:19:31.200
+finishes making them you can kind of
+
+0:19:28.720,0:19:32.240
+like make a weird stream pattern of them
+
+0:19:31.200,0:19:33.840
+as well right so there's
+
+0:19:32.240,0:19:35.679
+there's all kinds of crazy things that
+
+0:19:33.840,0:19:39.200
+you can do it looks really kind of like
+
+0:19:35.679,0:19:41.919
+spooky right so
+
+0:19:39.200,0:19:42.480
+that's great i am totally happy with
+
+0:19:41.919,0:19:44.240
+that
+
+0:19:42.480,0:19:46.160
+you can see that it is only picking
+
+0:19:44.240,0:19:47.919
+these five different colors
+
+0:19:46.160,0:19:49.440
+this is an optional step that i'm going
+
+0:19:47.919,0:19:51.760
+to show you next is
+
+0:19:49.440,0:19:53.520
+you don't have to just use costumes
+
+0:19:51.760,0:19:54.320
+there's actually more things you can do
+
+0:19:53.520,0:19:57.039
+with like
+
+0:19:54.320,0:19:59.440
+looks than just changing costumes so
+
+0:19:57.039,0:20:01.520
+just to show you that you can do this
+
+0:19:59.440,0:20:03.039
+there's all kinds of graphic effects
+
+0:20:01.520,0:20:06.640
+that you can set
+
+0:20:03.039,0:20:08.559
+and so we're going to set the color
+
+0:20:06.640,0:20:10.480
+to a random number so instead of
+
+0:20:08.559,0:20:13.039
+switching the costume
+
+0:20:10.480,0:20:14.559
+i'm going to set the color to a random
+
+0:20:13.039,0:20:16.000
+number
+
+0:20:14.559,0:20:18.159
+i'm going to get this switch costume out
+
+0:20:16.000,0:20:20.799
+of here because i won't need it
+
+0:20:18.159,0:20:22.480
+and so i just changed it instead of set
+
+0:20:20.799,0:20:23.440
+the costume number i'm going to set the
+
+0:20:22.480,0:20:24.720
+color effect
+
+0:20:23.440,0:20:26.480
+you can see that there's a lot of
+
+0:20:24.720,0:20:28.640
+effects that you can do to your sprites
+
+0:20:26.480,0:20:31.039
+color is what we want here it actually
+
+0:20:28.640,0:20:33.120
+goes from 1 to 200
+
+0:20:31.039,0:20:34.240
+i have no idea why it goes from 1 to 200
+
+0:20:33.120,0:20:35.360
+but i had to look it up and
+
+0:20:34.240,0:20:38.000
+it apparently goes from one to two
+
+0:20:35.360,0:20:39.280
+hundred and so now if i put in say eight
+
+0:20:38.000,0:20:42.320
+bowls
+
+0:20:39.280,0:20:45.520
+you can see that it'll randomly pick
+
+0:20:42.320,0:20:47.520
+a variety of colors so it's using uh the
+
+0:20:45.520,0:20:50.080
+blue as the starting point
+
+0:20:47.520,0:20:52.480
+and then it's randomly changing it by up
+
+0:20:50.080,0:20:55.039
+to 200. so if we run it again
+
+0:20:52.480,0:20:56.240
+it'll be different colors i kind of like
+
+0:20:55.039,0:20:58.480
+that pattern that looks really good it's
+
+0:20:56.240,0:21:00.559
+almost like a rainbow
+
+0:20:58.480,0:21:02.640
+so that is an optional change you can
+
+0:21:00.559,0:21:04.640
+stick with the costumes if you prefer
+
+0:21:02.640,0:21:06.240
+but i wanted to show you about how you
+
+0:21:04.640,0:21:08.799
+can actually change other
+
+0:21:06.240,0:21:09.280
+graphic effects the next thing i want to
+
+0:21:08.799,0:21:11.840
+do
+
+0:21:09.280,0:21:12.960
+if you look at the solution over here is
+
+0:21:11.840,0:21:15.600
+that it makes a
+
+0:21:12.960,0:21:16.960
+button to switch costumes so if i said
+
+0:21:15.600,0:21:17.919
+eight sprites
+
+0:21:16.960,0:21:19.919
+you know i could do it with eight
+
+0:21:17.919,0:21:22.159
+sprites but it's got this button that
+
+0:21:19.919,0:21:23.919
+you can click on and say next
+
+0:21:22.159,0:21:25.360
+and then it'll switch everybody's color
+
+0:21:23.919,0:21:27.440
+to the next costume
+
+0:21:25.360,0:21:30.080
+and we haven't used buttons uh in
+
+0:21:27.440,0:21:32.400
+sprites uh sorry buttons in scratch
+
+0:21:30.080,0:21:34.000
+but it's actually pretty easy to do and
+
+0:21:32.400,0:21:34.400
+i thought that since the camp is almost
+
+0:21:34.000,0:21:37.200
+over
+
+0:21:34.400,0:21:38.640
+i'll let show you a button uh so let's
+
+0:21:37.200,0:21:39.440
+put a button in here i'm going to save
+
+0:21:38.640,0:21:43.400
+it first
+
+0:21:39.440,0:21:44.720
+so this is going to be saved as collide
+
+0:21:43.400,0:21:48.480
+collidoscope
+
+0:21:44.720,0:21:51.280
+uh advanced uh kaleidoscope is so hard
+
+0:21:48.480,0:21:52.960
+to spell uh e-i-d-o is the important
+
+0:21:51.280,0:21:56.080
+part in kaleidoscope
+
+0:21:52.960,0:21:57.760
+um and so now i'm gonna make that button
+
+0:21:56.080,0:21:59.200
+all right so i'm gonna make a new sprite
+
+0:21:57.760,0:21:59.840
+here so the button is actually a new
+
+0:21:59.200,0:22:01.280
+sprite
+
+0:21:59.840,0:22:02.960
+and they're actually built in so just
+
+0:22:01.280,0:22:04.559
+click on choose a sprite just click on
+
+0:22:02.960,0:22:06.640
+the circle here
+
+0:22:04.559,0:22:07.760
+um and then you can probably find it i
+
+0:22:06.640,0:22:10.480
+just want the one that's called
+
+0:22:07.760,0:22:11.600
+button 2 you can use button 1 or button
+
+0:22:10.480,0:22:12.000
+3 if you wanted but i'm going to use
+
+0:22:11.600,0:22:15.600
+button
+
+0:22:12.000,0:22:17.360
+2. button 2 you can see comes in two
+
+0:22:15.600,0:22:19.919
+varieties it can be orange or blue i
+
+0:22:17.360,0:22:22.000
+kind of like the blue the best
+
+0:22:19.919,0:22:22.960
+and then if you want you can put words
+
+0:22:22.000,0:22:25.679
+on your button
+
+0:22:22.960,0:22:26.880
+so i'm going to click on the text here
+
+0:22:25.679,0:22:28.720
+and i'm going to make
+
+0:22:26.880,0:22:31.120
+white text so i'm going to switch this
+
+0:22:28.720,0:22:35.200
+to some white color
+
+0:22:31.120,0:22:37.280
+and then i'm going to type the word next
+
+0:22:35.200,0:22:38.559
+and you can see that the word next is
+
+0:22:37.280,0:22:39.200
+currently a little smaller than the
+
+0:22:38.559,0:22:40.640
+button
+
+0:22:39.200,0:22:42.640
+you could fix this one or two ways you
+
+0:22:40.640,0:22:44.720
+could either make the button smaller
+
+0:22:42.640,0:22:46.320
+or you could make the text bigger either
+
+0:22:44.720,0:22:48.240
+one works i think it might be easier to
+
+0:22:46.320,0:22:49.440
+make the text bigger personally
+
+0:22:48.240,0:22:52.159
+so i'm just going to make the text
+
+0:22:49.440,0:22:54.080
+bigger and i'm not worried about the
+
+0:22:52.159,0:22:56.080
+overall size yet because the size
+
+0:22:54.080,0:22:58.320
+up here i'm going to change it with the
+
+0:22:56.080,0:22:58.799
+size that's right here so i can change
+
+0:22:58.320,0:23:01.120
+the
+
+0:22:58.799,0:23:03.039
+the whole thing very easily i just
+
+0:23:01.120,0:23:06.320
+wanted to get the relative size
+
+0:23:03.039,0:23:07.600
+of the button to the text right so play
+
+0:23:06.320,0:23:08.880
+around until you're happy with your
+
+0:23:07.600,0:23:10.960
+button
+
+0:23:08.880,0:23:12.080
+i think that looks pretty good there and
+
+0:23:10.960,0:23:13.919
+then i'm going to choose to put it
+
+0:23:12.080,0:23:14.720
+basically just right up in the corner so
+
+0:23:13.919,0:23:16.240
+i think that
+
+0:23:14.720,0:23:17.840
+that looks pretty good if you wanted to
+
+0:23:16.240,0:23:19.360
+do the lower right corner you could
+
+0:23:17.840,0:23:21.120
+doesn't really matter
+
+0:23:19.360,0:23:23.120
+but we've got a button it looks
+
+0:23:21.120,0:23:25.840
+clickable and so we want to add
+
+0:23:23.120,0:23:27.760
+code to make it actually be clickable
+
+0:23:25.840,0:23:29.600
+and buttons what they typically do
+
+0:23:27.760,0:23:30.799
+in their code is they're they're quite
+
+0:23:29.600,0:23:34.080
+short
+
+0:23:30.799,0:23:35.440
+you have a when the sprite is clicked
+
+0:23:34.080,0:23:37.039
+and typically what you want to do is you
+
+0:23:35.440,0:23:38.400
+want to tell somebody else that you got
+
+0:23:37.039,0:23:40.320
+clicked so what they typically do is
+
+0:23:38.400,0:23:42.159
+they just broadcast a message
+
+0:23:40.320,0:23:43.520
+so almost every button i've ever made my
+
+0:23:42.159,0:23:44.960
+whole life like it consists of like
+
+0:23:43.520,0:23:46.559
+these two lines of code
+
+0:23:44.960,0:23:48.240
+that's not quite true sometimes it wants
+
+0:23:46.559,0:23:49.760
+to do something to itself but usually
+
+0:23:48.240,0:23:51.520
+it wants to tell other people so just
+
+0:23:49.760,0:23:54.080
+broadcast a message
+
+0:23:51.520,0:23:56.000
+i'm gonna make a message here uh called
+
+0:23:54.080,0:23:58.240
+uh next
+
+0:23:56.000,0:23:59.919
+so whenever i click the next button he's
+
+0:23:58.240,0:24:01.919
+just gonna broadcast next
+
+0:23:59.919,0:24:03.440
+so he's just gonna tell the whole world
+
+0:24:01.919,0:24:06.159
+next right so just
+
+0:24:03.440,0:24:07.840
+just a way of letting them know the
+
+0:24:06.159,0:24:10.320
+people that are going to have to listen
+
+0:24:07.840,0:24:11.279
+uh for this next message are going to be
+
+0:24:10.320,0:24:14.240
+the balls
+
+0:24:11.279,0:24:15.520
+so the balls so come into the ball it's
+
+0:24:14.240,0:24:18.960
+good
+
+0:24:15.520,0:24:20.480
+are going to have a win i receive next
+
+0:24:18.960,0:24:22.799
+and what i'm going to do to change their
+
+0:24:20.480,0:24:26.400
+color again there's many options here
+
+0:24:22.799,0:24:28.559
+is i'm just going to say next costume
+
+0:24:26.400,0:24:30.799
+and what that'll do is that'll change it
+
+0:24:28.559,0:24:32.559
+from the blue to the next color
+
+0:24:30.799,0:24:35.840
+and then that color effect will have a
+
+0:24:32.559,0:24:38.159
+different impact on that other costume
+
+0:24:35.840,0:24:40.080
+and so it hopefully should make all the
+
+0:24:38.159,0:24:41.440
+bowls change their colors
+
+0:24:40.080,0:24:42.880
+so i'm going to go ahead and stop it and
+
+0:24:41.440,0:24:45.279
+run it again here i'm going to say that
+
+0:24:42.880,0:24:46.880
+i want nine balls
+
+0:24:45.279,0:24:49.440
+and so now i can see that i've got nine
+
+0:24:46.880,0:24:49.919
+balls and then when i click on the next
+
+0:24:49.440,0:24:52.880
+button
+
+0:24:49.919,0:24:54.400
+uh he broadcast to everybody uh next and
+
+0:24:52.880,0:24:54.960
+you can see that they all change their
+
+0:24:54.400,0:24:57.120
+color
+
+0:24:54.960,0:25:00.000
+so it's kind of a way to uh to have
+
+0:24:57.120,0:25:02.240
+everybody change their color
+
+0:25:00.000,0:25:04.000
+and by the way if you wanted the back to
+
+0:25:02.240,0:25:04.640
+not leave a trace the fun thing about
+
+0:25:04.000,0:25:07.279
+this code
+
+0:25:04.640,0:25:08.240
+is these are all clones so you could
+
+0:25:07.279,0:25:12.559
+just take it out
+
+0:25:08.240,0:25:15.039
+one time and so i'll do my nine again
+
+0:25:12.559,0:25:16.720
+and now uh they all won't draw anything
+
+0:25:15.039,0:25:18.799
+when they go back which which
+
+0:25:16.720,0:25:21.840
+i like because then i can kind of do uh
+
+0:25:18.799,0:25:23.840
+crazy crazy patterns right
+
+0:25:21.840,0:25:26.080
+uh cool i think this is pretty good i
+
+0:25:23.840,0:25:27.919
+think i might choose to put on a crazy
+
+0:25:26.080,0:25:29.840
+backdrop
+
+0:25:27.919,0:25:31.600
+there's one that's kind of like goes
+
+0:25:29.840,0:25:33.360
+with kaleidoscope yeah raise i think
+
+0:25:31.600,0:25:36.480
+raise is cool
+
+0:25:33.360,0:25:37.440
+and so now i can do as many as i want so
+
+0:25:36.480,0:25:39.039
+i'll do 80
+
+0:25:37.440,0:25:40.400
+just to kind of finish things off i
+
+0:25:39.039,0:25:42.159
+could start driving while they're
+
+0:25:40.400,0:25:43.919
+building that has a neat effect
+
+0:25:42.159,0:25:45.200
+but i think that i kind of like the the
+
+0:25:43.919,0:25:47.279
+effect here as well
+
+0:25:45.200,0:25:48.720
+and then if i click on next all my
+
+0:25:47.279,0:25:51.760
+colors will change
+
+0:25:48.720,0:25:53.279
+uh click on next again uh you can see
+
+0:25:51.760,0:25:56.640
+that you can make make all sorts of
+
+0:25:53.279,0:26:01.360
+crazy patterns pretty
+
+0:25:56.640,0:26:01.360
+cool pretty fun click on share
+
+0:26:01.679,0:26:07.360
+as soon as you click on share it takes
+
+0:26:02.960,0:26:07.360
+you to this page and we'll just say
+
+0:26:07.679,0:26:15.440
+tell me how many balls you want
+
+0:26:11.520,0:26:17.520
+and then use the arrow keys to drive
+
+0:26:15.440,0:26:19.760
+i'll put an exclamation point on there
+
+0:26:17.520,0:26:20.640
+so super fun project to share with other
+
+0:26:19.760,0:26:21.919
+people
+
+0:26:20.640,0:26:24.240
+so once you get it made make sure you
+
+0:26:21.919,0:26:26.159
+copy that url uh email it to
+
+0:26:24.240,0:26:28.080
+friends and family they'll like seeing
+
+0:26:26.159,0:26:30.159
+it as well
+
+0:26:28.080,0:26:31.440
+i better check out my campers to see if
+
+0:26:30.159,0:26:33.840
+they uh they made it through i have a
+
+0:26:31.440,0:26:35.919
+feeling that mckinley probably did
+
+0:26:33.840,0:26:37.760
+all right campers did you have fun today
+
+0:26:35.919,0:26:40.000
+yes all right well
+
+0:26:37.760,0:26:41.200
+keegan's got some craziness going on all
+
+0:26:40.000,0:26:42.960
+right let's see it from the beginning he
+
+0:26:41.200,0:26:45.200
+can hit the green flag
+
+0:26:42.960,0:26:48.080
+how many balls did you pick nine nine
+
+0:26:45.200,0:26:50.960
+balls and then click next costume
+
+0:26:48.080,0:26:52.080
+looks fantastic all right mckinley did
+
+0:26:50.960,0:26:55.279
+you get yours working as well
+
+0:26:52.080,0:26:58.000
+yes oh yeah move around that
+
+0:26:55.279,0:26:58.400
+is so cool and then if i hit next it
+
+0:26:58.000,0:27:00.559
+goes
+
+0:26:58.400,0:27:01.520
+to a different costume and then if i hit
+
+0:27:00.559,0:27:04.320
+the green
+
+0:27:01.520,0:27:05.760
+green flag i can put in how many balls i
+
+0:27:04.320,0:27:09.039
+want and move around
+
+0:27:05.760,0:27:11.360
+looks awesome looks very nice
+
+0:27:09.039,0:27:12.480
+did you guys have fun this week yes what
+
+0:27:11.360,0:27:13.440
+was your favorite game is this your
+
+0:27:12.480,0:27:15.679
+favorite one
+
+0:27:13.440,0:27:17.039
+yes it's shorter which i know keegan
+
+0:27:15.679,0:27:19.120
+likes
+
+0:27:17.039,0:27:21.039
+very nice work uh so that's it for the
+
+0:27:19.120,0:27:22.640
+camp i want to say a couple things uh
+
+0:27:21.039,0:27:25.120
+just to wrap up today
+
+0:27:22.640,0:27:26.799
+uh so first off uh coding is fun you can
+
+0:27:25.120,0:27:27.679
+do this that's our main message that's
+
+0:27:26.799,0:27:29.120
+our take home
+
+0:27:27.679,0:27:31.360
+uh hopefully you've had that drilled
+
+0:27:29.120,0:27:32.640
+into uh over the last one or two weeks
+
+0:27:31.360,0:27:33.360
+depending on how long you've been with
+
+0:27:32.640,0:27:35.039
+us
+
+0:27:33.360,0:27:36.480
+the other thing i'll say is that your
+
+0:27:35.039,0:27:39.200
+creativity
+
+0:27:36.480,0:27:39.919
+is important is as important for what
+
+0:27:39.200,0:27:41.679
+you can make
+
+0:27:39.919,0:27:43.840
+as your coding skills so coding skills
+
+0:27:41.679,0:27:45.360
+are great but you can really see how
+
+0:27:43.840,0:27:48.240
+scratch like
+
+0:27:45.360,0:27:49.679
+brings creativity to life so this week
+
+0:27:48.240,0:27:51.279
+we did a lot of things together let's
+
+0:27:49.679,0:27:53.279
+just kind of review some of them
+
+0:27:51.279,0:27:55.120
+we started with the lawn mower we
+
+0:27:53.279,0:27:56.960
+learned how to do the math to make a
+
+0:27:55.120,0:27:59.360
+grid and put them all up there
+
+0:27:56.960,0:28:01.200
+and then we revealed a random backdrop
+
+0:27:59.360,0:28:03.200
+which was really neat
+
+0:28:01.200,0:28:05.039
+uh day two was the dino jump that's
+
+0:28:03.200,0:28:06.559
+where we learned about gravity the guy
+
+0:28:05.039,0:28:09.200
+throwing the ball off the roof it starts
+
+0:28:06.559,0:28:11.039
+going faster and faster as it gets lower
+
+0:28:09.200,0:28:12.320
+we also made that one kind of like a fun
+
+0:28:11.039,0:28:14.640
+game to play so that was one of our
+
+0:28:12.320,0:28:17.039
+funnest games to play
+
+0:28:14.640,0:28:17.919
+the irish sheepdog this one was crazy
+
+0:28:17.039,0:28:20.159
+this one we
+
+0:28:17.919,0:28:21.760
+created a timer to see how fast you
+
+0:28:20.159,0:28:23.039
+could do this task
+
+0:28:21.760,0:28:24.480
+i don't know if people played it but
+
+0:28:23.039,0:28:26.080
+using the arrow keys to get that dog
+
+0:28:24.480,0:28:27.440
+around is kind of hard
+
+0:28:26.080,0:28:29.679
+and it's really neat to see if you can
+
+0:28:27.440,0:28:31.440
+go faster and faster we also learned
+
+0:28:29.679,0:28:32.399
+about a neat concept called pushing
+
+0:28:31.440,0:28:34.080
+sprites
+
+0:28:32.399,0:28:35.440
+so in order to push a sprite for one
+
+0:28:34.080,0:28:36.799
+sprite to push another
+
+0:28:35.440,0:28:39.200
+really they just need to have the same
+
+0:28:36.799,0:28:40.399
+direction and the same speed
+
+0:28:39.200,0:28:42.880
+and then it looks like you're pushing
+
+0:28:40.399,0:28:44.640
+that sprite which is really fun
+
+0:28:42.880,0:28:45.919
+the hardest day was actually day four i
+
+0:28:44.640,0:28:47.279
+told you that it was gonna be day three
+
+0:28:45.919,0:28:47.919
+but the hardest day was actually day
+
+0:28:47.279,0:28:50.880
+four
+
+0:28:47.919,0:28:52.399
+uh we did the slide puzzle we made loops
+
+0:28:50.880,0:28:54.720
+uh we made lists
+
+0:28:52.399,0:28:56.640
+um we did some advanced things that day
+
+0:28:54.720,0:28:57.679
+uh if you got your slide puzzle again
+
+0:28:56.640,0:28:58.960
+that's a that's a big
+
+0:28:57.679,0:29:01.520
+pat on the back if you got that one
+
+0:28:58.960,0:29:03.120
+working uh and then today friday was
+
+0:29:01.520,0:29:05.360
+kind of a funner day
+
+0:29:03.120,0:29:07.039
+but really we gotta um learn some new
+
+0:29:05.360,0:29:08.000
+skills like with user input and that
+
+0:29:07.039,0:29:10.480
+color effect
+
+0:29:08.000,0:29:11.600
+um and we gotta reinforce uh the things
+
+0:29:10.480,0:29:12.159
+that we've been learning throughout this
+
+0:29:11.600,0:29:13.520
+camp
+
+0:29:12.159,0:29:17.120
+so how many of these different things
+
+0:29:13.520,0:29:17.919
+use clones clones clones clones clones
+
+0:29:17.120,0:29:20.320
+clones
+
+0:29:17.919,0:29:21.440
+lots and lots and lots of clones all
+
+0:29:20.320,0:29:24.559
+right so that is
+
+0:29:21.440,0:29:26.799
+it uh we loved having you join us
+
+0:29:24.559,0:29:28.640
+we have a lot of fun doing this camp we
+
+0:29:26.799,0:29:31.200
+hope to do it again next year
+
+0:29:28.640,0:29:32.320
+um certainly certainly certainly uh fill
+
+0:29:31.200,0:29:33.600
+out that feedback
+
+0:29:32.320,0:29:35.360
+just to kind of let us know what's going
+
+0:29:33.600,0:29:36.880
+on and you're definitely welcome and
+
+0:29:35.360,0:29:38.559
+encouraged to buy a t-shirt
+
+0:29:36.880,0:29:42.480
+to kind of remember your experience with
+
+0:29:38.559,0:29:42.480
+us alright thanks so much
+
+0:29:42.560,0:29:48.559
+[Music]
+
+0:29:45.559,0:29:48.559
+bye
+

@@ -1,0 +1,3843 @@
+0:00:00.390,0:00:05.200
+[Music]
+
+0:00:04.640,0:00:07.680
+hey hey
+
+0:00:05.200,0:00:10.320
+welcome to connecting with code uh the
+
+0:00:07.680,0:00:11.519
+way this camp works is it is a video uh
+
+0:00:10.320,0:00:13.440
+which you're watching now
+
+0:00:11.519,0:00:15.200
+um and you try to follow along with this
+
+0:00:13.440,0:00:16.400
+video to do the same things that i'm
+
+0:00:15.200,0:00:17.039
+doing so you actually like work the
+
+0:00:16.400,0:00:18.320
+video
+
+0:00:17.039,0:00:20.640
+and you learn about coding in the
+
+0:00:18.320,0:00:21.760
+process this year what we're doing is
+
+0:00:20.640,0:00:24.160
+we're doing scratch
+
+0:00:21.760,0:00:26.960
+we have two weeks of scratch events this
+
+0:00:24.160,0:00:28.400
+first week is kind of for a k-3 focus
+
+0:00:26.960,0:00:30.240
+but really it's for anybody that hasn't
+
+0:00:28.400,0:00:31.359
+done much coding and what we're going to
+
+0:00:30.240,0:00:32.640
+be doing is we're going to be doing
+
+0:00:31.359,0:00:34.079
+games
+
+0:00:32.640,0:00:36.480
+there's a number of different games that
+
+0:00:34.079,0:00:38.320
+we've got lined up they're kind of all a
+
+0:00:36.480,0:00:40.239
+little food themed for fun
+
+0:00:38.320,0:00:42.079
+it starts with alphabet breakfast that's
+
+0:00:40.239,0:00:43.600
+what we're going to be doing today
+
+0:00:42.079,0:00:45.760
+then in day two we're gonna be building
+
+0:00:43.600,0:00:48.719
+a game called hedgehog snack
+
+0:00:45.760,0:00:50.480
+um and then day three is fish lunch fair
+
+0:00:48.719,0:00:51.680
+warning day three is the hard one right
+
+0:00:50.480,0:00:52.719
+so that's like the middle of the week
+
+0:00:51.680,0:00:55.199
+the hardest thing
+
+0:00:52.719,0:00:56.800
+um and then catching dinner is four um
+
+0:00:55.199,0:00:57.199
+and then we finish on kind of a lighter
+
+0:00:56.800,0:01:00.320
+one
+
+0:00:57.199,0:01:01.840
+called kaleidoscope dessert and somebody
+
+0:01:00.320,0:01:02.879
+different my daughter mckinley is going
+
+0:01:01.840,0:01:05.040
+to be leading that one which is going to
+
+0:01:02.879,0:01:06.960
+be fun
+
+0:01:05.040,0:01:08.799
+this material by the way it was made by
+
+0:01:06.960,0:01:10.880
+me i'm at rolls-holman so this
+
+0:01:08.799,0:01:12.960
+material is presented by rose holman it
+
+0:01:10.880,0:01:14.560
+was also developed by bob schaefer
+
+0:01:12.960,0:01:16.479
+so he's not on camera here with us but
+
+0:01:14.560,0:01:18.400
+he helped develop all the material
+
+0:01:16.479,0:01:19.520
+and he's at mission college which is out
+
+0:01:18.400,0:01:20.880
+in california
+
+0:01:19.520,0:01:22.720
+and so we're partnering this year to
+
+0:01:20.880,0:01:24.240
+bring you connecting with code
+
+0:01:22.720,0:01:26.000
+and the way this works is in these
+
+0:01:24.240,0:01:28.000
+videos i'm not just here by myself
+
+0:01:26.000,0:01:30.079
+i'm actually with my family and my
+
+0:01:28.000,0:01:31.360
+family is going to serve as my campers
+
+0:01:30.079,0:01:33.119
+so i'm going to go and have my family
+
+0:01:31.360,0:01:35.119
+introduce themselves me
+
+0:01:33.119,0:01:37.840
+i will start with uh with our first
+
+0:01:35.119,0:01:41.439
+camper what's your name camper
+
+0:01:37.840,0:01:44.320
+nila how old is five and i
+
+0:01:41.439,0:01:45.920
+go into preschool yeah so neil is five
+
+0:01:44.320,0:01:47.520
+and so who's helping needless and she's
+
+0:01:45.920,0:01:50.799
+five
+
+0:01:47.520,0:01:52.880
+mommy yeah mommy's helping uh who's our
+
+0:01:50.799,0:01:55.520
+next camper and how old are you
+
+0:01:52.880,0:01:57.759
+and how old are you bowen and so bowen
+
+0:01:55.520,0:01:58.399
+seven and so mommy is helping neela a
+
+0:01:57.759,0:02:00.240
+lot
+
+0:01:58.399,0:02:01.520
+um and she's helping bowen just a little
+
+0:02:00.240,0:02:03.119
+less so
+
+0:02:01.520,0:02:05.119
+at seven and five they can do it with
+
+0:02:03.119,0:02:06.479
+mommy's help then i've got my campers
+
+0:02:05.119,0:02:07.840
+who do it all by themselves
+
+0:02:06.479,0:02:09.599
+so first camper doing it by yourself
+
+0:02:07.840,0:02:12.239
+what's your name um i am
+
+0:02:09.599,0:02:14.480
+keegan fisher and how old are you i am
+
+0:02:12.239,0:02:16.480
+nine years old and i am instilled good
+
+0:02:14.480,0:02:17.840
+so he's nine but he's been coding for a
+
+0:02:16.480,0:02:18.640
+while so he's going to be doing it by
+
+0:02:17.840,0:02:21.760
+himself and
+
+0:02:18.640,0:02:22.959
+our final camper i'm mckinley and i am
+
+0:02:21.760,0:02:25.360
+10 years old
+
+0:02:22.959,0:02:26.720
+and she is an experienced coder and
+
+0:02:25.360,0:02:29.200
+she's definitely doing it
+
+0:02:26.720,0:02:31.440
+by herself so that's the campers that i
+
+0:02:29.200,0:02:33.200
+have with me here today
+
+0:02:31.440,0:02:35.280
+so what are we going to do today so
+
+0:02:33.200,0:02:38.400
+today what we're doing is we're building
+
+0:02:35.280,0:02:39.680
+a scratch app this whole week is coding
+
+0:02:38.400,0:02:42.959
+in scratch
+
+0:02:39.680,0:02:44.480
+scratch is a website that you'll go to
+
+0:02:42.959,0:02:46.080
+uh to where you build things and learn
+
+0:02:44.480,0:02:47.519
+how to code hopefully a lot of people
+
+0:02:46.080,0:02:49.519
+have heard about scratch
+
+0:02:47.519,0:02:51.440
+let's show a demo of what we're trying
+
+0:02:49.519,0:02:53.360
+to make today so today we're making one
+
+0:02:51.440,0:02:55.200
+called alphabet breakfast
+
+0:02:53.360,0:02:56.560
+so this is the solution so you're just
+
+0:02:55.200,0:02:57.760
+kind of watching for a minute and the
+
+0:02:56.560,0:02:59.440
+solution
+
+0:02:57.760,0:03:00.959
+and the idea of this app let me go and
+
+0:02:59.440,0:03:03.840
+make a full screen here
+
+0:03:00.959,0:03:05.519
+is that you are avery so avery is
+
+0:03:03.840,0:03:07.120
+walking around collecting things
+
+0:03:05.519,0:03:08.879
+and she has to collect food in
+
+0:03:07.120,0:03:10.239
+alphabetical order wow
+
+0:03:08.879,0:03:12.239
+so the first thing she collected there
+
+0:03:10.239,0:03:13.519
+was an apple um anybody know what she
+
+0:03:12.239,0:03:16.319
+needs to collect next
+
+0:03:13.519,0:03:18.159
+what starts with b banana yeah i nearly
+
+0:03:16.319,0:03:19.920
+got it so a banana
+
+0:03:18.159,0:03:21.840
+um and if i try to eat the wrong thing
+
+0:03:19.920,0:03:25.280
+let's say i try to eat an egg next does
+
+0:03:21.840,0:03:26.720
+e egg start with c not really so it just
+
+0:03:25.280,0:03:28.319
+says keep trying food should be eaten
+
+0:03:26.720,0:03:29.280
+alphabetically so i got to find a
+
+0:03:28.319,0:03:32.640
+seafood anybody
+
+0:03:29.280,0:03:34.640
+see a good seafood okay cake
+
+0:03:32.640,0:03:36.959
+and so we eat cake what comes after cake
+
+0:03:34.640,0:03:41.280
+you think
+
+0:03:36.959,0:03:43.840
+donut doughnut uh after donut
+
+0:03:41.280,0:03:43.840
+egg
+
+0:03:44.400,0:03:50.000
+and then she does a little dance so
+
+0:03:47.440,0:03:52.480
+that's what we're building today it's a
+
+0:03:50.000,0:03:53.599
+long song i guess
+
+0:03:52.480,0:03:55.120
+that's what we're building today and
+
+0:03:53.599,0:03:56.000
+that's our goal and we're going to be
+
+0:03:55.120,0:03:58.239
+building it up
+
+0:03:56.000,0:04:00.400
+uh with a block based programming
+
+0:03:58.239,0:04:02.239
+language called scratch
+
+0:04:00.400,0:04:03.519
+and we're going to be learning a lot of
+
+0:04:02.239,0:04:05.040
+great things today these are kind of
+
+0:04:03.519,0:04:05.599
+like our learning objectives maybe i'll
+
+0:04:05.040,0:04:07.760
+come
+
+0:04:05.599,0:04:09.120
+reflect on these at the end what you
+
+0:04:07.760,0:04:11.599
+need to do is you need to go to this
+
+0:04:09.120,0:04:11.599
+website
+
+0:04:12.360,0:04:16.160
+scratch.mit.edu
+
+0:04:13.599,0:04:17.519
+you can see scratch was first made when
+
+0:04:16.160,0:04:20.320
+it was at mit
+
+0:04:17.519,0:04:22.079
+and it's grown so much since then when
+
+0:04:20.320,0:04:22.560
+you're on this scratch page your first
+
+0:04:22.079,0:04:24.960
+choice
+
+0:04:22.560,0:04:26.560
+is you can either just get started which
+
+0:04:24.960,0:04:27.440
+is great you'll just click on create if
+
+0:04:26.560,0:04:29.840
+you want
+
+0:04:27.440,0:04:31.520
+or if you like you can sign in it
+
+0:04:29.840,0:04:32.080
+doesn't matter to me if you sign in or
+
+0:04:31.520,0:04:33.840
+not
+
+0:04:32.080,0:04:35.360
+i'm in general i think that you should
+
+0:04:33.840,0:04:37.280
+because your work will will be saved
+
+0:04:35.360,0:04:39.280
+more permanently to your account
+
+0:04:37.280,0:04:40.960
+but it's pretty easy to sign up and if
+
+0:04:39.280,0:04:41.840
+you want to do that you can just pause
+
+0:04:40.960,0:04:44.000
+the video
+
+0:04:41.840,0:04:45.520
+and go do that on your own so campers
+
+0:04:44.000,0:04:47.440
+are you ready to get started
+
+0:04:45.520,0:04:48.960
+yes yes all right everybody click on
+
+0:04:47.440,0:04:51.360
+create
+
+0:04:48.960,0:04:52.160
+when you click on create it makes a new
+
+0:04:51.360,0:04:54.479
+program
+
+0:04:52.160,0:04:57.120
+um whenever you have a new program uh
+
+0:04:54.479,0:04:59.440
+you get to see the editor here
+
+0:04:57.120,0:05:00.800
+uh the editor is broken into a lot of
+
+0:04:59.440,0:05:02.240
+different places
+
+0:05:00.800,0:05:04.240
+let's just talk about it some so we're
+
+0:05:02.240,0:05:05.919
+more familiar with scratch
+
+0:05:04.240,0:05:08.080
+this area right over here this upper
+
+0:05:05.919,0:05:11.120
+right is called the stage
+
+0:05:08.080,0:05:12.479
+below the stage are the different actors
+
+0:05:11.120,0:05:15.280
+that are like on the stage
+
+0:05:12.479,0:05:16.960
+um sprites ah shoot i gave it away
+
+0:05:15.280,0:05:19.120
+scratch calls them the special name does
+
+0:05:16.960,0:05:21.360
+anybody know what the special name is
+
+0:05:19.120,0:05:23.520
+sprite i gave away the answer so they're
+
+0:05:21.360,0:05:24.720
+called sprites we have one sprite right
+
+0:05:23.520,0:05:27.840
+now
+
+0:05:24.720,0:05:30.960
+but we can actually have many sprites
+
+0:05:27.840,0:05:32.400
+sprites have code so each sprite has
+
+0:05:30.960,0:05:34.560
+their own code
+
+0:05:32.400,0:05:36.400
+the code is over here in the left in the
+
+0:05:34.560,0:05:41.360
+toolbar let's drag over
+
+0:05:36.400,0:05:44.639
+one line of code so drag over move 10
+
+0:05:41.360,0:05:45.360
+so now you can see that our cat has code
+
+0:05:44.639,0:05:48.080
+that he can run
+
+0:05:45.360,0:05:49.199
+move10 so the question is how do we run
+
+0:05:48.080,0:05:50.800
+this code
+
+0:05:49.199,0:05:52.240
+well one way to run it is to double
+
+0:05:50.800,0:05:53.520
+click on it so double click on where it
+
+0:05:52.240,0:05:54.960
+says move 10
+
+0:05:53.520,0:05:57.680
+and you'll notice something about your
+
+0:05:54.960,0:06:01.120
+mouse every time you double click it
+
+0:05:57.680,0:06:02.720
+he'll go over to the right now one fun
+
+0:06:01.120,0:06:03.919
+thing is you can also just kind of drag
+
+0:06:02.720,0:06:06.000
+them back over here
+
+0:06:03.919,0:06:07.199
+and you can double click it and you can
+
+0:06:06.000,0:06:08.800
+run it some more
+
+0:06:07.199,0:06:11.039
+eventually you'll get bored with doing
+
+0:06:08.800,0:06:14.160
+this so once you're bored with this
+
+0:06:11.039,0:06:16.479
+let's let's do some more things now
+
+0:06:14.160,0:06:17.199
+double clicking on it is one way to run
+
+0:06:16.479,0:06:19.840
+code
+
+0:06:17.199,0:06:20.400
+but a much better way to run code is to
+
+0:06:19.840,0:06:23.919
+add
+
+0:06:20.400,0:06:25.919
+a win green flag clicked so let's
+
+0:06:23.919,0:06:28.319
+look at these uh commands if you scroll
+
+0:06:25.919,0:06:31.120
+down through here there's some blue ones
+
+0:06:28.319,0:06:33.039
+uh and then there's some purple ones and
+
+0:06:31.120,0:06:34.400
+then there's some yellow ones and maybe
+
+0:06:33.039,0:06:36.720
+you call that orange
+
+0:06:34.400,0:06:38.080
+and there's a lot of commands to make it
+
+0:06:36.720,0:06:39.759
+easier to get around the commands
+
+0:06:38.080,0:06:42.720
+they're broken into categories
+
+0:06:39.759,0:06:43.759
+um the category we want is events so
+
+0:06:42.720,0:06:45.360
+click on
+
+0:06:43.759,0:06:48.000
+over here on the far left where it says
+
+0:06:45.360,0:06:50.000
+events and it'll scroll you to that
+
+0:06:48.000,0:06:51.680
+section of the code so you can kind of
+
+0:06:50.000,0:06:53.120
+see that these things they just help you
+
+0:06:51.680,0:06:55.440
+scroll around
+
+0:06:53.120,0:06:56.560
+to find the right category so the most
+
+0:06:55.440,0:07:00.840
+common way to run
+
+0:06:56.560,0:07:03.680
+code is to grab this win green flag
+
+0:07:00.840,0:07:06.479
+clicked and put it and just snap it
+
+0:07:03.680,0:07:08.560
+right on top of your code
+
+0:07:06.479,0:07:10.560
+so this is what most scratch programs
+
+0:07:08.560,0:07:11.919
+look like so this is considered like the
+
+0:07:10.560,0:07:14.479
+start of the program
+
+0:07:11.919,0:07:15.039
+so our cat when the green flag is
+
+0:07:14.479,0:07:16.960
+clicked
+
+0:07:15.039,0:07:19.120
+he's going to move 10. let's try it a
+
+0:07:16.960,0:07:22.319
+couple times so click on
+
+0:07:19.120,0:07:25.199
+the green flag and he'll move he'll move
+
+0:07:22.319,0:07:25.199
+across the stage
+
+0:07:25.919,0:07:29.120
+so this is just to kind of get you
+
+0:07:27.280,0:07:31.759
+familiar with the environment
+
+0:07:29.120,0:07:33.680
+that we're working in but actually we we
+
+0:07:31.759,0:07:35.360
+don't need a cat at all in this game if
+
+0:07:33.680,0:07:37.599
+you remember looking at the solution
+
+0:07:35.360,0:07:39.360
+there are no cats in there so we don't
+
+0:07:37.599,0:07:40.960
+need this particular sprite
+
+0:07:39.360,0:07:43.280
+so what i want to do is i want to delete
+
+0:07:40.960,0:07:45.360
+this sprite so he was just a test
+
+0:07:43.280,0:07:46.560
+to delete it some of my campers found
+
+0:07:45.360,0:07:48.879
+this already
+
+0:07:46.560,0:07:51.440
+there's a trash can i got over here and
+
+0:07:48.879,0:07:54.400
+if you click this trash can icon
+
+0:07:51.440,0:07:56.560
+the cat will be gone poof if you ever do
+
+0:07:54.400,0:07:58.160
+something like that on accident
+
+0:07:56.560,0:08:00.720
+campers how do you how do you fix a
+
+0:07:58.160,0:08:03.199
+problem if you did that on accident
+
+0:08:00.720,0:08:04.479
+yeah command z or control z depending on
+
+0:08:03.199,0:08:06.160
+what type of computer you're on uh
+
+0:08:04.479,0:08:10.479
+that's undo so if i messed up
+
+0:08:06.160,0:08:12.560
+i just hit um uh control z or command z
+
+0:08:10.479,0:08:14.319
+uh oops that didn't work you can also go
+
+0:08:12.560,0:08:15.199
+to edit uh restore sprite and it'll just
+
+0:08:14.319,0:08:16.400
+be back right
+
+0:08:15.199,0:08:19.199
+i did want to delete them that was a
+
+0:08:16.400,0:08:21.120
+good thing to do but just know that undo
+
+0:08:19.199,0:08:22.319
+is very important with things you're
+
+0:08:21.120,0:08:25.360
+doing
+
+0:08:22.319,0:08:27.520
+all right now let's add a new sprite
+
+0:08:25.360,0:08:28.560
+i've got a sprite that i'm planning on
+
+0:08:27.520,0:08:31.440
+you're using
+
+0:08:28.560,0:08:32.479
+her name is avery walking so what we
+
+0:08:31.440,0:08:35.440
+want to do
+
+0:08:32.479,0:08:36.240
+is we want to add a new sprite to do
+
+0:08:35.440,0:08:38.839
+that
+
+0:08:36.240,0:08:40.080
+there's a circle down here for choose a
+
+0:08:38.839,0:08:41.680
+sprite
+
+0:08:40.080,0:08:43.039
+this circle confuses me a little bit
+
+0:08:41.680,0:08:45.600
+because what happens is when i hover
+
+0:08:43.039,0:08:47.279
+over it it like shoots up this thing
+
+0:08:45.600,0:08:48.720
+it turns out you can ignore the thing
+
+0:08:47.279,0:08:49.440
+that pops up you can just click right on
+
+0:08:48.720,0:08:51.200
+the circle
+
+0:08:49.440,0:08:52.160
+so click right on the circle and what
+
+0:08:51.200,0:08:53.680
+we're going to do is we're going to add
+
+0:08:52.160,0:08:56.240
+a different sprites
+
+0:08:53.680,0:08:58.320
+instead of that cat and i'm looking for
+
+0:08:56.240,0:09:00.160
+one called avery walking
+
+0:08:58.320,0:09:01.920
+now i can see avery walking is right
+
+0:09:00.160,0:09:03.760
+here so i'm just going to select it
+
+0:09:01.920,0:09:05.440
+but just know that when you're looking
+
+0:09:03.760,0:09:06.000
+for sprites you can search for them in
+
+0:09:05.440,0:09:08.160
+here
+
+0:09:06.000,0:09:09.279
+you can also organize them by category
+
+0:09:08.160,0:09:12.160
+lots of options
+
+0:09:09.279,0:09:13.279
+but i want avery walking so when i click
+
+0:09:12.160,0:09:17.680
+on her
+
+0:09:13.279,0:09:21.040
+she's now into my scratch project
+
+0:09:17.680,0:09:23.440
+avery um is uh looking pretty good
+
+0:09:21.040,0:09:24.880
+she's a little big so what i want to do
+
+0:09:23.440,0:09:28.399
+is i want to make her
+
+0:09:24.880,0:09:29.600
+a little smaller so right here is the
+
+0:09:28.399,0:09:31.760
+size
+
+0:09:29.600,0:09:33.519
+the size right now is set to 100 that
+
+0:09:31.760,0:09:36.399
+means 100 percent
+
+0:09:33.519,0:09:37.200
+of her normal size make her some amount
+
+0:09:36.399,0:09:40.720
+smaller
+
+0:09:37.200,0:09:41.760
+i'm going to go with 60. so now she'll
+
+0:09:40.720,0:09:44.959
+be able to
+
+0:09:41.760,0:09:47.279
+play this game better
+
+0:09:44.959,0:09:49.120
+right next to size you can see she's
+
+0:09:47.279,0:09:49.760
+also got what direction she's pointing
+
+0:09:49.120,0:09:52.240
+in
+
+0:09:49.760,0:09:54.720
+and you can kind of like move her around
+
+0:09:52.240,0:09:54.720
+like this
+
+0:09:54.800,0:09:58.560
+which is kind of fun and after a while
+
+0:09:56.399,0:09:59.920
+you'll get dizzy now sprites have
+
+0:09:58.560,0:10:01.600
+different modes
+
+0:09:59.920,0:10:04.079
+you can see that right now her mode is
+
+0:10:01.600,0:10:06.000
+that she can point in any direction
+
+0:10:04.079,0:10:07.600
+i think she looks silly when she's like
+
+0:10:06.000,0:10:10.160
+walking up
+
+0:10:07.600,0:10:12.000
+and so what i do is i switch her mode
+
+0:10:10.160,0:10:14.640
+right now the mode is set to any
+
+0:10:12.000,0:10:16.320
+directions called all around you can
+
+0:10:14.640,0:10:17.120
+also switch it to where she's just left
+
+0:10:16.320,0:10:19.200
+right
+
+0:10:17.120,0:10:20.800
+or where she doesn't rotate at all i
+
+0:10:19.200,0:10:23.600
+want to switch her mode
+
+0:10:20.800,0:10:24.640
+to where she just does left right so i
+
+0:10:23.600,0:10:26.399
+fixed her size
+
+0:10:24.640,0:10:27.680
+so she's the right size and then i
+
+0:10:26.399,0:10:29.760
+switched her mode
+
+0:10:27.680,0:10:31.200
+to where she's just left right and so
+
+0:10:29.760,0:10:33.279
+now if she's pointing
+
+0:10:31.200,0:10:35.040
+anywhere to the left her sprite just
+
+0:10:33.279,0:10:37.040
+kind of looks like it's straight left
+
+0:10:35.040,0:10:38.800
+and if she's anywhere to the right she's
+
+0:10:37.040,0:10:41.600
+straight right so she's only got those
+
+0:10:38.800,0:10:42.720
+two options now it doesn't really matter
+
+0:10:41.600,0:10:47.680
+where you leave this arrow but i'm going
+
+0:10:42.720,0:10:50.480
+to put mine back to roughly 90 degrees
+
+0:10:47.680,0:10:52.320
+all right so avery is ready to go but
+
+0:10:50.480,0:10:53.920
+she has no code
+
+0:10:52.320,0:10:55.519
+the first thing we're going to do is
+
+0:10:53.920,0:10:57.360
+we're going to add a win green flag
+
+0:10:55.519,0:10:59.360
+clicked
+
+0:10:57.360,0:11:01.839
+so i'm still in my events area so i can
+
+0:10:59.360,0:11:01.839
+just bring it over
+
+0:11:02.000,0:11:05.040
+and what we want avery to do is we want
+
+0:11:04.160,0:11:09.200
+her for to
+
+0:11:05.040,0:11:11.760
+forever move and follow the mouse
+
+0:11:09.200,0:11:13.519
+so it's really mean to tell people to do
+
+0:11:11.760,0:11:14.480
+something forever but in code it happens
+
+0:11:13.519,0:11:16.480
+all the time
+
+0:11:14.480,0:11:18.000
+so let's see if we can find uh the
+
+0:11:16.480,0:11:19.600
+forever statement
+
+0:11:18.000,0:11:21.279
+so the forever statement is in the
+
+0:11:19.600,0:11:23.600
+control category
+
+0:11:21.279,0:11:25.440
+control is just below events so you can
+
+0:11:23.600,0:11:28.399
+just scroll down there if you want
+
+0:11:25.440,0:11:29.600
+or you can click on this word control
+
+0:11:28.399,0:11:32.000
+and what you're doing is you're trying
+
+0:11:29.600,0:11:33.600
+to find a forever loop
+
+0:11:32.000,0:11:35.440
+so the forever loop it's the third one
+
+0:11:33.600,0:11:36.160
+down right here so just drag a forever
+
+0:11:35.440,0:11:39.279
+loop
+
+0:11:36.160,0:11:41.040
+and pop it into place so now when the
+
+0:11:39.279,0:11:43.839
+green flag is clicked
+
+0:11:41.040,0:11:45.680
+avery is going to do something forever
+
+0:11:43.839,0:11:47.519
+and right now the thing she does forever
+
+0:11:45.680,0:11:49.200
+is is nothing there's no code in there
+
+0:11:47.519,0:11:51.120
+let's add some code in there
+
+0:11:49.200,0:11:55.040
+the code we're going to add is up in
+
+0:11:51.120,0:11:55.040
+motion so go on motion
+
+0:11:55.360,0:12:00.240
+um and find one that says point towards
+
+0:11:58.800,0:12:01.680
+mouse pointer
+
+0:12:00.240,0:12:03.519
+now this one's tricky because there's a
+
+0:12:01.680,0:12:08.079
+couple in here that are somewhere
+
+0:12:03.519,0:12:08.079
+but i want point towards mouse pointer
+
+0:12:09.279,0:12:13.839
+some people accidentally grab like go to
+
+0:12:12.399,0:12:15.920
+or something like that but point towards
+
+0:12:13.839,0:12:17.920
+will do it so if we're pointing towards
+
+0:12:15.920,0:12:20.560
+the mouse pointer
+
+0:12:17.920,0:12:22.000
+um when i run this program she should
+
+0:12:20.560,0:12:23.440
+point towards my mouse pointer now she
+
+0:12:22.000,0:12:25.279
+only points left or right
+
+0:12:23.440,0:12:27.279
+so when i run it and my mouse is over
+
+0:12:25.279,0:12:29.120
+here she points over here
+
+0:12:27.279,0:12:30.399
+and if my mouse goes on the other side
+
+0:12:29.120,0:12:32.399
+she switches direction
+
+0:12:30.399,0:12:33.839
+so she's pointing to the left she's
+
+0:12:32.399,0:12:37.120
+pointing towards the right
+
+0:12:33.839,0:12:38.720
+left right left right left right
+
+0:12:37.120,0:12:40.399
+you can also see that the code is
+
+0:12:38.720,0:12:41.839
+running in a couple of other ways first
+
+0:12:40.399,0:12:43.040
+it's outlined in yellow
+
+0:12:41.839,0:12:45.120
+so you can see that it's running because
+
+0:12:43.040,0:12:46.560
+it's outlined in yellow also the green
+
+0:12:45.120,0:12:48.800
+flag kind of appears that it's like
+
+0:12:46.560,0:12:51.760
+continually depressed
+
+0:12:48.800,0:12:53.360
+it's not sad it's just always pressed
+
+0:12:51.760,0:12:55.200
+all right
+
+0:12:53.360,0:12:56.959
+let's add some more code my camper is
+
+0:12:55.200,0:12:59.440
+doing okay
+
+0:12:56.959,0:13:00.399
+everybody good all right let's do some
+
+0:12:59.440,0:13:03.680
+movement
+
+0:13:00.399,0:13:04.320
+so just below that point towards add a
+
+0:13:03.680,0:13:07.839
+move
+
+0:13:04.320,0:13:07.839
+10 steps
+
+0:13:08.560,0:13:12.399
+and the value 10 determines how fast she
+
+0:13:11.360,0:13:14.160
+walks
+
+0:13:12.399,0:13:17.360
+so right now i'm going to go ahead and
+
+0:13:14.160,0:13:21.839
+run it and she's going to move towards
+
+0:13:17.360,0:13:21.839
+my mouse at 10.
+
+0:13:22.079,0:13:26.079
+if you want to play with speeds um every
+
+0:13:24.399,0:13:28.959
+every kid likes to do this right so you
+
+0:13:26.079,0:13:30.720
+can you can go faster
+
+0:13:28.959,0:13:32.560
+but if she goes too fast it works out
+
+0:13:30.720,0:13:34.639
+badly right so everybody likes to do
+
+0:13:32.560,0:13:37.519
+that so i just showing it to you
+
+0:13:34.639,0:13:40.720
+you can go slower so if i go at two
+
+0:13:37.519,0:13:40.720
+she'll just go really slow
+
+0:13:45.040,0:13:49.279
+and i'm going to leave mine at 15 is
+
+0:13:47.600,0:13:51.519
+where i'm going to leave mine
+
+0:13:49.279,0:13:54.720
+that will appear to be kind of fast but
+
+0:13:51.519,0:13:54.720
+we're going to fix that in a minute
+
+0:13:55.120,0:13:59.839
+so you can play around with it but i'm
+
+0:13:58.240,0:14:00.880
+going to leave mine at 15 because i'm
+
+0:13:59.839,0:14:02.079
+going to do something
+
+0:14:00.880,0:14:03.760
+here in a minute that's gonna make that
+
+0:14:02.079,0:14:06.320
+be the correct speed right now it's a
+
+0:14:03.760,0:14:06.320
+little fast
+
+0:14:08.079,0:14:14.160
+another problem that i have is avery
+
+0:14:11.519,0:14:15.360
+is gliding places right i want her to be
+
+0:14:14.160,0:14:16.399
+walking places
+
+0:14:15.360,0:14:19.040
+now i'm going to show you something
+
+0:14:16.399,0:14:20.480
+about avery avery has code we can see
+
+0:14:19.040,0:14:21.440
+her code here because we're in the code
+
+0:14:20.480,0:14:24.639
+tab
+
+0:14:21.440,0:14:26.560
+avery also has costumes and avery has
+
+0:14:24.639,0:14:29.519
+sounds
+
+0:14:26.560,0:14:31.760
+what we the reason we picked avery is
+
+0:14:29.519,0:14:34.079
+because she has four costumes
+
+0:14:31.760,0:14:35.920
+and if you cycle between those costumes
+
+0:14:34.079,0:14:38.880
+it'll look like she's walking
+
+0:14:35.920,0:14:41.199
+so if you picked avery then you can make
+
+0:14:38.880,0:14:43.839
+her look like she's walking
+
+0:14:41.199,0:14:44.800
+so let's let's do that let's go into
+
+0:14:43.839,0:14:46.560
+looks
+
+0:14:44.800,0:14:48.000
+because her costume like the way she
+
+0:14:46.560,0:14:51.199
+looks is in looks
+
+0:14:48.000,0:14:54.240
+and find this one called next costume
+
+0:14:51.199,0:14:54.240
+and put it on the bottom
+
+0:14:54.480,0:14:57.519
+now i'm going to warn you she's going to
+
+0:14:55.839,0:14:59.440
+walk really fast
+
+0:14:57.519,0:15:02.160
+so you can see that she walks quite
+
+0:14:59.440,0:15:04.320
+quickly as she's going around
+
+0:15:02.160,0:15:05.199
+and it's kind of comical to watch her
+
+0:15:04.320,0:15:07.839
+but it is a little
+
+0:15:05.199,0:15:07.839
+too fast
+
+0:15:08.720,0:15:14.000
+so how do we slow her down um so the way
+
+0:15:12.560,0:15:16.720
+i want to slow her down
+
+0:15:14.000,0:15:18.639
+is i want to put in a short time delay
+
+0:15:16.720,0:15:20.959
+and so with a short time delay
+
+0:15:18.639,0:15:22.959
+it'll make her look like she's walking
+
+0:15:20.959,0:15:25.279
+not extremely fast
+
+0:15:22.959,0:15:27.839
+time delays are over in control so go to
+
+0:15:25.279,0:15:27.839
+control
+
+0:15:28.560,0:15:33.279
+take a wait one second
+
+0:15:31.600,0:15:35.040
+and put it down at the bottom of your
+
+0:15:33.279,0:15:36.079
+function the bottom of your favorite
+
+0:15:35.040,0:15:38.079
+loop so now
+
+0:15:36.079,0:15:39.600
+we're pointing towards the mouse pointer
+
+0:15:38.079,0:15:41.199
+we're moving 10
+
+0:15:39.600,0:15:43.519
+we're switching costumes so she looks
+
+0:15:41.199,0:15:46.160
+like walks um and then we're waiting
+
+0:15:43.519,0:15:49.360
+one second you can try one second but
+
+0:15:46.160,0:15:49.360
+it's going to be way too slow
+
+0:15:50.079,0:15:55.320
+that's quite painful and so i'm going to
+
+0:15:53.360,0:15:58.880
+switch it to
+
+0:15:55.320,0:15:58.880
+0.1 seconds
+
+0:16:00.480,0:16:04.560
+that i think looks good enough for me
+
+0:16:05.040,0:16:10.560
+so she's walking around and it looks
+
+0:16:08.079,0:16:11.759
+like things are going well
+
+0:16:10.560,0:16:13.440
+i think i'm going to come around i'm
+
+0:16:11.759,0:16:14.959
+going to check on some of my campers to
+
+0:16:13.440,0:16:16.240
+see how they're doing
+
+0:16:14.959,0:16:18.720
+and it'll give you a minute to get
+
+0:16:16.240,0:16:21.360
+caught up if you're falling behind
+
+0:16:18.720,0:16:22.720
+all right neil let's start with you so
+
+0:16:21.360,0:16:24.639
+have you got yours caught up
+
+0:16:22.720,0:16:26.160
+oh neil is a little on the independent
+
+0:16:24.639,0:16:28.000
+side neila
+
+0:16:26.160,0:16:29.199
+put a big old horse in there instead of
+
+0:16:28.000,0:16:31.279
+avery walking
+
+0:16:29.199,0:16:32.959
+um it looks really good can you show
+
+0:16:31.279,0:16:35.199
+that he moves around so you do
+
+0:16:32.959,0:16:37.759
+the green flag there and then as you
+
+0:16:35.199,0:16:41.279
+move the mouse around it's going great
+
+0:16:37.759,0:16:43.440
+bowen oh what a bunch of rule followers
+
+0:16:41.279,0:16:45.279
+bowen's got a penguin on here hit it
+
+0:16:43.440,0:16:47.199
+bowen let's see yours oh and the penguin
+
+0:16:45.279,0:16:50.639
+oh that's kind of neat bowen the penguin
+
+0:16:47.199,0:16:51.199
+has a walking animation great job you
+
+0:16:50.639,0:16:52.959
+two
+
+0:16:51.199,0:16:55.120
+five and seven you can do it let's check
+
+0:16:52.959,0:16:57.759
+on our our older campers
+
+0:16:55.120,0:16:59.040
+um so we've got mckinley uh with an
+
+0:16:57.759,0:17:02.320
+avery
+
+0:16:59.040,0:17:05.919
+yours is a little fast change it to 0.1
+
+0:17:02.320,0:17:06.959
+instead of zero one um and keegan's is
+
+0:17:05.919,0:17:08.640
+right there
+
+0:17:06.959,0:17:10.640
+mckinley says she knew what she was
+
+0:17:08.640,0:17:11.360
+supposed to do she just wanted it to be
+
+0:17:10.640,0:17:14.160
+fast
+
+0:17:11.360,0:17:15.360
+i suppose that's okay all right so the
+
+0:17:14.160,0:17:18.240
+next thing we want to do
+
+0:17:15.360,0:17:19.280
+is avery's looking good avery's walking
+
+0:17:18.240,0:17:21.439
+around a white
+
+0:17:19.280,0:17:22.799
+space let's go ahead and give her a
+
+0:17:21.439,0:17:25.199
+better background
+
+0:17:22.799,0:17:25.839
+so just like we added a sprite we're
+
+0:17:25.199,0:17:28.319
+going to add
+
+0:17:25.839,0:17:29.679
+a backdrop so in the lower right corner
+
+0:17:28.319,0:17:30.320
+here there's a circle that says choose
+
+0:17:29.679,0:17:31.919
+backdrop
+
+0:17:30.320,0:17:34.400
+go ahead and click on that circle in the
+
+0:17:31.919,0:17:36.320
+lower right corner
+
+0:17:34.400,0:17:37.840
+just like with sprites it will take you
+
+0:17:36.320,0:17:39.440
+to a screen that lets you pick the one
+
+0:17:37.840,0:17:42.160
+you want
+
+0:17:39.440,0:17:43.600
+what i chose to do is i chose to do
+
+0:17:42.160,0:17:45.600
+bedroom one
+
+0:17:43.600,0:17:47.760
+because i thought that it would be good
+
+0:17:45.600,0:17:48.799
+to be able to hide things in there
+
+0:17:47.760,0:17:51.120
+and to kind of make it look like it's
+
+0:17:48.799,0:17:52.400
+part of the environment i don't mind if
+
+0:17:51.120,0:17:55.200
+you do something different
+
+0:17:52.400,0:17:57.360
+you can do whatever you want to do but
+
+0:17:55.200,0:17:58.559
+just pick one that you think you'd like
+
+0:17:57.360,0:18:01.360
+while you're picking that i'm going to
+
+0:17:58.559,0:18:02.400
+talk about backdrops just a little bit
+
+0:18:01.360,0:18:04.480
+the first thing i want to say about
+
+0:18:02.400,0:18:06.320
+backdrops is that you can see right now
+
+0:18:04.480,0:18:07.120
+that my sprite is selected and i can see
+
+0:18:06.320,0:18:08.720
+her code
+
+0:18:07.120,0:18:11.760
+if i ever accidentally click on the
+
+0:18:08.720,0:18:13.200
+stage now it shows my stages code so do
+
+0:18:11.760,0:18:14.000
+this for me go back and forth click on
+
+0:18:13.200,0:18:15.360
+your sprite
+
+0:18:14.000,0:18:17.200
+and you can see your sprites code is
+
+0:18:15.360,0:18:19.679
+here and then if you click on your
+
+0:18:17.200,0:18:21.520
+backdrop which is over here to the right
+
+0:18:19.679,0:18:23.679
+you can see the backdrops code which is
+
+0:18:21.520,0:18:24.480
+blank i only point that out because
+
+0:18:23.679,0:18:25.840
+sometimes people
+
+0:18:24.480,0:18:27.919
+accidentally click over there and
+
+0:18:25.840,0:18:31.039
+they're like where'd all my code go
+
+0:18:27.919,0:18:33.039
+and it's because code can be different
+
+0:18:31.039,0:18:34.400
+for different sprites it can also be
+
+0:18:33.039,0:18:35.919
+different for the backdrop
+
+0:18:34.400,0:18:38.559
+and just know to bring your code back
+
+0:18:35.919,0:18:41.919
+all you have to do is click on avery
+
+0:18:38.559,0:18:42.720
+easy peasy all right let's add a new
+
+0:18:41.919,0:18:44.880
+sprite
+
+0:18:42.720,0:18:46.400
+so we want to add food for her to eat
+
+0:18:44.880,0:18:48.000
+alphabetically
+
+0:18:46.400,0:18:49.760
+and so this time i think it really would
+
+0:18:48.000,0:18:51.200
+be best if you follow along and you add
+
+0:18:49.760,0:18:53.919
+an apple
+
+0:18:51.200,0:18:55.600
+so click on choose sprite the circle
+
+0:18:53.919,0:18:59.039
+down here
+
+0:18:55.600,0:19:00.640
+and see if you can find an apple
+
+0:18:59.039,0:19:03.039
+now you can see that there's two
+
+0:19:00.640,0:19:05.600
+different sprites there's avery
+
+0:19:03.039,0:19:06.720
+and avery has code that we've written
+
+0:19:05.600,0:19:09.200
+and then there's an apple
+
+0:19:06.720,0:19:10.720
+which currently has no code at all and
+
+0:19:09.200,0:19:12.080
+you can go back and forth between them
+
+0:19:10.720,0:19:14.000
+pretty easily
+
+0:19:12.080,0:19:15.919
+the apple if you like its size you can
+
+0:19:14.000,0:19:17.919
+leave it i'm going to choose to make my
+
+0:19:15.919,0:19:21.280
+apple just a little bit smaller
+
+0:19:17.919,0:19:23.679
+maybe a 70 apple you can also put it
+
+0:19:21.280,0:19:25.520
+somewhere in your environment
+
+0:19:23.679,0:19:27.120
+maybe i'll do a 50 apple and put it on
+
+0:19:25.520,0:19:28.720
+the table to where it kind of looks like
+
+0:19:27.120,0:19:29.840
+it belongs so it's a little bit more
+
+0:19:28.720,0:19:33.600
+hidden
+
+0:19:29.840,0:19:35.360
+that's optional next let's write some
+
+0:19:33.600,0:19:36.799
+code for the apple
+
+0:19:35.360,0:19:38.720
+oh i just realized there's another
+
+0:19:36.799,0:19:40.720
+important thing that i forgot to do
+
+0:19:38.720,0:19:42.240
+uh whenever you're coding ask my campers
+
+0:19:40.720,0:19:44.240
+this what's an important thing to do
+
+0:19:42.240,0:19:45.679
+when you're coding campers
+
+0:19:44.240,0:19:47.280
+save it's important to save every so
+
+0:19:45.679,0:19:49.039
+often what i'm going to do is i'm going
+
+0:19:47.280,0:19:51.280
+to name my project
+
+0:19:49.039,0:19:52.320
+i'm going to name mine alphabet
+
+0:19:51.280,0:19:54.000
+breakfast
+
+0:19:52.320,0:19:55.919
+you can name your project anything you'd
+
+0:19:54.000,0:19:58.000
+like and it does
+
+0:19:55.919,0:20:00.000
+auto save but if you ever want to force
+
+0:19:58.000,0:20:02.960
+it to save you can click on file
+
+0:20:00.000,0:20:04.480
+save now so it will periodically auto
+
+0:20:02.960,0:20:05.679
+save so you don't have to keep hitting
+
+0:20:04.480,0:20:06.880
+file save now
+
+0:20:05.679,0:20:08.400
+but if you ever do something you're like
+
+0:20:06.880,0:20:09.840
+oh i want to make sure it's saved just
+
+0:20:08.400,0:20:12.480
+click on file save now
+
+0:20:09.840,0:20:13.200
+and you'll be sure that it saves back to
+
+0:20:12.480,0:20:16.720
+the apple
+
+0:20:13.200,0:20:18.960
+so the apple uh let's go ahead and do a
+
+0:20:16.720,0:20:21.840
+win green flag for for him as well so
+
+0:20:18.960,0:20:21.840
+click on events
+
+0:20:22.640,0:20:26.799
+when green flag clicked you'll find that
+
+0:20:25.200,0:20:28.080
+a lot of sprites start that way unless
+
+0:20:26.799,0:20:30.400
+you're doing something really advanced a
+
+0:20:28.080,0:20:31.520
+lot of them start this way
+
+0:20:30.400,0:20:33.360
+and what we're going to do with the
+
+0:20:31.520,0:20:35.039
+apple is we're going to decide to show
+
+0:20:33.360,0:20:36.480
+him or hide him so he's going to either
+
+0:20:35.039,0:20:39.200
+be shown or hidden
+
+0:20:36.480,0:20:40.720
+so the first thing i'm going to do is
+
+0:20:39.200,0:20:43.039
+i'm going to make sure he's shown
+
+0:20:40.720,0:20:45.280
+at when the program starts so go to
+
+0:20:43.039,0:20:49.280
+looks first
+
+0:20:45.280,0:20:50.799
+and find show now i know right now he's
+
+0:20:49.280,0:20:52.480
+shown and everything's fine
+
+0:20:50.799,0:20:54.000
+but periodically in this app he's going
+
+0:20:52.480,0:20:55.039
+to get hidden and i want to make sure he
+
+0:20:54.000,0:20:57.760
+starts off
+
+0:20:55.039,0:20:57.760
+being shown
+
+0:20:58.159,0:21:03.039
+now the next thing we want to do is we
+
+0:20:59.760,0:21:04.559
+want to forever check to see if avery's
+
+0:21:03.039,0:21:06.000
+touching the apple
+
+0:21:04.559,0:21:08.240
+so what i'm going to do next is i'm
+
+0:21:06.000,0:21:11.280
+going to add a forever loop
+
+0:21:08.240,0:21:11.280
+so i'm in control
+
+0:21:11.679,0:21:14.799
+and i drag a forever loop over
+
+0:21:13.440,0:21:17.360
+[Music]
+
+0:21:14.799,0:21:18.320
+all right now inside the forever loop we
+
+0:21:17.360,0:21:21.440
+want to check
+
+0:21:18.320,0:21:23.280
+if she's touching the apple uh this is
+
+0:21:21.440,0:21:25.440
+one of our our flow control statements
+
+0:21:23.280,0:21:27.360
+it's also uh in the control area
+
+0:21:25.440,0:21:28.880
+and it looks like this it's just an if
+
+0:21:27.360,0:21:32.000
+so drag this if over
+
+0:21:28.880,0:21:33.679
+and drop it inside the forever loop so
+
+0:21:32.000,0:21:36.880
+we're forever going to check
+
+0:21:33.679,0:21:38.159
+if something is happening now the way
+
+0:21:36.880,0:21:40.480
+you read this is it says
+
+0:21:38.159,0:21:43.600
+if and then this diamond shape is the
+
+0:21:40.480,0:21:47.280
+condition so if this condition is true
+
+0:21:43.600,0:21:48.799
+then run this code now let's find a good
+
+0:21:47.280,0:21:52.480
+condition to put in here
+
+0:21:48.799,0:21:55.600
+go into sensing so we want to sense
+
+0:21:52.480,0:21:57.440
+if we're touching avery or not
+
+0:21:55.600,0:21:59.280
+so this is kind of interesting but the
+
+0:21:57.440,0:22:03.280
+thing we want to drag into there
+
+0:21:59.280,0:22:04.880
+is actually if touching mouse pointer
+
+0:22:03.280,0:22:08.320
+and the reason we're going to drag this
+
+0:22:04.880,0:22:10.720
+in is you see this white arrow on here
+
+0:22:08.320,0:22:12.240
+so this white arrow means that you can
+
+0:22:10.720,0:22:14.720
+probably change it um
+
+0:22:12.240,0:22:16.480
+and sure enough you can change it to say
+
+0:22:14.720,0:22:19.440
+um if touching
+
+0:22:16.480,0:22:22.559
+avery walking so every walking is the
+
+0:22:19.440,0:22:26.880
+name of that other sprite
+
+0:22:22.559,0:22:30.559
+so um if touching avery walking
+
+0:22:26.880,0:22:32.000
+then we want to hide
+
+0:22:30.559,0:22:34.320
+hide is a command which is over and
+
+0:22:32.000,0:22:34.320
+looks
+
+0:22:35.280,0:22:41.280
+so we're going to bring in a hide and
+
+0:22:37.120,0:22:43.039
+drop it right there
+
+0:22:41.280,0:22:45.679
+so you can see that the apple has code
+
+0:22:43.039,0:22:46.880
+that it runs and avery has code that she
+
+0:22:45.679,0:22:50.080
+runs
+
+0:22:46.880,0:22:53.039
+and if i hit the green flag right now
+
+0:22:50.080,0:22:55.120
+avery's gonna walk around and as soon as
+
+0:22:53.039,0:22:58.880
+she touches the apple
+
+0:22:55.120,0:23:01.600
+it disappears it's gone
+
+0:22:58.880,0:23:05.280
+and then if you stop your program and
+
+0:23:01.600,0:23:05.280
+restart it the apple comes back
+
+0:23:06.080,0:23:11.440
+cool i'd say it's going pretty well
+
+0:23:09.120,0:23:12.480
+um another important thing with games is
+
+0:23:11.440,0:23:15.120
+that they're fun
+
+0:23:12.480,0:23:16.480
+right so right now the apple just just
+
+0:23:15.120,0:23:18.320
+disappears
+
+0:23:16.480,0:23:20.000
+i think it'd be more fun if our apple
+
+0:23:18.320,0:23:22.640
+made a little bit of noise
+
+0:23:20.000,0:23:24.240
+so our apple is gonna make a noise uh
+
+0:23:22.640,0:23:27.039
+whenever we get it we're gonna make a
+
+0:23:24.240,0:23:27.039
+chomp sound
+
+0:23:27.120,0:23:31.600
+all sprites have sounds that they
+
+0:23:30.240,0:23:33.520
+currently know about
+
+0:23:31.600,0:23:36.400
+let's click on the apple and let's see
+
+0:23:33.520,0:23:37.440
+what sounds it knows about sure enough
+
+0:23:36.400,0:23:40.720
+he has a sound called
+
+0:23:37.440,0:23:41.760
+chomp uh go ahead and play it it kind of
+
+0:23:40.720,0:23:45.760
+sounds like oh
+
+0:23:41.760,0:23:47.360
+on the apple so he already has the sound
+
+0:23:45.760,0:23:48.720
+we want if we wanted more sounds we
+
+0:23:47.360,0:23:50.159
+could add him but we don't need to for
+
+0:23:48.720,0:23:52.400
+him he's got the sound we want so let's
+
+0:23:50.159,0:23:54.720
+go back to our code
+
+0:23:52.400,0:23:56.400
+so in the code look for sound
+
+0:23:54.720,0:23:59.440
+[Music]
+
+0:23:56.400,0:24:04.480
+and what we want to do is we want to
+
+0:23:59.440,0:24:06.159
+play sound chomp
+
+0:24:04.480,0:24:07.919
+now there's a couple versions of this
+
+0:24:06.159,0:24:09.919
+there's play sound until done
+
+0:24:07.919,0:24:11.520
+and then there's start sound chomp in
+
+0:24:09.919,0:24:13.440
+this case it doesn't matter you can put
+
+0:24:11.520,0:24:16.400
+in either one that you'd want
+
+0:24:13.440,0:24:18.480
+um so let's go ahead and run it again
+
+0:24:16.400,0:24:20.559
+and now when we hit the apple
+
+0:24:18.480,0:24:22.640
+it should make a home chomp sound which
+
+0:24:20.559,0:24:23.840
+is kind of fun
+
+0:24:22.640,0:24:25.679
+i don't know if you can hear the chomp
+
+0:24:23.840,0:24:26.720
+on the video as well but mine worked
+
+0:24:25.679,0:24:28.240
+really nicely
+
+0:24:26.720,0:24:31.200
+all right the next thing we're going to
+
+0:24:28.240,0:24:34.000
+do is we're going to add a variable
+
+0:24:31.200,0:24:35.840
+so if you remember the main game what it
+
+0:24:34.000,0:24:37.520
+did is it had many
+
+0:24:35.840,0:24:39.760
+many different things you had to eat
+
+0:24:37.520,0:24:41.200
+right and we had to know
+
+0:24:39.760,0:24:42.400
+was it time to eat the apple or not
+
+0:24:41.200,0:24:42.960
+because we tried to eat the bananas
+
+0:24:42.400,0:24:45.360
+first
+
+0:24:42.960,0:24:46.320
+it would say keep trying food should be
+
+0:24:45.360,0:24:48.640
+alphabetically
+
+0:24:46.320,0:24:50.080
+but if you eat the apple first then it
+
+0:24:48.640,0:24:52.799
+should work right
+
+0:24:50.080,0:24:54.799
+and so what we need to do is we need to
+
+0:24:52.799,0:24:57.679
+keep track of the state of the game
+
+0:24:54.799,0:25:01.840
+the state of the game is a variable so
+
+0:24:57.679,0:25:01.840
+do this click on variables for me
+
+0:25:03.200,0:25:07.520
+and click on make a variable
+
+0:25:08.400,0:25:13.600
+i'm going to name this variable food
+
+0:25:12.320,0:25:15.600
+you can see that there's a couple
+
+0:25:13.600,0:25:17.919
+options here um it says for
+
+0:25:15.600,0:25:19.679
+all sprites or for this sprite only this
+
+0:25:17.919,0:25:20.240
+variable is for everybody in the whole
+
+0:25:19.679,0:25:22.640
+world
+
+0:25:20.240,0:25:23.440
+so the default of for all sprites was
+
+0:25:22.640,0:25:25.520
+correct
+
+0:25:23.440,0:25:28.880
+so i just need to type the word food and
+
+0:25:25.520,0:25:31.120
+then hit ok
+
+0:25:28.880,0:25:33.200
+now with variables you can see that it
+
+0:25:31.120,0:25:34.640
+shows it up here it says food zero
+
+0:25:33.200,0:25:36.559
+there's a couple things that we always
+
+0:25:34.640,0:25:38.880
+do with variables we always want to
+
+0:25:36.559,0:25:39.679
+set their initial value we want to
+
+0:25:38.880,0:25:41.279
+update them
+
+0:25:39.679,0:25:43.039
+at an appropriate time and then we want
+
+0:25:41.279,0:25:45.440
+to use them so
+
+0:25:43.039,0:25:47.120
+i want to set food to be one so i want
+
+0:25:45.440,0:25:48.240
+to set it to one when this program
+
+0:25:47.120,0:25:49.760
+starts up
+
+0:25:48.240,0:25:52.240
+i'm going to choose to put that code on
+
+0:25:49.760,0:25:53.919
+avery so click on avery
+
+0:25:52.240,0:25:55.760
+and so now we're back over in avery's
+
+0:25:53.919,0:25:58.159
+code
+
+0:25:55.760,0:25:59.600
+let's add some code to her what i want
+
+0:25:58.159,0:26:02.559
+to do is i want to add
+
+0:25:59.600,0:26:03.039
+set food to and so i'm going to drag
+
+0:26:02.559,0:26:05.200
+this
+
+0:26:03.039,0:26:07.919
+and i'm going to put it before the
+
+0:26:05.200,0:26:07.919
+forever loop
+
+0:26:08.000,0:26:11.600
+now just for fun that's where it goes
+
+0:26:10.159,0:26:13.440
+you should put it right there
+
+0:26:11.600,0:26:15.440
+i'm gonna i'm gonna pretend like i made
+
+0:26:13.440,0:26:16.480
+a mistake and show you how to fix a
+
+0:26:15.440,0:26:18.799
+mistake
+
+0:26:16.480,0:26:19.760
+so one thing that happens all the time
+
+0:26:18.799,0:26:22.080
+when you're coding
+
+0:26:19.760,0:26:24.400
+is you drop things in the wrong spot and
+
+0:26:22.080,0:26:26.799
+so let's say i drop this right here
+
+0:26:24.400,0:26:28.480
+oh no that's that's the wrong spot um so
+
+0:26:26.799,0:26:30.480
+the question is how do i fix it
+
+0:26:28.480,0:26:32.799
+the way you do it is you you drag it
+
+0:26:30.480,0:26:33.200
+over it brings everybody below it with
+
+0:26:32.799,0:26:35.200
+it
+
+0:26:33.200,0:26:36.720
+and then you drag the things that you
+
+0:26:35.200,0:26:38.000
+wanted back right so it's kind of a
+
+0:26:36.720,0:26:39.760
+two-step process
+
+0:26:38.000,0:26:41.440
+you'll get used to it with scratch so
+
+0:26:39.760,0:26:43.200
+where i want it is right here
+
+0:26:41.440,0:26:44.880
+and i want to set its initial value to
+
+0:26:43.200,0:26:47.279
+one
+
+0:26:44.880,0:26:49.520
+hey also while i'm over here let's go
+
+0:26:47.279,0:26:51.760
+ahead and make sure that avery starts in
+
+0:26:49.520,0:26:54.080
+the same spot each time in the game
+
+0:26:51.760,0:26:55.440
+so put avery to wherever you want her to
+
+0:26:54.080,0:26:58.640
+start at i'm going to have her start in
+
+0:26:55.440,0:26:58.640
+the bottom of her room here
+
+0:26:59.360,0:27:07.840
+and i want her to start there so that's
+
+0:27:02.159,0:27:11.120
+a motion command so click on motion
+
+0:27:07.840,0:27:12.720
+so i want the command go to x y
+
+0:27:11.120,0:27:14.559
+and i want to drop it in here at the
+
+0:27:12.720,0:27:16.880
+same time i set the variable
+
+0:27:14.559,0:27:18.640
+i'm going to set her initial position
+
+0:27:16.880,0:27:20.080
+your numbers don't have to be the same
+
+0:27:18.640,0:27:21.919
+as mine
+
+0:27:20.080,0:27:23.840
+and the nice thing about scratch is if
+
+0:27:21.919,0:27:25.760
+you've got her where you want her
+
+0:27:23.840,0:27:27.600
+those it's called the arguments will get
+
+0:27:25.760,0:27:29.600
+set correctly right so wherever
+
+0:27:27.600,0:27:31.200
+you put her in the right spot first then
+
+0:27:29.600,0:27:33.200
+you drag this command over
+
+0:27:31.200,0:27:35.200
+and things will work quite nicely so
+
+0:27:33.200,0:27:37.200
+start her somewhere weird
+
+0:27:35.200,0:27:38.799
+hit the green flag and you'll notice
+
+0:27:37.200,0:27:40.640
+that she'll go to your starting spot
+
+0:27:38.799,0:27:42.880
+each time so no matter where she's at
+
+0:27:40.640,0:27:44.960
+she'll go back to your starting spot all
+
+0:27:42.880,0:27:46.720
+right so this variable we made it we set
+
+0:27:44.960,0:27:48.559
+it to initial value
+
+0:27:46.720,0:27:52.080
+now let's see if we can change it at an
+
+0:27:48.559,0:27:56.080
+appropriate time click on your apple
+
+0:27:52.080,0:27:58.080
+so your apple um if he's touching avery
+
+0:27:56.080,0:27:59.120
+he needs to hide he needs to make a
+
+0:27:58.080,0:28:00.320
+chomp sound
+
+0:27:59.120,0:28:01.760
+by the way the order of those two
+
+0:28:00.320,0:28:03.200
+commands doesn't matter at all you can
+
+0:28:01.760,0:28:05.440
+have it swapped and that's fine
+
+0:28:03.200,0:28:05.810
+the other thing we want to do is we want
+
+0:28:05.440,0:28:07.120
+to
+
+0:28:05.810,0:28:09.440
+[Music]
+
+0:28:07.120,0:28:10.559
+increment the variable so let's just go
+
+0:28:09.440,0:28:13.679
+ahead and
+
+0:28:10.559,0:28:13.679
+quickly go to variables
+
+0:28:14.320,0:28:20.640
+and find change food by one
+
+0:28:17.600,0:28:20.640
+and drop it in here
+
+0:28:21.300,0:28:26.080
+[Music]
+
+0:28:23.039,0:28:28.000
+so let's go ahead and run it again and
+
+0:28:26.080,0:28:29.600
+this won't be that exciting but if you
+
+0:28:28.000,0:28:32.720
+notice food is currently one
+
+0:28:29.600,0:28:33.440
+but after i eat the apple food changes
+
+0:28:32.720,0:28:38.640
+to two
+
+0:28:33.440,0:28:38.640
+right so things are going pretty good
+
+0:28:38.960,0:28:42.880
+now the next thing we're going to do is
+
+0:28:40.159,0:28:44.159
+a little tricky so i want to only be
+
+0:28:42.880,0:28:46.159
+able to eat the apple
+
+0:28:44.159,0:28:47.360
+if food is currently one so here's what
+
+0:28:46.159,0:28:49.279
+i'm going to do
+
+0:28:47.360,0:28:50.720
+i'm going to take the code that i've got
+
+0:28:49.279,0:28:53.919
+in here
+
+0:28:50.720,0:28:55.440
+and i'm going to set it over to the side
+
+0:28:53.919,0:28:58.000
+so i still want that code but i'm just
+
+0:28:55.440,0:28:59.440
+going to set it over to the side
+
+0:28:58.000,0:29:02.159
+now what i want to do is i want to have
+
+0:28:59.440,0:29:03.520
+an if else statement
+
+0:29:02.159,0:29:06.159
+so we've we've learned about if
+
+0:29:03.520,0:29:07.679
+statements they were over in control
+
+0:29:06.159,0:29:09.279
+and this time what we want is we want
+
+0:29:07.679,0:29:10.720
+the more complex version it kind of
+
+0:29:09.279,0:29:15.840
+looks like a big letter e
+
+0:29:10.720,0:29:15.840
+and put in an if else statement
+
+0:29:20.799,0:29:24.159
+and so when we're touching avery we want
+
+0:29:22.799,0:29:27.120
+to check
+
+0:29:24.159,0:29:28.240
+is food equal to the correct number um
+
+0:29:27.120,0:29:30.559
+and in this case one
+
+0:29:28.240,0:29:31.520
+so if food is equal to one we want to
+
+0:29:30.559,0:29:34.000
+let you eat it
+
+0:29:31.520,0:29:35.600
+um if food is not one then we want to
+
+0:29:34.000,0:29:37.039
+show like an error message
+
+0:29:35.600,0:29:41.120
+so here's what we're gonna do we're
+
+0:29:37.039,0:29:42.799
+gonna go to operators
+
+0:29:41.120,0:29:47.120
+and we're gonna find the one that says
+
+0:29:42.799,0:29:47.120
+equals it's about six or seven down here
+
+0:29:50.050,0:29:56.320
+[Music]
+
+0:29:53.039,0:29:58.320
+and so if our variable food is equal to
+
+0:29:56.320,0:30:00.320
+the apples the first thing so if our
+
+0:29:58.320,0:30:01.919
+variable food is equal to one
+
+0:30:00.320,0:30:04.480
+then we're going to do stuff go into
+
+0:30:01.919,0:30:04.480
+variables
+
+0:30:04.559,0:30:08.880
+and drag food into that other white
+
+0:30:06.840,0:30:10.399
+circle
+
+0:30:08.880,0:30:12.000
+i did that kind of fast so if you need
+
+0:30:10.399,0:30:14.080
+to pause the video that's fine
+
+0:30:12.000,0:30:15.600
+but i went into operators and i grabbed
+
+0:30:14.080,0:30:17.760
+this equals
+
+0:30:15.600,0:30:19.600
+i changed the right hand side to b1 then
+
+0:30:17.760,0:30:20.960
+i went into variables and i grabbed food
+
+0:30:19.600,0:30:24.000
+and i put that on the left hand side
+
+0:30:20.960,0:30:25.600
+so if food is one then i want to do
+
+0:30:24.000,0:30:29.039
+this stuff that we were doing over here
+
+0:30:25.600,0:30:29.039
+so i'm going to drop this into the top
+
+0:30:34.559,0:30:38.720
+now what should we do if food is not one
+
+0:30:37.360,0:30:40.240
+does anybody want to say what we should
+
+0:30:38.720,0:30:42.720
+do if food is not one bowen do you have
+
+0:30:40.240,0:30:44.240
+any ideas
+
+0:30:42.720,0:30:46.559
+do you remember what uh what this
+
+0:30:44.240,0:30:47.520
+program did so if i tried to eat the
+
+0:30:46.559,0:30:51.200
+banana
+
+0:30:47.520,0:30:53.520
+what did it say yeah so if it's not the
+
+0:30:51.200,0:30:55.370
+right time we want to say a message
+
+0:30:53.520,0:30:57.120
+so let's go into looks
+
+0:30:55.370,0:31:00.000
+[Music]
+
+0:30:57.120,0:31:02.399
+um and grab this say hello for two
+
+0:31:00.000,0:31:02.399
+seconds
+
+0:31:02.480,0:31:05.440
+and then you should probably have an
+
+0:31:03.840,0:31:06.720
+adult type your message because it takes
+
+0:31:05.440,0:31:08.480
+forever to type
+
+0:31:06.720,0:31:11.120
+um so what i'm going to say is i'm going
+
+0:31:08.480,0:31:13.679
+to say keep trying
+
+0:31:11.120,0:31:14.720
+um oops sorry i'm going to say keep
+
+0:31:13.679,0:31:19.000
+trying
+
+0:31:14.720,0:31:22.000
+and then i'll say food should be eaten
+
+0:31:19.000,0:31:22.000
+alphabetically
+
+0:31:23.039,0:31:27.919
+now have an adult type that for you
+
+0:31:25.360,0:31:30.080
+because it takes a while to type
+
+0:31:27.919,0:31:31.120
+all right so let's go ahead and try it
+
+0:31:30.080,0:31:33.120
+now this time
+
+0:31:31.120,0:31:34.799
+we only have one food it's the apple
+
+0:31:33.120,0:31:35.360
+it's the correct time to eat the apple
+
+0:31:34.799,0:31:38.080
+so if you
+
+0:31:35.360,0:31:39.679
+if you hit the apple it should go chomp
+
+0:31:38.080,0:31:42.159
+um and it should be successful
+
+0:31:39.679,0:31:42.880
+we've never seen this message still
+
+0:31:42.159,0:31:44.720
+let's
+
+0:31:42.880,0:31:46.960
+make another sprite let's add some
+
+0:31:44.720,0:31:48.159
+bananas so to add another sprite this is
+
+0:31:46.960,0:31:51.840
+kind of a review
+
+0:31:48.159,0:31:54.399
+click on this green circle down here
+
+0:31:51.840,0:31:55.840
+and find the bananas for me it's still
+
+0:31:54.399,0:31:57.200
+pretty high in the order
+
+0:31:55.840,0:31:59.440
+by the way eventually we're going to go
+
+0:31:57.200,0:32:00.559
+to the food category and this will have
+
+0:31:59.440,0:32:02.080
+all the different foods we're going to
+
+0:32:00.559,0:32:04.080
+eat so i'm going to go with banana
+
+0:32:02.080,0:32:06.080
+if you want to do bread bread also
+
+0:32:04.080,0:32:07.840
+starts with b that'd be fine
+
+0:32:06.080,0:32:09.279
+if you want to eat a bowl i suppose you
+
+0:32:07.840,0:32:11.679
+could but i wouldn't recommend eating
+
+0:32:09.279,0:32:11.679
+bowls
+
+0:32:11.840,0:32:15.679
+i'm going to decide where the bananas
+
+0:32:13.519,0:32:17.200
+need to go into my figure i'm going to
+
+0:32:15.679,0:32:18.640
+make them a little sneaky
+
+0:32:17.200,0:32:22.000
+i'm going to say that these bananas are
+
+0:32:18.640,0:32:22.000
+sitting over here at the edge of the bed
+
+0:32:22.159,0:32:27.760
+now what we want to do is the bananas
+
+0:32:25.600,0:32:28.880
+need to have all the same code that the
+
+0:32:27.760,0:32:31.360
+apple had
+
+0:32:28.880,0:32:33.200
+the only thing that's different is
+
+0:32:31.360,0:32:34.399
+whether this food is equal to one or
+
+0:32:33.200,0:32:36.480
+food is equal to two
+
+0:32:34.399,0:32:37.600
+but it's mostly the exact same i do not
+
+0:32:36.480,0:32:39.360
+want to type it all
+
+0:32:37.600,0:32:40.960
+and sprite has a real or scratch has a
+
+0:32:39.360,0:32:44.880
+really good trick for this
+
+0:32:40.960,0:32:45.919
+go to the apple and drag the code from
+
+0:32:44.880,0:32:48.799
+the apple
+
+0:32:45.919,0:32:50.640
+um and drop it right here on the banana
+
+0:32:48.799,0:32:52.000
+it takes a little bit of getting used to
+
+0:32:50.640,0:32:54.080
+and you can see that whenever i did it
+
+0:32:52.000,0:32:55.919
+the banana kind of wiggled a little
+
+0:32:54.080,0:32:58.320
+and so if i drop it right there now it
+
+0:32:55.919,0:33:00.480
+it uh it's a copy paste is what happened
+
+0:32:58.320,0:33:02.559
+so now if i go to my apple i can see
+
+0:33:00.480,0:33:04.799
+that my apple has this code
+
+0:33:02.559,0:33:05.600
+and if i go to my banana the banana has
+
+0:33:04.799,0:33:07.200
+this code
+
+0:33:05.600,0:33:09.200
+i can tell that neel is struggling with
+
+0:33:07.200,0:33:12.240
+this drag and drop
+
+0:33:09.200,0:33:14.399
+mommy may have to help her some so both
+
+0:33:12.240,0:33:16.000
+of them have the same code
+
+0:33:14.399,0:33:18.159
+there's one thing that needs to be
+
+0:33:16.000,0:33:21.120
+different um and it's this
+
+0:33:18.159,0:33:22.080
+if food is equal to one the banana is
+
+0:33:21.120,0:33:26.399
+the second food
+
+0:33:22.080,0:33:26.399
+right so change it to a two
+
+0:33:27.600,0:33:34.480
+let's try it again so now
+
+0:33:31.760,0:33:35.840
+if i try to eat the banana first um
+
+0:33:34.480,0:33:39.519
+it'll say keep drying
+
+0:33:35.840,0:33:42.080
+food should be alphabetically
+
+0:33:39.519,0:33:44.000
+if i try to eat the apple first it'll
+
+0:33:42.080,0:33:46.399
+eat it
+
+0:33:44.000,0:33:47.760
+now i'm going to go eat the banana wow
+
+0:33:46.399,0:33:50.159
+so you can see it worked if we did the
+
+0:33:47.760,0:33:51.679
+banana
+
+0:33:50.159,0:33:54.240
+now we're going to mass produce some
+
+0:33:51.679,0:33:55.519
+food and my goal is for you to to do
+
+0:33:54.240,0:33:56.799
+this on your own
+
+0:33:55.519,0:33:58.320
+i'm going to help you kind of sort it
+
+0:33:56.799,0:34:00.240
+with one more and then i want you to
+
+0:33:58.320,0:34:02.960
+just kind of make a whole bunch
+
+0:34:00.240,0:34:03.840
+so to add the c i'm just going to do it
+
+0:34:02.960,0:34:06.799
+quickly here
+
+0:34:03.840,0:34:08.480
+i'm going to say choose a sprite i'm
+
+0:34:06.799,0:34:10.560
+going to click on food
+
+0:34:08.480,0:34:13.200
+and i'm going to pick a seafood i'm
+
+0:34:10.560,0:34:16.480
+going to pick cake
+
+0:34:13.200,0:34:18.560
+so now the cake is in here
+
+0:34:16.480,0:34:21.839
+and now i'm going to arrange the cake to
+
+0:34:18.560,0:34:21.839
+be a certain size
+
+0:34:22.960,0:34:27.760
+the cake then needs the same code
+
+0:34:26.079,0:34:30.079
+so i'm going to drag the code onto the
+
+0:34:27.760,0:34:30.079
+cake
+
+0:34:31.919,0:34:36.800
+and the cake is the third food so i
+
+0:34:33.760,0:34:36.800
+switch it to a three
+
+0:34:36.879,0:34:41.200
+so i want you to mass produce that um
+
+0:34:39.520,0:34:41.839
+for a couple different fruits maybe go
+
+0:34:41.200,0:34:43.119
+out to like
+
+0:34:41.839,0:34:45.359
+egg or if you want to you can go to
+
+0:34:43.119,0:34:47.119
+fortune cookie there's there's one
+
+0:34:45.359,0:34:49.679
+problem still with the sound
+
+0:34:47.119,0:34:51.280
+but we'll we'll fix that so i'm going to
+
+0:34:49.679,0:34:52.720
+pause the video
+
+0:34:51.280,0:34:54.399
+i'm going to let you add all the foods
+
+0:34:52.720,0:34:56.320
+that you want to add
+
+0:34:54.399,0:34:57.440
+and then we're going to fix the sounds
+
+0:34:56.320,0:35:00.160
+together after you add them
+
+0:34:57.440,0:35:01.920
+so pause the video and go add your foods
+
+0:35:00.160,0:35:03.599
+all right so our family had to take a
+
+0:35:01.920,0:35:04.880
+little break uh maybe you guys it's a
+
+0:35:03.599,0:35:07.680
+good time to take a break as well but
+
+0:35:04.880,0:35:09.520
+um i got mine added um so i've got apple
+
+0:35:07.680,0:35:11.680
+and it says food one check yours with me
+
+0:35:09.520,0:35:13.599
+so make sure your apple says food one
+
+0:35:11.680,0:35:15.119
+then click on your banana make sure it
+
+0:35:13.599,0:35:17.119
+says food too
+
+0:35:15.119,0:35:18.480
+your cake or whatever c you've got food
+
+0:35:17.119,0:35:22.000
+three
+
+0:35:18.480,0:35:25.599
+doughnut four egg
+
+0:35:22.000,0:35:29.280
+five fortune cookie six
+
+0:35:25.599,0:35:32.400
+now if you try it it will work right now
+
+0:35:29.280,0:35:33.520
+but the sounds may not work so when i
+
+0:35:32.400,0:35:36.320
+eat my apple
+
+0:35:33.520,0:35:37.839
+uh where'd my apple go to my apple's
+
+0:35:36.320,0:35:40.880
+right underneath my cake
+
+0:35:37.839,0:35:43.520
+when i eat my apple it made noise my
+
+0:35:40.880,0:35:44.960
+banana actually made noise
+
+0:35:43.520,0:35:47.760
+but then after that they quit making
+
+0:35:44.960,0:35:48.800
+noise um so why did that oh the donut
+
+0:35:47.760,0:35:51.359
+made noise
+
+0:35:48.800,0:35:52.800
+um so why do some make noise and others
+
+0:35:51.359,0:35:54.560
+don't make noise
+
+0:35:52.800,0:35:56.800
+i'm going to also move my cake a little
+
+0:35:54.560,0:35:59.359
+bit because my cake and my apple were
+
+0:35:56.800,0:36:00.800
+right on top of each other by the way
+
+0:35:59.359,0:36:01.440
+one trick for bringing them all back is
+
+0:36:00.800,0:36:03.200
+if you just hit
+
+0:36:01.440,0:36:04.960
+start and then stop immediately then
+
+0:36:03.200,0:36:05.760
+they all come back right so i like that
+
+0:36:04.960,0:36:08.400
+trick
+
+0:36:05.760,0:36:09.760
+since you can actually see things so why
+
+0:36:08.400,0:36:12.640
+didn't they make noise
+
+0:36:09.760,0:36:13.920
+so the apple you can see it says start
+
+0:36:12.640,0:36:16.000
+soundchomp
+
+0:36:13.920,0:36:18.720
+and then if you go to his tab he's got a
+
+0:36:16.000,0:36:21.119
+chomp sound so he's going to work fine
+
+0:36:18.720,0:36:22.160
+banana actually has the same code he
+
+0:36:21.119,0:36:24.000
+plays chomp
+
+0:36:22.160,0:36:26.079
+but you can see his sounds may not have
+
+0:36:24.000,0:36:28.560
+a chomp in it so what we want to do
+
+0:36:26.079,0:36:31.280
+is on the banana i want to switch it to
+
+0:36:28.560,0:36:33.839
+a sound that he does have so he has bite
+
+0:36:31.280,0:36:35.520
+on cake instead of chomp i want to
+
+0:36:33.839,0:36:37.520
+switch it to a sound he does have
+
+0:36:35.520,0:36:39.839
+i'm going to play birthday which is
+
+0:36:37.520,0:36:41.040
+actually a little long but that's okay
+
+0:36:39.839,0:36:42.800
+donut
+
+0:36:41.040,0:36:44.640
+instead of chomp i want i'll go with
+
+0:36:42.800,0:36:46.079
+bite
+
+0:36:44.640,0:36:47.599
+egg i think you see the pattern so
+
+0:36:46.079,0:36:48.320
+switch it to a sound he does have egg
+
+0:36:47.599,0:36:50.880
+has pop
+
+0:36:48.320,0:36:53.359
+that's fine and fortune cookie what's
+
+0:36:50.880,0:36:56.079
+fortune cookie guy he's got pop
+
+0:36:53.359,0:36:58.160
+oh well if you wanted to add more sounds
+
+0:36:56.079,0:36:59.839
+you could play around in the sound tab
+
+0:36:58.160,0:37:01.599
+but i quickly lose half an hour when i
+
+0:36:59.839,0:37:03.200
+let my kids go play in the sound tab
+
+0:37:01.599,0:37:05.040
+um so we're just going to fix like that
+
+0:37:03.200,0:37:06.480
+so now they should all make noise
+
+0:37:05.040,0:37:09.200
+so my campers are going to make a ton of
+
+0:37:06.480,0:37:13.440
+noise here so i get the apple
+
+0:37:09.200,0:37:22.320
+um banana birthday you're gonna hear
+
+0:37:13.440,0:37:26.640
+for like an hour
+
+0:37:22.320,0:37:30.240
+donut egg fortune cookie
+
+0:37:26.640,0:37:32.320
+cool so i think that worked pretty well
+
+0:37:30.240,0:37:34.079
+one advanced thing you can do by the way
+
+0:37:32.320,0:37:35.440
+on on the birthday cake its song was
+
+0:37:34.079,0:37:36.960
+kind of long
+
+0:37:35.440,0:37:38.000
+so you don't have to do this this is
+
+0:37:36.960,0:37:39.440
+optional i'm going to go into the
+
+0:37:38.000,0:37:41.520
+birthday cake and the sounds
+
+0:37:39.440,0:37:43.119
+and i'm going to click faster a few
+
+0:37:41.520,0:37:44.800
+times
+
+0:37:43.119,0:37:47.599
+and so it'll play a nice fast happy
+
+0:37:44.800,0:37:50.240
+birthday but it was taken too long
+
+0:37:47.599,0:37:51.359
+so i went into the sounds on cake and i
+
+0:37:50.240,0:37:56.000
+clicked faster
+
+0:37:51.359,0:37:57.599
+one or two times right all right
+
+0:37:56.000,0:38:00.000
+we're gonna add one more feature you
+
+0:37:57.599,0:38:02.640
+guys up for one more feature
+
+0:38:00.000,0:38:04.240
+one more feature when the game is over
+
+0:38:02.640,0:38:06.000
+nothing happens
+
+0:38:04.240,0:38:07.359
+and it would be kind of nice if
+
+0:38:06.000,0:38:09.760
+something happened
+
+0:38:07.359,0:38:10.960
+that said like congratulations or a
+
+0:38:09.760,0:38:12.560
+great job or you win
+
+0:38:10.960,0:38:14.560
+or something like that so we're going to
+
+0:38:12.560,0:38:17.200
+add one more piece of code
+
+0:38:14.560,0:38:19.119
+to avery so click on your avery sprite
+
+0:38:17.200,0:38:20.720
+her code should look like this
+
+0:38:19.119,0:38:22.400
+and we're going to add an if statement
+
+0:38:20.720,0:38:25.040
+in here so the if statements were over
+
+0:38:22.400,0:38:25.040
+in control
+
+0:38:25.359,0:38:29.680
+in the control area find if
+
+0:38:30.720,0:38:33.920
+and just like we did for all the foods
+
+0:38:32.320,0:38:36.000
+we're gonna see if that variable
+
+0:38:33.920,0:38:37.440
+is a certain number you can see that i
+
+0:38:36.000,0:38:40.400
+had six foods
+
+0:38:37.440,0:38:41.599
+so my variable ends at a seven so for
+
+0:38:40.400,0:38:45.280
+avery
+
+0:38:41.599,0:38:46.960
+i'm gonna say if food is equal to seven
+
+0:38:45.280,0:38:48.720
+then i'm going to play congratulations
+
+0:38:46.960,0:38:51.520
+you win things like that so i'm gonna go
+
+0:38:48.720,0:38:51.520
+to operators
+
+0:38:51.760,0:38:57.839
+i'm gonna find the equals operator
+
+0:38:55.280,0:39:01.359
+this is just like we did before i'm
+
+0:38:57.839,0:39:05.119
+gonna do variables
+
+0:39:01.359,0:39:05.119
+i'm gonna do food is equal to seven
+
+0:39:05.280,0:39:07.760
+all right so i've got that in there if
+
+0:39:06.640,0:39:09.040
+you ever need to pause it by the way
+
+0:39:07.760,0:39:09.520
+just pause the video and put that in
+
+0:39:09.040,0:39:11.359
+there
+
+0:39:09.520,0:39:14.040
+so when we win the game we wanna do a
+
+0:39:11.359,0:39:15.440
+couple things first i want to say
+
+0:39:14.040,0:39:19.839
+congratulations
+
+0:39:15.440,0:39:19.839
+so saying things is over in looks
+
+0:39:20.480,0:39:23.760
+and i this time i do care which i grab i
+
+0:39:22.800,0:39:26.320
+want to make sure to grab
+
+0:39:23.760,0:39:29.680
+say hello without any time delay on it
+
+0:39:26.320,0:39:31.680
+so i just want to say say hello
+
+0:39:29.680,0:39:33.200
+and you can put whatever congratulations
+
+0:39:31.680,0:39:34.720
+message you want again you might want to
+
+0:39:33.200,0:39:37.359
+have an adult type for you
+
+0:39:34.720,0:39:39.839
+so i'm going to say you win alphabet
+
+0:39:37.359,0:39:39.839
+breakfast
+
+0:39:40.640,0:39:44.160
+so type whatever message you'd like and
+
+0:39:42.800,0:39:45.520
+make sure it's the version that doesn't
+
+0:39:44.160,0:39:47.359
+have the delay on it
+
+0:39:45.520,0:39:49.200
+alright so i typed that for my camper
+
+0:39:47.359,0:39:52.560
+now we're ready to add a sound
+
+0:39:49.200,0:39:55.040
+now avery only has the sound of pop
+
+0:39:52.560,0:39:55.760
+that's not good enough i want a funner
+
+0:39:55.040,0:39:58.640
+sound
+
+0:39:55.760,0:40:00.400
+so make sure you've got avery selected
+
+0:39:58.640,0:40:02.640
+go to her sound area
+
+0:40:00.400,0:40:04.480
+and let's add a new sound so come down
+
+0:40:02.640,0:40:07.760
+here to the lower left corner
+
+0:40:04.480,0:40:07.760
+and say choose a sound
+
+0:40:07.839,0:40:11.760
+and the sound i want you to add is dance
+
+0:40:10.160,0:40:13.839
+celebration
+
+0:40:11.760,0:40:15.119
+so there's a couple ways to find dance
+
+0:40:13.839,0:40:17.119
+celebration
+
+0:40:15.119,0:40:18.960
+i chose to type in part of the word
+
+0:40:17.119,0:40:19.839
+dance because i knew that it was one of
+
+0:40:18.960,0:40:21.520
+the options
+
+0:40:19.839,0:40:23.119
+and i can see right here the second one
+
+0:40:21.520,0:40:24.319
+is dance celebration
+
+0:40:23.119,0:40:27.119
+so i'm going to click in the middle of
+
+0:40:24.319,0:40:30.160
+this white box
+
+0:40:27.119,0:40:32.400
+now that i've added the sound avery can
+
+0:40:30.160,0:40:35.119
+now play the sound in our code right
+
+0:40:32.400,0:40:37.200
+so i've added the sound here then i go
+
+0:40:35.119,0:40:40.560
+into the code
+
+0:40:37.200,0:40:41.359
+and on sounds this time i want play
+
+0:40:40.560,0:40:44.400
+sound
+
+0:40:41.359,0:40:45.520
+until done so i'm going to play this
+
+0:40:44.400,0:40:47.280
+sound
+
+0:40:45.520,0:40:50.800
+and it defaulted to dance celebration
+
+0:40:47.280,0:40:52.319
+for me which was nice until done
+
+0:40:50.800,0:40:55.440
+and then the very last thing i'm going
+
+0:40:52.319,0:41:00.720
+to do is i'm going to end the program
+
+0:40:55.440,0:41:00.720
+so after i drag on play sound until done
+
+0:41:01.119,0:41:08.000
+i'm the last going to grab a stop all
+
+0:41:04.560,0:41:10.720
+so it's in control it's near the bottom
+
+0:41:08.000,0:41:12.720
+and it's a stop all now make sure that
+
+0:41:10.720,0:41:15.359
+this gets dropped into the correct spot
+
+0:41:12.720,0:41:16.079
+so it needs to go i'm inside this inner
+
+0:41:15.359,0:41:19.040
+loop
+
+0:41:16.079,0:41:20.240
+and that's our last line of code so it's
+
+0:41:19.040,0:41:21.520
+time to try it
+
+0:41:20.240,0:41:23.520
+um and then i'm gonna walk around i'm
+
+0:41:21.520,0:41:26.800
+gonna see how my campers did
+
+0:41:23.520,0:41:29.760
+so what should happen now is i should be
+
+0:41:26.800,0:41:34.000
+able to play my game
+
+0:41:29.760,0:41:37.520
+banana cake
+
+0:41:34.000,0:41:40.319
+donut egg and then whenever i get the
+
+0:41:37.520,0:41:40.319
+fortune cookie
+
+0:41:40.400,0:41:50.079
+i should do my dance celebration
+
+0:41:48.319,0:41:52.720
+all right so i think that mine is ready
+
+0:41:50.079,0:41:55.040
+to go uh but i'm more interested to see
+
+0:41:52.720,0:41:55.920
+how my campers did today uh nila do you
+
+0:41:55.040,0:41:58.960
+want to show us yours
+
+0:41:55.920,0:42:02.079
+yeah all right let's see it neela so
+
+0:41:58.960,0:42:04.240
+neela has a unicorn as we know
+
+0:42:02.079,0:42:05.520
+um and nila is walking around with the
+
+0:42:04.240,0:42:08.720
+unicorn
+
+0:42:05.520,0:42:08.720
+and she's got her sounds
+
+0:42:09.599,0:42:12.640
+and so she's got
+
+0:42:13.920,0:42:21.200
+cheesy puss for c donut
+
+0:42:17.280,0:42:21.200
+egg and fortune cookie
+
+0:42:22.160,0:42:26.319
+great job all right bowen let's see
+
+0:42:24.560,0:42:28.160
+yours let's see how bowen did bowens is
+
+0:42:26.319,0:42:31.040
+a penguin theme
+
+0:42:28.160,0:42:33.359
+so bowens has littler food so he's gonna
+
+0:42:31.040,0:42:35.520
+walk around and he's gonna eat his apple
+
+0:42:33.359,0:42:37.920
+great job and then his oh looks like
+
+0:42:35.520,0:42:42.560
+you've got bread down there bowen
+
+0:42:37.920,0:42:45.839
+and then a cake and then a donut
+
+0:42:42.560,0:42:45.839
+i forgot to make it
+
+0:42:48.880,0:42:53.839
+all right and then um your egg which is
+
+0:42:52.480,0:42:57.040
+way up in the sun
+
+0:42:53.839,0:42:57.040
+and then your fortune cookie
+
+0:42:57.200,0:43:01.680
+oh you made that one faster great job
+
+0:42:59.599,0:43:03.599
+bowen high five bud
+
+0:43:01.680,0:43:05.440
+all right keegan you're next in birth
+
+0:43:03.599,0:43:08.240
+order let's see uh
+
+0:43:05.440,0:43:10.160
+let's see yours so keegan is nine and
+
+0:43:08.240,0:43:12.480
+he's a big old stinker pot
+
+0:43:10.160,0:43:14.480
+so his are teeny tiny so you've got to
+
+0:43:12.480,0:43:16.960
+really zoom in to see his apple
+
+0:43:14.480,0:43:18.720
+uh it's in the poster so he's got an
+
+0:43:16.960,0:43:20.720
+apple
+
+0:43:18.720,0:43:23.920
+and then i have no idea where his bee is
+
+0:43:20.720,0:43:23.920
+oh it's a basketball
+
+0:43:24.319,0:43:27.839
+so he can see him with his infinitely
+
+0:43:26.480,0:43:31.280
+small vision
+
+0:43:27.839,0:43:32.880
+uh but i can't even see him
+
+0:43:31.280,0:43:35.440
+all right how many do you got left bud i
+
+0:43:32.880,0:43:38.800
+don't even know one more
+
+0:43:35.440,0:43:42.079
+oh and he's got a lot of foods he added
+
+0:43:38.800,0:43:43.280
+and then he's got a song there great job
+
+0:43:42.079,0:43:46.640
+bud
+
+0:43:43.280,0:43:48.480
+all right [ __ ] you're up next sissy's
+
+0:43:46.640,0:43:51.040
+our family artist
+
+0:43:48.480,0:43:53.280
+so of course she's got a craziness going
+
+0:43:51.040,0:43:57.440
+on she's got a butterfly
+
+0:43:53.280,0:44:00.079
+um and she's got flowers and she's got
+
+0:43:57.440,0:44:00.079
+food eaten
+
+0:44:02.480,0:44:09.680
+she hides after the song's over
+
+0:44:08.079,0:44:11.760
+great jobs this and then we're going to
+
+0:44:09.680,0:44:14.640
+get to her celebration
+
+0:44:11.760,0:44:16.000
+she's also got a fancy dance party all
+
+0:44:14.640,0:44:16.560
+right did you guys have fun building
+
+0:44:16.000,0:44:19.119
+your uh
+
+0:44:16.560,0:44:20.400
+building your program today yes all
+
+0:44:19.119,0:44:22.319
+right
+
+0:44:20.400,0:44:24.319
+i want to say one last thing before we
+
+0:44:22.319,0:44:24.800
+let you go uh so campers you can just
+
+0:44:24.319,0:44:27.599
+kind of
+
+0:44:24.800,0:44:29.200
+bear with me and listen if you want to
+
+0:44:27.599,0:44:31.920
+uh publish your project
+
+0:44:29.200,0:44:33.680
+you can click on the word share here and
+
+0:44:31.920,0:44:35.680
+it'll make a public page
+
+0:44:33.680,0:44:37.119
+that other people can look at you do
+
+0:44:35.680,0:44:39.520
+have to be signed in
+
+0:44:37.119,0:44:41.680
+to do that and then this url right here
+
+0:44:39.520,0:44:44.560
+you could send to a friend or family and
+
+0:44:41.680,0:44:47.119
+then they could see your project as well
+
+0:44:44.560,0:44:48.720
+so i think that's all i've got really i
+
+0:44:47.119,0:44:50.880
+just wanted to make sure that you
+
+0:44:48.720,0:44:52.240
+know a couple things you can sit on my
+
+0:44:50.880,0:44:54.560
+lap
+
+0:44:52.240,0:44:55.920
+first off is coding is fun uh you can
+
+0:44:54.560,0:44:58.079
+totally do it
+
+0:44:55.920,0:44:59.920
+neila is five this is her first coding
+
+0:44:58.079,0:45:02.160
+experience ever
+
+0:44:59.920,0:45:03.920
+and she's learning little bits at a time
+
+0:45:02.160,0:45:05.040
+right but we hopefully know that
+
+0:45:03.920,0:45:07.440
+different sprites
+
+0:45:05.040,0:45:08.160
+have different code the code runs in
+
+0:45:07.440,0:45:09.440
+order
+
+0:45:08.160,0:45:11.599
+and there's lots of great things we
+
+0:45:09.440,0:45:12.640
+learned today but we've got a whole week
+
+0:45:11.599,0:45:14.480
+of this
+
+0:45:12.640,0:45:15.680
+and each day will hopefully get easier
+
+0:45:14.480,0:45:17.680
+and easier for you
+
+0:45:15.680,0:45:20.800
+so we loved having you join us we hope
+
+0:45:17.680,0:45:20.800
+to see you again tomorrow
+
+0:45:21.130,0:45:27.119
+[Music]
+
+0:45:24.119,0:45:27.119
+bye
+

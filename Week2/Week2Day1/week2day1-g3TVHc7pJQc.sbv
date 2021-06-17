@@ -1,0 +1,4914 @@
+0:00:00.390,0:00:07.040
+[Music]
+
+0:00:04.640,0:00:09.360
+hey hey welcome to connecting with code
+
+0:00:07.040,0:00:11.360
+week two uh we're excited to have you
+
+0:00:09.360,0:00:13.840
+here uh we're gonna be using scratch
+
+0:00:11.360,0:00:15.360
+again just like we did uh in week one
+
+0:00:13.840,0:00:17.440
+um if you didn't see it there was a
+
+0:00:15.360,0:00:17.920
+whole week one which was an introductory
+
+0:00:17.440,0:00:20.480
+uh
+
+0:00:17.920,0:00:22.400
+series of videos that you scratch those
+
+0:00:20.480,0:00:24.960
+videos are focused for like a k
+
+0:00:22.400,0:00:26.480
+through three audience but to be honest
+
+0:00:24.960,0:00:27.840
+they're also for anyone that's never
+
+0:00:26.480,0:00:29.760
+coded before
+
+0:00:27.840,0:00:32.000
+this week is going to be like more
+
+0:00:29.760,0:00:32.559
+intense right so this uh this week is
+
+0:00:32.000,0:00:34.399
+for
+
+0:00:32.559,0:00:36.480
+fourth through eighth graders if you've
+
+0:00:34.399,0:00:37.440
+never coded before um and you're in that
+
+0:00:36.480,0:00:39.200
+that age range
+
+0:00:37.440,0:00:41.120
+uh then you're uh you're in the right
+
+0:00:39.200,0:00:42.719
+place if you're worried about your
+
+0:00:41.120,0:00:44.480
+coding you could go back and work a
+
+0:00:42.719,0:00:46.640
+couple of those videos from week one
+
+0:00:44.480,0:00:48.960
+just to kind of like mention that right
+
+0:00:46.640,0:00:50.079
+this series is also appropriate for
+
+0:00:48.960,0:00:51.520
+older people as well
+
+0:00:50.079,0:00:53.840
+uh people that just want to learn more
+
+0:00:51.520,0:00:55.600
+about scratch so what we're gonna do is
+
+0:00:53.840,0:00:57.920
+we're gonna build a game today
+
+0:00:55.600,0:00:59.199
+uh you're gonna follow along with me and
+
+0:00:57.920,0:01:00.079
+we're going to hopefully make some cool
+
+0:00:59.199,0:01:02.000
+things
+
+0:01:00.079,0:01:03.359
+i want to introduce my campers so i
+
+0:01:02.000,0:01:05.119
+brought two campers
+
+0:01:03.359,0:01:06.640
+that you might recognize from week one
+
+0:01:05.119,0:01:08.000
+love this guy introduce himself first
+
+0:01:06.640,0:01:11.280
+what's your name and how old are you
+
+0:01:08.000,0:01:13.600
+hello i am keegan fisher and
+
+0:01:11.280,0:01:15.119
+nine years old nine years old so he's
+
+0:01:13.600,0:01:15.520
+going to be going into fourth so he's
+
+0:01:15.119,0:01:17.680
+the
+
+0:01:15.520,0:01:18.799
+the age range at the bare minimum that
+
+0:01:17.680,0:01:20.799
+makes it in here
+
+0:01:18.799,0:01:23.040
+hi my name is mckinley fisher and i'm
+
+0:01:20.799,0:01:24.880
+11. cool and what grade are you going
+
+0:01:23.040,0:01:28.080
+into next year
+
+0:01:24.880,0:01:30.560
+sixth uh so these are uh my two campers
+
+0:01:28.080,0:01:31.759
+uh we're kind of on the younger end of
+
+0:01:30.560,0:01:33.920
+um
+
+0:01:31.759,0:01:35.920
+what this camp is really designed for uh
+
+0:01:33.920,0:01:39.119
+but we're gonna make it work right
+
+0:01:35.920,0:01:41.360
+so this material um consists of five
+
+0:01:39.119,0:01:42.799
+days so there's five different videos
+
+0:01:41.360,0:01:44.560
+today we're going to be doing something
+
+0:01:42.799,0:01:47.280
+called lawn mower so
+
+0:01:44.560,0:01:48.079
+lawnmower is uh today's week one monday
+
+0:01:47.280,0:01:50.159
+activity
+
+0:01:48.079,0:01:52.000
+uh tuesday is dino jump it's kind of
+
+0:01:50.159,0:01:54.079
+like the the no internet game
+
+0:01:52.000,0:01:55.439
+if you've ever played that in chrome uh
+
+0:01:54.079,0:01:58.000
+irish sheepdog
+
+0:01:55.439,0:01:59.360
+is wednesday slide puzzle it's probably
+
+0:01:58.000,0:02:00.640
+our biggest game it's going to be on
+
+0:01:59.360,0:02:02.479
+thursday
+
+0:02:00.640,0:02:04.079
+and then an advanced kaleidoscope so if
+
+0:02:02.479,0:02:06.399
+you were with us in week one
+
+0:02:04.079,0:02:07.680
+friday we did like an intro kaleidoscope
+
+0:02:06.399,0:02:09.440
+and we're going to be doing an advanced
+
+0:02:07.680,0:02:10.959
+kaleidoscope this week
+
+0:02:09.440,0:02:13.040
+i'd do some acknowledgments before we
+
+0:02:10.959,0:02:13.680
+get started this material was developed
+
+0:02:13.040,0:02:16.160
+by
+
+0:02:13.680,0:02:16.800
+me i'm a professor here at roles holmen
+
+0:02:16.160,0:02:18.959
+so this
+
+0:02:16.800,0:02:21.280
+camp is brought to you by rolls holmen
+
+0:02:18.959,0:02:23.760
+this year we're partnering with
+
+0:02:21.280,0:02:25.680
+mission college so this material was
+
+0:02:23.760,0:02:27.200
+co-developed by bob shaffer so you won't
+
+0:02:25.680,0:02:28.959
+see him on the camera here but we
+
+0:02:27.200,0:02:31.200
+developed the material together
+
+0:02:28.959,0:02:32.800
+so it's a partnership this year between
+
+0:02:31.200,0:02:35.680
+rolls-holman and mission college
+
+0:02:32.800,0:02:36.959
+to bring you this camp so let's take a
+
+0:02:35.680,0:02:38.239
+look at what we're going to build
+
+0:02:36.959,0:02:39.840
+together today
+
+0:02:38.239,0:02:41.599
+um so i'm going to start by showing you
+
+0:02:39.840,0:02:42.239
+the solution uh it's always kind of nice
+
+0:02:41.599,0:02:44.879
+to know
+
+0:02:42.239,0:02:45.920
+what our goal is this game is called
+
+0:02:44.879,0:02:47.760
+lawn mower
+
+0:02:45.920,0:02:50.319
+this is inspired by keegan by the way
+
+0:02:47.760,0:02:52.560
+he's the lawn mower in our family
+
+0:02:50.319,0:02:53.680
+and so let's go ahead and take a look at
+
+0:02:52.560,0:02:55.599
+the solution
+
+0:02:53.680,0:02:57.040
+by the way i'll make a link to the
+
+0:02:55.599,0:03:00.879
+solution available on the
+
+0:02:57.040,0:03:02.319
+website so connectingwithcode.org camp
+
+0:03:00.879,0:03:03.760
+and so you can go look at the solution
+
+0:03:02.319,0:03:06.000
+there if you want but i'm just going to
+
+0:03:03.760,0:03:08.239
+play it and you can watch it
+
+0:03:06.000,0:03:10.080
+so you can see that what happens is it
+
+0:03:08.239,0:03:13.200
+starts off by
+
+0:03:10.080,0:03:14.640
+planting grass and so the whole field
+
+0:03:13.200,0:03:17.200
+covered with grass
+
+0:03:14.640,0:03:18.959
+and then i'm controlling this mower with
+
+0:03:17.200,0:03:21.840
+the the keyboard keys
+
+0:03:18.959,0:03:23.360
+and i'm revealing a picture behind it
+
+0:03:21.840,0:03:25.040
+now this picture happened to be a fairly
+
+0:03:23.360,0:03:27.360
+grassy picture i've got one more to cut
+
+0:03:25.040,0:03:27.360
+up here
+
+0:03:28.000,0:03:33.840
+that was really loud and so you can see
+
+0:03:31.680,0:03:34.959
+that the idea of this game is that you
+
+0:03:33.840,0:03:37.519
+click the start button
+
+0:03:34.959,0:03:39.599
+uh and it plants all your grass um and
+
+0:03:37.519,0:03:41.120
+then it's got a hidden picture behind it
+
+0:03:39.599,0:03:42.239
+now sure enough this time it randomly
+
+0:03:41.120,0:03:45.200
+picked the same picture
+
+0:03:42.239,0:03:46.879
+i'm gonna stop it um and run it again
+
+0:03:45.200,0:03:47.360
+and so there's some hidden picture back
+
+0:03:46.879,0:03:48.959
+there
+
+0:03:47.360,0:03:50.720
+it is randomly picking a picture i
+
+0:03:48.959,0:03:52.159
+promise
+
+0:03:50.720,0:03:53.599
+all right so there it's finally a
+
+0:03:52.159,0:03:54.879
+different one and honestly i don't know
+
+0:03:53.599,0:03:56.159
+why it took so long to
+
+0:03:54.879,0:03:58.799
+get a different image but the idea of
+
+0:03:56.159,0:04:00.319
+this game is that you'll
+
+0:03:58.799,0:04:02.000
+make some secret image so you're going
+
+0:04:00.319,0:04:03.439
+to make a number of different wallpapers
+
+0:04:02.000,0:04:05.840
+to put back there
+
+0:04:03.439,0:04:08.400
+and then you're going to lawnmower to
+
+0:04:05.840,0:04:08.400
+reveal
+
+0:04:09.599,0:04:13.280
+to reveal the solution right i mean each
+
+0:04:12.080,0:04:15.439
+time it should be
+
+0:04:13.280,0:04:16.560
+different and you can make fun messages
+
+0:04:15.439,0:04:17.840
+for people that you think are going to
+
+0:04:16.560,0:04:18.720
+play your game so let's say you're going
+
+0:04:17.840,0:04:21.519
+to show this
+
+0:04:18.720,0:04:23.120
+to your mom moms always like messages
+
+0:04:21.519,0:04:29.840
+specific to them
+
+0:04:23.120,0:04:29.840
+and so you might say i love you mom
+
+0:04:30.160,0:04:33.040
+so that's kind of how the game works uh
+
+0:04:31.840,0:04:35.040
+makes sense you guys ready to get
+
+0:04:33.040,0:04:38.400
+started
+
+0:04:35.040,0:04:42.000
+so normally uh with scratch what we do
+
+0:04:38.400,0:04:43.639
+is we go visit scratch.mit.edu so i'm
+
+0:04:42.000,0:04:45.600
+just going to type this in
+
+0:04:43.639,0:04:48.560
+scratch.mit.edu
+
+0:04:45.600,0:04:50.160
+and we typically sign in if you already
+
+0:04:48.560,0:04:52.720
+have a sign in with scratch
+
+0:04:50.160,0:04:54.240
+then use it if you don't you just have
+
+0:04:52.720,0:04:55.680
+to sign in over here so
+
+0:04:54.240,0:04:58.080
+if you haven't ever signed in it'll
+
+0:04:55.680,0:05:00.400
+probably look like this
+
+0:04:58.080,0:05:01.840
+and you'll have to click on join scratch
+
+0:05:00.400,0:05:03.759
+if you don't have an account
+
+0:05:01.840,0:05:05.600
+if you do have an account click on sign
+
+0:05:03.759,0:05:07.120
+in pause the video if you don't have an
+
+0:05:05.600,0:05:09.440
+account and make one
+
+0:05:07.120,0:05:11.520
+you don't have to validate the email
+
+0:05:09.440,0:05:13.120
+address if you don't want
+
+0:05:11.520,0:05:14.960
+it'll ask you to validate an email
+
+0:05:13.120,0:05:17.360
+address if you can do that go ahead and
+
+0:05:14.960,0:05:19.680
+do it but you can't make public products
+
+0:05:17.360,0:05:21.199
+until you validate your email address so
+
+0:05:19.680,0:05:22.720
+just kind of get that worked out
+
+0:05:21.199,0:05:23.680
+now normally what we do in scratch i'm
+
+0:05:22.720,0:05:24.880
+just going to kind of show you this
+
+0:05:23.680,0:05:27.840
+really quickly
+
+0:05:24.880,0:05:30.000
+is we click on create and we just start
+
+0:05:27.840,0:05:31.680
+creating a game in scratch
+
+0:05:30.000,0:05:33.360
+my hope is that you've probably already
+
+0:05:31.680,0:05:35.199
+done something in scratch before this
+
+0:05:33.360,0:05:37.520
+camp this is kind of an advanced camp
+
+0:05:35.199,0:05:38.960
+but if you haven't it's okay i'm just
+
+0:05:37.520,0:05:40.800
+going to quickly tell you about the
+
+0:05:38.960,0:05:42.800
+environment
+
+0:05:40.800,0:05:44.160
+so the environment is set up in a couple
+
+0:05:42.800,0:05:46.400
+different sections
+
+0:05:44.160,0:05:47.360
+the section over here is the stage this
+
+0:05:46.400,0:05:50.080
+is like where your code
+
+0:05:47.360,0:05:50.880
+runs where things happen below the stage
+
+0:05:50.080,0:05:52.479
+are the different
+
+0:05:50.880,0:05:54.800
+sprites in your game some people call
+
+0:05:52.479,0:05:56.240
+them actors so here i've got a cat as an
+
+0:05:54.800,0:05:58.720
+actor in my game
+
+0:05:56.240,0:06:00.240
+and i can move him around on the stage
+
+0:05:58.720,0:06:02.000
+and then the cat has
+
+0:06:00.240,0:06:03.280
+code that you can write for the cat
+
+0:06:02.000,0:06:05.039
+that's obviously why we're
+
+0:06:03.280,0:06:06.560
+using scratch because it involves a lot
+
+0:06:05.039,0:06:08.560
+of code it can have
+
+0:06:06.560,0:06:09.759
+costumes which are different images for
+
+0:06:08.560,0:06:11.199
+the sprites
+
+0:06:09.759,0:06:13.520
+and then he can have sounds that he
+
+0:06:11.199,0:06:14.479
+knows how to play just to really briefly
+
+0:06:13.520,0:06:18.000
+do something let's
+
+0:06:14.479,0:06:20.080
+drag over one piece of code
+
+0:06:18.000,0:06:21.759
+and to run it you can double click on it
+
+0:06:20.080,0:06:23.280
+that's like one way to run it
+
+0:06:21.759,0:06:25.039
+it's kind of the worst way to run it but
+
+0:06:23.280,0:06:27.919
+it is one way to run it
+
+0:06:25.039,0:06:29.199
+you can also go to events here you can
+
+0:06:27.919,0:06:31.199
+see that there's a number of different
+
+0:06:29.199,0:06:32.639
+code blocks
+
+0:06:31.199,0:06:35.120
+and they're color coordinated you can
+
+0:06:32.639,0:06:37.520
+either click on these to get around
+
+0:06:35.120,0:06:39.120
+or you can scroll through here to find
+
+0:06:37.520,0:06:42.400
+it if you go to events
+
+0:06:39.120,0:06:45.120
+and grab when green flag clicks that's
+
+0:06:42.400,0:06:47.600
+typically how these programs start
+
+0:06:45.120,0:06:50.479
+and so now when i click the green flag
+
+0:06:47.600,0:06:53.360
+you can see that he goes
+
+0:06:50.479,0:06:55.120
+typically your programs will have loops
+
+0:06:53.360,0:06:56.800
+so i'm going to just quickly grab a
+
+0:06:55.120,0:06:58.240
+forever loop here
+
+0:06:56.800,0:07:00.319
+and i'm going to stick it around that
+
+0:06:58.240,0:07:03.680
+one you can see that scratch
+
+0:07:00.319,0:07:04.800
+is more kid friendly than regular
+
+0:07:03.680,0:07:07.360
+program language because you
+
+0:07:04.800,0:07:09.520
+you drag and drop the code instead of
+
+0:07:07.360,0:07:11.120
+actually like typing it
+
+0:07:09.520,0:07:12.880
+and then just to put one more command in
+
+0:07:11.120,0:07:16.560
+here i'm going to find one that says
+
+0:07:12.880,0:07:17.840
+if on edge balance so right now if i run
+
+0:07:16.560,0:07:20.080
+this program you can see that it makes
+
+0:07:17.840,0:07:22.479
+my cat go back and forth forever
+
+0:07:20.080,0:07:24.560
+that is typically how we start programs
+
+0:07:22.479,0:07:27.280
+we start from a blank slate
+
+0:07:24.560,0:07:28.240
+we add sprites we add code we build
+
+0:07:27.280,0:07:30.000
+things up
+
+0:07:28.240,0:07:31.919
+for today's lesson this is a more
+
+0:07:30.000,0:07:32.319
+advanced lesson we're going to start
+
+0:07:31.919,0:07:35.919
+with
+
+0:07:32.319,0:07:37.840
+a starter project so instead of
+
+0:07:35.919,0:07:39.360
+making you download the images for like
+
+0:07:37.840,0:07:42.160
+the lawnmower and the grass
+
+0:07:39.360,0:07:43.199
+i'm going to give you a starting project
+
+0:07:42.160,0:07:45.199
+and we're going to learn a
+
+0:07:43.199,0:07:47.199
+ton of things today this is just kind of
+
+0:07:45.199,0:07:48.560
+a list of the learning objectives for
+
+0:07:47.199,0:07:50.000
+today
+
+0:07:48.560,0:07:52.080
+learning about the environment we kind
+
+0:07:50.000,0:07:54.000
+of just did that learning about flow
+
+0:07:52.080,0:07:56.639
+control statements
+
+0:07:54.000,0:07:58.080
+learning how to make clones even
+
+0:07:56.639,0:08:00.319
+mckinley hasn't made clones she'll be
+
+0:07:58.080,0:08:03.199
+excited to learn about clones
+
+0:08:00.319,0:08:04.479
+and lots of good stuff with scratch so
+
+0:08:03.199,0:08:05.120
+to start things off what you're going to
+
+0:08:04.479,0:08:07.599
+need to do
+
+0:08:05.120,0:08:09.360
+is you're going to need to remix the
+
+0:08:07.599,0:08:10.080
+project that i've got here this project
+
+0:08:09.360,0:08:12.400
+is called
+
+0:08:10.080,0:08:14.560
+lawnmower starting code so you're going
+
+0:08:12.400,0:08:16.479
+to have to go to this url
+
+0:08:14.560,0:08:17.680
+this url i'll make it available in the
+
+0:08:16.479,0:08:19.720
+email that i send out
+
+0:08:17.680,0:08:21.199
+i'll make it available on the
+
+0:08:19.720,0:08:23.680
+connectingwithcode.org
+
+0:08:21.199,0:08:25.599
+camp page so you can find it there also
+
+0:08:23.680,0:08:27.599
+put it in the description of this video
+
+0:08:25.599,0:08:30.240
+if all those things fail just type it
+
+0:08:27.599,0:08:32.320
+right it's not that hard to type
+
+0:08:30.240,0:08:33.519
+when you go to uh so i'm just going to
+
+0:08:32.320,0:08:35.360
+go and close this one
+
+0:08:33.519,0:08:37.279
+when you go to this page it should look
+
+0:08:35.360,0:08:37.919
+like this so to say lawnmower starting
+
+0:08:37.279,0:08:40.320
+code
+
+0:08:37.919,0:08:43.200
+created by fisher.ds that's me you're
+
+0:08:40.320,0:08:45.200
+going to have to click on remix
+
+0:08:43.200,0:08:47.279
+now what you happens with remix is it
+
+0:08:45.200,0:08:49.839
+makes a copy of this project
+
+0:08:47.279,0:08:50.800
+from fischerds and it brings it into
+
+0:08:49.839,0:08:54.000
+your account
+
+0:08:50.800,0:08:56.000
+so now you have remixed this project
+
+0:08:54.000,0:08:57.600
+it also makes the name lawnmower
+
+0:08:56.000,0:08:59.519
+starting code remix
+
+0:08:57.600,0:09:01.839
+let's go ahead and change that so let's
+
+0:08:59.519,0:09:03.200
+just make it lawnmower
+
+0:09:01.839,0:09:04.720
+and that's that's a fine name if you
+
+0:09:03.200,0:09:06.160
+just want to delete what's there if you
+
+0:09:04.720,0:09:09.120
+wanted to type something else you could
+
+0:09:06.160,0:09:11.279
+but i'm just going to say a lawnmower
+
+0:09:09.120,0:09:12.560
+whenever you get code from someone else
+
+0:09:11.279,0:09:13.839
+the first thing you need to do is you
+
+0:09:12.560,0:09:15.200
+need to understand
+
+0:09:13.839,0:09:16.320
+what you've got so i'm going to go and
+
+0:09:15.200,0:09:18.320
+zoom in a little bit here so you can see
+
+0:09:16.320,0:09:20.240
+it better
+
+0:09:18.320,0:09:22.000
+so what we've got is we've got two
+
+0:09:20.240,0:09:25.680
+sprites uh one sprite
+
+0:09:22.000,0:09:26.480
+is called robot mower the other sprite
+
+0:09:25.680,0:09:29.360
+is called
+
+0:09:26.480,0:09:31.600
+grass square you can see that robot
+
+0:09:29.360,0:09:33.279
+mower and grass square they have no code
+
+0:09:31.600,0:09:34.880
+right so there's no code that we're
+
+0:09:33.279,0:09:36.240
+giving you so really we just wanted to
+
+0:09:34.880,0:09:38.160
+give you some images
+
+0:09:36.240,0:09:40.880
+we've also got a backdrop over here the
+
+0:09:38.160,0:09:42.480
+backdrop has no code as well
+
+0:09:40.880,0:09:44.320
+and the backdrop you can see has two
+
+0:09:42.480,0:09:46.720
+costumes in it uh one
+
+0:09:44.320,0:09:48.320
+is called a lawnmower connecting with
+
+0:09:46.720,0:09:50.080
+code and then the other is just this
+
+0:09:48.320,0:09:53.600
+blank xy grid so we've given you
+
+0:09:50.080,0:09:53.920
+two uh two backdrops in here now later
+
+0:09:53.600,0:09:55.360
+in
+
+0:09:53.920,0:09:56.959
+in today's project you're going to
+
+0:09:55.360,0:09:58.160
+create a bunch more backdrops because
+
+0:09:56.959,0:09:59.040
+these are going to be like the secret
+
+0:09:58.160,0:10:01.360
+backdrops
+
+0:09:59.040,0:10:02.720
+that you can reveal you can make two or
+
+0:10:01.360,0:10:04.160
+three and that's plenty
+
+0:10:02.720,0:10:05.760
+but you can make 10 if you really want
+
+0:10:04.160,0:10:06.560
+it and so just know these are the secret
+
+0:10:05.760,0:10:07.839
+things
+
+0:10:06.560,0:10:10.399
+that kind of make your game fun for
+
+0:10:07.839,0:10:12.480
+others for now though go back to the xy
+
+0:10:10.399,0:10:13.839
+grid alright so that's the the sprite so
+
+0:10:12.480,0:10:16.959
+we've got a mower
+
+0:10:13.839,0:10:19.519
+we've got grass we've got backdrops
+
+0:10:16.959,0:10:20.959
+and we're ready to to write some code so
+
+0:10:19.519,0:10:22.399
+to get started i want you to click on
+
+0:10:20.959,0:10:23.519
+the lawnmower
+
+0:10:22.399,0:10:26.160
+you know you've got the lawnmower
+
+0:10:23.519,0:10:28.320
+selected because his icon shows up here
+
+0:10:26.160,0:10:29.360
+and also he's got a blue line around him
+
+0:10:28.320,0:10:31.120
+and then
+
+0:10:29.360,0:10:33.440
+you could change his costumes or sounds
+
+0:10:31.120,0:10:35.360
+but obviously we want the code
+
+0:10:33.440,0:10:37.360
+so we've got a couple different goals
+
+0:10:35.360,0:10:39.920
+for this game
+
+0:10:37.360,0:10:42.079
+our first goal is actually going to
+
+0:10:39.920,0:10:45.120
+start with the mower itself
+
+0:10:42.079,0:10:46.880
+and so the mower itself needs to move
+
+0:10:45.120,0:10:48.399
+so you can see that the mower always
+
+0:10:46.880,0:10:50.480
+moves right
+
+0:10:48.399,0:10:52.320
+and then what we do is with the left and
+
+0:10:50.480,0:10:54.640
+right arrow keys
+
+0:10:52.320,0:10:56.160
+we change the direction that the mower
+
+0:10:54.640,0:10:57.839
+is going
+
+0:10:56.160,0:10:59.600
+and so that's the that's the goal of
+
+0:10:57.839,0:11:02.959
+this project
+
+0:10:59.600,0:11:04.880
+so the mower let's start with the basics
+
+0:11:02.959,0:11:08.880
+let's start with
+
+0:11:04.880,0:11:11.200
+events when green flag clicks
+
+0:11:08.880,0:11:12.240
+so most projects start this way this is
+
+0:11:11.200,0:11:14.720
+kind of like the
+
+0:11:12.240,0:11:16.240
+the main function that gets called so
+
+0:11:14.720,0:11:17.839
+when the green flag is clicked people
+
+0:11:16.240,0:11:18.959
+will expect that's how they start your
+
+0:11:17.839,0:11:20.480
+game
+
+0:11:18.959,0:11:21.760
+what i want to do when the green flag is
+
+0:11:20.480,0:11:23.760
+clicked is i want to make sure that my
+
+0:11:21.760,0:11:26.959
+mower always starts in that corner
+
+0:11:23.760,0:11:27.600
+so i'm going to go to motion and i'm
+
+0:11:26.959,0:11:31.120
+gonna grab
+
+0:11:27.600,0:11:31.839
+a go to xy the nice thing about this
+
+0:11:31.120,0:11:33.440
+command
+
+0:11:31.839,0:11:35.279
+is that it knows where your mower is
+
+0:11:33.440,0:11:36.640
+currently at um it's currently at
+
+0:11:35.279,0:11:39.760
+negative 200
+
+0:11:36.640,0:11:41.440
+uh negative 150 and it's actually just
+
+0:11:39.760,0:11:44.000
+going to go to
+
+0:11:41.440,0:11:44.959
+negative 200 negative 150. the next
+
+0:11:44.000,0:11:49.920
+thing i want to do
+
+0:11:44.959,0:11:53.200
+is i want to put on a point in direction
+
+0:11:49.920,0:11:54.880
+of 90. so when you run your program now
+
+0:11:53.200,0:11:56.399
+it looks like nothing happens
+
+0:11:54.880,0:11:58.800
+but if you move your mower somewhere
+
+0:11:56.399,0:12:00.959
+different and then run your program
+
+0:11:58.800,0:12:03.600
+it's going to snap to that location so
+
+0:12:00.959,0:12:03.600
+far so good
+
+0:12:03.839,0:12:07.120
+let's see now if we can make this guy
+
+0:12:05.920,0:12:08.800
+start to move
+
+0:12:07.120,0:12:10.160
+so the movement is going to need to
+
+0:12:08.800,0:12:12.000
+happen uh forever
+
+0:12:10.160,0:12:14.240
+so the first thing i grab is a forever
+
+0:12:12.000,0:12:15.279
+loop i always joke with my younger kids
+
+0:12:14.240,0:12:17.839
+that it's uh
+
+0:12:15.279,0:12:19.360
+really like improper to tell some human
+
+0:12:17.839,0:12:21.120
+to do something forever but in code it
+
+0:12:19.360,0:12:23.360
+happens all the time so forever
+
+0:12:21.120,0:12:24.240
+uh do this thing and forever what we
+
+0:12:23.360,0:12:27.360
+want to do
+
+0:12:24.240,0:12:30.480
+is we want to uh move so we're going to
+
+0:12:27.360,0:12:32.399
+have move 3 in here
+
+0:12:30.480,0:12:34.480
+if you were to run it right now it would
+
+0:12:32.399,0:12:35.920
+work fine except for you can't steer
+
+0:12:34.480,0:12:37.200
+right so you could run it it would do
+
+0:12:35.920,0:12:38.160
+that you could take it back and run it
+
+0:12:37.200,0:12:40.639
+again
+
+0:12:38.160,0:12:42.800
+so we need to be able to steer using the
+
+0:12:40.639,0:12:45.839
+left arrow key and right arrow key
+
+0:12:42.800,0:12:47.600
+so we need to know if somebody's
+
+0:12:45.839,0:12:49.600
+pressing the left arrow key
+
+0:12:47.600,0:12:50.880
+or the right arrow key and i mean you
+
+0:12:49.600,0:12:51.360
+kind of heard the command we're going to
+
+0:12:50.880,0:12:54.639
+need
+
+0:12:51.360,0:12:58.079
+in the words there so go to control
+
+0:12:54.639,0:13:00.079
+and find an if statement again if you're
+
+0:12:58.079,0:13:01.839
+completely new to coding
+
+0:13:00.079,0:13:03.360
+some of these things will seem like a
+
+0:13:01.839,0:13:04.880
+flood of information
+
+0:13:03.360,0:13:06.480
+but if you've done anything with scratch
+
+0:13:04.880,0:13:07.279
+before you've probably seen if
+
+0:13:06.480,0:13:09.360
+statements
+
+0:13:07.279,0:13:10.480
+the way an if statement works is it says
+
+0:13:09.360,0:13:12.720
+if
+
+0:13:10.480,0:13:14.320
+this condition is true so this diamond
+
+0:13:12.720,0:13:16.800
+means like condition
+
+0:13:14.320,0:13:18.320
+then execute the code that's in here and
+
+0:13:16.800,0:13:19.600
+currently there's no code in there
+
+0:13:18.320,0:13:22.720
+i put two of them on there because i
+
+0:13:19.600,0:13:25.440
+know i need a left and a right
+
+0:13:22.720,0:13:26.560
+let's do the conditions first conditions
+
+0:13:25.440,0:13:28.399
+are very often
+
+0:13:26.560,0:13:30.079
+in sensing sometimes they're in
+
+0:13:28.399,0:13:31.760
+operators we'll get that later
+
+0:13:30.079,0:13:33.279
+and in sensing what we want to do is we
+
+0:13:31.760,0:13:34.959
+want to find the right condition you'll
+
+0:13:33.279,0:13:35.440
+notice the conditions are the diamonds
+
+0:13:34.959,0:13:37.680
+here
+
+0:13:35.440,0:13:38.480
+so there's like a touching a touching
+
+0:13:37.680,0:13:40.800
+color
+
+0:13:38.480,0:13:42.240
+a color touching color all these things
+
+0:13:40.800,0:13:45.600
+here's the one we want
+
+0:13:42.240,0:13:47.199
+key space pressed so go ahead and drag
+
+0:13:45.600,0:13:48.480
+one of these and drop it over
+
+0:13:47.199,0:13:50.560
+by the way you know it's going to go in
+
+0:13:48.480,0:13:52.000
+there whenever the outline goes white
+
+0:13:50.560,0:13:53.120
+right so some people try to like put the
+
+0:13:52.000,0:13:53.839
+middle of it in there and it doesn't
+
+0:13:53.120,0:13:55.519
+work
+
+0:13:53.839,0:13:57.680
+you got to kind of put the edge in there
+
+0:13:55.519,0:13:59.920
+and when it goes white you drop it in
+
+0:13:57.680,0:14:01.279
+now obviously space is not what we want
+
+0:13:59.920,0:14:02.800
+but that's why there's this little drop
+
+0:14:01.279,0:14:03.680
+down arrow on here so click the drop
+
+0:14:02.800,0:14:06.720
+down arrow
+
+0:14:03.680,0:14:08.399
+and change the top one to left arrow uh
+
+0:14:06.720,0:14:11.440
+and the bottom one to
+
+0:14:08.399,0:14:13.440
+right arrow so when we press the left
+
+0:14:11.440,0:14:14.639
+arrow we want to turn a few degrees to
+
+0:14:13.440,0:14:16.880
+the left
+
+0:14:14.639,0:14:18.399
+and then the opposite with the right
+
+0:14:16.880,0:14:21.680
+movement you'll kind of get used to this
+
+0:14:18.399,0:14:25.040
+it's going to happen over in motion
+
+0:14:21.680,0:14:27.360
+and so in motion a left turn it kind of
+
+0:14:25.040,0:14:31.360
+looks like a counterclockwise turn
+
+0:14:27.360,0:14:33.440
+so that is the left direction
+
+0:14:31.360,0:14:34.800
+and then the right direction is the
+
+0:14:33.440,0:14:37.360
+opposite right so
+
+0:14:34.800,0:14:40.800
+left and right and the amount that i'm
+
+0:14:37.360,0:14:42.720
+going to turn is just 5 and 5.
+
+0:14:40.800,0:14:45.120
+and so now if you run your game you
+
+0:14:42.720,0:14:47.920
+should be able to use the arrow keys
+
+0:14:45.120,0:14:49.360
+to drive your lawnmower around your lawn
+
+0:14:47.920,0:14:50.959
+and so it should be
+
+0:14:49.360,0:14:53.120
+i don't know a pretty successful little
+
+0:14:50.959,0:14:55.519
+fun game
+
+0:14:53.120,0:14:56.720
+eventually you will get bored of driving
+
+0:14:55.519,0:14:58.160
+your lawnmower around
+
+0:14:56.720,0:15:00.079
+because there's nothing to collect or
+
+0:14:58.160,0:15:01.360
+nothing to do i could probably drive it
+
+0:15:00.079,0:15:02.399
+around for a while but eventually i'd
+
+0:15:01.360,0:15:05.440
+get bored
+
+0:15:02.399,0:15:07.199
+i can make it do donuts for a while
+
+0:15:05.440,0:15:08.639
+so what we need to do is we need this
+
+0:15:07.199,0:15:11.360
+lawn mower
+
+0:15:08.639,0:15:12.480
+to actually like collect grass right so
+
+0:15:11.360,0:15:13.680
+you can see that the first thing that
+
+0:15:12.480,0:15:16.160
+happens is the game is
+
+0:15:13.680,0:15:19.120
+all the grass gets planted and then the
+
+0:15:16.160,0:15:20.560
+lawn mower starts collecting it
+
+0:15:19.120,0:15:22.560
+so i think that we're ready to start
+
+0:15:20.560,0:15:24.240
+planting some grass
+
+0:15:22.560,0:15:27.440
+in order to plant grass if we kind of
+
+0:15:24.240,0:15:31.040
+watch it here you can see that it does
+
+0:15:27.440,0:15:32.800
+a clone of the sprite called grass
+
+0:15:31.040,0:15:34.720
+and it puts it on it does the whole top
+
+0:15:32.800,0:15:35.759
+row and then the second row and then the
+
+0:15:34.720,0:15:37.600
+third row
+
+0:15:35.759,0:15:39.040
+and it does it so fast it's almost like
+
+0:15:37.600,0:15:41.920
+magic
+
+0:15:39.040,0:15:42.959
+it's not magic you have to code it up to
+
+0:15:41.920,0:15:44.639
+make it work
+
+0:15:42.959,0:15:46.720
+so what i want to do is i want to start
+
+0:15:44.639,0:15:49.680
+with a little bit of math
+
+0:15:46.720,0:15:50.399
+because math is going to tell us where
+
+0:15:49.680,0:15:52.880
+these
+
+0:15:50.399,0:15:54.079
+pieces of grass need to go it's going to
+
+0:15:52.880,0:15:56.240
+tell us how many
+
+0:15:54.079,0:15:57.839
+are in each row it's going to tell us
+
+0:15:56.240,0:15:59.519
+how many columns there are
+
+0:15:57.839,0:16:02.000
+and so we need to kind of do some math
+
+0:15:59.519,0:16:03.440
+to understand what's going on
+
+0:16:02.000,0:16:04.959
+so the first thing that we need to do is
+
+0:16:03.440,0:16:05.759
+we need to understand this piece of
+
+0:16:04.959,0:16:08.800
+grass
+
+0:16:05.759,0:16:10.560
+so how big is this piece of grass
+
+0:16:08.800,0:16:12.639
+in here it says it's size 100 that
+
+0:16:10.560,0:16:14.959
+doesn't really tell you how big it is
+
+0:16:12.639,0:16:15.680
+the costume over here says it's 60 by
+
+0:16:14.959,0:16:17.839
+60.
+
+0:16:15.680,0:16:18.800
+oh that that actually does tell you how
+
+0:16:17.839,0:16:20.959
+big it is
+
+0:16:18.800,0:16:22.480
+and in fact if you look at this grid
+
+0:16:20.959,0:16:23.680
+this grid shows you how big the whole
+
+0:16:22.480,0:16:26.560
+stage is
+
+0:16:23.680,0:16:28.399
+and you can see that here's uh 100 here
+
+0:16:26.560,0:16:30.639
+and so it's just a little bit more than
+
+0:16:28.399,0:16:32.800
+half so it's 60 by 60.
+
+0:16:30.639,0:16:35.120
+so that's our first piece of knowledge
+
+0:16:32.800,0:16:36.320
+so how big is the tile
+
+0:16:35.120,0:16:38.720
+so what we're going to do is we're going
+
+0:16:36.320,0:16:39.440
+to go through some slides to kind of do
+
+0:16:38.720,0:16:41.360
+the math
+
+0:16:39.440,0:16:42.720
+to make sure we understand things and
+
+0:16:41.360,0:16:44.560
+then we're going to get started
+
+0:16:42.720,0:16:47.360
+in writing the code and i'm going to use
+
+0:16:44.560,0:16:47.360
+a white board here
+
+0:16:48.560,0:16:51.920
+all right so i got my white board uh and
+
+0:16:50.320,0:16:52.720
+now i'm free to draw on things so this
+
+0:16:51.920,0:16:56.240
+square
+
+0:16:52.720,0:16:56.639
+um we know that it is 60 uh by 60 so
+
+0:16:56.240,0:16:58.480
+that's
+
+0:16:56.639,0:17:00.079
+that's how big it is we're going to need
+
+0:16:58.480,0:17:02.720
+to know some other things
+
+0:17:00.079,0:17:04.079
+in addition to the square we're going to
+
+0:17:02.720,0:17:06.880
+need to know um how
+
+0:17:04.079,0:17:08.319
+big the overall grid is uh and so i'll
+
+0:17:06.880,0:17:11.199
+kind of ask my campers
+
+0:17:08.319,0:17:12.559
+um how wide do you guys think this grid
+
+0:17:11.199,0:17:14.720
+is shut it out if you think you know the
+
+0:17:12.559,0:17:18.400
+answer
+
+0:17:14.720,0:17:19.520
+240. so 240 was the first guess 240 is a
+
+0:17:18.400,0:17:21.520
+very reasonable guess
+
+0:17:19.520,0:17:23.120
+i'll say that 240 is almost right but
+
+0:17:21.520,0:17:25.919
+it's not quite right
+
+0:17:23.120,0:17:25.919
+any other guesses
+
+0:17:26.559,0:17:30.240
+so i'll give you a hint this side is
+
+0:17:28.480,0:17:33.520
+positive 240.
+
+0:17:30.240,0:17:34.160
+that side is negative 240. so how big is
+
+0:17:33.520,0:17:37.840
+the whole thing
+
+0:17:34.160,0:17:39.520
+480 480 that's right so this grid
+
+0:17:37.840,0:17:42.799
+is uh and i just kind of write it up
+
+0:17:39.520,0:17:44.000
+here it's 480 pixels wide total
+
+0:17:42.799,0:17:46.000
+so that's something that we're going to
+
+0:17:44.000,0:17:48.640
+need to know uh let's do the same
+
+0:17:46.000,0:17:51.919
+thing uh with the height how tall is
+
+0:17:48.640,0:17:54.880
+this grid from top to bottom
+
+0:17:51.919,0:17:54.880
+360.
+
+0:17:55.840,0:18:00.559
+all right yep 360 uh is correct uh so
+
+0:17:59.039,0:18:02.320
+the y is 180
+
+0:18:00.559,0:18:03.919
+it goes to a negative 180 oh that's
+
+0:18:02.320,0:18:07.520
+really hard to read down there
+
+0:18:03.919,0:18:08.799
+and so this thing is 360 tall
+
+0:18:07.520,0:18:10.960
+so we're just kind of like gathering
+
+0:18:08.799,0:18:12.799
+some information
+
+0:18:10.960,0:18:14.559
+so the next question is just so we
+
+0:18:12.799,0:18:17.679
+understand it how many
+
+0:18:14.559,0:18:21.520
+will fit left to right so this
+
+0:18:17.679,0:18:23.120
+square is 60 there's 480 total so
+
+0:18:21.520,0:18:25.440
+your division skills are going to get
+
+0:18:23.120,0:18:26.559
+tested here so how many squares do we
+
+0:18:25.440,0:18:30.000
+think are going to fit
+
+0:18:26.559,0:18:33.120
+left to right keegan uh not quite
+
+0:18:30.000,0:18:36.240
+[ __ ] so
+
+0:18:33.120,0:18:39.280
+so her guess was 80. eight
+
+0:18:36.240,0:18:42.400
+eight eight yeah yep no problem so
+
+0:18:39.280,0:18:45.600
+our goal um is to fit on here
+
+0:18:42.400,0:18:47.520
+eight squares across so if we
+
+0:18:45.600,0:18:50.000
+were to kind of like divvy this thing up
+
+0:18:47.520,0:18:52.720
+um you know we could divide it here
+
+0:18:50.000,0:18:53.760
+and here i rise my marker is not great
+
+0:18:52.720,0:18:56.960
+but there's going to be
+
+0:18:53.760,0:18:58.720
+eight different um
+
+0:18:56.960,0:19:01.039
+squares uh split up in here maybe i'll
+
+0:18:58.720,0:19:04.400
+get a better marker here in a little bit
+
+0:19:01.039,0:19:06.160
+uh next question how many fits uh top to
+
+0:19:04.400,0:19:07.679
+bottom oh shoot i jumped to the wrong
+
+0:19:06.160,0:19:09.360
+page i guess i've got the answer here
+
+0:19:07.679,0:19:11.039
+how many will fit top to bottom if it's
+
+0:19:09.360,0:19:13.919
+360.
+
+0:19:11.039,0:19:14.720
+keegan can you read the screen six yeah
+
+0:19:13.919,0:19:17.120
+that's right
+
+0:19:14.720,0:19:17.919
+so our goal that's a marker um our goal
+
+0:19:17.120,0:19:21.600
+is to get
+
+0:19:17.919,0:19:23.280
+um eight of them uh across and then six
+
+0:19:21.600,0:19:25.280
+of them from top to bottom
+
+0:19:23.280,0:19:28.320
+so it looks like there's going to be
+
+0:19:25.280,0:19:31.600
+kind of like a a row here a row there
+
+0:19:28.320,0:19:32.880
+a row here so our goal is to to make all
+
+0:19:31.600,0:19:34.240
+that happen
+
+0:19:32.880,0:19:35.840
+now we're going to start putting them in
+
+0:19:34.240,0:19:36.960
+one at a time right so we're going to
+
+0:19:35.840,0:19:38.720
+start putting them in we're going to put
+
+0:19:36.960,0:19:40.080
+in this one first
+
+0:19:38.720,0:19:42.559
+and then this one second and then this
+
+0:19:40.080,0:19:45.840
+one third fourth fifth
+
+0:19:42.559,0:19:47.200
+sixth seventh eighth you get the idea
+
+0:19:45.840,0:19:49.679
+i'm not gonna label all these
+
+0:19:47.200,0:19:50.799
+how many are we gonna have total what's
+
+0:19:49.679,0:19:51.600
+the bottom number here can anybody
+
+0:19:50.799,0:19:53.760
+figure out what we're going to have
+
+0:19:51.600,0:19:57.600
+total
+
+0:19:53.760,0:19:58.559
+48 48 that's correct um and so somehow i
+
+0:19:57.600,0:20:00.880
+got off there
+
+0:19:58.559,0:20:02.640
+uh that's 15 and 16. so there's going to
+
+0:20:00.880,0:20:04.960
+be 48 squares total
+
+0:20:02.640,0:20:05.760
+they're going to be set up with 8 in
+
+0:20:04.960,0:20:08.559
+each row
+
+0:20:05.760,0:20:10.880
+and there's going to be six rows total
+
+0:20:08.559,0:20:14.080
+now we've got to do some harder math
+
+0:20:10.880,0:20:15.760
+so where does the first one go so in
+
+0:20:14.080,0:20:18.799
+scratch what you care about is you
+
+0:20:15.760,0:20:20.240
+care about the center of the sprite
+
+0:20:18.799,0:20:22.240
+so our first one that we're going to put
+
+0:20:20.240,0:20:25.520
+in goes right there
+
+0:20:22.240,0:20:27.120
+so this edge has an x value of negative
+
+0:20:25.520,0:20:31.919
+240.
+
+0:20:27.120,0:20:35.600
+the overall box is 60 wide
+
+0:20:31.919,0:20:37.520
+so what is the x value uh right here
+
+0:20:35.600,0:20:39.039
+so how much do we have to move over from
+
+0:20:37.520,0:20:43.120
+negative 240
+
+0:20:39.039,0:20:45.919
+um half of the box and so what value
+
+0:20:43.120,0:20:46.400
+in the x is that right there you got it
+
+0:20:45.919,0:20:49.360
+all right
+
+0:20:46.400,0:20:52.880
+way to go keegan all right so keegan
+
+0:20:49.360,0:20:52.880
+just got it studied again for us keegan
+
+0:20:53.600,0:20:56.880
+negative 210 right so it just changes
+
+0:20:56.000,0:20:59.600
+that uh
+
+0:20:56.880,0:21:01.120
+by by 30. so negative 210 that's going
+
+0:20:59.600,0:21:03.840
+to be an important number
+
+0:21:01.120,0:21:04.960
+so the x center is negative 210 of that
+
+0:21:03.840,0:21:08.159
+first tile
+
+0:21:04.960,0:21:11.039
+what's the y so the y up here is
+
+0:21:08.159,0:21:11.360
+180 at the top and of course we have to
+
+0:21:11.039,0:21:15.679
+come
+
+0:21:11.360,0:21:17.919
+down by 30. so what is the y value of
+
+0:21:15.679,0:21:20.960
+this first dial
+
+0:21:17.919,0:21:22.159
+150. 150. since we got this one all
+
+0:21:20.960,0:21:25.120
+right so
+
+0:21:22.159,0:21:26.159
+um that's our math right so this this
+
+0:21:25.120,0:21:28.320
+square right here
+
+0:21:26.159,0:21:29.840
+um this slide right here as soon as i
+
+0:21:28.320,0:21:32.000
+erase all this junk
+
+0:21:29.840,0:21:33.520
+kind of summarizes our math so we're
+
+0:21:32.000,0:21:36.640
+going to have a total of
+
+0:21:33.520,0:21:38.400
+eight squares coming across
+
+0:21:36.640,0:21:40.159
+and we're going to have six squares up
+
+0:21:38.400,0:21:42.559
+and down
+
+0:21:40.159,0:21:44.240
+and the first one is going to go at
+
+0:21:42.559,0:21:47.120
+negative 210
+
+0:21:44.240,0:21:48.559
+uh positive 150. so that um is kind of
+
+0:21:47.120,0:21:50.799
+our strategy in our plan
+
+0:21:48.559,0:21:51.760
+so how do we make that happen um so what
+
+0:21:50.799,0:21:53.360
+we're gonna have to do is we're gonna
+
+0:21:51.760,0:21:53.840
+have to go back into our code and we're
+
+0:21:53.360,0:21:56.159
+gonna make
+
+0:21:53.840,0:21:57.280
+clones of the sprite uh and we're gonna
+
+0:21:56.159,0:21:58.559
+put the first one there
+
+0:21:57.280,0:22:00.480
+and we're going to see if we can get
+
+0:21:58.559,0:22:01.440
+that to work and then after we put the
+
+0:22:00.480,0:22:03.520
+first one on
+
+0:22:01.440,0:22:04.799
+we'll try to put on the whole first row
+
+0:22:03.520,0:22:06.159
+and then after we put on the whole first
+
+0:22:04.799,0:22:08.480
+row then we'll put on the whole thing
+
+0:22:06.159,0:22:10.640
+sound good so let's go back to our code
+
+0:22:08.480,0:22:13.760
+all right so let's see if we can
+
+0:22:10.640,0:22:15.440
+jump over into our code uh and and make
+
+0:22:13.760,0:22:17.039
+this thing work
+
+0:22:15.440,0:22:18.480
+so how do we get a square to show up
+
+0:22:17.039,0:22:20.159
+there well one way we could
+
+0:22:18.480,0:22:22.240
+we could do it is we could just put it
+
+0:22:20.159,0:22:24.400
+there right uh so you know we could go
+
+0:22:22.240,0:22:27.760
+until it's at the right spot so negative
+
+0:22:24.400,0:22:30.159
+210 positive 150
+
+0:22:27.760,0:22:31.440
+and then we could like duplicate it and
+
+0:22:30.159,0:22:32.159
+make another one and put it in the right
+
+0:22:31.440,0:22:34.320
+spot
+
+0:22:32.159,0:22:35.280
+that that would totally work um but
+
+0:22:34.320,0:22:37.679
+that's not how
+
+0:22:35.280,0:22:38.640
+computer scientists work right so if
+
+0:22:37.679,0:22:41.120
+you're making
+
+0:22:38.640,0:22:42.400
+um you know multiples of something but
+
+0:22:41.120,0:22:43.520
+it's really kind of the same thing
+
+0:22:42.400,0:22:45.520
+what you want to do is you want to make
+
+0:22:43.520,0:22:47.120
+a clone of it and in fact i don't care
+
+0:22:45.520,0:22:48.240
+where the original starts at all because
+
+0:22:47.120,0:22:48.960
+eventually i'm going to hide the
+
+0:22:48.240,0:22:50.320
+original
+
+0:22:48.960,0:22:52.320
+so i'm just going to put the original in
+
+0:22:50.320,0:22:54.320
+some random spot and what i want to do
+
+0:22:52.320,0:22:56.640
+is i want to create clones of it
+
+0:22:54.320,0:22:58.640
+and move it to a spot so let's do this
+
+0:22:56.640,0:23:00.240
+let's go over to our stage so click on
+
+0:22:58.640,0:23:02.880
+the stage here
+
+0:23:00.240,0:23:04.559
+go into the code on the stage and what
+
+0:23:02.880,0:23:06.320
+the stage is going to do is the stage is
+
+0:23:04.559,0:23:07.520
+going to be responsible for planting all
+
+0:23:06.320,0:23:10.240
+the grass
+
+0:23:07.520,0:23:13.039
+so let's grab a wind green flag clicked
+
+0:23:10.240,0:23:13.039
+for the stage
+
+0:23:13.120,0:23:16.480
+and what he's going to do is he's going
+
+0:23:14.799,0:23:18.480
+to plant grass
+
+0:23:16.480,0:23:19.520
+so to plant grass what you want to do is
+
+0:23:18.480,0:23:23.039
+you want to say create
+
+0:23:19.520,0:23:25.039
+clone of grass square
+
+0:23:23.039,0:23:26.320
+so if you were to run this program now
+
+0:23:25.039,0:23:28.720
+what it would do is it would create a
+
+0:23:26.320,0:23:31.039
+clone of the grass square
+
+0:23:28.720,0:23:32.960
+it's very unexciting because the place
+
+0:23:31.039,0:23:34.799
+where it created the clone
+
+0:23:32.960,0:23:36.720
+was in the same spot as the original
+
+0:23:34.799,0:23:38.720
+does that make sense so there's actually
+
+0:23:36.720,0:23:40.799
+two of them now there's the original
+
+0:23:38.720,0:23:42.640
+and the clone so we need to create a
+
+0:23:40.799,0:23:44.960
+graph square somewhere else
+
+0:23:42.640,0:23:47.279
+right so let's make some variables so
+
+0:23:44.960,0:23:48.720
+you can make variables in scratch
+
+0:23:47.279,0:23:50.799
+variables are very powerful in
+
+0:23:48.720,0:23:53.120
+programming they let you just save off a
+
+0:23:50.799,0:23:55.039
+number so that it's referenced by a name
+
+0:23:53.120,0:23:56.400
+click on variables and we're going to
+
+0:23:55.039,0:23:59.039
+make two variables
+
+0:23:56.400,0:24:00.320
+click on make a variable the first
+
+0:23:59.039,0:24:04.400
+variable is going to be called
+
+0:24:00.320,0:24:07.600
+grass x so this is the x value
+
+0:24:04.400,0:24:08.400
+for the grass and then the next variable
+
+0:24:07.600,0:24:11.520
+is going to be called
+
+0:24:08.400,0:24:13.679
+grass y so
+
+0:24:11.520,0:24:15.440
+grass x and grass y you can probably
+
+0:24:13.679,0:24:17.440
+guess what these variables are going to
+
+0:24:15.440,0:24:19.520
+get used for
+
+0:24:17.440,0:24:21.840
+variables in scratch you can easily
+
+0:24:19.520,0:24:23.919
+display them on the screen if you want
+
+0:24:21.840,0:24:25.919
+but you don't have to so i'm going to
+
+0:24:23.919,0:24:27.279
+click on this checkbox here
+
+0:24:25.919,0:24:28.559
+and what that does is that just makes it
+
+0:24:27.279,0:24:29.360
+to where it's not displayed on the
+
+0:24:28.559,0:24:31.360
+screen
+
+0:24:29.360,0:24:32.640
+so no big deal i just i don't i don't
+
+0:24:31.360,0:24:33.919
+need it displayed on the screen you
+
+0:24:32.640,0:24:34.640
+still have the variable if it's not
+
+0:24:33.919,0:24:36.960
+displayed
+
+0:24:34.640,0:24:37.840
+um i just don't need the display so
+
+0:24:36.960,0:24:40.159
+here's my goal
+
+0:24:37.840,0:24:40.960
+before i say clone graphs i'm going to
+
+0:24:40.159,0:24:45.120
+set
+
+0:24:40.960,0:24:49.840
+the x and the y so i'm going to set
+
+0:24:45.120,0:24:53.200
+grass x to negative 210
+
+0:24:49.840,0:24:54.960
+and i'm going to set grass y to positive
+
+0:24:53.200,0:24:58.159
+150.
+
+0:24:54.960,0:24:59.440
+so those variables are going to get used
+
+0:24:58.159,0:25:00.400
+they're not used yet they're going to
+
+0:24:59.440,0:25:03.360
+get used
+
+0:25:00.400,0:25:04.159
+to tell this clone where to go right so
+
+0:25:03.360,0:25:07.200
+i'm going to
+
+0:25:04.159,0:25:09.120
+create x y and a clone
+
+0:25:07.200,0:25:11.200
+now i've got to go into the into the
+
+0:25:09.120,0:25:12.400
+grass square to make it actually use
+
+0:25:11.200,0:25:14.799
+those variables
+
+0:25:12.400,0:25:16.320
+so the stage right now is fine i'm gonna
+
+0:25:14.799,0:25:19.440
+move from the stage
+
+0:25:16.320,0:25:21.760
+to the grass square you'll notice that
+
+0:25:19.440,0:25:23.440
+every sprite has its own code the stage
+
+0:25:21.760,0:25:25.200
+has its own code and you can hop around
+
+0:25:23.440,0:25:26.640
+between them uh however you want right
+
+0:25:25.200,0:25:27.120
+so like our mower has a bunch of things
+
+0:25:26.640,0:25:28.640
+done
+
+0:25:27.120,0:25:32.000
+our grass square doesn't have anything
+
+0:25:28.640,0:25:35.520
+yet let's write our graph square
+
+0:25:32.000,0:25:37.760
+so let's go to events normally
+
+0:25:35.520,0:25:39.919
+you would use when green flag clicked
+
+0:25:37.760,0:25:41.760
+that is not the case for clones
+
+0:25:39.919,0:25:43.679
+clones are a little bit different so
+
+0:25:41.760,0:25:44.720
+clones you need to scroll down into
+
+0:25:43.679,0:25:48.880
+control
+
+0:25:44.720,0:25:50.480
+and find when i start as clone
+
+0:25:48.880,0:25:52.000
+it's kind of a neat event so whenever i
+
+0:25:50.480,0:25:54.159
+start as a clone
+
+0:25:52.000,0:25:56.640
+what do i do well the first thing i want
+
+0:25:54.159,0:26:00.320
+to do is i want to set my x and y
+
+0:25:56.640,0:26:04.559
+using those variables so i go to motion
+
+0:26:00.320,0:26:06.799
+i go to set go to xy
+
+0:26:04.559,0:26:08.240
+and i don't want to type in a number i
+
+0:26:06.799,0:26:09.679
+want to use those variables so i go to
+
+0:26:08.240,0:26:15.039
+variable
+
+0:26:09.679,0:26:18.320
+and i use grass x and i use grass y
+
+0:26:15.039,0:26:20.640
+so now when i run it my backdrop is
+
+0:26:18.320,0:26:22.480
+going to set grass x grass y
+
+0:26:20.640,0:26:25.440
+it's going to say create clone of graph
+
+0:26:22.480,0:26:28.080
+square and glass squares are going to go
+
+0:26:25.440,0:26:30.400
+to that position so if i run it now you
+
+0:26:28.080,0:26:33.200
+can see that there's now a grass square
+
+0:26:30.400,0:26:34.799
+up at the top so pretty exciting i know
+
+0:26:33.200,0:26:36.400
+right
+
+0:26:34.799,0:26:38.000
+now something that happens a lot with
+
+0:26:36.400,0:26:40.799
+clones is
+
+0:26:38.000,0:26:41.840
+we don't actually want the original and
+
+0:26:40.799,0:26:44.320
+so the original
+
+0:26:41.840,0:26:45.679
+actually we want to hide it all together
+
+0:26:44.320,0:26:46.799
+so what i'm going to do is i'm going to
+
+0:26:45.679,0:26:49.440
+hide the original
+
+0:26:46.799,0:26:50.799
+you can do this in code if you wanted
+
+0:26:49.440,0:26:52.400
+but actually it's easier you can
+
+0:26:50.799,0:26:56.559
+actually just click on this little like
+
+0:26:52.400,0:26:59.039
+no eyeball button and now it's hidden
+
+0:26:56.559,0:27:00.320
+that worked but now your clone is also
+
+0:26:59.039,0:27:02.799
+hidden so now we've got to show
+
+0:27:00.320,0:27:04.720
+our clone does that make sense so for
+
+0:27:02.799,0:27:05.600
+the when i start as clone i want it to
+
+0:27:04.720,0:27:09.360
+show
+
+0:27:05.600,0:27:10.640
+show is in looks um and i scroll down to
+
+0:27:09.360,0:27:12.880
+show
+
+0:27:10.640,0:27:13.679
+and i'm going to put it after the go to
+
+0:27:12.880,0:27:15.440
+xy
+
+0:27:13.679,0:27:17.120
+i could put it before it wouldn't really
+
+0:27:15.440,0:27:18.240
+matter there's just some chance you'd
+
+0:27:17.120,0:27:20.399
+see it move
+
+0:27:18.240,0:27:22.159
+but i don't think you'd even see it so
+
+0:27:20.399,0:27:25.200
+now if i run it you can see that my
+
+0:27:22.159,0:27:27.200
+uh grass square starts up there
+
+0:27:25.200,0:27:29.440
+so we have successfully created one
+
+0:27:27.200,0:27:30.159
+grass square um if you go up and try to
+
+0:27:29.440,0:27:32.159
+mow it
+
+0:27:30.159,0:27:33.679
+nothing's gonna happen right so like uh
+
+0:27:32.159,0:27:34.240
+it looks like the mower goes under it
+
+0:27:33.679,0:27:36.640
+even
+
+0:27:34.240,0:27:38.080
+um and it's not surprising that nothing
+
+0:27:36.640,0:27:39.360
+happens because we haven't like made
+
+0:27:38.080,0:27:42.640
+anything happen
+
+0:27:39.360,0:27:45.840
+but we've got a cool setup now
+
+0:27:42.640,0:27:47.600
+so now uh let's go back to the backdrop
+
+0:27:45.840,0:27:49.520
+so if we wanted to make another graph
+
+0:27:47.600,0:27:52.960
+square
+
+0:27:49.520,0:27:54.640
+i could um duplicate it you can do this
+
+0:27:52.960,0:27:55.200
+too just to prove that it works uh but
+
+0:27:54.640,0:27:56.399
+we're
+
+0:27:55.200,0:27:58.799
+this is not going to be our final
+
+0:27:56.399,0:28:01.600
+solution we could just march over to the
+
+0:27:58.799,0:28:05.840
+next spot so if it was at
+
+0:28:01.600,0:28:08.880
+negative 210 and we need to move over 60
+
+0:28:05.840,0:28:10.880
+what's 260 sorry
+
+0:28:08.880,0:28:14.000
+what's 60 moved over [ __ ] do you know
+
+0:28:10.880,0:28:16.080
+that one so negative 210
+
+0:28:14.000,0:28:17.760
+we're going to add 60 to it and go over
+
+0:28:16.080,0:28:21.039
+here so it's negative 210
+
+0:28:17.760,0:28:22.480
+plus 60. negative 150 negative 150
+
+0:28:21.039,0:28:25.520
+that's right
+
+0:28:22.480,0:28:29.279
+so i could do this um and it would make
+
+0:28:25.520,0:28:30.960
+two squares now there's a glitch right
+
+0:28:29.279,0:28:32.799
+you're like wait a minute dr fisher you
+
+0:28:30.960,0:28:35.120
+just said that this was gonna work
+
+0:28:32.799,0:28:36.240
+um here's here's the deal this is this
+
+0:28:35.120,0:28:38.880
+is what's called a bug
+
+0:28:36.240,0:28:40.320
+right um it actually is so fast that it
+
+0:28:38.880,0:28:41.760
+makes this one
+
+0:28:40.320,0:28:43.440
+and it says hey start making this and
+
+0:28:41.760,0:28:44.159
+then it starts making this one and they
+
+0:28:43.440,0:28:46.320
+actually both
+
+0:28:44.159,0:28:47.520
+got set to the second coordinate so to
+
+0:28:46.320,0:28:50.080
+fix this bug
+
+0:28:47.520,0:28:51.760
+sometimes that happens we need a very
+
+0:28:50.080,0:28:53.760
+very short time delay
+
+0:28:51.760,0:28:55.919
+after we make a clone so i'm going to go
+
+0:28:53.760,0:28:58.640
+into control
+
+0:28:55.919,0:29:00.480
+i'm going to grab weights and i'm going
+
+0:28:58.640,0:29:04.240
+to make it very very short
+
+0:29:00.480,0:29:07.039
+so i'm going to do like 0.01
+
+0:29:04.240,0:29:08.399
+so very very short delay all right by
+
+0:29:07.039,0:29:09.919
+the way i just went and helped keegan
+
+0:29:08.399,0:29:12.320
+with a problem he had a problem where he
+
+0:29:09.919,0:29:15.600
+was accidentally setting grass x
+
+0:29:12.320,0:29:16.159
+twice instead of x and y code you'll
+
+0:29:15.600,0:29:18.799
+find
+
+0:29:16.159,0:29:19.919
+is very very good at doing what you tell
+
+0:29:18.799,0:29:21.440
+it to do
+
+0:29:19.919,0:29:22.960
+and you have to make sure that you tell
+
+0:29:21.440,0:29:26.640
+it to do the right things right
+
+0:29:22.960,0:29:27.760
+so x y x y so this worked fine
+
+0:29:26.640,0:29:29.120
+by the way you'll notice i didn't
+
+0:29:27.760,0:29:31.279
+actually need to wait at the end because
+
+0:29:29.120,0:29:33.840
+it because it was done
+
+0:29:31.279,0:29:34.960
+all right so now our goal is to make a
+
+0:29:33.840,0:29:37.760
+whole row of them
+
+0:29:34.960,0:29:39.200
+right um and we could obviously keep
+
+0:29:37.760,0:29:40.000
+duplicating this but eventually we would
+
+0:29:39.200,0:29:42.080
+have 48
+
+0:29:40.000,0:29:43.760
+of these things right so we don't really
+
+0:29:42.080,0:29:46.159
+want to do that so what we want to do is
+
+0:29:43.760,0:29:48.240
+we want to make a row
+
+0:29:46.159,0:29:50.080
+because i like to teach you things we're
+
+0:29:48.240,0:29:52.640
+going to also teach you about a function
+
+0:29:50.080,0:29:55.039
+so we're going to make a function which
+
+0:29:52.640,0:29:58.159
+we can call um and we'll just call
+
+0:29:55.039,0:30:00.159
+make a row and it'll just do it so to
+
+0:29:58.159,0:30:03.520
+to make a function it's in scratch it's
+
+0:30:00.159,0:30:07.200
+called a block so go to my blocks
+
+0:30:03.520,0:30:07.200
+click on make a block
+
+0:30:07.279,0:30:12.080
+and we'll make this function um we'll
+
+0:30:10.240,0:30:15.600
+call it plant
+
+0:30:12.080,0:30:16.960
+uh row so just plant row so it's kind of
+
+0:30:15.600,0:30:18.320
+like a verb like plant
+
+0:30:16.960,0:30:21.840
+um and then the thing that you're going
+
+0:30:18.320,0:30:24.320
+to plant is a is a whole row
+
+0:30:21.840,0:30:25.919
+plant row is our function and so our
+
+0:30:24.320,0:30:27.520
+goal is that we're going to use some of
+
+0:30:25.919,0:30:31.039
+this code over here
+
+0:30:27.520,0:30:33.600
+inside of our function to make it work
+
+0:30:31.039,0:30:34.799
+so um let's go ahead and figure out what
+
+0:30:33.600,0:30:35.840
+code needs to go
+
+0:30:34.799,0:30:38.000
+into the function so i kind of
+
+0:30:35.840,0:30:39.440
+disconnected it over here by the way to
+
+0:30:38.000,0:30:41.919
+to call the function
+
+0:30:39.440,0:30:42.720
+you'll just say when the green flag is
+
+0:30:41.919,0:30:46.159
+pressed
+
+0:30:42.720,0:30:48.480
+plant a row so a row is is only about
+
+0:30:46.159,0:30:49.600
+x's right so really what i want to do is
+
+0:30:48.480,0:30:52.559
+i want to put
+
+0:30:49.600,0:30:53.120
+things about x's over here so the the
+
+0:30:52.559,0:30:56.720
+grass
+
+0:30:53.120,0:31:00.480
+x i want to put it over here the grass
+
+0:30:56.720,0:31:01.679
+y however i want to like set before i
+
+0:31:00.480,0:31:04.320
+plant the row so
+
+0:31:01.679,0:31:05.360
+grass y says like what height should i
+
+0:31:04.320,0:31:10.000
+plant this row at
+
+0:31:05.360,0:31:10.000
+so i'm saying at 150 plant a row
+
+0:31:10.080,0:31:14.159
+and so to plant a row what we really
+
+0:31:11.919,0:31:18.559
+want to do is we want to make a loop
+
+0:31:14.159,0:31:20.640
+so loops are in control does anybody
+
+0:31:18.559,0:31:22.159
+remember how many grass squares we have
+
+0:31:20.640,0:31:23.600
+in a single row how many do we put
+
+0:31:22.159,0:31:25.840
+across
+
+0:31:23.600,0:31:27.360
+eight that's right so i'm going to grab
+
+0:31:25.840,0:31:31.440
+a repeat
+
+0:31:27.360,0:31:34.399
+of eight um and what i want to do
+
+0:31:31.440,0:31:36.799
+is i want to create a clone of the grass
+
+0:31:34.399,0:31:39.120
+square
+
+0:31:36.799,0:31:40.640
+and then to fix that little bug i want
+
+0:31:39.120,0:31:43.120
+to wait for a second so
+
+0:31:40.640,0:31:44.320
+i'm going to set the x to the starting
+
+0:31:43.120,0:31:46.559
+value
+
+0:31:44.320,0:31:47.760
+i'm going to plant a grass i'm going to
+
+0:31:46.559,0:31:49.519
+wait this long
+
+0:31:47.760,0:31:51.039
+and then after i plant that grass i'm
+
+0:31:49.519,0:31:52.880
+going to change the x
+
+0:31:51.039,0:31:55.200
+by some amount so i'm going to scoot it
+
+0:31:52.880,0:31:58.880
+over before the next one is planted
+
+0:31:55.200,0:32:00.640
+so go into variables and we want to
+
+0:31:58.880,0:32:03.679
+change
+
+0:32:00.640,0:32:06.240
+the x uh by some amount
+
+0:32:03.679,0:32:06.960
+um any guesses as to what the amount's
+
+0:32:06.240,0:32:11.039
+going to be
+
+0:32:06.960,0:32:11.039
+30. so the first guess is 30.
+
+0:32:11.120,0:32:15.679
+you said 30 so i'm going to try 30 first
+
+0:32:13.760,0:32:17.919
+so if i run it now
+
+0:32:15.679,0:32:20.799
+it planted them only 30 apart yeah so we
+
+0:32:17.919,0:32:23.840
+want we want 60.
+
+0:32:20.799,0:32:26.000
+so this is kind of fun so we can um
+
+0:32:23.840,0:32:29.840
+tell the y where it's at and then we can
+
+0:32:26.000,0:32:31.120
+call plant row now we could
+
+0:32:29.840,0:32:32.720
+this is again i'm just kind of like
+
+0:32:31.120,0:32:33.120
+showing you something you could do we
+
+0:32:32.720,0:32:35.840
+could
+
+0:32:33.120,0:32:37.519
+change the y to a new value and call
+
+0:32:35.840,0:32:39.840
+plant row again
+
+0:32:37.519,0:32:41.640
+so i'm going to bring the y down by 60.
+
+0:32:39.840,0:32:45.760
+so keegan this is your math problem
+
+0:32:41.640,0:32:48.960
+150 minus 60.
+
+0:32:45.760,0:32:51.279
+90. 90. that's right so
+
+0:32:48.960,0:32:53.200
+90. so you can see that right now i'm
+
+0:32:51.279,0:32:55.519
+planting a row at 150
+
+0:32:53.200,0:32:57.679
+and then i'm planting a row at 90. now
+
+0:32:55.519,0:32:58.000
+to be honest this wouldn't be too bad to
+
+0:32:57.679,0:32:59.760
+do
+
+0:32:58.000,0:33:01.840
+there's only six of them coming this
+
+0:32:59.760,0:33:03.440
+wouldn't be too bad to just repeat
+
+0:33:01.840,0:33:05.279
+but we're computer scientists right
+
+0:33:03.440,0:33:08.480
+that's not how computer scientists roll
+
+0:33:05.279,0:33:09.840
+we make loops right um so how many rows
+
+0:33:08.480,0:33:11.840
+are their total anybody want to say what
+
+0:33:09.840,0:33:13.919
+that number is
+
+0:33:11.840,0:33:16.559
+six six yep so we're going to grab a
+
+0:33:13.919,0:33:18.399
+repeat six
+
+0:33:16.559,0:33:20.720
+um and what we're going to do is we're
+
+0:33:18.399,0:33:23.039
+going to plant a row
+
+0:33:20.720,0:33:24.799
+um at a given y so i'll tell you what
+
+0:33:23.039,0:33:27.840
+i'm going to clean up some things here
+
+0:33:24.799,0:33:29.440
+so we're going to set the y to be 150
+
+0:33:27.840,0:33:30.000
+that's where we decided that we'd start
+
+0:33:29.440,0:33:31.919
+at the top
+
+0:33:30.000,0:33:34.000
+if you remember our our math over here
+
+0:33:31.919,0:33:35.600
+that's the first one
+
+0:33:34.000,0:33:37.679
+um and then we're going to plant a row
+
+0:33:35.600,0:33:38.720
+there and then we're going to change the
+
+0:33:37.679,0:33:40.559
+y
+
+0:33:38.720,0:33:41.840
+um and repeat it six times so take a
+
+0:33:40.559,0:33:44.320
+minute
+
+0:33:41.840,0:33:45.600
+um and see if you can finish uh finish
+
+0:33:44.320,0:33:48.320
+the thing that's missing here
+
+0:33:45.600,0:33:49.519
+so we're setting it to 150 and then
+
+0:33:48.320,0:33:51.039
+we're going to repeat something six
+
+0:33:49.519,0:33:53.679
+times we're planting a row
+
+0:33:51.039,0:33:55.679
+but after we plant the first row we want
+
+0:33:53.679,0:33:56.880
+to we want to change the y by some
+
+0:33:55.679,0:33:58.399
+amount
+
+0:33:56.880,0:34:00.000
+see if you can figure out what it is uh
+
+0:33:58.399,0:34:03.200
+play with it and see if you can get the
+
+0:34:00.000,0:34:03.200
+whole field to show up
+
+0:34:03.919,0:34:08.159
+all right so for my campers uh mckinley
+
+0:34:06.399,0:34:09.760
+uh knocked it out and keegan says
+
+0:34:08.159,0:34:11.599
+um there's a lot of code and you're
+
+0:34:09.760,0:34:13.200
+going really fast right um
+
+0:34:11.599,0:34:15.520
+you're maybe somewhere in the middle so
+
+0:34:13.200,0:34:16.879
+the y of 150 plants a row here
+
+0:34:15.520,0:34:19.599
+and what i want to do is i want to go
+
+0:34:16.879,0:34:22.639
+into variables and i then want to after
+
+0:34:19.599,0:34:26.480
+i plant a row i want to change the y
+
+0:34:22.639,0:34:28.960
+um and i want to bring it down uh by 60.
+
+0:34:26.480,0:34:30.639
+now um in the y if we want to come down
+
+0:34:28.960,0:34:32.560
+it's currently 150.
+
+0:34:30.639,0:34:35.119
+we want to come down 60 that's a
+
+0:34:32.560,0:34:36.960
+negative 60.
+
+0:34:35.119,0:34:39.440
+so you can kind of see how i suppose
+
+0:34:36.960,0:34:42.399
+that see if it works with loops
+
+0:34:39.440,0:34:44.079
+you can make your code much shorter than
+
+0:34:42.399,0:34:46.159
+if you had written the whole thing
+
+0:34:44.079,0:34:47.599
+so now you can see that it plants the
+
+0:34:46.159,0:34:50.800
+row by row
+
+0:34:47.599,0:34:52.560
+all the grass squares now it did plant
+
+0:34:50.800,0:34:55.440
+it right on top of my lawn mower
+
+0:34:52.560,0:34:56.879
+uh which i guess is a feature eventually
+
+0:34:55.440,0:34:58.240
+the lawnmower is going to going to cut
+
+0:34:56.879,0:35:00.400
+the grass
+
+0:34:58.240,0:35:02.400
+now one thing that i don't like is see
+
+0:35:00.400,0:35:04.000
+how my lawnmower is like mowing while
+
+0:35:02.400,0:35:06.880
+the grass is being planted
+
+0:35:04.000,0:35:07.839
+i actually don't like that i want the
+
+0:35:06.880,0:35:09.920
+lawnmower
+
+0:35:07.839,0:35:11.839
+to just be hidden while the grass is
+
+0:35:09.920,0:35:13.119
+planted it'll actually make my computer
+
+0:35:11.839,0:35:15.440
+faster too right
+
+0:35:13.119,0:35:17.680
+so here's what i want to do after i
+
+0:35:15.440,0:35:20.400
+finish planting all the grass
+
+0:35:17.680,0:35:22.320
+i want to broadcast an event that says
+
+0:35:20.400,0:35:23.920
+i'm done planting the grass right so
+
+0:35:22.320,0:35:25.599
+this is how one sprite
+
+0:35:23.920,0:35:27.359
+can communicate with another you
+
+0:35:25.599,0:35:28.560
+broadcast an event and a broadcast event
+
+0:35:27.359,0:35:28.960
+it's kind of like screaming a message
+
+0:35:28.560,0:35:31.920
+like
+
+0:35:28.960,0:35:33.599
+i'm done right so real loud so go into
+
+0:35:31.920,0:35:36.320
+events
+
+0:35:33.599,0:35:37.520
+and find where it says broadcast message
+
+0:35:36.320,0:35:39.359
+one
+
+0:35:37.520,0:35:41.359
+and put it down here at the bottom so
+
+0:35:39.359,0:35:42.560
+it's making all the rows and then when
+
+0:35:41.359,0:35:43.200
+it's done it's going to broadcast
+
+0:35:42.560,0:35:44.480
+something
+
+0:35:43.200,0:35:47.040
+right now it's going to broadcast
+
+0:35:44.480,0:35:50.480
+message one that's not a very good name
+
+0:35:47.040,0:35:54.400
+let's let's call it like done
+
+0:35:50.480,0:35:56.240
+planting right so you can
+
+0:35:54.400,0:35:58.560
+write the word done planting any way you
+
+0:35:56.240,0:35:59.920
+want you could say done
+
+0:35:58.560,0:36:03.359
+and planting you could you could say it
+
+0:35:59.920,0:36:06.400
+like that i choose
+
+0:36:03.359,0:36:09.440
+to name my variables my messages
+
+0:36:06.400,0:36:10.400
+my anything using a style that computer
+
+0:36:09.440,0:36:12.480
+programmers use
+
+0:36:10.400,0:36:15.200
+it's what's called camel case and so
+
+0:36:12.480,0:36:17.440
+things start with a lowercase variable
+
+0:36:15.200,0:36:18.800
+and then there's no spaces between words
+
+0:36:17.440,0:36:20.400
+you just use a capital
+
+0:36:18.800,0:36:22.000
+to indicate that a new word started so
+
+0:36:20.400,0:36:23.359
+done planting there's
+
+0:36:22.000,0:36:24.720
+nothing special about that i'm just
+
+0:36:23.359,0:36:26.160
+showing you cool things that computer
+
+0:36:24.720,0:36:29.280
+scientists do right
+
+0:36:26.160,0:36:32.000
+so i broadcast done planting and then
+
+0:36:29.280,0:36:34.079
+over here in the lawn mower
+
+0:36:32.000,0:36:35.920
+you can see that he does a lot of things
+
+0:36:34.079,0:36:37.920
+when the green flag is clicked
+
+0:36:35.920,0:36:39.359
+here's what i'm going to do i'm going to
+
+0:36:37.920,0:36:41.839
+say
+
+0:36:39.359,0:36:43.920
+when i receive done planting so all this
+
+0:36:41.839,0:36:45.599
+stuff
+
+0:36:43.920,0:36:46.960
+can happen when he receives done
+
+0:36:45.599,0:36:50.000
+planting
+
+0:36:46.960,0:36:51.760
+so i can move him over here in fact if i
+
+0:36:50.000,0:36:53.200
+want to i could go a step farther so you
+
+0:36:51.760,0:36:54.400
+could run him now and he'll just kind of
+
+0:36:53.200,0:36:57.040
+be stationary
+
+0:36:54.400,0:36:58.400
+until it's done planting if you wanted
+
+0:36:57.040,0:37:01.200
+to you could go one step farther you
+
+0:36:58.400,0:37:03.280
+could go into looks
+
+0:37:01.200,0:37:05.440
+and you could hide him when the green
+
+0:37:03.280,0:37:08.240
+flag is clicked
+
+0:37:05.440,0:37:09.119
+and then show him only when he's ready
+
+0:37:08.240,0:37:11.520
+to start moving
+
+0:37:09.119,0:37:13.839
+right i personally choose to put the
+
+0:37:11.520,0:37:15.440
+show after his x and y have been set
+
+0:37:13.839,0:37:17.119
+just so there's no chance of like seeing
+
+0:37:15.440,0:37:18.480
+him in two places
+
+0:37:17.119,0:37:21.119
+but now if you run it you can see he's
+
+0:37:18.480,0:37:24.560
+just not there and then he
+
+0:37:21.119,0:37:25.200
+starts moving um once all the grass is
+
+0:37:24.560,0:37:27.280
+done
+
+0:37:25.200,0:37:28.880
+now you can't see him moving because
+
+0:37:27.280,0:37:30.320
+he's underneath my grass
+
+0:37:28.880,0:37:32.240
+i'm kind of surprised that he's
+
+0:37:30.320,0:37:33.839
+underneath my grass but it'll it'll be
+
+0:37:32.240,0:37:36.400
+fine
+
+0:37:33.839,0:37:38.160
+so things are going really really well
+
+0:37:36.400,0:37:40.320
+by the way
+
+0:37:38.160,0:37:43.280
+in coding you should always remember to
+
+0:37:40.320,0:37:44.079
+save but scratch does save automatically
+
+0:37:43.280,0:37:45.839
+for you
+
+0:37:44.079,0:37:47.520
+if you ever want to save though you can
+
+0:37:45.839,0:37:50.960
+click on file
+
+0:37:47.520,0:37:53.839
+save now and it'll save it for you so
+
+0:37:50.960,0:37:54.320
+we're doing great the question is what
+
+0:37:53.839,0:37:57.440
+now
+
+0:37:54.320,0:38:00.160
+right so right now
+
+0:37:57.440,0:38:01.760
+um when the lawnmower goes he's
+
+0:38:00.160,0:38:04.160
+underneath the grass
+
+0:38:01.760,0:38:05.839
+but you can see in the real game when he
+
+0:38:04.160,0:38:08.640
+touches a grass square
+
+0:38:05.839,0:38:10.240
+it should go away so whenever you're
+
+0:38:08.640,0:38:12.240
+coding you have to figure out whose
+
+0:38:10.240,0:38:14.160
+responsibility is that so who's
+
+0:38:12.240,0:38:16.400
+responsible
+
+0:38:14.160,0:38:18.400
+for detecting when the grass is touching
+
+0:38:16.400,0:38:22.079
+the mower
+
+0:38:18.400,0:38:24.560
+oh that scared me who's responsible for
+
+0:38:22.079,0:38:25.280
+detecting uh when the grass is touching
+
+0:38:24.560,0:38:28.480
+the mower
+
+0:38:25.280,0:38:31.200
+and then making it disappear you could
+
+0:38:28.480,0:38:33.520
+put that responsibility on either side
+
+0:38:31.200,0:38:35.520
+but since it's the grass the tiding
+
+0:38:33.520,0:38:36.960
+i'm going to put that responsibility on
+
+0:38:35.520,0:38:40.000
+the grass right
+
+0:38:36.960,0:38:41.760
+so let's go to the grass so right now
+
+0:38:40.000,0:38:43.200
+the grass isn't doing anything the grass
+
+0:38:41.760,0:38:44.720
+just shows up and then it just sits
+
+0:38:43.200,0:38:47.280
+there like this
+
+0:38:44.720,0:38:49.280
+and so really what the grass needs to do
+
+0:38:47.280,0:38:51.200
+is the grass needs to detect
+
+0:38:49.280,0:38:52.480
+if it's touching the mower and if it's
+
+0:38:51.200,0:38:55.359
+touching the mower
+
+0:38:52.480,0:38:55.839
+then it needs to hide right so let's go
+
+0:38:55.359,0:38:59.599
+uh
+
+0:38:55.839,0:39:00.000
+to control one mistake that people do
+
+0:38:59.599,0:39:02.320
+all the
+
+0:39:00.000,0:39:03.599
+time is they stick an if statement
+
+0:39:02.320,0:39:06.320
+straight on the bottom here
+
+0:39:03.599,0:39:07.599
+um that would be pointless um and the
+
+0:39:06.320,0:39:09.280
+reason it would be pointless
+
+0:39:07.599,0:39:11.119
+is because it would literally check it
+
+0:39:09.280,0:39:14.000
+one time when the program runs
+
+0:39:11.119,0:39:15.359
+and then never again we want to forever
+
+0:39:14.000,0:39:17.440
+check for that so i'm going to grab a
+
+0:39:15.359,0:39:18.640
+forever loop first
+
+0:39:17.440,0:39:20.079
+and then i'm going to put an if
+
+0:39:18.640,0:39:21.359
+statement inside of that so i want to
+
+0:39:20.079,0:39:24.480
+forever
+
+0:39:21.359,0:39:25.920
+check if i'm touching the mower
+
+0:39:24.480,0:39:27.760
+and if i am touching the mower then i
+
+0:39:25.920,0:39:29.839
+want to do stuff right
+
+0:39:27.760,0:39:31.760
+and so how do i detect if i'm touching
+
+0:39:29.839,0:39:34.800
+the mower it's one of these conditions
+
+0:39:31.760,0:39:35.760
+it's in sensing and the one that you
+
+0:39:34.800,0:39:37.760
+want is actually
+
+0:39:35.760,0:39:40.400
+touching mouse pointer which is kind of
+
+0:39:37.760,0:39:42.640
+crazy but it's got a drop down arrow
+
+0:39:40.400,0:39:44.800
+and so we want to say if i'm touching
+
+0:39:42.640,0:39:48.240
+the robot mower
+
+0:39:44.800,0:39:50.160
+so now the grass it's his responsibility
+
+0:39:48.240,0:39:51.599
+to check if he's touching the robot
+
+0:39:50.160,0:39:54.800
+mower if he
+
+0:39:51.599,0:39:57.119
+is touching the robot mower we want to
+
+0:39:54.800,0:39:58.960
+score point basically so that we can
+
+0:39:57.119,0:40:01.520
+keep track of how much has been mowed
+
+0:39:58.960,0:40:02.800
+and we also want to go away so those are
+
+0:40:01.520,0:40:05.839
+the two things we want to do
+
+0:40:02.800,0:40:07.200
+let's go ahead and score a point first
+
+0:40:05.839,0:40:10.400
+so to score a point we're going to need
+
+0:40:07.200,0:40:13.920
+a variable so i clicked on variables
+
+0:40:10.400,0:40:16.079
+make a variable and so you can name this
+
+0:40:13.920,0:40:19.280
+variable whatever you want
+
+0:40:16.079,0:40:22.319
+um i'm going to call mine grass cuts
+
+0:40:19.280,0:40:24.319
+you could call it num grass cut
+
+0:40:22.319,0:40:26.640
+whatever whatever you want to do this
+
+0:40:24.319,0:40:27.839
+variable you'll notice that i chose to
+
+0:40:26.640,0:40:30.079
+name differently
+
+0:40:27.839,0:40:31.520
+and that's because it will be visible uh
+
+0:40:30.079,0:40:34.079
+like like on my screen
+
+0:40:31.520,0:40:36.079
+so if it is visible uh then i try to
+
+0:40:34.079,0:40:37.520
+make it like human readable right so num
+
+0:40:36.079,0:40:40.240
+grass cut
+
+0:40:37.520,0:40:42.079
+so it's going to show up up here i could
+
+0:40:40.240,0:40:44.720
+hide it if i wanted but actually for now
+
+0:40:42.079,0:40:46.000
+i'm going to make it visible
+
+0:40:44.720,0:40:47.359
+all right so whenever you make a
+
+0:40:46.000,0:40:48.079
+variable there's a couple things you
+
+0:40:47.359,0:40:51.599
+have to do
+
+0:40:48.079,0:40:52.640
+you have to create it so i've created it
+
+0:40:51.599,0:40:55.119
+here
+
+0:40:52.640,0:40:57.520
+you have to set it to zero somewhere or
+
+0:40:55.119,0:41:00.160
+set it to some initial value somewhere
+
+0:40:57.520,0:41:01.119
+and then you also have to increment it
+
+0:41:00.160,0:41:02.400
+really quick
+
+0:41:01.119,0:41:04.720
+i'm going to come back to this code i'm
+
+0:41:02.400,0:41:09.119
+going to go into the backdrop
+
+0:41:04.720,0:41:13.280
+and i'm going to grab a set
+
+0:41:09.119,0:41:15.200
+num grass cuts to zero over here now
+
+0:41:13.280,0:41:17.040
+i could have reset this variable in a
+
+0:41:15.200,0:41:18.560
+couple of different places um i chose to
+
+0:41:17.040,0:41:21.599
+do it over on the stage so
+
+0:41:18.560,0:41:23.119
+i start off saying num grass cuts zero
+
+0:41:21.599,0:41:25.200
+uh on on the stage i think that makes
+
+0:41:23.119,0:41:26.240
+the most sense and then we've got to
+
+0:41:25.200,0:41:28.319
+increment it
+
+0:41:26.240,0:41:29.760
+so now i hop back over you can see i hop
+
+0:41:28.319,0:41:32.839
+between code all the time
+
+0:41:29.760,0:41:34.480
+hop back over to my graphs and i'm gonna
+
+0:41:32.839,0:41:37.599
+change
+
+0:41:34.480,0:41:38.560
+numb grass cut by one and so it's going
+
+0:41:37.599,0:41:40.880
+to increment
+
+0:41:38.560,0:41:42.000
+how much grass i cut the other thing i
+
+0:41:40.880,0:41:45.359
+want to do is i want to
+
+0:41:42.000,0:41:46.560
+hide this piece of grass
+
+0:41:45.359,0:41:49.040
+what i'm going to actually do instead of
+
+0:41:46.560,0:41:52.240
+just hiding it i'm going to delete it
+
+0:41:49.040,0:41:55.839
+go into control and find
+
+0:41:52.240,0:41:57.760
+delete this clone so you can see that
+
+0:41:55.839,0:41:59.760
+when i start as clone
+
+0:41:57.760,0:42:01.040
+i do all these things and if i touch the
+
+0:41:59.760,0:42:03.920
+lawnmower
+
+0:42:01.040,0:42:05.599
+then i delete myself so now for the
+
+0:42:03.920,0:42:06.720
+first time ever we should be deleting
+
+0:42:05.599,0:42:09.200
+grass right
+
+0:42:06.720,0:42:10.480
+so if i hit the green flag i can now
+
+0:42:09.200,0:42:13.680
+like mow the lawn
+
+0:42:10.480,0:42:16.240
+which is cool things are going
+
+0:42:13.680,0:42:17.119
+really really well so the next thing i
+
+0:42:16.240,0:42:20.079
+want to do
+
+0:42:17.119,0:42:22.800
+is i want to change the background image
+
+0:42:20.079,0:42:25.359
+so you can see that right now i'm mowing
+
+0:42:22.800,0:42:26.079
+and my user is not at all surprised or
+
+0:42:25.359,0:42:27.680
+delighted
+
+0:42:26.079,0:42:29.200
+because the background image is just
+
+0:42:27.680,0:42:31.440
+always this grid right
+
+0:42:29.200,0:42:32.880
+if i run it again it's still just the
+
+0:42:31.440,0:42:34.880
+grid
+
+0:42:32.880,0:42:36.240
+also you'll notice that nothing happens
+
+0:42:34.880,0:42:38.640
+when the game wins it was playing that
+
+0:42:36.240,0:42:42.000
+super loud sound for me earlier
+
+0:42:38.640,0:42:45.280
+so we want to create some backdrops
+
+0:42:42.000,0:42:46.800
+that will surprise and delight our user
+
+0:42:45.280,0:42:48.560
+so here's what we want to do go into
+
+0:42:46.800,0:42:49.760
+backdrops
+
+0:42:48.560,0:42:51.680
+the first thing i want to do is i want
+
+0:42:49.760,0:42:53.599
+to create a few different backdrops so
+
+0:42:51.680,0:42:55.839
+go into backdrops
+
+0:42:53.599,0:42:57.680
+you can see that right now there's one
+
+0:42:55.839,0:42:58.400
+it's called lawnmower connecting with
+
+0:42:57.680,0:42:59.920
+code
+
+0:42:58.400,0:43:02.079
+so this is one of the things that we
+
+0:42:59.920,0:43:04.480
+might put in there's the secret backdrop
+
+0:43:02.079,0:43:05.839
+but we can put more on here as well so
+
+0:43:04.480,0:43:07.680
+do this for me
+
+0:43:05.839,0:43:11.440
+in the lower left where it says choose
+
+0:43:07.680,0:43:14.480
+backdrop just click on this circle
+
+0:43:11.440,0:43:17.839
+um and you can put in any backdrop
+
+0:43:14.480,0:43:20.000
+that you'd like so i'll put on hearts
+
+0:43:17.839,0:43:21.280
+uh you could choose to put a message in
+
+0:43:20.000,0:43:24.640
+this heart
+
+0:43:21.280,0:43:26.720
+so you could say love you mom
+
+0:43:24.640,0:43:28.640
+or dad we don't have to be specific
+
+0:43:26.720,0:43:30.319
+about about one or the other
+
+0:43:28.640,0:43:31.839
+um we haven't talked to you about
+
+0:43:30.319,0:43:33.280
+drawing yet but i think
+
+0:43:31.839,0:43:35.839
+that it's fun to just try to figure
+
+0:43:33.280,0:43:38.240
+things out um so so there's one
+
+0:43:35.839,0:43:40.160
+that one says love you mom i'm gonna
+
+0:43:38.240,0:43:43.520
+make another one
+
+0:43:40.160,0:43:43.520
+maybe i'll make a jungle
+
+0:43:43.599,0:43:46.880
+you could put things on here if you
+
+0:43:45.040,0:43:48.240
+wanted you could put text on here so
+
+0:43:46.880,0:43:51.599
+this one i'm going to say
+
+0:43:48.240,0:43:51.599
+welcome to the jungle
+
+0:43:52.800,0:43:56.960
+by the way you can do things like
+
+0:43:54.359,0:43:58.880
+resizing uh you can play with different
+
+0:43:56.960,0:44:01.599
+colors on things
+
+0:43:58.880,0:44:02.160
+you could do uh whatever you wanted um
+
+0:44:01.599,0:44:04.640
+i'm
+
+0:44:02.160,0:44:05.920
+not planning in this lecture to help you
+
+0:44:04.640,0:44:08.800
+make cool backgrounds
+
+0:44:05.920,0:44:10.400
+because i just want you to play right
+
+0:44:08.800,0:44:10.960
+and so pick whatever you think would be
+
+0:44:10.400,0:44:14.720
+a back
+
+0:44:10.960,0:44:18.240
+uh ground that's fun uh maybe you'll
+
+0:44:14.720,0:44:21.440
+give a message like can
+
+0:44:18.240,0:44:22.880
+we get into the pool so you could say
+
+0:44:21.440,0:44:25.040
+hey mom play this game
+
+0:44:22.880,0:44:27.200
+or hey dad play this game and then it
+
+0:44:25.040,0:44:28.480
+would expose this question of uh can we
+
+0:44:27.200,0:44:30.079
+get into the pool
+
+0:44:28.480,0:44:31.520
+so you can see that right now i have
+
+0:44:30.079,0:44:33.760
+four possible
+
+0:44:31.520,0:44:35.440
+hidden backdrops i could keep making
+
+0:44:33.760,0:44:37.359
+more
+
+0:44:35.440,0:44:39.040
+they don't have to be customized right
+
+0:44:37.359,0:44:40.400
+so i could just like put on one of these
+
+0:44:39.040,0:44:43.680
+images
+
+0:44:40.400,0:44:45.839
+if you know how to do it you can also
+
+0:44:43.680,0:44:47.040
+get things from the internet again not
+
+0:44:45.839,0:44:48.480
+going to show you this today
+
+0:44:47.040,0:44:49.839
+and then you could upload that image
+
+0:44:48.480,0:44:51.040
+here so you can put like a picture of
+
+0:44:49.839,0:44:54.319
+yourself on there
+
+0:44:51.040,0:44:54.800
+that'd be kind of fun to do and make as
+
+0:44:54.319,0:44:58.640
+many
+
+0:44:54.800,0:45:01.920
+uh as you want i currently have uh
+
+0:44:58.640,0:45:02.800
+two through seven as options so i think
+
+0:45:01.920,0:45:04.560
+that that's
+
+0:45:02.800,0:45:06.560
+enough for me so i'm gonna give my
+
+0:45:04.560,0:45:08.560
+campers just a minute to make a few more
+
+0:45:06.560,0:45:09.839
+uh and then we're gonna move forwards uh
+
+0:45:08.560,0:45:11.920
+with the code
+
+0:45:09.839,0:45:13.440
+all right so my campers went in uh and
+
+0:45:11.920,0:45:15.520
+they added a bunch of uh
+
+0:45:13.440,0:45:17.119
+grids uh let's look at the solution real
+
+0:45:15.520,0:45:17.680
+quick to review how this is gonna work
+
+0:45:17.119,0:45:20.480
+so
+
+0:45:17.680,0:45:21.920
+while you're drawing the the grid um
+
+0:45:20.480,0:45:25.200
+it's some backdrop
+
+0:45:21.920,0:45:27.440
+and then as soon as the grid is done
+
+0:45:25.200,0:45:28.880
+it switches to some secret backdrop
+
+0:45:27.440,0:45:29.680
+right so it's while you're drawing it's
+
+0:45:28.880,0:45:31.599
+a grid
+
+0:45:29.680,0:45:33.040
+and then it changed to some secret this
+
+0:45:31.599,0:45:35.839
+one always confuses me
+
+0:45:33.040,0:45:38.079
+and so that's our goal so let's go into
+
+0:45:35.839,0:45:41.760
+our code on our backdrop
+
+0:45:38.079,0:45:43.440
+so backdrop code so when the green flag
+
+0:45:41.760,0:45:44.079
+is clicked i want to start off on the
+
+0:45:43.440,0:45:47.040
+grid
+
+0:45:44.079,0:45:48.000
+so i'm going to go to looks i'm going to
+
+0:45:47.040,0:45:51.680
+put in a
+
+0:45:48.000,0:45:53.359
+switch backdrop to xy grid
+
+0:45:51.680,0:45:55.119
+so that's kind of like my first my first
+
+0:45:53.359,0:45:56.880
+grid
+
+0:45:55.119,0:45:58.319
+um and so right now if i run it you can
+
+0:45:56.880,0:46:00.000
+see it switches to that grid but it's
+
+0:45:58.319,0:46:02.400
+going to stay as that grid
+
+0:46:00.000,0:46:03.119
+based on the code that i have right now
+
+0:46:02.400,0:46:06.079
+so let's
+
+0:46:03.119,0:46:07.200
+after it's done drawing let's switch it
+
+0:46:06.079,0:46:08.880
+right
+
+0:46:07.200,0:46:10.480
+and so the the moment when it's done
+
+0:46:08.880,0:46:14.400
+drawing the grid is down here
+
+0:46:10.480,0:46:17.200
+so just before um
+
+0:46:14.400,0:46:19.119
+oops uh let's grab it right there just
+
+0:46:17.200,0:46:20.880
+before we broadcast this event
+
+0:46:19.119,0:46:22.640
+let's switch the backdrop to something
+
+0:46:20.880,0:46:25.599
+different now we could
+
+0:46:22.640,0:46:27.119
+uh hard code that but then that wouldn't
+
+0:46:25.599,0:46:28.560
+be random right so we could say like
+
+0:46:27.119,0:46:31.119
+switch to hearts
+
+0:46:28.560,0:46:32.480
+but now every time you play the game um
+
+0:46:31.119,0:46:34.720
+it's going to switch it to
+
+0:46:32.480,0:46:36.000
+uh to your heart right so we want to
+
+0:46:34.720,0:46:38.000
+randomly pick
+
+0:46:36.000,0:46:40.240
+that background and so that's where
+
+0:46:38.000,0:46:43.440
+operators come in
+
+0:46:40.240,0:46:47.359
+and so we want um n operators pick
+
+0:46:43.440,0:46:49.359
+random now one nice thing about costumes
+
+0:46:47.359,0:46:50.560
+is you can refer to them by name so this
+
+0:46:49.359,0:46:53.440
+one was called hearts
+
+0:46:50.560,0:46:54.000
+uh this one's called xy grid or number
+
+0:46:53.440,0:46:56.240
+right
+
+0:46:54.000,0:46:57.680
+so i could also say switch to number one
+
+0:46:56.240,0:46:59.680
+and that would be the xy grid
+
+0:46:57.680,0:47:00.960
+or number two so what i want to do is i
+
+0:46:59.680,0:47:03.599
+want to decide how many
+
+0:47:00.960,0:47:05.040
+random things do i have so for me uh my
+
+0:47:03.599,0:47:07.680
+first value is a two
+
+0:47:05.040,0:47:08.240
+so i want to pick a number between two
+
+0:47:07.680,0:47:10.079
+um
+
+0:47:08.240,0:47:11.520
+and then for me it looks like i've got a
+
+0:47:10.079,0:47:14.319
+seven in here as well
+
+0:47:11.520,0:47:15.839
+so pick something between two uh and
+
+0:47:14.319,0:47:18.079
+seven
+
+0:47:15.839,0:47:18.880
+so it'll always be the xy grid while
+
+0:47:18.079,0:47:20.480
+it's drawing
+
+0:47:18.880,0:47:22.559
+so i it's always the expert grid while
+
+0:47:20.480,0:47:24.880
+it's drawing but then after that
+
+0:47:22.559,0:47:26.640
+uh it's random it's random number
+
+0:47:24.880,0:47:28.079
+generator is not amazing
+
+0:47:26.640,0:47:30.640
+you might see the same thing a couple
+
+0:47:28.079,0:47:33.359
+times uh but right now it's the heart
+
+0:47:30.640,0:47:34.319
+and then if i run it again this time it
+
+0:47:33.359,0:47:36.160
+looks like it's
+
+0:47:34.319,0:47:38.079
+the jungle right so it says welcome to
+
+0:47:36.160,0:47:40.880
+the jungle so it's kind of a neat little
+
+0:47:38.079,0:47:41.520
+uh reveal game by the way when you stop
+
+0:47:40.880,0:47:43.599
+the game
+
+0:47:41.520,0:47:44.880
+uh if you stop it manually it will just
+
+0:47:43.599,0:47:47.520
+show you the rest of the board
+
+0:47:44.880,0:47:48.960
+i consider that a feature right so um
+
+0:47:47.520,0:47:50.960
+not not worried about it
+
+0:47:48.960,0:47:53.359
+but that is how the game works so every
+
+0:47:50.960,0:47:56.000
+time it's different
+
+0:47:53.359,0:47:57.119
+now last feature that we'd like to add
+
+0:47:56.000,0:47:59.440
+is when you finish
+
+0:47:57.119,0:48:00.160
+mowing the lawn i feel like something
+
+0:47:59.440,0:48:02.559
+should happen
+
+0:48:00.160,0:48:04.240
+right so like i finished uh getting the
+
+0:48:02.559,0:48:06.240
+last square
+
+0:48:04.240,0:48:08.000
+but right now in our game nothing will
+
+0:48:06.240,0:48:11.280
+happen right so we hit
+
+0:48:08.000,0:48:13.119
+num grass cut 48 um but nothing
+
+0:48:11.280,0:48:14.480
+nothing happened um and as you might
+
+0:48:13.119,0:48:15.760
+recall from the solution it plays that
+
+0:48:14.480,0:48:16.720
+really loud scary sound you guys
+
+0:48:15.760,0:48:19.599
+remember that
+
+0:48:16.720,0:48:20.960
+yes so let's let's add code this will be
+
+0:48:19.599,0:48:23.119
+our last feature
+
+0:48:20.960,0:48:25.119
+that does something when the number of
+
+0:48:23.119,0:48:27.359
+grass cut is equal to 48.
+
+0:48:25.119,0:48:29.280
+so somebody has to be responsible for
+
+0:48:27.359,0:48:29.839
+this right who's going to be checking uh
+
+0:48:29.280,0:48:32.000
+if the num
+
+0:48:29.839,0:48:33.760
+grass cut is equal to 48 we could put it
+
+0:48:32.000,0:48:35.680
+in a number of places
+
+0:48:33.760,0:48:37.839
+we could let the grass check for it that
+
+0:48:35.680,0:48:40.559
+seems a little strange
+
+0:48:37.839,0:48:42.000
+we could let the background check for it
+
+0:48:40.559,0:48:43.760
+that would that would be okay
+
+0:48:42.000,0:48:45.839
+the only thing about the backdrop is it
+
+0:48:43.760,0:48:48.079
+doesn't have a forever loop right so
+
+0:48:45.839,0:48:49.520
+we'd have to make one so what i'm going
+
+0:48:48.079,0:48:53.280
+to do is i'm going to have the
+
+0:48:49.520,0:48:55.520
+robot mower check for it just because
+
+0:48:53.280,0:48:56.319
+he's got a forever loop he's always
+
+0:48:55.520,0:48:58.240
+present
+
+0:48:56.319,0:48:59.839
+so i'm going to go into the robot mower
+
+0:48:58.240,0:49:03.440
+and he's going to be the one
+
+0:48:59.839,0:49:06.480
+that checks for game over a check
+
+0:49:03.440,0:49:07.040
+is a control if statement so go ahead
+
+0:49:06.480,0:49:10.400
+and grab
+
+0:49:07.040,0:49:13.839
+an if statement here and so
+
+0:49:10.400,0:49:15.760
+if some condition is true then
+
+0:49:13.839,0:49:18.480
+run this code in here normally our
+
+0:49:15.760,0:49:19.760
+conditions have been sensing conditions
+
+0:49:18.480,0:49:21.119
+but this time we're going to do
+
+0:49:19.760,0:49:23.280
+something different we're going to go
+
+0:49:21.119,0:49:24.960
+into operators
+
+0:49:23.280,0:49:26.800
+and we're going to find the equals
+
+0:49:24.960,0:49:28.880
+operator
+
+0:49:26.800,0:49:30.079
+and so we're going to say if the thing
+
+0:49:28.880,0:49:32.000
+on the left is equal to
+
+0:49:30.079,0:49:34.079
+the thing on the right then run this
+
+0:49:32.000,0:49:35.119
+code and so one of them should be the
+
+0:49:34.079,0:49:38.160
+variable
+
+0:49:35.119,0:49:40.000
+num grass cut and then the other should
+
+0:49:38.160,0:49:42.720
+be the number 48
+
+0:49:40.000,0:49:43.359
+so 48 is the special number which means
+
+0:49:42.720,0:49:46.400
+you've cut
+
+0:49:43.359,0:49:49.839
+all the grass so when that happens
+
+0:49:46.400,0:49:51.200
+we want to play a sound if you go into
+
+0:49:49.839,0:49:52.960
+the sounds tab
+
+0:49:51.200,0:49:54.640
+you can see that the lawnmower right now
+
+0:49:52.960,0:49:55.920
+apparently he doesn't have any sounds
+
+0:49:54.640,0:49:58.160
+that he knows how to play
+
+0:49:55.920,0:50:00.079
+so let's pick a sound that we want him
+
+0:49:58.160,0:50:02.960
+to play so to pick a sound i'm going to
+
+0:50:00.079,0:50:05.359
+click on choose a sound down here
+
+0:50:02.960,0:50:06.000
+and the one that i played in the
+
+0:50:05.359,0:50:09.119
+solution
+
+0:50:06.000,0:50:10.960
+is ta-da so i'm going to pick ta-da
+
+0:50:09.119,0:50:12.640
+again if you would like to pick a
+
+0:50:10.960,0:50:13.920
+different sound you just kind of hover
+
+0:50:12.640,0:50:16.400
+over it
+
+0:50:13.920,0:50:17.119
+and it'll play it for you and you can
+
+0:50:16.400,0:50:19.359
+listen to
+
+0:50:17.119,0:50:20.880
+uh to the different sounds but i think
+
+0:50:19.359,0:50:23.119
+ta-da is a pretty good one if i hover
+
+0:50:20.880,0:50:25.920
+over it
+
+0:50:23.119,0:50:27.520
+you can see it's this nice loud ta-da so
+
+0:50:25.920,0:50:30.400
+once you've found the one you want
+
+0:50:27.520,0:50:31.119
+uh just click in the middle of it and
+
+0:50:30.400,0:50:34.160
+it'll
+
+0:50:31.119,0:50:37.359
+add it to this sprite sound library
+
+0:50:34.160,0:50:40.160
+so now this sprite is capable of playing
+
+0:50:37.359,0:50:41.040
+the ta-da sound now we've got to do it
+
+0:50:40.160,0:50:46.240
+in code right
+
+0:50:41.040,0:50:49.520
+so go into code go into sound
+
+0:50:46.240,0:50:52.880
+and uh find where it says play
+
+0:50:49.520,0:50:55.280
+sound ta-dah until done
+
+0:50:52.880,0:50:56.400
+so i'm going to play sound ta-dah until
+
+0:50:55.280,0:50:59.440
+done
+
+0:50:56.400,0:51:01.359
+now after i play the sound i want to
+
+0:50:59.440,0:51:02.960
+finish the game right so the game's
+
+0:51:01.359,0:51:04.240
+going to be over so i'm going to go to
+
+0:51:02.960,0:51:07.680
+control
+
+0:51:04.240,0:51:12.079
+and i'm going to grab a stop all
+
+0:51:07.680,0:51:14.240
+so this is going to play a sound
+
+0:51:12.079,0:51:16.240
+really loud and then it's going to shut
+
+0:51:14.240,0:51:18.160
+the game down so the game is over at
+
+0:51:16.240,0:51:19.520
+that point
+
+0:51:18.160,0:51:21.440
+i think i'm going to run it and see if
+
+0:51:19.520,0:51:23.599
+it works if it does work
+
+0:51:21.440,0:51:24.480
+then i'm gonna call myself pretty happy
+
+0:51:23.599,0:51:27.040
+about it
+
+0:51:24.480,0:51:27.520
+so uh to test it i kind of have to just
+
+0:51:27.040,0:51:30.880
+do
+
+0:51:27.520,0:51:32.400
+all the mowing so i'm gonna mo mo mo
+
+0:51:30.880,0:51:34.240
+by the way it's your game if you wanna
+
+0:51:32.400,0:51:35.520
+speed up the mower a lot of people like
+
+0:51:34.240,0:51:36.720
+to do that feel free
+
+0:51:35.520,0:51:40.559
+to go ahead so all right let's talk
+
+0:51:36.720,0:51:40.559
+about 44 and get the last bit
+
+0:51:41.280,0:51:45.040
+that was some seriously loud to dying uh
+
+0:51:44.079,0:51:47.839
+totally worked
+
+0:51:45.040,0:51:49.280
+so it says ta-da and then the game
+
+0:51:47.839,0:51:52.160
+finished
+
+0:51:49.280,0:51:54.880
+my game is done what i like to do is my
+
+0:51:52.160,0:51:56.400
+last step is i like to share it publicly
+
+0:51:54.880,0:51:59.119
+so i'm going to click on this share
+
+0:51:56.400,0:51:59.839
+button up here you'll only get a share
+
+0:51:59.119,0:52:02.000
+button
+
+0:51:59.839,0:52:03.839
+if you have created an account and
+
+0:52:02.000,0:52:06.880
+validated an email address
+
+0:52:03.839,0:52:08.240
+but i like to do that and then right now
+
+0:52:06.880,0:52:10.079
+in the instructions it says use the
+
+0:52:08.240,0:52:11.359
+arrow keys to mow the lawn
+
+0:52:10.079,0:52:13.119
+i think that those are lovely
+
+0:52:11.359,0:52:14.960
+instructions that must have come from
+
+0:52:13.119,0:52:17.040
+the remix
+
+0:52:14.960,0:52:18.160
+and what i love to do is that this url
+
+0:52:17.040,0:52:20.319
+now
+
+0:52:18.160,0:52:21.359
+is something that you could share with
+
+0:52:20.319,0:52:22.640
+friends and family
+
+0:52:21.359,0:52:24.800
+so you can share this with whoever you
+
+0:52:22.640,0:52:26.160
+want so you just copy this url and send
+
+0:52:24.800,0:52:27.680
+an email to grandma
+
+0:52:26.160,0:52:29.599
+and say check out the cool game that i
+
+0:52:27.680,0:52:31.440
+made alright so
+
+0:52:29.599,0:52:33.440
+i've got a few closing remarks i want to
+
+0:52:31.440,0:52:34.319
+make but actually i want to see how my
+
+0:52:33.440,0:52:36.480
+campers
+
+0:52:34.319,0:52:38.559
+are doing first so we're going to go see
+
+0:52:36.480,0:52:40.800
+how mckinley and keegan did
+
+0:52:38.559,0:52:42.400
+and we're going to check out their games
+
+0:52:40.800,0:52:44.400
+and see how they came out
+
+0:52:42.400,0:52:46.160
+all right keegan let's go ahead and see
+
+0:52:44.400,0:52:48.880
+a demo of yours
+
+0:52:46.160,0:52:50.400
+so it looks like you've got um the lawn
+
+0:52:48.880,0:52:52.559
+set up which is great
+
+0:52:50.400,0:52:53.920
+yeah the only real area for creativity
+
+0:52:52.559,0:52:56.160
+in this game
+
+0:52:53.920,0:52:58.000
+is what is the like hidden thing behind
+
+0:52:56.160,0:52:59.760
+it some games will have an opportunity
+
+0:52:58.000,0:53:01.760
+for a lot of creativity
+
+0:52:59.760,0:53:03.599
+but this one uh is really just the the
+
+0:53:01.760,0:53:05.359
+background image so looks like keegan
+
+0:53:03.599,0:53:06.559
+has a secret passage as one of his
+
+0:53:05.359,0:53:08.640
+background images
+
+0:53:06.559,0:53:09.760
+i'm sure he's got quite a few let's go
+
+0:53:08.640,0:53:14.800
+and have him finish
+
+0:53:09.760,0:53:16.400
+just so we can hear his sound lovely
+
+0:53:14.800,0:53:17.760
+um great i'm going to click play again
+
+0:53:16.400,0:53:19.119
+just so we can see that switches to a
+
+0:53:17.760,0:53:20.480
+different image and then we'll let [ __ ]
+
+0:53:19.119,0:53:22.559
+go
+
+0:53:20.480,0:53:23.760
+uh so he's got some other image looks
+
+0:53:22.559,0:53:25.040
+like that was the connecting with code
+
+0:53:23.760,0:53:29.839
+one great
+
+0:53:25.040,0:53:29.839
+all right mckinley
+
+0:53:30.720,0:53:36.160
+i don't know why i did that
+
+0:53:34.240,0:53:37.520
+so a bug in there that i'm sure that
+
+0:53:36.160,0:53:40.480
+we'll be able to fix
+
+0:53:37.520,0:53:41.040
+um but it looks like she has a
+
+0:53:40.480,0:53:43.440
+functional
+
+0:53:41.040,0:53:45.200
+lawnmower game um it looks like she's
+
+0:53:43.440,0:53:46.960
+got a lot of fun background image
+
+0:53:45.200,0:53:48.000
+it looks like she made one wow very
+
+0:53:46.960,0:53:48.880
+complex did you make that yourself
+
+0:53:48.000,0:53:52.400
+mckinley
+
+0:53:48.880,0:53:54.559
+it was on a different game i made
+
+0:53:52.400,0:53:56.640
+she used the kaleidoscope version to
+
+0:53:54.559,0:53:58.559
+make that for herself great
+
+0:53:56.640,0:54:00.079
+uh great you guys have fun oh there's
+
+0:53:58.559,0:54:02.079
+your kaleidoscope program where you make
+
+0:54:00.079,0:54:03.440
+backgrounds
+
+0:54:02.079,0:54:05.119
+do you guys have fun with the lawnmower
+
+0:54:03.440,0:54:07.280
+game today yes
+
+0:54:05.119,0:54:08.960
+is the uh challenge of the games this
+
+0:54:07.280,0:54:11.839
+week quite a bit higher than it was last
+
+0:54:08.960,0:54:11.839
+week
+
+0:54:12.079,0:54:16.559
+all right so uh we hope that you had fun
+
+0:54:14.000,0:54:18.079
+today uh the real goal is that you learn
+
+0:54:16.559,0:54:20.400
+that that coding is fun
+
+0:54:18.079,0:54:22.720
+and that you can do this you can see how
+
+0:54:20.400,0:54:23.440
+we used a lot of math skills math and
+
+0:54:22.720,0:54:25.839
+code
+
+0:54:23.440,0:54:27.599
+man they go hand in hand right we
+
+0:54:25.839,0:54:29.040
+learned about doing things in sequence
+
+0:54:27.599,0:54:30.720
+we learned about how different sprites
+
+0:54:29.040,0:54:32.160
+have their own code
+
+0:54:30.720,0:54:34.319
+and we also learned one of the best
+
+0:54:32.160,0:54:36.960
+tricks is that you can have one sprite
+
+0:54:34.319,0:54:38.720
+with many many clones of it so it was a
+
+0:54:36.960,0:54:40.240
+huge first day
+
+0:54:38.720,0:54:41.599
+i chose to put a big one right off the
+
+0:54:40.240,0:54:42.799
+go because this week is going to be a
+
+0:54:41.599,0:54:44.240
+little bigger right
+
+0:54:42.799,0:54:46.160
+when you watch these videos it might
+
+0:54:44.240,0:54:47.040
+take you a few settings to try to get
+
+0:54:46.160,0:54:50.240
+through them
+
+0:54:47.040,0:54:52.640
+but my hope is that you learn a lot
+
+0:54:50.240,0:54:54.720
+and you uh will be able to apply these
+
+0:54:52.640,0:54:55.440
+skills uh to your own scratch games one
+
+0:54:54.720,0:54:57.280
+day
+
+0:54:55.440,0:54:59.040
+uh we hope you enjoyed being with us uh
+
+0:54:57.280,0:55:01.520
+we've got a lot of additional fun
+
+0:54:59.040,0:55:03.040
+uh ins set for you for the rest of the
+
+0:55:01.520,0:55:04.839
+week uh and we can't wait to see you
+
+0:55:03.040,0:55:07.660
+then
+
+0:55:04.839,0:55:10.739
+bye
+
+0:55:07.660,0:55:10.739
+[Music]
+

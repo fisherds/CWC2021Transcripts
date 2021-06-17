@@ -1,0 +1,4167 @@
+0:00:00.390,0:00:06.160
+[Music]
+
+0:00:04.560,0:00:09.280
+hey hey welcome back uh
+
+0:00:06.160,0:00:10.400
+it's day two of our advanced uh game
+
+0:00:09.280,0:00:12.160
+design camp
+
+0:00:10.400,0:00:13.840
+uh excited to have you back a lot of
+
+0:00:12.160,0:00:16.320
+people fall off after the first day so
+
+0:00:13.840,0:00:17.199
+we're excited to have you back so today
+
+0:00:16.320,0:00:19.119
+what we're going to do is we're going to
+
+0:00:17.199,0:00:21.680
+make a game called dino jump
+
+0:00:19.119,0:00:23.760
+it's kind of themed after um there's a
+
+0:00:21.680,0:00:25.519
+game called the no internet game
+
+0:00:23.760,0:00:27.519
+it's like in chrome if you don't have
+
+0:00:25.519,0:00:28.480
+internet there's like a dinosaur there i
+
+0:00:27.519,0:00:30.640
+don't know if you've ever discovered
+
+0:00:28.480,0:00:32.320
+this it's like this secret in chrome
+
+0:00:30.640,0:00:34.160
+and you can jump over cactus and things
+
+0:00:32.320,0:00:35.760
+like that so this game is kind of themed
+
+0:00:34.160,0:00:37.520
+after that so it's kind of called
+
+0:00:35.760,0:00:39.280
+dino jump because of that that
+
+0:00:37.520,0:00:41.840
+inspiration it's a little different
+
+0:00:39.280,0:00:43.680
+but you can set the idea before we dive
+
+0:00:41.840,0:00:44.960
+into today let's kind of recap a couple
+
+0:00:43.680,0:00:47.039
+of the things we learned yesterday
+
+0:00:44.960,0:00:48.079
+because there were a ton of good skills
+
+0:00:47.039,0:00:50.480
+in that first day
+
+0:00:48.079,0:00:51.440
+um one of the big ones um that you may
+
+0:00:50.480,0:00:54.160
+not have done before
+
+0:00:51.440,0:00:55.039
+was clones so mckinley actually found
+
+0:00:54.160,0:00:57.520
+clones uh
+
+0:00:55.039,0:00:59.120
+new by the way that just reminded me i
+
+0:00:57.520,0:01:00.399
+should introduce my campers uh let you
+
+0:00:59.120,0:01:02.239
+know who's here with me today all right
+
+0:01:00.399,0:01:05.199
+camper number one who are you
+
+0:01:02.239,0:01:06.960
+i am keegan keegan you ready to go today
+
+0:01:05.199,0:01:09.040
+yeah
+
+0:01:06.960,0:01:10.479
+other camper introduce yourself mckinley
+
+0:01:09.040,0:01:13.200
+fisher are you uh
+
+0:01:10.479,0:01:14.240
+excited about today's game yes all right
+
+0:01:13.200,0:01:14.640
+so i just want to let you know that
+
+0:01:14.240,0:01:16.479
+they're
+
+0:01:14.640,0:01:17.759
+here with me doing things so yesterday
+
+0:01:16.479,0:01:19.280
+we learned about clones
+
+0:01:17.759,0:01:21.119
+that was even new to mckinley right she
+
+0:01:19.280,0:01:22.960
+hadn't done much with clones
+
+0:01:21.119,0:01:24.479
+we learned about broadcasting messages
+
+0:01:22.960,0:01:25.119
+which is a way for two sprites to
+
+0:01:24.479,0:01:28.159
+communicate
+
+0:01:25.119,0:01:29.680
+information and there was a bunch of
+
+0:01:28.159,0:01:30.720
+other things but i won't go into them
+
+0:01:29.680,0:01:32.320
+i mentioned those two because we're
+
+0:01:30.720,0:01:33.439
+going to reinforce on those today and
+
+0:01:32.320,0:01:36.000
+those are definitely skills that we're
+
+0:01:33.439,0:01:37.520
+going to use today as well
+
+0:01:36.000,0:01:39.280
+let's start off by looking at a solution
+
+0:01:37.520,0:01:42.399
+for what we're going to make
+
+0:01:39.280,0:01:43.920
+so this is bob's uh version uh so bob
+
+0:01:42.399,0:01:46.240
+schaefer who's the other person in this
+
+0:01:43.920,0:01:47.600
+uh but what we're doing is we have uh
+
+0:01:46.240,0:01:50.240
+some hero
+
+0:01:47.600,0:01:51.439
+and our hero is jumping over um the
+
+0:01:50.240,0:01:54.079
+obstacles so you can see it's kind of
+
+0:01:51.439,0:01:57.520
+themed after
+
+0:01:54.079,0:01:59.200
+kind of themed after uh cactus jump um
+
+0:01:57.520,0:02:00.960
+the one difference is if you're noticed
+
+0:01:59.200,0:02:02.079
+i can actually go forwards and backwards
+
+0:02:00.960,0:02:03.439
+in this game we just think that that
+
+0:02:02.079,0:02:05.119
+makes it more fun
+
+0:02:03.439,0:02:07.040
+the no internet game doesn't have that
+
+0:02:05.119,0:02:08.160
+feature so we have it by the way you can
+
+0:02:07.040,0:02:11.520
+also um
+
+0:02:08.160,0:02:13.120
+go forwards and backwards midair uh
+
+0:02:11.520,0:02:15.440
+that's just to try to make the game more
+
+0:02:13.120,0:02:17.280
+fun um but you can see that we're gonna
+
+0:02:15.440,0:02:19.280
+do things like simulating gravity
+
+0:02:17.280,0:02:20.879
+uh so we're gonna have a jump uh and
+
+0:02:19.280,0:02:22.080
+we're gonna simulate gravity gravity is
+
+0:02:20.879,0:02:24.239
+a cool thing
+
+0:02:22.080,0:02:25.440
+to be able to add to your games but this
+
+0:02:24.239,0:02:27.360
+is the goal
+
+0:02:25.440,0:02:29.200
+so one thing i do want to say about
+
+0:02:27.360,0:02:32.400
+today is that you don't have to use the
+
+0:02:29.200,0:02:32.400
+sprites that i have here
+
+0:02:34.400,0:02:38.879
+you don't have to use the sprites we
+
+0:02:35.920,0:02:40.480
+have here you have to have a hero sprite
+
+0:02:38.879,0:02:41.519
+um and you have to have an obstacle you
+
+0:02:40.480,0:02:42.160
+jump over and you have to have a
+
+0:02:41.519,0:02:44.000
+background
+
+0:02:42.160,0:02:46.080
+but they can be whatever you want right
+
+0:02:44.000,0:02:47.680
+so there's no no rules on that today so
+
+0:02:46.080,0:02:49.280
+think in your head of what your theme is
+
+0:02:47.680,0:02:50.720
+going to be and that's going to be
+
+0:02:49.280,0:02:52.480
+useful for today
+
+0:02:50.720,0:02:54.160
+uh the skills we're going to use are
+
+0:02:52.480,0:02:55.519
+learned today we're going to use gravity
+
+0:02:54.160,0:02:56.319
+on our sprite so that'll be kind of a
+
+0:02:55.519,0:02:58.480
+neat thing
+
+0:02:56.319,0:02:59.840
+it's not built in it's not magic oh we
+
+0:02:58.480,0:03:01.280
+just have to figure it out and write the
+
+0:02:59.840,0:03:02.720
+code for it
+
+0:03:01.280,0:03:03.920
+we're going to use random numbers we're
+
+0:03:02.720,0:03:05.920
+going to play sounds we're going to do
+
+0:03:03.920,0:03:08.560
+more with broadcasting events
+
+0:03:05.920,0:03:10.000
+and then publishing our games as well
+
+0:03:08.560,0:03:11.680
+since one of the core
+
+0:03:10.000,0:03:14.159
+things of this game is gravity i thought
+
+0:03:11.680,0:03:16.159
+i'd talk about gravity just a little bit
+
+0:03:14.159,0:03:17.599
+gravity which is also called an
+
+0:03:16.159,0:03:19.680
+acceleration
+
+0:03:17.599,0:03:21.519
+it's the force that's put on all bodies
+
+0:03:19.680,0:03:22.239
+so they fall right so people know about
+
+0:03:21.519,0:03:24.640
+gravity
+
+0:03:22.239,0:03:26.480
+since you're a little kid right and the
+
+0:03:24.640,0:03:28.799
+idea is is that here's a person
+
+0:03:26.480,0:03:29.920
+who's apparently a stunt man jumping off
+
+0:03:28.799,0:03:32.480
+a building into an
+
+0:03:29.920,0:03:33.760
+airbag right and the idea with gravity
+
+0:03:32.480,0:03:36.080
+is that he jumps
+
+0:03:33.760,0:03:37.920
+at one point and he has a velocity of
+
+0:03:36.080,0:03:39.840
+zero
+
+0:03:37.920,0:03:41.599
+and after he starts falling after one
+
+0:03:39.840,0:03:43.120
+second he's falling at a certain speed
+
+0:03:41.599,0:03:45.519
+he's falling like 10
+
+0:03:43.120,0:03:47.440
+meters per second here and then as he
+
+0:03:45.519,0:03:50.159
+falls like as he continues to fall
+
+0:03:47.440,0:03:52.239
+he actually falls not just down but he
+
+0:03:50.159,0:03:54.560
+falls faster and faster
+
+0:03:52.239,0:03:56.080
+as he goes down and you'll your eyes are
+
+0:03:54.560,0:03:56.720
+used to seeing it so like there's this
+
+0:03:56.080,0:03:58.879
+natural
+
+0:03:56.720,0:04:00.080
+um kind of slow at the top and then fast
+
+0:03:58.879,0:04:02.560
+at the bottom and we're going to
+
+0:04:00.080,0:04:05.280
+simulate gravity uh in our games
+
+0:04:02.560,0:04:06.560
+he's throwing a bowl all right so keegan
+
+0:04:05.280,0:04:08.080
+corrected me he said he's throwing a
+
+0:04:06.560,0:04:08.560
+ball he's not jumping he's just throwing
+
+0:04:08.080,0:04:11.280
+a ball
+
+0:04:08.560,0:04:12.239
+that makes a lot more sense all right
+
+0:04:11.280,0:04:16.160
+moving on
+
+0:04:12.239,0:04:17.919
+so uh go visit scratch.mit.edu
+
+0:04:16.160,0:04:20.880
+so here i'm on scratch uh click on
+
+0:04:17.919,0:04:22.400
+create to start a new game
+
+0:04:20.880,0:04:24.240
+uh sometimes you can play your old game
+
+0:04:22.400,0:04:26.400
+for a little bit before you start today
+
+0:04:24.240,0:04:28.240
+but you can pick a new game and then the
+
+0:04:26.400,0:04:30.479
+first thing to do is to pick your
+
+0:04:28.240,0:04:32.400
+your three items uh you can see in the
+
+0:04:30.479,0:04:33.520
+solution here we had a cat jumping over
+
+0:04:32.400,0:04:35.520
+a dinosaur
+
+0:04:33.520,0:04:37.280
+um but you can actually do anything that
+
+0:04:35.520,0:04:38.400
+you want uh so i'm actually going to
+
+0:04:37.280,0:04:41.280
+start off by
+
+0:04:38.400,0:04:42.320
+deleting my cat and then adding some
+
+0:04:41.280,0:04:44.080
+other sprite
+
+0:04:42.320,0:04:45.840
+so one way you can add sprites is of
+
+0:04:44.080,0:04:47.520
+course from the sprite library
+
+0:04:45.840,0:04:48.800
+uh the sprite library when you hover
+
+0:04:47.520,0:04:49.600
+over this you can just click on the
+
+0:04:48.800,0:04:50.880
+circle
+
+0:04:49.600,0:04:52.240
+or you can click on this magnifying
+
+0:04:50.880,0:04:53.280
+glass they actually do the same thing
+
+0:04:52.240,0:04:54.400
+choose a sprite
+
+0:04:53.280,0:04:55.680
+i'm going to do that for one of my
+
+0:04:54.400,0:04:56.720
+sprites and then for one of the others
+
+0:04:55.680,0:04:58.720
+i'm going to upload
+
+0:04:56.720,0:04:59.840
+just kind of show you how it works so i
+
+0:04:58.720,0:05:01.199
+think what i'm going to do
+
+0:04:59.840,0:05:05.520
+is i'm going to go ahead and use a
+
+0:05:01.199,0:05:07.280
+dinosaur i kind of like this dinosaur
+
+0:05:05.520,0:05:08.720
+but i'm going to switch it from the
+
+0:05:07.280,0:05:10.320
+solution and instead of
+
+0:05:08.720,0:05:11.840
+my dinosaur being the thing that gets
+
+0:05:10.320,0:05:13.919
+jumped over
+
+0:05:11.840,0:05:15.199
+my dinosaur is going to do the jumping
+
+0:05:13.919,0:05:17.360
+so it's going to kind of be like
+
+0:05:15.199,0:05:18.800
+the dinosaur theme and then the thing i
+
+0:05:17.360,0:05:20.000
+want to jump over is i want to jump over
+
+0:05:18.800,0:05:22.000
+a cactus
+
+0:05:20.000,0:05:23.680
+now the first thing you should do is you
+
+0:05:22.000,0:05:24.000
+should see is hey is there a cactus
+
+0:05:23.680,0:05:26.560
+built
+
+0:05:24.000,0:05:27.759
+into the library well there's not right
+
+0:05:26.560,0:05:29.199
+so what i'm going to do is i'm going to
+
+0:05:27.759,0:05:31.280
+go search the internet
+
+0:05:29.199,0:05:32.960
+for an image of a cactus and then i'm
+
+0:05:31.280,0:05:35.360
+going to bring it into the game
+
+0:05:32.960,0:05:36.560
+so to search the internet for a cactus
+
+0:05:35.360,0:05:39.680
+what you should do is you should do a
+
+0:05:36.560,0:05:41.840
+google search for cactus
+
+0:05:39.680,0:05:43.840
+and then what i want is i want images of
+
+0:05:41.840,0:05:44.880
+cactus so in google you can click on
+
+0:05:43.840,0:05:47.440
+images here
+
+0:05:44.880,0:05:49.680
+so now it shows you a bunch of images of
+
+0:05:47.440,0:05:52.080
+different cacti
+
+0:05:49.680,0:05:53.680
+for scratch games we don't want so like
+
+0:05:52.080,0:05:56.080
+see how this one has a
+
+0:05:53.680,0:05:57.039
+square rectangle sorry a rectangle
+
+0:05:56.080,0:05:58.479
+that's solid
+
+0:05:57.039,0:05:59.919
+that would not look very good in our
+
+0:05:58.479,0:06:02.400
+game what we want is we want something
+
+0:05:59.919,0:06:04.080
+with a background of transparent
+
+0:06:02.400,0:06:07.360
+so you can do that in google so you
+
+0:06:04.080,0:06:10.479
+click on tools
+
+0:06:07.360,0:06:12.720
+color transparent yeah
+
+0:06:10.479,0:06:14.000
+so my kids know this game this came
+
+0:06:12.720,0:06:17.360
+really well
+
+0:06:14.000,0:06:19.520
+and so this will give you images
+
+0:06:17.360,0:06:20.960
+that have transparent backgrounds and
+
+0:06:19.520,0:06:21.919
+now you can go through and you can find
+
+0:06:20.960,0:06:23.520
+what you want
+
+0:06:21.919,0:06:24.560
+um other tricks you can use by the way
+
+0:06:23.520,0:06:26.000
+is if you kind of want something with a
+
+0:06:24.560,0:06:28.560
+more cartoony look
+
+0:06:26.000,0:06:29.600
+uh and type you can go to clip art and
+
+0:06:28.560,0:06:31.199
+it'll give you kind of like more
+
+0:06:29.600,0:06:33.120
+cartoony things sometimes
+
+0:06:31.199,0:06:34.560
+cartoony drawings look better in scratch
+
+0:06:33.120,0:06:36.720
+because it goes with um
+
+0:06:34.560,0:06:37.840
+with the built-in sprites better and you
+
+0:06:36.720,0:06:40.560
+can just find
+
+0:06:37.840,0:06:42.720
+a cactus that you want um so i'm just
+
+0:06:40.560,0:06:44.479
+going to click on this one
+
+0:06:42.720,0:06:45.840
+you hope that it really does have a
+
+0:06:44.479,0:06:47.520
+transparent background that should show
+
+0:06:45.840,0:06:49.120
+up as this checkerboard pattern
+
+0:06:47.520,0:06:51.280
+some people on the internet are tricky
+
+0:06:49.120,0:06:52.720
+though they put a real black and white
+
+0:06:51.280,0:06:53.919
+background on there to make it look like
+
+0:06:52.720,0:06:55.120
+it's transparent
+
+0:06:53.919,0:06:57.360
+we're just going to hope that it worked
+
+0:06:55.120,0:06:58.720
+out and then what i do is i right click
+
+0:06:57.360,0:07:02.560
+on it and i say
+
+0:06:58.720,0:07:03.440
+save image as and i'm just going to call
+
+0:07:02.560,0:07:07.599
+it
+
+0:07:03.440,0:07:09.120
+cactus and then in my game
+
+0:07:07.599,0:07:10.639
+i'm going to come over here to choose a
+
+0:07:09.120,0:07:12.160
+sprite but instead of just clicking the
+
+0:07:10.639,0:07:15.280
+circle i'm going to use this
+
+0:07:12.160,0:07:16.000
+top one which says upload sprite and i'm
+
+0:07:15.280,0:07:18.960
+going to select
+
+0:07:16.000,0:07:20.240
+that cactus now you never know what size
+
+0:07:18.960,0:07:22.080
+it's going to come in
+
+0:07:20.240,0:07:24.160
+it doesn't matter if it comes in huge
+
+0:07:22.080,0:07:25.440
+that's really no big deal
+
+0:07:24.160,0:07:28.160
+because you can always just go to the
+
+0:07:25.440,0:07:30.160
+size here and you can make it smaller
+
+0:07:28.160,0:07:32.000
+so for mine i'm gonna have to make it
+
+0:07:30.160,0:07:34.000
+smaller still
+
+0:07:32.000,0:07:36.160
+um i guess i'll make it about that big
+
+0:07:34.000,0:07:37.759
+that seems that seems about right
+
+0:07:36.160,0:07:39.520
+so my dinosaur is gonna have to jump
+
+0:07:37.759,0:07:41.440
+over these uh different cactus
+
+0:07:39.520,0:07:43.440
+and you can play with your size uh until
+
+0:07:41.440,0:07:44.879
+you're happy with things
+
+0:07:43.440,0:07:47.680
+yeah he's about right maybe i'll make my
+
+0:07:44.879,0:07:49.280
+dinosaur a little bigger
+
+0:07:47.680,0:07:51.280
+uh cool all right so i think that i'm
+
+0:07:49.280,0:07:53.440
+happy with this uh i need oh i need a
+
+0:07:51.280,0:07:56.319
+backdrop is what i need
+
+0:07:53.440,0:07:57.919
+so let's go ahead and open up backdrops
+
+0:07:56.319,0:07:59.680
+so the backdrop you can actually click
+
+0:07:57.919,0:08:01.759
+right here on choose a backdrop
+
+0:07:59.680,0:08:03.120
+um or you can come over here to costumes
+
+0:08:01.759,0:08:03.680
+and you can click on choose a backdrop
+
+0:08:03.120,0:08:05.360
+over here
+
+0:08:03.680,0:08:06.879
+it's funny it's for backdrop it's
+
+0:08:05.360,0:08:08.160
+basically the same button regardless of
+
+0:08:06.879,0:08:09.520
+which side you use
+
+0:08:08.160,0:08:12.240
+um and i'm going to just go ahead and
+
+0:08:09.520,0:08:12.800
+put in uh the desert theme uh that fit
+
+0:08:12.240,0:08:15.360
+pretty well
+
+0:08:12.800,0:08:16.639
+uh with what i'm after all right so at
+
+0:08:15.360,0:08:19.919
+this point i've got
+
+0:08:16.639,0:08:21.199
+uh my cactus i've got my dinosaur
+
+0:08:19.919,0:08:23.039
+and what i want to do is i want you to
+
+0:08:21.199,0:08:24.800
+kind of set them uh where you think
+
+0:08:23.039,0:08:26.800
+ground level should be
+
+0:08:24.800,0:08:28.000
+so i'm going to put my cactus right
+
+0:08:26.800,0:08:28.720
+there towards kind of planting the
+
+0:08:28.000,0:08:30.800
+ground
+
+0:08:28.720,0:08:32.560
+and my dinosaur toward his feet are just
+
+0:08:30.800,0:08:34.240
+barely on the ground
+
+0:08:32.560,0:08:35.599
+now i'm ready to come in and start my
+
+0:08:34.240,0:08:38.800
+code
+
+0:08:35.599,0:08:41.279
+so the first thing we want to do for
+
+0:08:38.800,0:08:42.240
+our hero so whatever's doing the jumping
+
+0:08:41.279,0:08:43.760
+so my hero
+
+0:08:42.240,0:08:46.320
+is the dinosaur he's going to be doing
+
+0:08:43.760,0:08:48.560
+the jumping is we want him to
+
+0:08:46.320,0:08:50.000
+uh do things when the green flag is
+
+0:08:48.560,0:08:51.440
+clicked
+
+0:08:50.000,0:08:53.760
+and what we're actually going to focus
+
+0:08:51.440,0:08:55.760
+on first with him is uh
+
+0:08:53.760,0:08:58.080
+falling right so we want him to to be
+
+0:08:55.760,0:09:00.640
+good at falling
+
+0:08:58.080,0:09:02.080
+falling is something that's going to
+
+0:09:00.640,0:09:03.279
+happen to where his y position is going
+
+0:09:02.080,0:09:05.839
+to change
+
+0:09:03.279,0:09:07.360
+up until he gets to ground level right
+
+0:09:05.839,0:09:08.480
+and when he gets to ground level he
+
+0:09:07.360,0:09:10.560
+stops
+
+0:09:08.480,0:09:12.000
+right now uh make sure your hero is
+
+0:09:10.560,0:09:15.040
+selected and look at the
+
+0:09:12.000,0:09:16.800
+the y value in here so your y value will
+
+0:09:15.040,0:09:20.839
+be different than mine
+
+0:09:16.800,0:09:23.839
+but for me my ground level is negative
+
+0:09:20.839,0:09:25.279
+115. so find yours and figure it out
+
+0:09:23.839,0:09:26.399
+that number is going to be useful
+
+0:09:25.279,0:09:27.360
+throughout our game so what i'm going to
+
+0:09:26.399,0:09:28.880
+do is i'm actually going to make a
+
+0:09:27.360,0:09:30.800
+variable
+
+0:09:28.880,0:09:33.279
+so click on variables then click on make
+
+0:09:30.800,0:09:35.760
+a variable
+
+0:09:33.279,0:09:37.440
+you can say for this sprite only so this
+
+0:09:35.760,0:09:38.560
+variable is going to be for the ground
+
+0:09:37.440,0:09:41.360
+level
+
+0:09:38.560,0:09:42.000
+and it really only affects this one one
+
+0:09:41.360,0:09:44.399
+sprite
+
+0:09:42.000,0:09:46.720
+and i'm just going to call it ground
+
+0:09:44.399,0:09:48.240
+level
+
+0:09:46.720,0:09:50.320
+you can see how i like to name my
+
+0:09:48.240,0:09:51.200
+variables i like to leave no spaces and
+
+0:09:50.320,0:09:54.080
+capitalize
+
+0:09:51.200,0:09:54.640
+the next level next letter it's just a
+
+0:09:54.080,0:09:55.920
+choice
+
+0:09:54.640,0:09:58.399
+that i choose to make but you really
+
+0:09:55.920,0:10:00.560
+could do just about anything
+
+0:09:58.399,0:10:02.160
+ground level defaults by being displayed
+
+0:10:00.560,0:10:03.120
+on the screen i don't want it displayed
+
+0:10:02.160,0:10:04.560
+on the screen
+
+0:10:03.120,0:10:06.800
+so i'm going to hit this check box and
+
+0:10:04.560,0:10:08.320
+not have it get displayed on the screen
+
+0:10:06.800,0:10:09.680
+and this variable is kind of a funny
+
+0:10:08.320,0:10:11.680
+variable because i'm just going to set
+
+0:10:09.680,0:10:15.360
+it one time
+
+0:10:11.680,0:10:17.040
+to negative 115 for me
+
+0:10:15.360,0:10:18.560
+and i'm just going to use that variable
+
+0:10:17.040,0:10:20.079
+a couple times so variables have a
+
+0:10:18.560,0:10:22.720
+couple different purposes
+
+0:10:20.079,0:10:25.200
+sometimes they're used as something you
+
+0:10:22.720,0:10:26.399
+like set and change like a score keeper
+
+0:10:25.200,0:10:28.480
+we're going to use the score keeper in
+
+0:10:26.399,0:10:30.160
+this game as well
+
+0:10:28.480,0:10:31.600
+but this variable is a little different
+
+0:10:30.160,0:10:33.680
+this variable is what's called it's to
+
+0:10:31.600,0:10:35.440
+help me avoid magic numbers in my code
+
+0:10:33.680,0:10:36.320
+so instead of having this magic negative
+
+0:10:35.440,0:10:38.240
+115
+
+0:10:36.320,0:10:40.000
+appear like different places in my code
+
+0:10:38.240,0:10:42.880
+i'm making it once as variable
+
+0:10:40.000,0:10:43.600
+all right long speech for for not much
+
+0:10:42.880,0:10:45.360
+good there
+
+0:10:43.600,0:10:46.880
+so let's go ahead and have the the
+
+0:10:45.360,0:10:49.279
+dinosaur
+
+0:10:46.880,0:10:50.160
+start in some position so i like to
+
+0:10:49.279,0:10:53.200
+always make him
+
+0:10:50.160,0:10:55.279
+start at a certain x y
+
+0:10:53.200,0:10:57.600
+so if i put this in he's of course going
+
+0:10:55.279,0:11:00.000
+to start at ground level which is fine
+
+0:10:57.600,0:11:02.640
+since we're currently simulating falling
+
+0:11:00.000,0:11:04.560
+i'm going to actually start him up here
+
+0:11:02.640,0:11:06.399
+just so that we can practice with with
+
+0:11:04.560,0:11:08.640
+falling right
+
+0:11:06.399,0:11:10.399
+so up there you can see now his y is 72
+
+0:11:08.640,0:11:13.920
+so i'm going to say make his y be
+
+0:11:10.399,0:11:15.519
+72. all right to make him fall we're
+
+0:11:13.920,0:11:16.800
+going to need a forever loop
+
+0:11:15.519,0:11:20.240
+so let's just go ahead and grab a
+
+0:11:16.800,0:11:20.240
+forever loop and drag it over
+
+0:11:21.200,0:11:24.640
+um and in this forever loop what we want
+
+0:11:23.040,0:11:27.600
+to do is we want his
+
+0:11:24.640,0:11:29.600
+y to get smaller and smaller and smaller
+
+0:11:27.600,0:11:33.360
+so in motion
+
+0:11:29.600,0:11:37.760
+let's go ahead and find change y by
+
+0:11:33.360,0:11:39.279
+so change y by
+
+0:11:37.760,0:11:40.880
+and right now to start things off we're
+
+0:11:39.279,0:11:43.040
+just going to say negative 1. so we're
+
+0:11:40.880,0:11:45.760
+going to change the y by negative one
+
+0:11:43.040,0:11:47.279
+every time this loop goes around if you
+
+0:11:45.760,0:11:49.760
+were to run it now
+
+0:11:47.279,0:11:52.720
+he would start falling right so he's
+
+0:11:49.760,0:11:55.519
+falling at a very slow speed
+
+0:11:52.720,0:11:57.440
+and he's falling at a very constant rate
+
+0:11:55.519,0:11:58.079
+and he does not stop when he hits the
+
+0:11:57.440,0:11:59.920
+ground
+
+0:11:58.079,0:12:01.920
+he does stop before he goes off the
+
+0:11:59.920,0:12:03.680
+screen that's a feature that scratch
+
+0:12:01.920,0:12:05.200
+does to try to be friendlier to you
+
+0:12:03.680,0:12:06.639
+it won't let you push things off the
+
+0:12:05.200,0:12:07.760
+screen because it's very confusing like
+
+0:12:06.639,0:12:11.120
+where did it go
+
+0:12:07.760,0:12:12.000
+um so it's a start right so it's too
+
+0:12:11.120,0:12:14.560
+slow
+
+0:12:12.000,0:12:16.639
+um and it doesn't use gravity because
+
+0:12:14.560,0:12:17.760
+it's a constant velocity which is not
+
+0:12:16.639,0:12:19.200
+how gravity works
+
+0:12:17.760,0:12:21.519
+and it doesn't stop the bottom so we got
+
+0:12:19.200,0:12:23.519
+to fix all these things
+
+0:12:21.519,0:12:24.800
+let's fix them one at a time let's fix
+
+0:12:23.519,0:12:26.480
+um let's fix
+
+0:12:24.800,0:12:27.839
+doesn't fall through the ground first
+
+0:12:26.480,0:12:29.600
+right so
+
+0:12:27.839,0:12:31.279
+for doesn't fall through the ground uh
+
+0:12:29.600,0:12:32.560
+what i want to do is i like to practice
+
+0:12:31.279,0:12:35.279
+with functions
+
+0:12:32.560,0:12:37.360
+we're going to make a function so click
+
+0:12:35.279,0:12:40.480
+on my blocks
+
+0:12:37.360,0:12:41.680
+click on make a block
+
+0:12:40.480,0:12:44.399
+and we're just going to call this
+
+0:12:41.680,0:12:46.880
+function check for
+
+0:12:44.399,0:12:46.880
+ground
+
+0:12:49.279,0:12:53.200
+we didn't have to make a function here
+
+0:12:51.760,0:12:54.560
+but i just like to practice with
+
+0:12:53.200,0:12:57.279
+functions right
+
+0:12:54.560,0:12:59.040
+so the ideas with functions is um you
+
+0:12:57.279,0:13:01.360
+know after you do your movement
+
+0:12:59.040,0:13:03.519
+then you check for the grounds so this
+
+0:13:01.360,0:13:04.720
+calls the function
+
+0:13:03.519,0:13:06.480
+and then the things that are going to be
+
+0:13:04.720,0:13:07.680
+inside the function is it's just going
+
+0:13:06.480,0:13:10.480
+to check the y
+
+0:13:07.680,0:13:11.279
+to see if it's below ground level right
+
+0:13:10.480,0:13:14.079
+so to check
+
+0:13:11.279,0:13:15.040
+something we need an if statement so
+
+0:13:14.079,0:13:18.240
+we're just going to say
+
+0:13:15.040,0:13:19.360
+if and the thing we want to check is we
+
+0:13:18.240,0:13:21.839
+want to check my y
+
+0:13:19.360,0:13:22.800
+value to see if it's less than ground
+
+0:13:21.839,0:13:26.800
+level
+
+0:13:22.800,0:13:29.519
+so we need an operator to do a greater
+
+0:13:26.800,0:13:29.519
+than less than
+
+0:13:30.240,0:13:35.839
+and if my y y is a built-in variable
+
+0:13:33.680,0:13:38.240
+it's inside motion
+
+0:13:35.839,0:13:40.240
+so y position is what it's called so if
+
+0:13:38.240,0:13:43.440
+my y position
+
+0:13:40.240,0:13:48.000
+is less than ground level i've got a
+
+0:13:43.440,0:13:49.760
+variable for ground level
+
+0:13:48.000,0:13:51.040
+so if that ever happens that means i'm
+
+0:13:49.760,0:13:53.680
+below ground
+
+0:13:51.040,0:13:54.639
+then i want to set my y to be ground
+
+0:13:53.680,0:13:58.079
+level
+
+0:13:54.639,0:14:01.199
+so i'm going to go to motion
+
+0:13:58.079,0:14:04.240
+and i'm going to find set y
+
+0:14:01.199,0:14:04.240
+oops where's set y
+
+0:14:04.320,0:14:08.880
+and i'm going to set it to this variable
+
+0:14:06.639,0:14:12.079
+ground level
+
+0:14:08.880,0:14:13.680
+and you can see how using this variable
+
+0:14:12.079,0:14:15.600
+makes your code more readable right
+
+0:14:13.680,0:14:18.639
+because i mean if you read this it says
+
+0:14:15.600,0:14:19.519
+check for ground if y position less than
+
+0:14:18.639,0:14:22.480
+ground level
+
+0:14:19.519,0:14:22.800
+so if you're less than ground level then
+
+0:14:22.480,0:14:25.839
+set
+
+0:14:22.800,0:14:27.680
+y to ground level and i really like how
+
+0:14:25.839,0:14:28.399
+scratch does a nice job of naming the
+
+0:14:27.680,0:14:29.680
+blocks
+
+0:14:28.399,0:14:32.959
+to where you kind of know what's going
+
+0:14:29.680,0:14:34.399
+to happen just based on reading them
+
+0:14:32.959,0:14:37.440
+so you can see that when i ran at this
+
+0:14:34.399,0:14:40.079
+time he again very slowly fell
+
+0:14:37.440,0:14:41.839
+but he stopped when he got to the ground
+
+0:14:40.079,0:14:44.320
+does that sound good
+
+0:14:41.839,0:14:45.600
+campers are you doing all right all
+
+0:14:44.320,0:14:46.639
+right i'm gonna pause for a second help
+
+0:14:45.600,0:14:48.079
+my campers
+
+0:14:46.639,0:14:49.600
+all right i checked in my campers that
+
+0:14:48.079,0:14:51.199
+are doing good i'm excited about their
+
+0:14:49.600,0:14:52.320
+themes i'll show you i'll show you what
+
+0:14:51.199,0:14:53.760
+they're up to later
+
+0:14:52.320,0:14:55.600
+all right so the next thing i want to do
+
+0:14:53.760,0:14:57.440
+is i want to actually uh you know
+
+0:14:55.600,0:15:00.320
+simulate how gravity works right
+
+0:14:57.440,0:15:00.800
+where the velocity actually gets bigger
+
+0:15:00.320,0:15:02.639
+uh
+
+0:15:00.800,0:15:04.320
+the farther you go down instead of the
+
+0:15:02.639,0:15:05.920
+word velocity which is the word that i
+
+0:15:04.320,0:15:08.240
+like to use that's the technical term
+
+0:15:05.920,0:15:09.600
+let's just call it fall speed so first
+
+0:15:08.240,0:15:12.000
+thing i want to do is over here i want
+
+0:15:09.600,0:15:14.880
+to make a variable
+
+0:15:12.000,0:15:16.959
+i'm going to call it fall speed i'll
+
+0:15:14.880,0:15:19.519
+tell you what since i
+
+0:15:16.959,0:15:20.720
+am going to show this to the world i'm
+
+0:15:19.519,0:15:22.079
+going to put it on the screen
+
+0:15:20.720,0:15:23.680
+i'm going to name it differently right
+
+0:15:22.079,0:15:24.160
+so this is how i name things when
+
+0:15:23.680,0:15:26.720
+they're like
+
+0:15:24.160,0:15:27.680
+visible to the world so this is my fall
+
+0:15:26.720,0:15:31.040
+speed
+
+0:15:27.680,0:15:32.399
+also this variable is literally just for
+
+0:15:31.040,0:15:34.000
+this sprite
+
+0:15:32.399,0:15:36.320
+but i'm going to do something tricky i'm
+
+0:15:34.000,0:15:37.839
+going to say it's for all sprites
+
+0:15:36.320,0:15:40.000
+just because whenever you put it on the
+
+0:15:37.839,0:15:41.680
+screen it's super ugly if you say
+
+0:15:40.000,0:15:43.759
+for all sprites you can see it's like
+
+0:15:41.680,0:15:46.000
+dinosaur four colon blah blah blah blah
+
+0:15:43.759,0:15:47.120
+so i'm gonna say it's for all sprites
+
+0:15:46.000,0:15:49.040
+even though it's not
+
+0:15:47.120,0:15:50.399
+um just so that when it displays up here
+
+0:15:49.040,0:15:51.680
+it displays prettier
+
+0:15:50.399,0:15:54.000
+so that's another reason you might want
+
+0:15:51.680,0:15:54.399
+to do for all sprites all right so i'm
+
+0:15:54.000,0:15:57.680
+going to
+
+0:15:54.399,0:15:58.880
+set the full speed to be initially zero
+
+0:15:57.680,0:16:02.000
+so i'm just going to do that right at
+
+0:15:58.880,0:16:02.560
+the top so the fall speed is zero so
+
+0:16:02.000,0:16:04.480
+he's not
+
+0:16:02.560,0:16:07.120
+he's not falling he's not jumping he's
+
+0:16:04.480,0:16:08.639
+just not moving right now
+
+0:16:07.120,0:16:11.440
+and then what i'm going to do is i'm
+
+0:16:08.639,0:16:14.160
+going to inside the forever loop
+
+0:16:11.440,0:16:15.680
+i'm going to change the fall speed by
+
+0:16:14.160,0:16:17.839
+negative one
+
+0:16:15.680,0:16:18.880
+and so what that does is that means that
+
+0:16:17.839,0:16:21.040
+you
+
+0:16:18.880,0:16:22.160
+fall faster and faster and faster the
+
+0:16:21.040,0:16:24.320
+longer you fall
+
+0:16:22.160,0:16:25.440
+so that makes like this value is 10 here
+
+0:16:24.320,0:16:26.560
+and then by the time it gets down to
+
+0:16:25.440,0:16:28.880
+here it's 20.
+
+0:16:26.560,0:16:30.160
+so my fall speed just gets faster and
+
+0:16:28.880,0:16:32.959
+faster and faster
+
+0:16:30.160,0:16:34.079
+and then i'm going to change y by my
+
+0:16:32.959,0:16:36.560
+fall speed
+
+0:16:34.079,0:16:37.680
+so that y changes depending on what the
+
+0:16:36.560,0:16:39.120
+full speed is
+
+0:16:37.680,0:16:42.000
+uh and so now it'll be a subtle
+
+0:16:39.120,0:16:45.279
+difference but as you uh click play
+
+0:16:42.000,0:16:48.320
+um your hero will actually start falling
+
+0:16:45.279,0:16:50.320
+um faster the longer he falls um if you
+
+0:16:48.320,0:16:52.480
+want to start them even higher uh maybe
+
+0:16:50.320,0:16:55.600
+i'll start him at like 160.
+
+0:16:52.480,0:16:57.199
+maybe i could see it better um but he
+
+0:16:55.600,0:16:59.920
+actually like kind of has this like
+
+0:16:57.199,0:17:01.519
+acceleration as he gets to the ground
+
+0:16:59.920,0:17:04.959
+now there is a problem if you're
+
+0:17:01.519,0:17:07.679
+watching closely the fall speed um
+
+0:17:04.959,0:17:10.000
+claims to keep going right and that's
+
+0:17:07.679,0:17:11.679
+just because that's what our code did
+
+0:17:10.000,0:17:13.280
+and the trick is is that it claims to
+
+0:17:11.679,0:17:15.039
+keep going but he doesn't move because
+
+0:17:13.280,0:17:16.640
+we have check for ground in here
+
+0:17:15.039,0:17:18.240
+that does kind of bug me though that
+
+0:17:16.640,0:17:20.079
+that number is going out of control
+
+0:17:18.240,0:17:22.319
+so we will fix it don't don't worry
+
+0:17:20.079,0:17:24.000
+about that we will fix it
+
+0:17:22.319,0:17:26.880
+before we fix it though i actually want
+
+0:17:24.000,0:17:28.400
+to do a left and right motion first
+
+0:17:26.880,0:17:29.760
+so like if i hit left arrow nothing
+
+0:17:28.400,0:17:30.320
+happens if i hit right arrow nothing
+
+0:17:29.760,0:17:31.760
+happens
+
+0:17:30.320,0:17:35.039
+i'm going to fix that first and then i'm
+
+0:17:31.760,0:17:37.600
+going to come back and fix this problem
+
+0:17:35.039,0:17:39.360
+so left and right arrow we need to check
+
+0:17:37.600,0:17:42.480
+if you're pressing the left arrow
+
+0:17:39.360,0:17:44.559
+or if you're pressing the right arrow so
+
+0:17:42.480,0:17:46.559
+see if you can do this one on your own
+
+0:17:44.559,0:17:48.320
+so for the dinosaur
+
+0:17:46.559,0:17:49.840
+and what i want you to do is if you are
+
+0:17:48.320,0:17:52.880
+pressing the left arrow
+
+0:17:49.840,0:17:54.240
+then i want you to change your x by some
+
+0:17:52.880,0:17:55.520
+negative amount
+
+0:17:54.240,0:17:57.919
+and if you're pressing the right arrow
+
+0:17:55.520,0:17:59.120
+change your x by some positive amount
+
+0:17:57.919,0:18:01.840
+see if you can do this one all by
+
+0:17:59.120,0:18:01.840
+yourself
+
+0:18:02.320,0:18:06.000
+all right so so my camper's got it but i
+
+0:18:04.080,0:18:07.840
+did have to to help a little bit
+
+0:18:06.000,0:18:09.360
+i'm not expecting if you're new to this
+
+0:18:07.840,0:18:10.559
+for you to be able to do it on your own
+
+0:18:09.360,0:18:12.720
+i just wanted you to try
+
+0:18:10.559,0:18:14.480
+right um but the idea is is that we're
+
+0:18:12.720,0:18:15.760
+going to need two if statements
+
+0:18:14.480,0:18:17.440
+i'm going to go ahead and drop my if
+
+0:18:15.760,0:18:18.480
+statements right into the forever loop
+
+0:18:17.440,0:18:22.240
+here
+
+0:18:18.480,0:18:22.240
+and so we're going to need to check for
+
+0:18:22.400,0:18:26.400
+left key press and right key press so
+
+0:18:25.360,0:18:28.000
+left and right
+
+0:18:26.400,0:18:30.160
+this is actually very similar to what we
+
+0:18:28.000,0:18:31.600
+did last time checking for left and
+
+0:18:30.160,0:18:32.880
+right arrows
+
+0:18:31.600,0:18:35.760
+and then what we're going to do is we're
+
+0:18:32.880,0:18:38.640
+going to change the x
+
+0:18:35.760,0:18:39.600
+by some amount you could also use the
+
+0:18:38.640,0:18:42.320
+move by
+
+0:18:39.600,0:18:42.960
+but i choose to to do change x and y so
+
+0:18:42.320,0:18:46.400
+i don't change
+
+0:18:42.960,0:18:49.520
+directions right so left should be a
+
+0:18:46.400,0:18:50.160
+negative and then i can can give it a go
+
+0:18:49.520,0:18:51.600
+so
+
+0:18:50.160,0:18:53.520
+i should be able to press the right
+
+0:18:51.600,0:18:54.960
+arrow key and move
+
+0:18:53.520,0:18:56.880
+to the right and the left arrow key and
+
+0:18:54.960,0:18:58.160
+move to the left by the way keegan
+
+0:18:56.880,0:19:00.559
+mentioned that you can actually
+
+0:18:58.160,0:19:01.600
+uh move while you're falling uh he says
+
+0:19:00.559,0:19:03.840
+that that's not how
+
+0:19:01.600,0:19:05.600
+you know physics really works um and i
+
+0:19:03.840,0:19:06.320
+said that's how our game works uh so
+
+0:19:05.600,0:19:08.720
+moving
+
+0:19:06.320,0:19:10.080
+while falling makes it more fun right so
+
+0:19:08.720,0:19:11.679
+just kind of know that
+
+0:19:10.080,0:19:13.280
+that is how we choose to implement our
+
+0:19:11.679,0:19:15.039
+game
+
+0:19:13.280,0:19:16.480
+all right so now we're going to fix this
+
+0:19:15.039,0:19:18.720
+problem of
+
+0:19:16.480,0:19:19.600
+we keep falling even when we're on the
+
+0:19:18.720,0:19:20.720
+ground
+
+0:19:19.600,0:19:23.039
+this is actually going to be the
+
+0:19:20.720,0:19:25.360
+trickiest part of today's code
+
+0:19:23.039,0:19:26.640
+because it's going to involve shuffling
+
+0:19:25.360,0:19:28.640
+around our code some
+
+0:19:26.640,0:19:29.840
+right so here's what i want you to do i
+
+0:19:28.640,0:19:31.919
+want to shuffle around
+
+0:19:29.840,0:19:33.440
+the code sum what i want to do is the
+
+0:19:31.919,0:19:34.559
+thing that makes you fall is these two
+
+0:19:33.440,0:19:37.200
+lines here this
+
+0:19:34.559,0:19:38.960
+change fall speed by negative 1 and this
+
+0:19:37.200,0:19:40.080
+change y by fall speed
+
+0:19:38.960,0:19:41.919
+and so what i want to do is i want to
+
+0:19:40.080,0:19:42.640
+pull those two out and set them over
+
+0:19:41.919,0:19:44.000
+here
+
+0:19:42.640,0:19:45.840
+and then just leave everything else
+
+0:19:44.000,0:19:46.960
+alone so what i'm going to choose to do
+
+0:19:45.840,0:19:49.360
+is i'm going to choose to drag
+
+0:19:46.960,0:19:50.080
+everything over and then i'm going to
+
+0:19:49.360,0:19:52.799
+put back
+
+0:19:50.080,0:19:54.720
+just this part so now i kind of have
+
+0:19:52.799,0:19:57.120
+this this hanging out over here
+
+0:19:54.720,0:19:58.480
+if i were to run my code right now uh it
+
+0:19:57.120,0:20:00.320
+would not really work very well because
+
+0:19:58.480,0:20:01.919
+i would no longer be falling i could
+
+0:20:00.320,0:20:02.799
+still go to the left and right when i'm
+
+0:20:01.919,0:20:05.760
+way up here
+
+0:20:02.799,0:20:07.280
+but i took out falling temporarily right
+
+0:20:05.760,0:20:09.280
+we're going to put it back
+
+0:20:07.280,0:20:11.280
+so now what i want to do to put it back
+
+0:20:09.280,0:20:13.360
+is i want to determine
+
+0:20:11.280,0:20:14.720
+if i'm on the ground or not because if
+
+0:20:13.360,0:20:17.200
+i'm on the ground
+
+0:20:14.720,0:20:18.880
+then i can do things like jump if i'm
+
+0:20:17.200,0:20:20.880
+not on the ground then i need to
+
+0:20:18.880,0:20:22.240
+to do this code right here which is fall
+
+0:20:20.880,0:20:25.679
+so i'm going to actually grab
+
+0:20:22.240,0:20:26.159
+an if else statement uh and stick it in
+
+0:20:25.679,0:20:28.720
+here
+
+0:20:26.159,0:20:30.320
+so mckinley was like throwing her hand
+
+0:20:28.720,0:20:30.799
+up she wanted to say what we needed for
+
+0:20:30.320,0:20:32.400
+this
+
+0:20:30.799,0:20:33.840
+and so i want to have an if else
+
+0:20:32.400,0:20:36.640
+statement
+
+0:20:33.840,0:20:37.840
+and so now i've got to put in here a
+
+0:20:36.640,0:20:39.600
+question
+
+0:20:37.840,0:20:41.520
+that'll determine if i'm on the ground
+
+0:20:39.600,0:20:42.159
+or not right so i just want to ask some
+
+0:20:41.520,0:20:44.240
+question
+
+0:20:42.159,0:20:46.000
+that says hey am i on the ground and the
+
+0:20:44.240,0:20:50.240
+question that i want to ask is
+
+0:20:46.000,0:20:52.240
+is my y value equal to that ground value
+
+0:20:50.240,0:20:54.000
+so if i want to test if things are equal
+
+0:20:52.240,0:20:57.280
+that's in operators
+
+0:20:54.000,0:21:00.400
+so i need to grab the equals operator
+
+0:20:57.280,0:21:04.080
+and i want to check to see is my
+
+0:21:00.400,0:21:07.039
+y position equal to
+
+0:21:04.080,0:21:08.400
+that variable called ground level you
+
+0:21:07.039,0:21:11.200
+can see how we use that variable called
+
+0:21:08.400,0:21:12.000
+ground level a few times in our code so
+
+0:21:11.200,0:21:14.159
+if the y
+
+0:21:12.000,0:21:15.200
+position is equal to ground level so if
+
+0:21:14.159,0:21:18.320
+they are equal
+
+0:21:15.200,0:21:20.559
+this top area means i'm on the ground if
+
+0:21:18.320,0:21:22.640
+i'm on the ground i don't fall
+
+0:21:20.559,0:21:24.640
+so this code right here goes into the
+
+0:21:22.640,0:21:26.080
+bottom
+
+0:21:24.640,0:21:27.679
+so it goes into the bottom because if
+
+0:21:26.080,0:21:29.760
+i'm not on the ground
+
+0:21:27.679,0:21:31.520
+then i want to fall right so let's go
+
+0:21:29.760,0:21:34.080
+ahead and run our code again
+
+0:21:31.520,0:21:34.880
+and he should fall up until he hits the
+
+0:21:34.080,0:21:37.760
+ground and then
+
+0:21:34.880,0:21:39.200
+and then he stops if you wanted to uh
+
+0:21:37.760,0:21:41.280
+you could also add
+
+0:21:39.200,0:21:44.240
+um when you're on the ground you could
+
+0:21:41.280,0:21:45.919
+say set full speed to zero so
+
+0:21:44.240,0:21:48.320
+this will mean that when you're on the
+
+0:21:45.919,0:21:49.039
+ground you're no longer falling so it's
+
+0:21:48.320,0:21:50.400
+zero
+
+0:21:49.039,0:21:52.400
+so this would make it even better so now
+
+0:21:50.400,0:21:54.400
+he falls and then when he hits the
+
+0:21:52.400,0:21:56.240
+ground he stops
+
+0:21:54.400,0:21:57.520
+and this actually is very true to
+
+0:21:56.240,0:21:58.000
+physics because you hit the ground and
+
+0:21:57.520,0:22:00.080
+you're going
+
+0:21:58.000,0:22:01.520
+really fast and then you just
+
+0:22:00.080,0:22:04.559
+immediately come to a stop
+
+0:22:01.520,0:22:06.799
+right which can hurt but you can see
+
+0:22:04.559,0:22:08.559
+this really simulates physics
+
+0:22:06.799,0:22:10.320
+now the next thing we want to do is i
+
+0:22:08.559,0:22:12.240
+want to be able to uh
+
+0:22:10.320,0:22:14.080
+to jump right so like i want to be able
+
+0:22:12.240,0:22:16.880
+to press the space bar
+
+0:22:14.080,0:22:18.080
+to jump right now i don't have any way
+
+0:22:16.880,0:22:21.120
+to jump right
+
+0:22:18.080,0:22:22.559
+so what i want to do is inside this area
+
+0:22:21.120,0:22:24.320
+here and this is always tricky when
+
+0:22:22.559,0:22:26.080
+you're putting code in a certain spot
+
+0:22:24.320,0:22:28.080
+inside this area here which means i'm on
+
+0:22:26.080,0:22:28.880
+the ground i want to check for the space
+
+0:22:28.080,0:22:30.960
+bar
+
+0:22:28.880,0:22:33.440
+so i've got to go grab an if statement
+
+0:22:30.960,0:22:35.120
+so control if
+
+0:22:33.440,0:22:36.640
+for better for worse scratch makes this
+
+0:22:35.120,0:22:37.520
+sometimes tricky but i want to drop it
+
+0:22:36.640,0:22:40.080
+right here
+
+0:22:37.520,0:22:42.000
+right so it's after the fall speed not
+
+0:22:40.080,0:22:45.520
+not inside of it which would be there
+
+0:22:42.000,0:22:47.679
+i want to put it right after and in here
+
+0:22:45.520,0:22:49.280
+so i'm on the ground my fall speed is
+
+0:22:47.679,0:22:52.400
+currently zero
+
+0:22:49.280,0:22:55.600
+i want to check for the space bar
+
+0:22:52.400,0:22:58.000
+so i want to find key pressed uh space
+
+0:22:55.600,0:23:00.159
+the default was was right for once
+
+0:22:58.000,0:23:02.480
+and if that happens then i want to jump
+
+0:23:00.159,0:23:05.120
+right so how how do i jump
+
+0:23:02.480,0:23:05.760
+really all jumping is in this game is
+
+0:23:05.120,0:23:08.159
+jump is
+
+0:23:05.760,0:23:10.480
+is making your fall speed be a positive
+
+0:23:08.159,0:23:11.360
+number and then that way your fall speed
+
+0:23:10.480,0:23:13.600
+is going up
+
+0:23:11.360,0:23:16.240
+so what we're going to do to jump is
+
+0:23:13.600,0:23:19.440
+we're going to set the fall speed
+
+0:23:16.240,0:23:21.440
+to some positive number i don't really
+
+0:23:19.440,0:23:23.600
+know the right positive number
+
+0:23:21.440,0:23:24.480
+but this number determines how high you
+
+0:23:23.600,0:23:26.880
+jump
+
+0:23:24.480,0:23:28.640
+i'm going to start off with 20. if 20
+
+0:23:26.880,0:23:30.720
+turns out to be a really short jump
+
+0:23:28.640,0:23:32.000
+then i'll make it bigger if 20 turns out
+
+0:23:30.720,0:23:33.360
+to like jump me off the top of the
+
+0:23:32.000,0:23:37.120
+screen then i'll make it smaller
+
+0:23:33.360,0:23:39.440
+right and in jumping we have to uh
+
+0:23:37.120,0:23:40.720
+do the very first start of the jump so
+
+0:23:39.440,0:23:43.520
+we're going to
+
+0:23:40.720,0:23:43.520
+change y
+
+0:23:43.760,0:23:47.760
+by the fall speed
+
+0:23:47.919,0:23:50.960
+and what this does is this will get you
+
+0:23:50.159,0:23:52.559
+off the ground
+
+0:23:50.960,0:23:54.400
+so in our code it's important that we
+
+0:23:52.559,0:23:56.320
+get ourselves off the ground so this is
+
+0:23:54.400,0:23:58.080
+the first part of your jump so you
+
+0:23:56.320,0:23:59.840
+you're rearing back and you say my full
+
+0:23:58.080,0:24:00.480
+speed is 20 and so we're going to move
+
+0:23:59.840,0:24:02.960
+you up
+
+0:24:00.480,0:24:05.200
+those 20 pixels and then after you're
+
+0:24:02.960,0:24:06.559
+off the ground then falling should start
+
+0:24:05.200,0:24:08.159
+taking effect
+
+0:24:06.559,0:24:10.080
+so there's a lot of complexities in the
+
+0:24:08.159,0:24:13.039
+code here but if it all works
+
+0:24:10.080,0:24:13.919
+um you should be able to uh perceive
+
+0:24:13.039,0:24:16.640
+jumping
+
+0:24:13.919,0:24:18.159
+so there i jumped and you can see how it
+
+0:24:16.640,0:24:21.600
+feels like a jump
+
+0:24:18.159,0:24:23.840
+because you start fast and then you go
+
+0:24:21.600,0:24:24.960
+so slow at the top to the point where
+
+0:24:23.840,0:24:26.480
+you actually stop
+
+0:24:24.960,0:24:28.559
+for one moment at the very top of the
+
+0:24:26.480,0:24:30.240
+jump and then you come back down
+
+0:24:28.559,0:24:32.960
+and it actually turns out that 20 was a
+
+0:24:30.240,0:24:34.960
+really good guess so 20
+
+0:24:32.960,0:24:36.880
+makes me jump uh not quite off the
+
+0:24:34.960,0:24:38.480
+screen but pretty high
+
+0:24:36.880,0:24:40.640
+if you want to tweak it a little bit so
+
+0:24:38.480,0:24:42.000
+you jump a little higher that's fine
+
+0:24:40.640,0:24:43.840
+if you don't like jumping this high you
+
+0:24:42.000,0:24:46.640
+can jump a little lower but i think i'm
+
+0:24:43.840,0:24:48.320
+pretty happy with 20.
+
+0:24:46.640,0:24:49.679
+another thing that i'm going to do is
+
+0:24:48.320,0:24:51.440
+now that i can jump
+
+0:24:49.679,0:24:54.080
+i don't need to do this initial fall
+
+0:24:51.440,0:24:56.080
+anymore so i'm actually going to start
+
+0:24:54.080,0:24:59.200
+at
+
+0:24:56.080,0:25:00.000
+my y of ground level so i'm just
+
+0:24:59.200,0:25:02.720
+choosing to start
+
+0:25:00.000,0:25:04.320
+my game just right on the ground no no
+
+0:25:02.720,0:25:06.080
+no initial fall
+
+0:25:04.320,0:25:09.919
+just because i can now jump so there's
+
+0:25:06.080,0:25:09.919
+no reason to start off up in the air
+
+0:25:10.320,0:25:14.480
+cool i haven't saved my game yet it
+
+0:25:12.640,0:25:15.600
+seems like a really good time to save my
+
+0:25:14.480,0:25:20.000
+game
+
+0:25:15.600,0:25:22.480
+i'm going to call mine cactus jump
+
+0:25:20.000,0:25:23.919
+you can call yours whatever you want i
+
+0:25:22.480,0:25:26.320
+think the solution
+
+0:25:23.919,0:25:27.919
+which which i did with bob it's called
+
+0:25:26.320,0:25:29.039
+dyno jump because we were jumping over
+
+0:25:27.919,0:25:30.960
+dinosaurs
+
+0:25:29.039,0:25:34.080
+um but this time i'm jumping over a
+
+0:25:30.960,0:25:35.520
+cactus uh so i'll do that
+
+0:25:34.080,0:25:37.840
+you can see that the next thing that his
+
+0:25:35.520,0:25:38.400
+game does is he's got these dinosaurs
+
+0:25:37.840,0:25:40.880
+right
+
+0:25:38.400,0:25:43.520
+um and these dinosaurs are coming up a
+
+0:25:40.880,0:25:46.240
+cat all the time
+
+0:25:43.520,0:25:48.960
+and they obviously score points so you
+
+0:25:46.240,0:25:50.320
+can see my score is four right now
+
+0:25:48.960,0:25:53.200
+and they score points whenever you
+
+0:25:50.320,0:25:56.080
+successfully get a dinosaur to the edge
+
+0:25:53.200,0:25:57.440
+and then the game ends when you run into
+
+0:25:56.080,0:25:59.760
+the dinosaur right
+
+0:25:57.440,0:26:01.520
+with some loud sound effects so that's
+
+0:25:59.760,0:26:04.559
+what we're trying to do next
+
+0:26:01.520,0:26:07.760
+so you can see the first thing is
+
+0:26:04.559,0:26:08.720
+there's many dinosaurs but if we go into
+
+0:26:07.760,0:26:10.720
+bob's code
+
+0:26:08.720,0:26:12.240
+by the way you can go into people's code
+
+0:26:10.720,0:26:13.440
+you can see that there is in fact only
+
+0:26:12.240,0:26:15.760
+one dinosaur so
+
+0:26:13.440,0:26:17.200
+we're clearly using clones right that's
+
+0:26:15.760,0:26:18.640
+the only way you could have multiple
+
+0:26:17.200,0:26:20.799
+sprites on the screen
+
+0:26:18.640,0:26:21.760
+and only one dinosaur so this concept of
+
+0:26:20.799,0:26:25.120
+cloning
+
+0:26:21.760,0:26:26.640
+we're going to use it again so
+
+0:26:25.120,0:26:29.679
+similar to what we did last time with
+
+0:26:26.640,0:26:32.320
+cloning i'm going to clone the cactus
+
+0:26:29.679,0:26:33.600
+in my case so the cactus is going to
+
+0:26:32.320,0:26:38.000
+have
+
+0:26:33.600,0:26:39.760
+a when i start as clone
+
+0:26:38.000,0:26:41.600
+um and if you remember what we did last
+
+0:26:39.760,0:26:43.440
+time is the original
+
+0:26:41.600,0:26:45.039
+we actually are going to eventually hide
+
+0:26:43.440,0:26:46.559
+the original
+
+0:26:45.039,0:26:48.880
+and so the first thing that you do in a
+
+0:26:46.559,0:26:52.080
+clone is you
+
+0:26:48.880,0:26:54.320
+show it sometimes you can set
+
+0:26:52.080,0:26:55.520
+its x before you show it but in general
+
+0:26:54.320,0:26:57.120
+that's something that's going to have to
+
+0:26:55.520,0:26:59.360
+happen
+
+0:26:57.120,0:27:01.919
+speaking of setting its x and y where
+
+0:26:59.360,0:27:04.559
+should the cactus start at right
+
+0:27:01.919,0:27:06.480
+it should probably start as far as you
+
+0:27:04.559,0:27:09.039
+can get it over on the right side
+
+0:27:06.480,0:27:10.240
+so take your your cactus or whatever
+
+0:27:09.039,0:27:12.799
+your thing is
+
+0:27:10.240,0:27:14.720
+and make sure it's at ground level and
+
+0:27:12.799,0:27:15.679
+start it as far to the right as you can
+
+0:27:14.720,0:27:16.720
+get it so you can just kind of like
+
+0:27:15.679,0:27:20.000
+scoot it over
+
+0:27:16.720,0:27:22.480
+until it's like barely even showing that
+
+0:27:20.000,0:27:24.799
+is where i want each clone to start so
+
+0:27:22.480,0:27:28.320
+i'm going to go into motion
+
+0:27:24.799,0:27:29.840
+and i'm going to select go to xy
+
+0:27:28.320,0:27:31.679
+i'm going to choose to put it just
+
+0:27:29.840,0:27:33.600
+before my show
+
+0:27:31.679,0:27:35.360
+that way there's really no risk of like
+
+0:27:33.600,0:27:36.799
+seeing the cactus in multiple positions
+
+0:27:35.360,0:27:38.399
+so i'm just going to put it before my
+
+0:27:36.799,0:27:40.159
+show
+
+0:27:38.399,0:27:42.960
+and then what my cactus is going to do
+
+0:27:40.159,0:27:44.640
+is he's going to move across the screen
+
+0:27:42.960,0:27:48.000
+so to move across the screen we're going
+
+0:27:44.640,0:27:49.600
+to have to do some things forever
+
+0:27:48.000,0:27:52.240
+and to move across the screen i'm going
+
+0:27:49.600,0:27:54.480
+to go to motion
+
+0:27:52.240,0:27:56.399
+i'm going to go ahead and use change x
+
+0:27:54.480,0:27:58.720
+by
+
+0:27:56.399,0:28:00.880
+and so i'm going to change x by negative
+
+0:27:58.720,0:28:03.039
+3.
+
+0:28:00.880,0:28:04.559
+and so my goal here is to to see if i
+
+0:28:03.039,0:28:06.000
+can get this working
+
+0:28:04.559,0:28:08.799
+and then once i can see if i can get it
+
+0:28:06.000,0:28:10.480
+working then i'll make it better
+
+0:28:08.799,0:28:13.039
+so right now i have when i start as
+
+0:28:10.480,0:28:15.520
+clone go to that position
+
+0:28:13.039,0:28:16.559
+show myself uh and then start moving
+
+0:28:15.520,0:28:18.960
+across the screen
+
+0:28:16.559,0:28:20.559
+there's going to be more code but that's
+
+0:28:18.960,0:28:22.240
+enough to get us started
+
+0:28:20.559,0:28:24.159
+if we were to run the game right now
+
+0:28:22.240,0:28:26.720
+though nothing would happen
+
+0:28:24.159,0:28:28.320
+because we we didn't make any clones yet
+
+0:28:26.720,0:28:29.679
+right so nothing happens because we
+
+0:28:28.320,0:28:31.919
+haven't made a clone
+
+0:28:29.679,0:28:33.200
+so the question is who makes the clones
+
+0:28:31.919,0:28:35.760
+right so somebody's got to make the
+
+0:28:33.200,0:28:37.919
+clones and put them on the screen
+
+0:28:35.760,0:28:39.120
+many people can make the clones mckinley
+
+0:28:37.919,0:28:41.279
+who do you think should make them
+
+0:28:39.120,0:28:42.559
+the stage yeah i like to have the stage
+
+0:28:41.279,0:28:44.640
+make them so i'm going to actually go
+
+0:28:42.559,0:28:46.640
+over to the stage
+
+0:28:44.640,0:28:48.080
+and i like to have him create the clones
+
+0:28:46.640,0:28:48.480
+and kind of like put things out into the
+
+0:28:48.080,0:28:50.640
+world
+
+0:28:48.480,0:28:53.520
+it just feels like a good job for him
+
+0:28:50.640,0:28:55.440
+mckimley you got a plan
+
+0:28:53.520,0:28:57.039
+oh one of the stages of her sorry i
+
+0:28:55.440,0:28:58.960
+should say
+
+0:28:57.039,0:29:00.159
+then she can start as many clones as you
+
+0:28:58.960,0:29:02.240
+want thank you for cleaving me
+
+0:29:00.159,0:29:05.360
+politically correct this
+
+0:29:02.240,0:29:07.200
+all right she's a stinker so the stage
+
+0:29:05.360,0:29:08.880
+is going to have a wind green flag
+
+0:29:07.200,0:29:12.720
+clicked
+
+0:29:08.880,0:29:16.559
+and it's going to have a forever
+
+0:29:12.720,0:29:18.080
+and then it's going to um create a clone
+
+0:29:16.559,0:29:19.600
+and then wait
+
+0:29:18.080,0:29:21.120
+or wait and then create a clone it
+
+0:29:19.600,0:29:23.039
+doesn't really matter what you do
+
+0:29:21.120,0:29:24.159
+i'm going to wait and then create a
+
+0:29:23.039,0:29:26.720
+clone
+
+0:29:24.159,0:29:27.679
+maybe i'll crank out a dinosaur every
+
+0:29:26.720,0:29:31.200
+two seconds
+
+0:29:27.679,0:29:32.080
+or sorry a cactus so when the green flag
+
+0:29:31.200,0:29:34.000
+is clicked
+
+0:29:32.080,0:29:35.840
+i'm going to forever wait for two
+
+0:29:34.000,0:29:37.600
+seconds and then create a dinosaur
+
+0:29:35.840,0:29:38.720
+i guess you could do it in either order
+
+0:29:37.600,0:29:40.080
+it's just a matter of whether you want a
+
+0:29:38.720,0:29:40.960
+second when your game starts or whether
+
+0:29:40.080,0:29:44.080
+you want to just go
+
+0:29:40.960,0:29:46.480
+right so either is fine so if i hit the
+
+0:29:44.080,0:29:48.000
+stop and then the play button now i
+
+0:29:46.480,0:29:50.159
+should hopefully have uh
+
+0:29:48.000,0:29:52.640
+oh i said dinosaur didn't even say
+
+0:29:50.159,0:29:56.240
+dinosaur i meant to say cactus
+
+0:29:52.640,0:29:57.760
+i was creating clones of my my dinosaur
+
+0:29:56.240,0:29:59.919
+which were all right on top of one
+
+0:29:57.760,0:30:01.919
+another which was not what i wanted
+
+0:29:59.919,0:30:03.120
+um so there you can see that my cactus
+
+0:30:01.919,0:30:06.159
+are now coming out
+
+0:30:03.120,0:30:07.600
+uh every two seconds right now i can
+
+0:30:06.159,0:30:09.600
+blow right through them
+
+0:30:07.600,0:30:11.679
+but this is a good time to check to see
+
+0:30:09.600,0:30:13.679
+if your game is too hard
+
+0:30:11.679,0:30:14.880
+personally i consider this a little too
+
+0:30:13.679,0:30:17.919
+hard
+
+0:30:14.880,0:30:21.679
+so i'm going to change my game some
+
+0:30:17.919,0:30:21.679
+i'm going to make it 4 seconds
+
+0:30:21.760,0:30:24.720
+now there's a couple things that we
+
+0:30:22.960,0:30:25.679
+still need to fix so i think my game got
+
+0:30:24.720,0:30:28.559
+a lot easier
+
+0:30:25.679,0:30:29.120
+uh which is good um but i think that my
+
+0:30:28.559,0:30:31.360
+game is
+
+0:30:29.120,0:30:34.960
+is just a little boring right so the
+
+0:30:31.360,0:30:37.679
+cactus come out at exactly the same time
+
+0:30:34.960,0:30:39.200
+they run at exactly the same speed um
+
+0:30:37.679,0:30:40.480
+there's a good chance that i could play
+
+0:30:39.200,0:30:42.720
+this game forever
+
+0:30:40.480,0:30:44.240
+um and so i know i'm not actually
+
+0:30:42.720,0:30:45.279
+hitting me up but i'm pretending like i
+
+0:30:44.240,0:30:47.840
+would be hitting them
+
+0:30:45.279,0:30:49.200
+so i want to make my game more fun uh
+
+0:30:47.840,0:30:50.960
+and so as the software design
+
+0:30:49.200,0:30:53.120
+developer it's up to you to make a game
+
+0:30:50.960,0:30:54.480
+fun now people are always tempted to
+
+0:30:53.120,0:30:56.240
+make their game impossible
+
+0:30:54.480,0:30:58.080
+right like shoot them out as fast as you
+
+0:30:56.240,0:31:00.480
+can turns out that's not fun
+
+0:30:58.080,0:31:01.120
+um or they make it too easy that's not
+
+0:31:00.480,0:31:02.640
+fun either
+
+0:31:01.120,0:31:05.440
+you've got to pick the right amount of
+
+0:31:02.640,0:31:07.440
+hard so to make my game more fun i'm
+
+0:31:05.440,0:31:09.279
+going to introduce some randomness
+
+0:31:07.440,0:31:10.559
+so instead of making them every four
+
+0:31:09.279,0:31:12.960
+seconds
+
+0:31:10.559,0:31:13.840
+i'm gonna pick a random number to where
+
+0:31:12.960,0:31:16.559
+it's like
+
+0:31:13.840,0:31:18.000
+two to five seconds right or maybe two
+
+0:31:16.559,0:31:19.519
+to four is plenty
+
+0:31:18.000,0:31:21.360
+that way they're going to come out at
+
+0:31:19.519,0:31:24.080
+different intervals so you never really
+
+0:31:21.360,0:31:26.000
+know how often to expect them
+
+0:31:24.080,0:31:27.279
+and their speed instead of making it
+
+0:31:26.000,0:31:30.240
+always be three
+
+0:31:27.279,0:31:31.279
+i'm going to make it variable as well
+
+0:31:30.240,0:31:32.720
+now you can't
+
+0:31:31.279,0:31:34.000
+what you want to do is you i know you
+
+0:31:32.720,0:31:35.360
+want to put this right there but don't
+
+0:31:34.000,0:31:37.440
+do that because that would mean
+
+0:31:35.360,0:31:39.519
+that like he just changes the speed all
+
+0:31:37.440,0:31:41.039
+the time we want to make a variable for
+
+0:31:39.519,0:31:42.399
+him so that you can set it once and then
+
+0:31:41.039,0:31:47.600
+he'll always be that speed
+
+0:31:42.399,0:31:49.760
+so go to variables uh make a variable
+
+0:31:47.600,0:31:51.600
+this time we definitely want to check
+
+0:31:49.760,0:31:53.519
+for this sprite only
+
+0:31:51.600,0:31:55.279
+this is important because then each
+
+0:31:53.519,0:31:58.640
+clone can have its own speed
+
+0:31:55.279,0:31:58.640
+and i'm just going to call it speed
+
+0:31:58.840,0:32:04.399
+speed so for this sprite only speed and
+
+0:32:02.640,0:32:07.440
+this is on my cactus this is the thing
+
+0:32:04.399,0:32:11.039
+that's being jumped over
+
+0:32:07.440,0:32:13.039
+and i'm going to set speed
+
+0:32:11.039,0:32:14.240
+at the top make sure you get the right
+
+0:32:13.039,0:32:14.720
+variable because like i don't want to
+
+0:32:14.240,0:32:17.279
+change
+
+0:32:14.720,0:32:19.039
+full speed that's not my job here um and
+
+0:32:17.279,0:32:22.960
+i'm going to set it to
+
+0:32:19.039,0:32:24.240
+some random value so you can see before
+
+0:32:22.960,0:32:27.039
+it was negative 3
+
+0:32:24.240,0:32:28.399
+um so i'll go from i don't know maybe
+
+0:32:27.039,0:32:30.640
+negative five
+
+0:32:28.399,0:32:32.000
+to negative two i don't know it just
+
+0:32:30.640,0:32:33.440
+depends on what's fun maybe i'll go in
+
+0:32:32.000,0:32:34.399
+even bigger range negative six to
+
+0:32:33.440,0:32:35.840
+negative two so
+
+0:32:34.399,0:32:37.840
+some of them are gonna shoot out like
+
+0:32:35.840,0:32:38.880
+fireballs and then others are gonna be
+
+0:32:37.840,0:32:40.480
+pokey
+
+0:32:38.880,0:32:42.399
+and they might even like overlap in
+
+0:32:40.480,0:32:45.600
+crazy ways so
+
+0:32:42.399,0:32:48.240
+i created this variable called speed
+
+0:32:45.600,0:32:49.279
+i set it to a random number now i need
+
+0:32:48.240,0:32:52.320
+to use it
+
+0:32:49.279,0:32:54.880
+so i'm going to use speed right
+
+0:32:52.320,0:32:56.000
+inside here and notice that it's
+
+0:32:54.880,0:32:58.480
+negative so it's going to move
+
+0:32:56.000,0:33:01.919
+to the left i don't need to show it up
+
+0:32:58.480,0:33:04.159
+here so i'm going to uncheck this box
+
+0:33:01.919,0:33:05.840
+and now i can see if my game is actually
+
+0:33:04.159,0:33:08.000
+fun and playable
+
+0:33:05.840,0:33:09.039
+again i can't die in it but that's okay
+
+0:33:08.000,0:33:10.640
+it's a good way
+
+0:33:09.039,0:33:12.320
+to kind of learn things so you can see
+
+0:33:10.640,0:33:14.960
+that that guy came out uh
+
+0:33:12.320,0:33:16.480
+slow and pokey um and so i had two
+
+0:33:14.960,0:33:18.720
+really slow and pokey
+
+0:33:16.480,0:33:20.080
+that was actually kind of impossible uh
+
+0:33:18.720,0:33:23.279
+but that's okay
+
+0:33:20.080,0:33:24.000
+um i think that for me uh the game might
+
+0:33:23.279,0:33:25.840
+be fun right
+
+0:33:24.000,0:33:27.200
+now so occasionally there's things that
+
+0:33:25.840,0:33:28.720
+happen that make it really hard so
+
+0:33:27.200,0:33:30.640
+there's a slow one
+
+0:33:28.720,0:33:33.440
+um oh and then there's a fast one right
+
+0:33:30.640,0:33:36.240
+after i think for me that's a good
+
+0:33:33.440,0:33:38.159
+um level of difficulty you can play
+
+0:33:36.240,0:33:39.440
+yours and you can decide what is what is
+
+0:33:38.159,0:33:41.360
+appropriate for you
+
+0:33:39.440,0:33:42.559
+right is it too easy is it too hard
+
+0:33:41.360,0:33:42.960
+because you don't want to play for an
+
+0:33:42.559,0:33:45.120
+hour
+
+0:33:42.960,0:33:46.880
+right but you also want to have a chance
+
+0:33:45.120,0:33:48.880
+uh there i had to do a double jump
+
+0:33:46.880,0:33:50.559
+all right i think mine's good um all
+
+0:33:48.880,0:33:51.039
+right so what we need to do next let's
+
+0:33:50.559,0:33:52.080
+hide
+
+0:33:51.039,0:33:53.600
+you can see how there's like a little
+
+0:33:52.080,0:33:54.720
+cactus hanging over here that's the
+
+0:33:53.600,0:33:56.640
+original right
+
+0:33:54.720,0:33:58.960
+so whenever you use clones like this
+
+0:33:56.640,0:34:00.799
+it's very common to hide the original
+
+0:33:58.960,0:34:03.519
+um and so you can see that now there's
+
+0:34:00.799,0:34:04.799
+no like little cactus over there
+
+0:34:03.519,0:34:06.799
+all right i think the next thing i want
+
+0:34:04.799,0:34:08.320
+to do is i want to
+
+0:34:06.799,0:34:11.359
+make it to where if i actually hit a
+
+0:34:08.320,0:34:13.119
+cactus something bad happens
+
+0:34:11.359,0:34:15.119
+or whenever it gets over here something
+
+0:34:13.119,0:34:17.040
+good happens either one
+
+0:34:15.119,0:34:18.320
+could be implemented next and that's
+
+0:34:17.040,0:34:21.119
+code that's going to happen
+
+0:34:18.320,0:34:21.919
+inside the cactus so inside the cactus
+
+0:34:21.119,0:34:25.359
+we really need
+
+0:34:21.919,0:34:27.119
+two if statements so we're going to say
+
+0:34:25.359,0:34:29.119
+i'm in in my cactus the thing that's
+
+0:34:27.119,0:34:31.839
+getting jumped over i'm going to add two
+
+0:34:29.119,0:34:31.839
+if statements
+
+0:34:32.000,0:34:35.119
+because i want to check to see if i made
+
+0:34:33.599,0:34:38.960
+it to the edge um
+
+0:34:35.119,0:34:40.879
+or if i've hit the the hero right
+
+0:34:38.960,0:34:42.159
+so let's go ahead and do the edge first
+
+0:34:40.879,0:34:45.440
+it doesn't really matter
+
+0:34:42.159,0:34:49.839
+so the edge we're going to see if our x
+
+0:34:45.440,0:34:51.280
+value has gotten less than some number
+
+0:34:49.839,0:34:54.320
+so if you remember the screen it goes
+
+0:34:51.280,0:34:58.000
+from positive 180 to negative 180
+
+0:34:54.320,0:35:01.119
+and so if my x value gets below like
+
+0:34:58.000,0:35:04.880
+somewhere over here i'm going to say
+
+0:35:01.119,0:35:06.800
+negative i don't know 160.
+
+0:35:04.880,0:35:07.920
+i don't want to do 180 because because
+
+0:35:06.800,0:35:10.079
+you can see how
+
+0:35:07.920,0:35:11.680
+the cactus don't quite get to the very
+
+0:35:10.079,0:35:13.760
+edge they actually like
+
+0:35:11.680,0:35:15.280
+stop before they get too far so you
+
+0:35:13.760,0:35:17.440
+could play with it
+
+0:35:15.280,0:35:19.839
+but i think that 160 is probably going
+
+0:35:17.440,0:35:22.800
+to be safe enough once they're past 160
+
+0:35:19.839,0:35:23.280
+it's safe to delete them right so i want
+
+0:35:22.800,0:35:26.880
+to see
+
+0:35:23.280,0:35:27.680
+if their x value so the x value is in
+
+0:35:26.880,0:35:31.040
+motion
+
+0:35:27.680,0:35:33.599
+x position so if the cactus
+
+0:35:31.040,0:35:34.400
+x position is ever less than negative
+
+0:35:33.599,0:35:35.920
+160
+
+0:35:34.400,0:35:37.440
+it means it's gotten all the way to the
+
+0:35:35.920,0:35:39.920
+left then i want to
+
+0:35:37.440,0:35:40.480
+score points and i want to play a little
+
+0:35:39.920,0:35:43.200
+sound
+
+0:35:40.480,0:35:44.000
+just to let them know they did good uh
+
+0:35:43.200,0:35:46.240
+the order doesn't
+
+0:35:44.000,0:35:48.640
+matter um i'm going to play a sound
+
+0:35:46.240,0:35:50.400
+first the sound that i want to play
+
+0:35:48.640,0:35:52.720
+i'm going to have to add a sound called
+
+0:35:50.400,0:35:52.720
+coin
+
+0:35:54.480,0:35:58.480
+and so i've now added the sound coin to
+
+0:35:56.560,0:35:59.280
+my sound library now i can use it in my
+
+0:35:58.480,0:36:01.440
+code
+
+0:35:59.280,0:36:02.560
+so i'm just going to say start sound
+
+0:36:01.440,0:36:05.599
+coin
+
+0:36:02.560,0:36:07.200
+sometimes you want to start sound or
+
+0:36:05.599,0:36:09.680
+play sound until done
+
+0:36:07.200,0:36:11.280
+other times you just want to start it i
+
+0:36:09.680,0:36:12.000
+don't think it matters this time i'll
+
+0:36:11.280,0:36:14.400
+tell you what we'll
+
+0:36:12.000,0:36:15.520
+switch it to play until done that'll
+
+0:36:14.400,0:36:16.640
+actually be better because i'm going to
+
+0:36:15.520,0:36:18.720
+delete it
+
+0:36:16.640,0:36:20.240
+as soon as the sound finishes so this
+
+0:36:18.720,0:36:21.040
+will help me make sure that the sound
+
+0:36:20.240,0:36:23.920
+finishes
+
+0:36:21.040,0:36:24.480
+so i did switch it to play sound coin
+
+0:36:23.920,0:36:27.040
+until
+
+0:36:24.480,0:36:28.800
+done and then as soon as it's done i
+
+0:36:27.040,0:36:31.520
+want to score a point
+
+0:36:28.800,0:36:34.480
+so i go to variables i'm going to have
+
+0:36:31.520,0:36:36.240
+to make a variable called score
+
+0:36:34.480,0:36:38.720
+this one is going to be visible on the
+
+0:36:36.240,0:36:40.320
+screen and so i'm going to make it for
+
+0:36:38.720,0:36:42.160
+all sprites
+
+0:36:40.320,0:36:44.000
+and i'm going to make it pretty because
+
+0:36:42.160,0:36:45.680
+it's going to be visible on the screen
+
+0:36:44.000,0:36:47.440
+so that i've got full speed and i've got
+
+0:36:45.680,0:36:49.119
+score
+
+0:36:47.440,0:36:50.400
+by the way if you don't want full speed
+
+0:36:49.119,0:36:52.560
+visible anymore i think we're kind of
+
+0:36:50.400,0:36:54.000
+past that you can hide it if you want
+
+0:36:52.560,0:36:56.240
+that's that's up to you whichever
+
+0:36:54.000,0:36:58.160
+whatever you prefer
+
+0:36:56.240,0:37:00.560
+um and so now i've got this variable
+
+0:36:58.160,0:37:02.800
+score um i'm going to need to do
+
+0:37:00.560,0:37:04.000
+the different tasks with it i need to
+
+0:37:02.800,0:37:06.800
+set it to zero
+
+0:37:04.000,0:37:09.200
+somewhere and then i need to also
+
+0:37:06.800,0:37:11.119
+increment it somewhere
+
+0:37:09.200,0:37:13.440
+i'm going to choose to increment it
+
+0:37:11.119,0:37:14.880
+right here after i play a coin
+
+0:37:13.440,0:37:17.119
+or before i play a coin it doesn't
+
+0:37:14.880,0:37:21.119
+matter i'll do it before
+
+0:37:17.119,0:37:23.680
+so i'm going to change score by one
+
+0:37:21.119,0:37:24.800
+we also need to set the score to zero
+
+0:37:23.680,0:37:26.880
+somewhere
+
+0:37:24.800,0:37:27.839
+see if you can figure out where would be
+
+0:37:26.880,0:37:29.839
+a good place
+
+0:37:27.839,0:37:31.200
+to set the score to zero so i'll let you
+
+0:37:29.839,0:37:37.839
+see if you can do that on your own see
+
+0:37:31.200,0:37:39.839
+if you can find a good place for it
+
+0:37:37.839,0:37:41.760
+all right so i had to go uh quiz my
+
+0:37:39.839,0:37:44.160
+campers too but the question is um
+
+0:37:41.760,0:37:45.280
+where do you want to set score to zero
+
+0:37:44.160,0:37:47.280
+when the game starts
+
+0:37:45.280,0:37:48.720
+um and it's a trick question because it
+
+0:37:47.280,0:37:51.040
+basically the answer is
+
+0:37:48.720,0:37:51.920
+anywhere except for here right because
+
+0:37:51.040,0:37:53.760
+because here
+
+0:37:51.920,0:37:55.359
+is when i start his clone which happens
+
+0:37:53.760,0:37:57.760
+all the time you want
+
+0:37:55.359,0:37:59.680
+somewhere that happens only one time so
+
+0:37:57.760,0:38:01.760
+you can put it on your hero
+
+0:37:59.680,0:38:03.920
+where he has a wind green flag clicked
+
+0:38:01.760,0:38:05.760
+or you could put it on your stage
+
+0:38:03.920,0:38:08.000
+doesn't matter which one you do
+
+0:38:05.760,0:38:09.839
+but it cannot be in this code so i need
+
+0:38:08.000,0:38:11.839
+to set it to zero
+
+0:38:09.839,0:38:13.200
+in one of these places so i'm gonna put
+
+0:38:11.839,0:38:15.200
+it on my stage
+
+0:38:13.200,0:38:17.119
+but it works just as well on your hero
+
+0:38:15.200,0:38:20.160
+sprite so i'm gonna say
+
+0:38:17.119,0:38:22.480
+set score to zero all right back to my
+
+0:38:20.160,0:38:26.000
+code on the cactus
+
+0:38:22.480,0:38:29.280
+all right so i say change score by one
+
+0:38:26.000,0:38:31.440
+play the coin sound until done and then
+
+0:38:29.280,0:38:34.720
+the last thing i want to do is i want to
+
+0:38:31.440,0:38:37.359
+delete this clone so i'm i'm done with
+
+0:38:34.720,0:38:40.640
+them right so i can delete this clone
+
+0:38:37.359,0:38:42.480
+so i go ahead and hit play and so now
+
+0:38:40.640,0:38:43.920
+whenever they get to the edge they
+
+0:38:42.480,0:38:46.000
+should disappear
+
+0:38:43.920,0:38:47.040
+i can see that 160 was actually a little
+
+0:38:46.000,0:38:48.480
+conservative
+
+0:38:47.040,0:38:50.400
+um maybe i should have picked that
+
+0:38:48.480,0:38:52.079
+better let me just see
+
+0:38:50.400,0:38:54.320
+i'm going to make my cactus visible for
+
+0:38:52.079,0:38:57.839
+just a minute if i wanted i could
+
+0:38:54.320,0:39:00.880
+probably let them go until there
+
+0:38:57.839,0:39:03.440
+negative two four two
+
+0:39:00.880,0:39:05.200
+oh i know what i did wrong the x goes to
+
+0:39:03.440,0:39:08.320
+negative two forty whoops
+
+0:39:05.200,0:39:11.760
+so yeah so 160 was just straight ah
+
+0:39:08.320,0:39:14.800
+negative 160 was just the wrong number
+
+0:39:11.760,0:39:18.160
+um so i should have done like negative
+
+0:39:14.800,0:39:20.400
+um 2 um 30.
+
+0:39:18.160,0:39:22.800
+negative 230 be good all right so that
+
+0:39:20.400,0:39:24.240
+hopefully uh fixes my problem
+
+0:39:22.800,0:39:25.680
+um and then of course i showed my
+
+0:39:24.240,0:39:27.200
+original again so i've got to get rid of
+
+0:39:25.680,0:39:28.480
+my original
+
+0:39:27.200,0:39:31.440
+but that that seems like it's working
+
+0:39:28.480,0:39:32.880
+pretty well all right my original
+
+0:39:31.440,0:39:34.480
+the funny thing is is it doesn't even
+
+0:39:32.880,0:39:36.720
+matter where your original is
+
+0:39:34.480,0:39:38.000
+i'm going to plant my original up here
+
+0:39:36.720,0:39:39.680
+and hide him
+
+0:39:38.000,0:39:42.079
+because it doesn't matter where he's at
+
+0:39:39.680,0:39:43.599
+because he's hidden anyway
+
+0:39:42.079,0:39:46.160
+cool so i think mine is working pretty
+
+0:39:43.599,0:39:49.280
+well my coin sound is super loud
+
+0:39:46.160,0:39:50.320
+uh but that's fine and so every time it
+
+0:39:49.280,0:39:52.480
+gets over there
+
+0:39:50.320,0:39:54.160
+you can see it scores a point and it
+
+0:39:52.480,0:39:55.440
+plays the coin sound
+
+0:39:54.160,0:39:57.599
+now the next thing i want to do is i
+
+0:39:55.440,0:39:59.760
+want to make it actually like hit my
+
+0:39:57.599,0:40:01.520
+dinosaur
+
+0:39:59.760,0:40:02.880
+so i'm going to need to add code to do
+
+0:40:01.520,0:40:06.560
+that
+
+0:40:02.880,0:40:07.680
+so i'm going to say if i'm hitting my
+
+0:40:06.560,0:40:10.240
+dinosaur
+
+0:40:07.680,0:40:10.800
+then something happens and the thing i
+
+0:40:10.240,0:40:12.640
+want to do
+
+0:40:10.800,0:40:14.560
+is i want to go to sensing
+
+0:40:12.640,0:40:17.839
+[Music]
+
+0:40:14.560,0:40:19.359
+and i want to grab touching and right
+
+0:40:17.839,0:40:21.359
+now it says mouse pointer but i want to
+
+0:40:19.359,0:40:24.560
+switch that to whatever my hero is
+
+0:40:21.359,0:40:27.440
+so touching dinosaur 4.
+
+0:40:24.560,0:40:29.200
+now whenever we hit the hero which my
+
+0:40:27.440,0:40:30.720
+heroes called dinosaur 4
+
+0:40:29.200,0:40:32.400
+i don't like that name i wish i was just
+
+0:40:30.720,0:40:34.319
+called dinosaur
+
+0:40:32.400,0:40:35.680
+so i could change that so now whenever
+
+0:40:34.319,0:40:37.680
+i'm touching the dinosaur
+
+0:40:35.680,0:40:39.839
+what do i want to have happen well i
+
+0:40:37.680,0:40:40.640
+really just want to broadcast an event
+
+0:40:39.839,0:40:43.359
+so i want to tell
+
+0:40:40.640,0:40:44.640
+all the rest of the world i just hit the
+
+0:40:43.359,0:40:45.440
+dinosaur right so we're just going to
+
+0:40:44.640,0:40:49.920
+broadcast
+
+0:40:45.440,0:40:52.880
+hit is our plan so that's in events
+
+0:40:49.920,0:40:53.280
+and we're going to broadcast the message
+
+0:40:52.880,0:40:56.560
+um
+
+0:40:53.280,0:40:57.839
+and i'm going to type in hit if you want
+
+0:40:56.560,0:40:58.880
+to type in a slightly different name
+
+0:40:57.839,0:41:01.280
+that's fine
+
+0:40:58.880,0:41:02.240
+but i use hit all the time so we just
+
+0:41:01.280,0:41:06.720
+broadcast
+
+0:41:02.240,0:41:09.680
+hit and then every single sprite
+
+0:41:06.720,0:41:12.800
+is gonna listen for hits the way you
+
+0:41:09.680,0:41:16.160
+listen for hit is you say when i receive
+
+0:41:12.800,0:41:16.880
+um hit and one of the most common things
+
+0:41:16.160,0:41:19.680
+you do is
+
+0:41:16.880,0:41:22.160
+you stop all your other scripts so i'm
+
+0:41:19.680,0:41:24.560
+going to actually come down to
+
+0:41:22.160,0:41:25.760
+it says stop all i find this confusing
+
+0:41:24.560,0:41:28.960
+it says stop all
+
+0:41:25.760,0:41:30.560
+but you switch it to stop other scripts
+
+0:41:28.960,0:41:34.240
+in the sprite
+
+0:41:30.560,0:41:34.880
+so whenever there's a hit all the cactus
+
+0:41:34.240,0:41:36.800
+clones
+
+0:41:34.880,0:41:38.160
+they're gonna all stop their other
+
+0:41:36.800,0:41:39.040
+script so stop what you were doing
+
+0:41:38.160,0:41:41.520
+before
+
+0:41:39.040,0:41:42.880
+these two lines actually need to be in
+
+0:41:41.520,0:41:44.880
+everybody's code
+
+0:41:42.880,0:41:47.280
+um one way that i like to copy is that
+
+0:41:44.880,0:41:49.520
+you can actually just drag and drop it
+
+0:41:47.280,0:41:51.040
+so i can drop it there and now over in
+
+0:41:49.520,0:41:54.079
+my dinosaur
+
+0:41:51.040,0:41:55.599
+there's there's some code in here so he
+
+0:41:54.079,0:41:58.400
+has a when i receive hit
+
+0:41:55.599,0:42:00.880
+stop other scripts i also want to drag
+
+0:41:58.400,0:42:03.359
+and drop it onto the stage
+
+0:42:00.880,0:42:05.040
+so if i go into the stages code he also
+
+0:42:03.359,0:42:07.599
+has it
+
+0:42:05.040,0:42:09.359
+and this is pretty common uh way to use
+
+0:42:07.599,0:42:10.240
+events so whenever somebody broadcasts
+
+0:42:09.359,0:42:12.000
+this event
+
+0:42:10.240,0:42:13.440
+everybody stops what they were doing
+
+0:42:12.000,0:42:16.079
+before
+
+0:42:13.440,0:42:18.000
+including the cactus including the stage
+
+0:42:16.079,0:42:20.560
+including the dinosaur
+
+0:42:18.000,0:42:22.400
+and then it is the end of the game so
+
+0:42:20.560,0:42:25.200
+it'd be good to
+
+0:42:22.400,0:42:27.280
+play some sound to let them know that
+
+0:42:25.200,0:42:30.319
+the game is over
+
+0:42:27.280,0:42:31.680
+so let's go to sound actually i'll
+
+0:42:30.319,0:42:33.040
+probably have to add a sound
+
+0:42:31.680,0:42:35.520
+so you're going to have to add some
+
+0:42:33.040,0:42:38.400
+sound i don't care what sound you add
+
+0:42:35.520,0:42:41.760
+i'm going to go see what dr bob added he
+
+0:42:38.400,0:42:44.960
+added oops so i'm going to add a sound
+
+0:42:41.760,0:42:46.640
+called oops
+
+0:42:44.960,0:42:48.400
+i didn't search for it very well i guess
+
+0:42:46.640,0:42:51.280
+i'll have to manually search for it
+
+0:42:48.400,0:42:53.599
+oops is right here if you want to put in
+
+0:42:51.280,0:42:57.839
+a different sound that's fine
+
+0:42:53.599,0:42:59.680
+but i'm going to play oops until done
+
+0:42:57.839,0:43:04.079
+and then i'm going to
+
+0:42:59.680,0:43:07.839
+stop all so if this works
+
+0:43:04.079,0:43:11.119
+my game should be complete so i'm now
+
+0:43:07.839,0:43:12.160
+able to jump over a cactus and score
+
+0:43:11.119,0:43:14.000
+points
+
+0:43:12.160,0:43:16.560
+but if i run into a cactus i'm going to
+
+0:43:14.000,0:43:18.960
+run into the next one
+
+0:43:16.560,0:43:19.839
+it does the oops and then it ends the
+
+0:43:18.960,0:43:22.720
+game
+
+0:43:19.839,0:43:24.079
+so i'm actually done with my game which
+
+0:43:22.720,0:43:26.079
+is cool
+
+0:43:24.079,0:43:27.200
+when i finish a game uh what i like to
+
+0:43:26.079,0:43:30.720
+do is i like to click on
+
+0:43:27.200,0:43:34.560
+share and that makes my public page
+
+0:43:30.720,0:43:38.319
+and i'll say use the arrow keys
+
+0:43:34.560,0:43:38.319
+to move left and right
+
+0:43:38.800,0:43:43.920
+and then i'll say use spacebar uh to
+
+0:43:42.319,0:43:45.839
+jump
+
+0:43:43.920,0:43:47.119
+and i like to put in some instructions
+
+0:43:45.839,0:43:49.040
+uh for my users
+
+0:43:47.119,0:43:51.359
+and now i've got this url that i can
+
+0:43:49.040,0:43:53.680
+send to friends and family
+
+0:43:51.359,0:43:55.920
+all right so i think my game is done um
+
+0:43:53.680,0:43:57.200
+i will probably play it one more time
+
+0:43:55.920,0:43:58.880
+just kind of like make sure that things
+
+0:43:57.200,0:44:00.800
+are good and then i'm going to help my
+
+0:43:58.880,0:44:03.599
+campers finish
+
+0:44:00.800,0:44:05.839
+and then i'm going to show on a video uh
+
+0:44:03.599,0:44:07.839
+what it looks like
+
+0:44:05.839,0:44:09.760
+hopefully yours is coming together all
+
+0:44:07.839,0:44:11.839
+right campers let's see how you did
+
+0:44:09.760,0:44:13.119
+all right mr keegan you're up first what
+
+0:44:11.839,0:44:15.760
+have you got for your game today
+
+0:44:13.119,0:44:17.119
+uh dogs and vacuum cleaners a dog and a
+
+0:44:15.760,0:44:19.280
+vacuum cleaner
+
+0:44:17.119,0:44:22.800
+all right let's see your dog let's see
+
+0:44:19.280,0:44:24.720
+you get over a vacuum cleaner cool
+
+0:44:22.800,0:44:27.200
+what inspired you oh that's a tricky one
+
+0:44:24.720,0:44:29.200
+jump them both nice
+
+0:44:27.200,0:44:31.520
+what inspired you to do dogs and vacuum
+
+0:44:29.200,0:44:34.720
+cleaners
+
+0:44:31.520,0:44:36.560
+looks great bud um i didn't hear a sound
+
+0:44:34.720,0:44:39.359
+when you lo oh no that was your
+
+0:44:36.560,0:44:41.200
+sound wasn't it all right mckinley let's
+
+0:44:39.359,0:44:43.680
+see what you've got today
+
+0:44:41.200,0:44:45.760
+so this one's mine i modified it so i
+
+0:44:43.680,0:44:46.079
+don't press space to jump i press the up
+
+0:44:45.760,0:44:48.319
+key
+
+0:44:46.079,0:44:50.400
+so that my fingers can just be over here
+
+0:44:48.319,0:44:52.720
+so you've got a hummingbird
+
+0:44:50.400,0:44:53.920
+uh jumping over snake enemies which is
+
+0:44:52.720,0:44:56.319
+cool
+
+0:44:53.920,0:44:58.000
+and then yours is set with the uh the
+
+0:44:56.319,0:45:04.079
+release interval oh man this is probably
+
+0:44:58.000,0:45:05.920
+gonna be a tricky one
+
+0:45:04.079,0:45:07.599
+job did you guys enjoy the uh the game
+
+0:45:05.920,0:45:09.359
+today yes
+
+0:45:07.599,0:45:11.280
+do you enjoy the no internet game as
+
+0:45:09.359,0:45:13.520
+well yeah
+
+0:45:11.280,0:45:14.880
+cool nicely done uh all right so the
+
+0:45:13.520,0:45:15.599
+things i kind of wanted to say at the
+
+0:45:14.880,0:45:17.119
+end uh
+
+0:45:15.599,0:45:19.680
+that the main message of this camp is
+
+0:45:17.119,0:45:21.119
+coding is fun and you can do this right
+
+0:45:19.680,0:45:21.920
+it takes a little bit of time it takes
+
+0:45:21.119,0:45:23.680
+practice
+
+0:45:21.920,0:45:26.000
+the more time you put into it the better
+
+0:45:23.680,0:45:27.760
+you get it we also kind of learned again
+
+0:45:26.000,0:45:28.720
+you can use cool math skills to do
+
+0:45:27.760,0:45:30.880
+things
+
+0:45:28.720,0:45:32.160
+this time it was gravity and how to make
+
+0:45:30.880,0:45:33.359
+things look like they're falling
+
+0:45:32.160,0:45:35.839
+appropriately
+
+0:45:33.359,0:45:36.480
+we also learned how to create uh clones
+
+0:45:35.839,0:45:38.400
+again
+
+0:45:36.480,0:45:40.960
+we have one sprite but actually many of
+
+0:45:38.400,0:45:42.480
+them and how broadcasting events can be
+
+0:45:40.960,0:45:44.240
+used to communicate
+
+0:45:42.480,0:45:52.640
+thanks for joining us we look forward to
+
+0:45:44.240,0:45:52.640
+seeing you again tomorrow bye
+

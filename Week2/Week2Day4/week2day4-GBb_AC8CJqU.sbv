@@ -1,0 +1,6951 @@
+0:00:00.390,0:00:06.160
+[Music]
+
+0:00:04.799,0:00:09.519
+hey hey welcome back
+
+0:00:06.160,0:00:10.160
+it is day four uh of our week two coding
+
+0:00:09.519,0:00:12.160
+camp
+
+0:00:10.160,0:00:14.160
+uh today's activity is going to be
+
+0:00:12.160,0:00:16.720
+called slide puzzle
+
+0:00:14.160,0:00:18.080
+i'm here with my campers as per usual
+
+0:00:16.720,0:00:19.119
+i'll let them go ahead and introduce
+
+0:00:18.080,0:00:22.480
+themselves
+
+0:00:19.119,0:00:24.800
+hello my name is keegan fisher hi
+
+0:00:22.480,0:00:27.359
+i'm mckenley you seem asleep today
+
+0:00:24.800,0:00:30.720
+mckenna are you ready to code today
+
+0:00:27.359,0:00:33.360
+is it too early for you today all right
+
+0:00:30.720,0:00:34.000
+we're uh we're ready to go today uh so
+
+0:00:33.360,0:00:35.920
+today
+
+0:00:34.000,0:00:38.399
+uh is called slide puzzle uh and it's
+
+0:00:35.920,0:00:41.120
+gonna start just a little bit different
+
+0:00:38.399,0:00:42.800
+in that i normally show you the solution
+
+0:00:41.120,0:00:44.480
+uh but today what i want you to do is i
+
+0:00:42.800,0:00:45.520
+want you to open the solution and play
+
+0:00:44.480,0:00:47.920
+with it
+
+0:00:45.520,0:00:50.160
+and so the the link is uh is clickable
+
+0:00:47.920,0:00:51.600
+there but i think it's probably easiest
+
+0:00:50.160,0:00:53.520
+if you just kind of look at the real
+
+0:00:51.600,0:00:54.800
+link so i'm going to make this link
+
+0:00:53.520,0:00:56.719
+available below the
+
+0:00:54.800,0:00:59.359
+the video in the email also on the
+
+0:00:56.719,0:01:00.879
+website but worst case scenario you can
+
+0:00:59.359,0:01:03.199
+look at my screen and type it here so
+
+0:01:00.879,0:01:07.360
+it's scratch.mit.edu
+
+0:01:03.199,0:01:07.360
+projects and then this number is
+
+0:01:08.600,0:01:12.799
+537-036-624
+
+0:01:10.479,0:01:14.159
+and this is called a slide puzzle with
+
+0:01:12.799,0:01:16.320
+check solve
+
+0:01:14.159,0:01:18.479
+all right so let's go ahead and uh play
+
+0:01:16.320,0:01:22.880
+this game uh to learn more about it
+
+0:01:18.479,0:01:25.119
+so go ahead and uh hit the green flag
+
+0:01:22.880,0:01:26.880
+um and so what this puzzle is it's
+
+0:01:25.119,0:01:30.079
+called a slide puzzle
+
+0:01:26.880,0:01:31.280
+you click on a piece and you make it go
+
+0:01:30.079,0:01:33.920
+into the gap
+
+0:01:31.280,0:01:36.240
+and your goal is you want to try to get
+
+0:01:33.920,0:01:37.360
+the puzzle to be rearranged properly
+
+0:01:36.240,0:01:40.240
+again
+
+0:01:37.360,0:01:42.000
+so take a minute and play with it and
+
+0:01:40.240,0:01:44.159
+see if you can make progress
+
+0:01:42.000,0:01:46.079
+uh towards getting it rearranged my
+
+0:01:44.159,0:01:47.439
+strategy is i always do the opening row
+
+0:01:46.079,0:01:48.640
+first you'll notice that each of these
+
+0:01:47.439,0:01:50.079
+tiles has kind of
+
+0:01:48.640,0:01:52.159
+got a number on it so you'll know when
+
+0:01:50.079,0:01:53.360
+it's right
+
+0:01:52.159,0:01:54.880
+and then mine's going to actually be
+
+0:01:53.360,0:01:55.439
+pretty easy to solve here just a couple
+
+0:01:54.880,0:01:57.200
+more
+
+0:01:55.439,0:01:58.960
+uh so one more click and i'm gonna solve
+
+0:01:57.200,0:02:01.119
+this thing i can tell so you'll notice
+
+0:01:58.960,0:02:03.520
+that there's a three by three grid
+
+0:02:01.119,0:02:04.320
+uh but there's only eight image tiles
+
+0:02:03.520,0:02:05.840
+present
+
+0:02:04.320,0:02:09.520
+because one has to be gone for the blank
+
+0:02:05.840,0:02:11.680
+but when you solve it
+
+0:02:09.520,0:02:12.800
+it should cheer for you loudly as per
+
+0:02:11.680,0:02:15.760
+usual
+
+0:02:12.800,0:02:16.800
+and then fill in uh that missing blank
+
+0:02:15.760,0:02:18.720
+so take a minute
+
+0:02:16.800,0:02:20.480
+uh and play around with it you'll notice
+
+0:02:18.720,0:02:23.440
+that whenever you hit the green flag
+
+0:02:20.480,0:02:25.280
+it'll kind of shuffle around what we
+
+0:02:23.440,0:02:26.560
+actually want to do first today
+
+0:02:25.280,0:02:28.160
+is we want to show you the game that
+
+0:02:26.560,0:02:28.959
+we're making which is which is this game
+
+0:02:28.160,0:02:30.800
+here
+
+0:02:28.959,0:02:32.239
+but we want to teach you an algorithm
+
+0:02:30.800,0:02:34.640
+for solving it
+
+0:02:32.239,0:02:36.160
+also just kind of like spoiler the goal
+
+0:02:34.640,0:02:37.760
+for today is for you to make your own
+
+0:02:36.160,0:02:39.120
+picture in here so be thinking about
+
+0:02:37.760,0:02:40.319
+what picture
+
+0:02:39.120,0:02:41.840
+you might want to put in here it could
+
+0:02:40.319,0:02:43.440
+be a picture like that you took like
+
+0:02:41.840,0:02:45.200
+with a camera picture
+
+0:02:43.440,0:02:46.640
+or it could be just like some image that
+
+0:02:45.200,0:02:49.599
+you enjoy doing
+
+0:02:46.640,0:02:51.280
+so let's learn um an algorithm for
+
+0:02:49.599,0:02:52.480
+trying to solve this thing
+
+0:02:51.280,0:02:54.800
+so i'm going to go over to the slides
+
+0:02:52.480,0:02:57.440
+here so the algorithm
+
+0:02:54.800,0:03:00.000
+um that we're trying to figure out is
+
+0:02:57.440,0:03:00.959
+how to solve this one row at a time
+
+0:03:00.000,0:03:03.200
+and so i'm just going to tell you the
+
+0:03:00.959,0:03:05.200
+big picture so the the first few steps
+
+0:03:03.200,0:03:07.360
+are designed to help you get
+
+0:03:05.200,0:03:08.720
+tiles one two and three correct so
+
+0:03:07.360,0:03:10.400
+that's that's the focus
+
+0:03:08.720,0:03:12.080
+whenever you're working on tiles one two
+
+0:03:10.400,0:03:13.040
+and three you also need the row below it
+
+0:03:12.080,0:03:14.720
+to get ready
+
+0:03:13.040,0:03:16.159
+this algorithm will work no matter how
+
+0:03:14.720,0:03:18.239
+big the puzzle is right so you've got
+
+0:03:16.159,0:03:19.599
+one row you're trying to solve for
+
+0:03:18.239,0:03:21.760
+and then the row you're kind of working
+
+0:03:19.599,0:03:23.120
+with below it and ultimately you're
+
+0:03:21.760,0:03:25.120
+trying to get them
+
+0:03:23.120,0:03:27.120
+one two and three together but we're
+
+0:03:25.120,0:03:28.480
+going to kind of stage them starting in
+
+0:03:27.120,0:03:30.799
+location six which is kind of the
+
+0:03:28.480,0:03:32.159
+opposite corner so here's the solving
+
+0:03:30.799,0:03:34.640
+strategy we're going to do
+
+0:03:32.159,0:03:36.159
+get tile number one so this is tile
+
+0:03:34.640,0:03:36.720
+number one the one that's got it one on
+
+0:03:36.159,0:03:39.120
+it
+
+0:03:36.720,0:03:40.480
+into location six and so you can see
+
+0:03:39.120,0:03:42.239
+we've numbered the locations one two
+
+0:03:40.480,0:03:44.400
+three four five six seven eight nine
+
+0:03:42.239,0:03:46.640
+so we want to get tile one into location
+
+0:03:44.400,0:03:49.120
+six making sure that tiles
+
+0:03:46.640,0:03:50.080
+two isn't like stuck in positions three
+
+0:03:49.120,0:03:52.000
+or six
+
+0:03:50.080,0:03:53.760
+so uh go ahead and do that i'll go ahead
+
+0:03:52.000,0:03:55.519
+and do mine as well
+
+0:03:53.760,0:03:57.120
+so i can see that that tile two is
+
+0:03:55.519,0:03:58.400
+somewhere way over here so he's way out
+
+0:03:57.120,0:03:59.439
+of the way so i'm not even worried about
+
+0:03:58.400,0:04:01.519
+him
+
+0:03:59.439,0:04:03.200
+and then i'm just going to get tile one
+
+0:04:01.519,0:04:04.799
+so this is tile one right here into
+
+0:04:03.200,0:04:06.720
+location six
+
+0:04:04.799,0:04:08.799
+making sure that tile two isn't trapped
+
+0:04:06.720,0:04:11.120
+so tile two is is not trapped
+
+0:04:08.799,0:04:12.560
+um trapped would be like so see how tile
+
+0:04:11.120,0:04:13.439
+five here is kind of like trapped up
+
+0:04:12.560,0:04:14.879
+there
+
+0:04:13.439,0:04:16.799
+and tile six it's kind of like trapped
+
+0:04:14.879,0:04:18.160
+down here so long as tile two
+
+0:04:16.799,0:04:19.919
+isn't like that you should be in good
+
+0:04:18.160,0:04:22.000
+shape
+
+0:04:19.919,0:04:23.120
+the next step after this this is the
+
+0:04:22.000,0:04:24.639
+algorithm
+
+0:04:23.120,0:04:26.880
+by the way has anybody ever solved a
+
+0:04:24.639,0:04:28.720
+rubik's cube i know that my kids have
+
+0:04:26.880,0:04:30.160
+rubik's cubes are really tricky and so
+
+0:04:28.720,0:04:31.520
+like you can just play with rubik's
+
+0:04:30.160,0:04:33.199
+cubes to your heart's content but you
+
+0:04:31.520,0:04:35.040
+may not ever make progress
+
+0:04:33.199,0:04:36.479
+but if you have one of these algorithms
+
+0:04:35.040,0:04:38.639
+for solving a rubik's cube
+
+0:04:36.479,0:04:40.000
+you'll probably be successful and since
+
+0:04:38.639,0:04:42.000
+this is a coding camp
+
+0:04:40.000,0:04:43.520
+being able to implement algorithms is is
+
+0:04:42.000,0:04:45.840
+good for us to learn anyway
+
+0:04:43.520,0:04:48.240
+so the first step in the algorithm is to
+
+0:04:45.840,0:04:50.160
+get tile 1 to location 6.
+
+0:04:48.240,0:04:51.280
+the next step in the algorithm is pretty
+
+0:04:50.160,0:04:54.560
+easy move
+
+0:04:51.280,0:04:58.000
+tile 2 into location 5. so i just want
+
+0:04:54.560,0:05:00.080
+to get tile 2 to be right next to it
+
+0:04:58.000,0:05:02.240
+and this may seem kind of weird at first
+
+0:05:00.080,0:05:03.840
+but you'll hopefully understand the
+
+0:05:02.240,0:05:05.440
+the reasons behind this but we're trying
+
+0:05:03.840,0:05:06.880
+to stage these tile
+
+0:05:05.440,0:05:08.960
+1 2 because we're trying to like get
+
+0:05:06.880,0:05:10.560
+this top row together all right so i've
+
+0:05:08.960,0:05:13.280
+got tile 2 in the middle looks like my
+
+0:05:10.560,0:05:15.039
+campers are caught up so that's good
+
+0:05:13.280,0:05:17.600
+uh the next step is we want to kind of
+
+0:05:15.039,0:05:20.320
+slide one and two around a little bit
+
+0:05:17.600,0:05:21.360
+so tile one you can see had to go up one
+
+0:05:20.320,0:05:24.400
+spot
+
+0:05:21.360,0:05:26.240
+tile two had to like follow it around
+
+0:05:24.400,0:05:28.320
+and do that and make sure that tile
+
+0:05:26.240,0:05:31.440
+three is not like stuck in the bottom
+
+0:05:28.320,0:05:32.720
+uh when you do this maneuver so first
+
+0:05:31.440,0:05:34.000
+i'm gonna find tile three
+
+0:05:32.720,0:05:36.160
+uh so it looks like he's way over here
+
+0:05:34.000,0:05:37.840
+so he's actually in good shape for me
+
+0:05:36.160,0:05:39.199
+if he was stuck like down here in
+
+0:05:37.840,0:05:40.560
+location six i would kind of have to
+
+0:05:39.199,0:05:43.360
+move him out first
+
+0:05:40.560,0:05:45.120
+but i want to move tile one up and tile
+
+0:05:43.360,0:05:46.960
+two over
+
+0:05:45.120,0:05:48.160
+making sure that tile three isn't stuck
+
+0:05:46.960,0:05:50.400
+so you can kind of see how
+
+0:05:48.160,0:05:51.600
+um six would be stuck in position nine
+
+0:05:50.400,0:05:52.960
+here like you couldn't get it out of
+
+0:05:51.600,0:05:54.639
+there
+
+0:05:52.960,0:05:57.440
+alright so now i'm ready for the next
+
+0:05:54.639,0:05:59.840
+step so i want to move tile three
+
+0:05:57.440,0:06:02.400
+into the middle uh so tile three needs
+
+0:05:59.840,0:06:03.759
+to go to that position five
+
+0:06:02.400,0:06:07.520
+this step should hopefully be a pretty
+
+0:06:03.759,0:06:09.360
+easy step presuming it was not stuck
+
+0:06:07.520,0:06:10.560
+so now i've kind of got one two three
+
+0:06:09.360,0:06:13.280
+they're kind of like a train
+
+0:06:10.560,0:06:13.840
+right so this train is ready to to move
+
+0:06:13.280,0:06:16.240
+around
+
+0:06:13.840,0:06:18.080
+the station by the way if i ever go too
+
+0:06:16.240,0:06:19.919
+fast just pause the video that's the
+
+0:06:18.080,0:06:22.000
+advantage of videos
+
+0:06:19.919,0:06:23.600
+so now with the train ready to move
+
+0:06:22.000,0:06:26.240
+around the bin
+
+0:06:23.600,0:06:28.479
+you just need to one by one march the
+
+0:06:26.240,0:06:30.560
+tiles one two and three around
+
+0:06:28.479,0:06:32.400
+such that tiles one two and three are in
+
+0:06:30.560,0:06:33.520
+locations one two and three
+
+0:06:32.400,0:06:36.080
+so i'm gonna go ahead and do that so i'm
+
+0:06:33.520,0:06:39.120
+just going to kind of merge them around
+
+0:06:36.080,0:06:41.840
+march march march march march uh now
+
+0:06:39.120,0:06:43.680
+one two and three are all correct the
+
+0:06:41.840,0:06:45.120
+way this algorithm works is it's very
+
+0:06:43.680,0:06:47.520
+like procedural
+
+0:06:45.120,0:06:49.360
+and so now we just finished that row now
+
+0:06:47.520,0:06:51.039
+we're ready for the next row down
+
+0:06:49.360,0:06:52.880
+and again this this algorithm would work
+
+0:06:51.039,0:06:54.720
+no matter how big this was if it was a
+
+0:06:52.880,0:06:56.400
+four by four it would work just the same
+
+0:06:54.720,0:06:58.479
+right you just have these um
+
+0:06:56.400,0:07:00.240
+like two rows at a time so now we're
+
+0:06:58.479,0:07:01.360
+going to try to solve the next row four
+
+0:07:00.240,0:07:03.039
+five and six
+
+0:07:01.360,0:07:05.360
+and we're going to use the row below it
+
+0:07:03.039,0:07:08.479
+as kind of like a helper
+
+0:07:05.360,0:07:11.360
+and the first step is to get uh tile
+
+0:07:08.479,0:07:11.919
+four uh to the lower right corner this
+
+0:07:11.360,0:07:13.440
+is actually
+
+0:07:11.919,0:07:16.160
+the same kind of thing we did before so
+
+0:07:13.440,0:07:18.479
+like before tile one started in position
+
+0:07:16.160,0:07:20.720
+6. and so this kind of like starts in
+
+0:07:18.479,0:07:22.800
+the opposite corner right
+
+0:07:20.720,0:07:24.080
+make sure that tile 5 is not stuck in
+
+0:07:22.800,0:07:25.680
+location 6.
+
+0:07:24.080,0:07:27.599
+so i'm going to make sure tile 5 is way
+
+0:07:25.680,0:07:30.080
+over here which it is
+
+0:07:27.599,0:07:31.520
+and i'm going to put 4 in the corner
+
+0:07:30.080,0:07:32.720
+great so i've got four in the opposite
+
+0:07:31.520,0:07:35.680
+corner of where it's going
+
+0:07:32.720,0:07:36.240
+and i got five not stuck the next step
+
+0:07:35.680,0:07:38.160
+is to put
+
+0:07:36.240,0:07:39.840
+five next to four this is very similar
+
+0:07:38.160,0:07:40.639
+to what the the thing we did in the row
+
+0:07:39.840,0:07:43.120
+before
+
+0:07:40.639,0:07:45.599
+so i'm going to put five next to four
+
+0:07:43.120,0:07:47.759
+don't even care how it gets there
+
+0:07:45.599,0:07:49.360
+so now i've got four and five down here
+
+0:07:47.759,0:07:52.560
+on the bottom
+
+0:07:49.360,0:07:52.560
+campers you got that cut up
+
+0:07:52.960,0:08:00.080
+and then i'm gonna move four up
+
+0:07:56.160,0:08:03.440
+and five over so i've got to move
+
+0:08:00.080,0:08:04.960
+four up and five over so i've got four
+
+0:08:03.440,0:08:05.919
+and five like the train's ready to go
+
+0:08:04.960,0:08:08.080
+around
+
+0:08:05.919,0:08:10.319
+uh and then i've got got to get tile six
+
+0:08:08.080,0:08:12.319
+into location eight
+
+0:08:10.319,0:08:13.440
+so tile six into location eight that was
+
+0:08:12.319,0:08:15.360
+actually pretty easy
+
+0:08:13.440,0:08:17.280
+and my puzzle is almost done it looks
+
+0:08:15.360,0:08:18.879
+like gibberish but it is almost done
+
+0:08:17.280,0:08:21.599
+because the last thing i have to do is i
+
+0:08:18.879,0:08:23.039
+have to march tiles four five and six
+
+0:08:21.599,0:08:26.000
+around like a train
+
+0:08:23.039,0:08:27.599
+um and then the neat thing is is that
+
+0:08:26.000,0:08:29.199
+seven and eight are guaranteed to be
+
+0:08:27.599,0:08:30.400
+correct which is kind of just neat how
+
+0:08:29.199,0:08:34.000
+it works out right
+
+0:08:30.400,0:08:34.000
+so i'm going to march these around
+
+0:08:34.159,0:08:38.320
+and then you can see that i finished
+
+0:08:39.039,0:08:42.640
+so see if you can do the algorithm again
+
+0:08:40.959,0:08:43.919
+on your own i'm not going to walk
+
+0:08:42.640,0:08:46.240
+through it again
+
+0:08:43.919,0:08:47.200
+but i can hear my camper solving it over
+
+0:08:46.240,0:08:49.279
+there
+
+0:08:47.200,0:08:51.120
+but the the steps and you can pause them
+
+0:08:49.279,0:08:54.160
+as you need is to get
+
+0:08:51.120,0:08:56.080
+tile one to location six i'm making sure
+
+0:08:54.160,0:08:59.040
+that two is not stuck
+
+0:08:56.080,0:09:00.240
+get one and two together uh march one
+
+0:08:59.040,0:09:03.440
+and two up one making sure
+
+0:09:00.240,0:09:04.880
+three isn't stuck putting three on the
+
+0:09:03.440,0:09:07.519
+train wagon
+
+0:09:04.880,0:09:08.000
+and then marching around and then we do
+
+0:09:07.519,0:09:09.839
+the same thing
+
+0:09:08.000,0:09:11.279
+with the next row down we get four which
+
+0:09:09.839,0:09:12.160
+is gonna eventually be up here in the
+
+0:09:11.279,0:09:14.880
+corner
+
+0:09:12.160,0:09:16.880
+making sure five is not stuck get five
+
+0:09:14.880,0:09:20.160
+next to four
+
+0:09:16.880,0:09:22.959
+start marching around get six uh
+
+0:09:20.160,0:09:24.240
+in the train and then you'll solve the
+
+0:09:22.959,0:09:26.720
+puzzle
+
+0:09:24.240,0:09:28.080
+sound good all right so uh hopefully
+
+0:09:26.720,0:09:29.920
+you've practiced that algorithm and
+
+0:09:28.080,0:09:31.440
+you're able to uh to implement that
+
+0:09:29.920,0:09:33.200
+algorithm
+
+0:09:31.440,0:09:34.959
+and you're ready to actually get started
+
+0:09:33.200,0:09:36.560
+today so
+
+0:09:34.959,0:09:38.959
+what we're going to start with is a
+
+0:09:36.560,0:09:42.959
+choice and so this choice
+
+0:09:38.959,0:09:44.800
+is do you want to customize this puzzle
+
+0:09:42.959,0:09:47.600
+or do you want to just remix one that we
+
+0:09:44.800,0:09:49.279
+give you i would recommend that you try
+
+0:09:47.600,0:09:50.560
+to customize this puzzle just because
+
+0:09:49.279,0:09:51.839
+it's more fun
+
+0:09:50.560,0:09:53.760
+so at the end of the day you'll have
+
+0:09:51.839,0:09:54.399
+like your own image and your own slide
+
+0:09:53.760,0:09:56.800
+puzzle
+
+0:09:54.399,0:09:58.480
+and you won't just use mine by the way
+
+0:09:56.800,0:10:01.440
+these uh these two girls
+
+0:09:58.480,0:10:02.640
+these are bob's girls and so this is bob
+
+0:10:01.440,0:10:03.600
+schaefer's family that you're seeing
+
+0:10:02.640,0:10:04.800
+here
+
+0:10:03.600,0:10:07.040
+but i think it'd be fun if it was
+
+0:10:04.800,0:10:08.959
+actually like like your stuff
+
+0:10:07.040,0:10:10.959
+so what i would recommend you do is
+
+0:10:08.959,0:10:11.440
+option number one you find your own
+
+0:10:10.959,0:10:14.240
+image
+
+0:10:11.440,0:10:16.320
+so something that you want to uh to make
+
+0:10:14.240,0:10:18.720
+into a slide puzzle
+
+0:10:16.320,0:10:20.160
+eventually uh we're gonna need nine
+
+0:10:18.720,0:10:21.519
+tiles for this image and we're gonna
+
+0:10:20.160,0:10:25.360
+show you the steps for this
+
+0:10:21.519,0:10:26.800
+where each tile has to be um 120 pixels
+
+0:10:25.360,0:10:29.600
+by 120 pixels
+
+0:10:26.800,0:10:30.160
+it's okay if it's like 119 or 121 but it
+
+0:10:29.600,0:10:31.680
+should be
+
+0:10:30.160,0:10:33.600
+pretty close right and i'm going to show
+
+0:10:31.680,0:10:35.120
+you the steps for that that is what i
+
+0:10:33.600,0:10:36.800
+recommend you do
+
+0:10:35.120,0:10:38.959
+if you don't think that's going to be
+
+0:10:36.800,0:10:40.720
+fun you can always
+
+0:10:38.959,0:10:43.680
+click on this remix link and i'll make
+
+0:10:40.720,0:10:45.519
+this remix link available to you
+
+0:10:43.680,0:10:47.200
+and what you can do is when you click on
+
+0:10:45.519,0:10:48.959
+this link there'll be a big button up
+
+0:10:47.200,0:10:49.440
+here that says remix and you can remix
+
+0:10:48.959,0:10:52.720
+this
+
+0:10:49.440,0:10:56.560
+but it already has these steps done so
+
+0:10:52.720,0:10:58.399
+if you have trouble making your own
+
+0:10:56.560,0:10:59.760
+so that's option three try your best to
+
+0:10:58.399,0:11:01.200
+do option number one but then if it
+
+0:10:59.760,0:11:04.399
+fails do option number
+
+0:11:01.200,0:11:06.640
+number one right all right so let's
+
+0:11:04.399,0:11:08.399
+show you these steps so the first thing
+
+0:11:06.640,0:11:10.480
+you need to do is you need
+
+0:11:08.399,0:11:11.680
+some website tools so there's two steps
+
+0:11:10.480,0:11:14.480
+in this process
+
+0:11:11.680,0:11:15.680
+one step is to resize the image such
+
+0:11:14.480,0:11:17.839
+that when it's chopped up
+
+0:11:15.680,0:11:19.519
+each little tile is 120 by 120 so we
+
+0:11:17.839,0:11:21.440
+need to resize the image
+
+0:11:19.519,0:11:23.440
+and then the second step is to chop it
+
+0:11:21.440,0:11:25.600
+up so i've gone on the internet and i
+
+0:11:23.440,0:11:28.720
+found some tools that do these things
+
+0:11:25.600,0:11:31.839
+so the first tool is simple
+
+0:11:28.720,0:11:33.839
+image resizer so you can if you've got
+
+0:11:31.839,0:11:35.680
+the link you can just click on this link
+
+0:11:33.839,0:11:37.200
+but if you needed to you could just do a
+
+0:11:35.680,0:11:40.560
+google search for
+
+0:11:37.200,0:11:42.760
+simple image resizer
+
+0:11:40.560,0:11:45.360
+hopefully the top hit is
+
+0:11:42.760,0:11:47.440
+simpleimageresizer.com right
+
+0:11:45.360,0:11:49.040
+um and so on this website is where
+
+0:11:47.440,0:11:51.920
+you're going to select your image
+
+0:11:49.040,0:11:52.720
+so now you need uh to pick some image so
+
+0:11:51.920,0:11:54.560
+for me
+
+0:11:52.720,0:11:55.920
+um i've got a lot of different images
+
+0:11:54.560,0:11:57.800
+that i could use i
+
+0:11:55.920,0:11:59.040
+normally i would just go on to like
+
+0:11:57.800,0:12:00.959
+photos.google.com
+
+0:11:59.040,0:12:02.240
+and i would just like find some recent
+
+0:12:00.959,0:12:03.760
+photo that i've done here so here's a
+
+0:12:02.240,0:12:04.720
+cool one with uh keegan the dog
+
+0:12:03.760,0:12:07.600
+yesterday
+
+0:12:04.720,0:12:09.040
+um here's some from our recent birthday
+
+0:12:07.600,0:12:10.880
+party
+
+0:12:09.040,0:12:12.560
+um and so you should somehow for you
+
+0:12:10.880,0:12:13.519
+find one of these images
+
+0:12:12.560,0:12:15.680
+i'll tell you what i'll just go ahead
+
+0:12:13.519,0:12:16.959
+and click on one of these make sure my
+
+0:12:15.680,0:12:20.000
+wife looks good in it
+
+0:12:16.959,0:12:21.279
+and click download and so i'm going to
+
+0:12:20.000,0:12:24.880
+save this into
+
+0:12:21.279,0:12:26.639
+uh fisher birthday so now i've got
+
+0:12:24.880,0:12:29.040
+my image that i'm using you should do
+
+0:12:26.639,0:12:30.880
+your own thing to get your image
+
+0:12:29.040,0:12:32.480
+and then you're going to go into simple
+
+0:12:30.880,0:12:34.000
+image resizer and you're going to say
+
+0:12:32.480,0:12:37.600
+select image
+
+0:12:34.000,0:12:40.079
+and so mine was called fisher birthday
+
+0:12:37.600,0:12:41.360
+and you're going to upload it now i was
+
+0:12:40.079,0:12:42.959
+a little fast
+
+0:12:41.360,0:12:45.279
+because i should have known something
+
+0:12:42.959,0:12:48.160
+about this image before i got this far
+
+0:12:45.279,0:12:48.560
+i should know which dimension is smaller
+
+0:12:48.160,0:12:50.399
+so
+
+0:12:48.560,0:12:52.800
+in this picture this is a landscape
+
+0:12:50.399,0:12:54.000
+picture the smaller dimension is the
+
+0:12:52.800,0:12:56.000
+height
+
+0:12:54.000,0:12:57.839
+and so whichever dimension is smaller
+
+0:12:56.000,0:12:58.160
+you need to get that in your head so for
+
+0:12:57.839,0:13:00.959
+me
+
+0:12:58.160,0:13:01.680
+it's height so on this tool i'm going to
+
+0:13:00.959,0:13:03.040
+say
+
+0:13:01.680,0:13:04.800
+there's a radio for percentage or
+
+0:13:03.040,0:13:06.720
+dimension i want to mention
+
+0:13:04.800,0:13:08.160
+and then whichever of your dimensions is
+
+0:13:06.720,0:13:10.639
+smaller make that one three
+
+0:13:08.160,0:13:12.079
+six zero so if you've got a portrait
+
+0:13:10.639,0:13:14.240
+image make your width
+
+0:13:12.079,0:13:15.440
+three six zero if you've got a landscape
+
+0:13:14.240,0:13:17.279
+image like me
+
+0:13:15.440,0:13:18.639
+uh so again this is my landscape image
+
+0:13:17.279,0:13:20.160
+so the height is smaller
+
+0:13:18.639,0:13:21.760
+so i want the smaller dimension to be
+
+0:13:20.160,0:13:23.200
+360. and the reason for that is that way
+
+0:13:21.760,0:13:25.760
+the other dimension is guaranteed to be
+
+0:13:23.200,0:13:29.040
+something bigger right which is good
+
+0:13:25.760,0:13:31.760
+and then you click on resize
+
+0:13:29.040,0:13:33.279
+and then you said it's been resized and
+
+0:13:31.760,0:13:35.360
+then it says click here to download it
+
+0:13:33.279,0:13:36.800
+so you click on this download button
+
+0:13:35.360,0:13:38.639
+now strangely it doesn't actually
+
+0:13:36.800,0:13:39.519
+download it like wouldn't you think that
+
+0:13:38.639,0:13:41.279
+a download button
+
+0:13:39.519,0:13:42.480
+would download it raise your hand over
+
+0:13:41.279,0:13:43.440
+there campers if you think download
+
+0:13:42.480,0:13:45.760
+should download it
+
+0:13:43.440,0:13:46.480
+it doesn't it opens it in a new tab in
+
+0:13:45.760,0:13:48.639
+chrome
+
+0:13:46.480,0:13:50.000
+it does resize it which is good but now
+
+0:13:48.639,0:13:51.360
+you need to download it so i'm going to
+
+0:13:50.000,0:13:54.880
+right click on it
+
+0:13:51.360,0:13:57.360
+and i'm going to say save image as
+
+0:13:54.880,0:13:59.639
+um and so this uh got the same name
+
+0:13:57.360,0:14:03.199
+fisher birthday and then it added this
+
+0:13:59.639,0:14:04.639
+x360 so that looks good
+
+0:14:03.199,0:14:06.800
+so there are a lot of steps in this
+
+0:14:04.639,0:14:08.480
+process but i do want you to try it
+
+0:14:06.800,0:14:11.040
+there's a lot of like working with your
+
+0:14:08.480,0:14:12.880
+computer and saving things
+
+0:14:11.040,0:14:14.079
+so you might get an adult to help you as
+
+0:14:12.880,0:14:16.000
+well
+
+0:14:14.079,0:14:17.519
+all right so step number one resizing
+
+0:14:16.000,0:14:20.560
+the image is done
+
+0:14:17.519,0:14:22.480
+it has a height of exactly 360 or a
+
+0:14:20.560,0:14:24.800
+width of exactly 360
+
+0:14:22.480,0:14:26.560
+and then the other dimension is bigger
+
+0:14:24.800,0:14:27.920
+the next thing we need to do is we need
+
+0:14:26.560,0:14:30.160
+to uh
+
+0:14:27.920,0:14:31.199
+chop it up right so this is my my slides
+
+0:14:30.160,0:14:33.600
+that showed what
+
+0:14:31.199,0:14:35.839
+what did with the resize to chop it up
+
+0:14:33.600,0:14:38.720
+uh there's a tool that i found called
+
+0:14:35.839,0:14:40.560
+postcron all one word postcron i have no
+
+0:14:38.720,0:14:44.000
+idea what postcron stands for
+
+0:14:40.560,0:14:45.040
+image splitter so let's go uh over into
+
+0:14:44.000,0:14:48.240
+chrome
+
+0:14:45.040,0:14:51.920
+uh and let's do a search for post cron
+
+0:14:48.240,0:14:52.399
+uh image splitter hopefully your first
+
+0:14:51.920,0:14:56.240
+hit
+
+0:14:52.399,0:14:58.560
+is postcron.com slash image splitter
+
+0:14:56.240,0:14:59.839
+uh and it takes you to this place and
+
+0:14:58.560,0:15:02.160
+what you need to do is you need to
+
+0:14:59.839,0:15:02.639
+upload that image that you just resized
+
+0:15:02.160,0:15:05.680
+right
+
+0:15:02.639,0:15:07.199
+so upload image uh looks like i kind of
+
+0:15:05.680,0:15:08.160
+have to click on it twice so i have to
+
+0:15:07.199,0:15:09.199
+click on uh
+
+0:15:08.160,0:15:11.560
+the first one that i have to click on
+
+0:15:09.199,0:15:14.560
+the second one and you should have this
+
+0:15:11.560,0:15:14.560
+x360
+
+0:15:15.040,0:15:18.480
+now what you're going to do this is the
+
+0:15:16.320,0:15:18.880
+hardest part is you're going to make
+
+0:15:18.480,0:15:22.240
+this
+
+0:15:18.880,0:15:24.320
+grid completely fill your image
+
+0:15:22.240,0:15:25.839
+so here's what i like to do if you grab
+
+0:15:24.320,0:15:27.360
+it just kind of like in the middle you
+
+0:15:25.839,0:15:32.560
+can move it around
+
+0:15:27.360,0:15:34.639
+we want this grid to be exactly 360 tall
+
+0:15:32.560,0:15:35.839
+or 360 wide just whichever it is it
+
+0:15:34.639,0:15:37.839
+wants to be a perfect square
+
+0:15:35.839,0:15:39.600
+if your image is like mine and it's
+
+0:15:37.839,0:15:40.079
+landscape i'm just going to kind of put
+
+0:15:39.600,0:15:41.920
+it
+
+0:15:40.079,0:15:43.920
+right at the top so i'm going to place
+
+0:15:41.920,0:15:45.440
+like this upper left-hand corner
+
+0:15:43.920,0:15:46.480
+if you're if your image is portrait
+
+0:15:45.440,0:15:47.680
+you're going to have to like slam it
+
+0:15:46.480,0:15:49.279
+over to the side right but i'm going to
+
+0:15:47.680,0:15:51.759
+slam mine right to the top
+
+0:15:49.279,0:15:54.000
+and then to take the other corner and as
+
+0:15:51.759,0:15:57.040
+accurately as you can make it go right
+
+0:15:54.000,0:15:58.240
+on the very very bottom now this is
+
+0:15:57.040,0:16:00.639
+tricky
+
+0:15:58.240,0:16:02.959
+you can go short that's obvious but you
+
+0:16:00.639,0:16:04.399
+can also go too long so see i went too
+
+0:16:02.959,0:16:05.360
+long here and i got these like green
+
+0:16:04.399,0:16:07.920
+things down here
+
+0:16:05.360,0:16:09.519
+so i want to go exactly on the bottom
+
+0:16:07.920,0:16:10.720
+and so if you get it perfect you can see
+
+0:16:09.519,0:16:12.399
+like right now there's little bitty
+
+0:16:10.720,0:16:13.759
+green nubbins out there
+
+0:16:12.399,0:16:15.759
+you can see how old i am how i had to
+
+0:16:13.759,0:16:18.079
+get closer to my computer
+
+0:16:15.759,0:16:18.959
+if you get it absolutely perfect then
+
+0:16:18.079,0:16:22.800
+you're going to get
+
+0:16:18.959,0:16:23.120
+um 120 by 120. if you're off a little
+
+0:16:22.800,0:16:24.480
+bit
+
+0:16:23.120,0:16:27.199
+you're gonna get something close which
+
+0:16:24.480,0:16:28.720
+will work fine but i'm going for perfect
+
+0:16:27.199,0:16:30.880
+another thing that is annoying is you
+
+0:16:28.720,0:16:32.480
+might um have trouble with your picture
+
+0:16:30.880,0:16:33.759
+so you can see how like keegan's face
+
+0:16:32.480,0:16:35.199
+and bowen's face kind of like barely
+
+0:16:33.759,0:16:37.120
+made this
+
+0:16:35.199,0:16:38.160
+feature right so if you if you don't
+
+0:16:37.120,0:16:39.600
+like how it's laying out pick a
+
+0:16:38.160,0:16:41.279
+different picture
+
+0:16:39.600,0:16:43.199
+as soon as you're done click on split
+
+0:16:41.279,0:16:45.920
+image
+
+0:16:43.199,0:16:47.600
+and then you click on download image
+
+0:16:45.920,0:16:49.120
+this time download image really does
+
+0:16:47.600,0:16:52.079
+download image
+
+0:16:49.120,0:16:53.519
+so i'm going to call this fisher
+
+0:16:52.079,0:16:57.040
+birthday
+
+0:16:53.519,0:16:57.519
+images what it's going to give you is a
+
+0:16:57.040,0:17:01.279
+zip
+
+0:16:57.519,0:17:03.360
+file if you've done a lot with computers
+
+0:17:01.279,0:17:05.039
+you're probably comfortable with zips if
+
+0:17:03.360,0:17:06.799
+you're new to computers you're probably
+
+0:17:05.039,0:17:09.919
+new to zips as well
+
+0:17:06.799,0:17:10.880
+but what a zip file is is it's all your
+
+0:17:09.919,0:17:13.919
+files
+
+0:17:10.880,0:17:17.120
+packaged together really tightly
+
+0:17:13.919,0:17:19.120
+now um sorry there's a lot of steps
+
+0:17:17.120,0:17:20.240
+this is the easiest method i could find
+
+0:17:19.120,0:17:21.600
+for you right
+
+0:17:20.240,0:17:23.919
+so the next thing you need to do is you
+
+0:17:21.600,0:17:25.919
+need to extract all on the zip
+
+0:17:23.919,0:17:27.439
+so on a windows computer you'll have to
+
+0:17:25.919,0:17:28.640
+find it in finder
+
+0:17:27.439,0:17:30.799
+and there should hopefully be a button
+
+0:17:28.640,0:17:32.400
+that says extract all
+
+0:17:30.799,0:17:33.840
+on other computers you'll just have to
+
+0:17:32.400,0:17:35.039
+double click on it on my mac i just
+
+0:17:33.840,0:17:36.559
+double click on it
+
+0:17:35.039,0:17:38.240
+and what it should do is it should chop
+
+0:17:36.559,0:17:41.120
+your image up into nine
+
+0:17:38.240,0:17:41.919
+uh tiles so you can see that i did
+
+0:17:41.120,0:17:45.840
+pretty good
+
+0:17:41.919,0:17:46.960
+um so each of mine is exactly 120 so i
+
+0:17:45.840,0:17:48.720
+nailed it
+
+0:17:46.960,0:17:50.320
+on that on that previous step where like
+
+0:17:48.720,0:17:52.480
+i was setting the size
+
+0:17:50.320,0:17:53.600
+it's going to take you a couple of tries
+
+0:17:52.480,0:17:56.320
+so
+
+0:17:53.600,0:17:58.000
+i nailed mine i got them all at exactly
+
+0:17:56.320,0:18:00.080
+120.
+
+0:17:58.000,0:18:01.200
+the order by the way is sometimes crazy
+
+0:18:00.080,0:18:03.039
+uh so it looks like
+
+0:18:01.200,0:18:05.360
+tile one is actually the lower right
+
+0:18:03.039,0:18:05.840
+corner um and then it goes across the
+
+0:18:05.360,0:18:09.280
+bottom
+
+0:18:05.840,0:18:11.120
+for two three and then four
+
+0:18:09.280,0:18:13.600
+five six and then the top row is going
+
+0:18:11.120,0:18:16.000
+to be seven hey that's a handsome guy
+
+0:18:13.600,0:18:17.280
+8 and 9 at the top it's actually
+
+0:18:16.000,0:18:19.120
+numbered
+
+0:18:17.280,0:18:20.559
+backwards of what i want we're going to
+
+0:18:19.120,0:18:22.559
+have to deal with that later
+
+0:18:20.559,0:18:24.160
+all right so take as long as you need to
+
+0:18:22.559,0:18:26.000
+try to get that figured out
+
+0:18:24.160,0:18:27.679
+once you've got your nine images then
+
+0:18:26.000,0:18:29.440
+you're ready to get started right so
+
+0:18:27.679,0:18:31.360
+it's like we haven't even started yet dr
+
+0:18:29.440,0:18:35.919
+fisher you're killing me
+
+0:18:31.360,0:18:39.919
+so go to scratch.mit.edu
+
+0:18:35.919,0:18:40.480
+create a new project so longest setup
+
+0:18:39.919,0:18:41.679
+ever
+
+0:18:40.480,0:18:44.480
+but it's going to be worth it because
+
+0:18:41.679,0:18:46.160
+it's cool all right so i am
+
+0:18:44.480,0:18:48.160
+really hoping that people are successful
+
+0:18:46.160,0:18:50.640
+with their images i kind of expect
+
+0:18:48.160,0:18:51.600
+that um the ta office hours like you can
+
+0:18:50.640,0:18:53.919
+join the zoom meeting
+
+0:18:51.600,0:18:55.520
+it's going to just light up today with
+
+0:18:53.919,0:18:57.440
+people that need help with these steps
+
+0:18:55.520,0:18:58.559
+um that's okay we'll try to make sure
+
+0:18:57.440,0:19:01.039
+there's extra people
+
+0:18:58.559,0:19:03.280
+on board for today so uh what i'm gonna
+
+0:19:01.039,0:19:04.480
+do is i'm gonna actually keep the cat
+
+0:19:03.280,0:19:06.080
+i know everybody's expecting me to
+
+0:19:04.480,0:19:06.559
+delete the cat right off but i'm just
+
+0:19:06.080,0:19:08.480
+gonna
+
+0:19:06.559,0:19:10.640
+keep the cat i'm gonna go into his
+
+0:19:08.480,0:19:13.360
+costumes and i'm going to add
+
+0:19:10.640,0:19:13.919
+my images as different costumes and then
+
+0:19:13.360,0:19:15.600
+eventually
+
+0:19:13.919,0:19:17.679
+i'm going to delete the cat costumes but
+
+0:19:15.600,0:19:20.080
+i'm just going to keep the cat
+
+0:19:17.679,0:19:21.360
+and just come over here and say choose a
+
+0:19:20.080,0:19:24.640
+costume
+
+0:19:21.360,0:19:25.919
+and i'm going to click on upload costume
+
+0:19:24.640,0:19:28.400
+now what i want to do is i want to go
+
+0:19:25.919,0:19:29.760
+into that extracted zip file
+
+0:19:28.400,0:19:32.480
+which has like my one two three four
+
+0:19:29.760,0:19:35.679
+five six seven eight nine and i want to
+
+0:19:32.480,0:19:37.520
+bring in all nine as different costumes
+
+0:19:35.679,0:19:38.640
+of the cat
+
+0:19:37.520,0:19:40.320
+then what i want to do is i want to
+
+0:19:38.640,0:19:42.320
+delete the cat because i don't really
+
+0:19:40.320,0:19:44.799
+need his images
+
+0:19:42.320,0:19:46.400
+and so now i've got all these images in
+
+0:19:44.799,0:19:48.000
+here which is cool so you should have
+
+0:19:46.400,0:19:49.200
+nine total
+
+0:19:48.000,0:19:51.120
+and i'm going to do some some
+
+0:19:49.200,0:19:52.559
+organization and clean up the first
+
+0:19:51.120,0:19:53.200
+thing i want to do is i want them all to
+
+0:19:52.559,0:19:55.440
+be
+
+0:19:53.200,0:19:56.240
+vectors so in every single one i'm going
+
+0:19:55.440,0:19:58.240
+to click on
+
+0:19:56.240,0:20:00.400
+convert to vector so i'm just going to
+
+0:19:58.240,0:20:02.159
+do that first
+
+0:20:00.400,0:20:03.919
+while i'm doing it i'm going to explain
+
+0:20:02.159,0:20:06.159
+what i'm doing so
+
+0:20:03.919,0:20:07.520
+with scratch there's two different
+
+0:20:06.159,0:20:10.320
+drawing modes there's
+
+0:20:07.520,0:20:12.159
+bitmap mode and then there's vector mode
+
+0:20:10.320,0:20:13.760
+vector mode is the newer mode
+
+0:20:12.159,0:20:15.440
+and in general you should use the newer
+
+0:20:13.760,0:20:17.679
+mode
+
+0:20:15.440,0:20:18.960
+but it lets you like add something and
+
+0:20:17.679,0:20:20.720
+then edit it later
+
+0:20:18.960,0:20:22.960
+bitmap mode does not let you edit it
+
+0:20:20.720,0:20:24.080
+later so that's why i like vector mode
+
+0:20:22.960,0:20:25.840
+the next thing i'm going to do is i'm
+
+0:20:24.080,0:20:26.480
+going to figure out what order my images
+
+0:20:25.840,0:20:29.039
+are in
+
+0:20:26.480,0:20:30.320
+so mine came in where number one is the
+
+0:20:29.039,0:20:33.520
+lower right corner
+
+0:20:30.320,0:20:35.520
+so it's like 1-1 and then it's
+
+0:20:33.520,0:20:37.200
+moving across the bottom i know my image
+
+0:20:35.520,0:20:39.280
+so this is like the bottom middle
+
+0:20:37.200,0:20:40.720
+and then this is the bottom left and
+
+0:20:39.280,0:20:42.480
+then it's the the right
+
+0:20:40.720,0:20:44.240
+on the middle row and then the middle
+
+0:20:42.480,0:20:46.799
+middle uh and then the left so i know
+
+0:20:44.240,0:20:49.919
+the order that mine come in
+
+0:20:46.799,0:20:50.880
+um and strangely it's backwards of what
+
+0:20:49.919,0:20:54.159
+i wanted right
+
+0:20:50.880,0:20:56.559
+so the upper left hand corner in my mind
+
+0:20:54.159,0:20:58.000
+is location one so i've kind of got it
+
+0:20:56.559,0:20:58.480
+on the board here so i think of this as
+
+0:20:58.000,0:21:02.320
+like
+
+0:20:58.480,0:21:05.760
+number one number two number three four
+
+0:21:02.320,0:21:08.000
+five six seven eight nine
+
+0:21:05.760,0:21:09.200
+so before we get into the code i'm gonna
+
+0:21:08.000,0:21:10.720
+do a couple things
+
+0:21:09.200,0:21:12.960
+first i'm gonna put a number i'm gonna
+
+0:21:10.720,0:21:16.640
+actually put that number on the image
+
+0:21:12.960,0:21:19.039
+so the way i do that is i click on text
+
+0:21:16.640,0:21:19.679
+i decide what color i want to use for my
+
+0:21:19.039,0:21:21.360
+number
+
+0:21:19.679,0:21:22.960
+it defaults to purple but you don't have
+
+0:21:21.360,0:21:23.679
+to use purple you can use any color you
+
+0:21:22.960,0:21:27.039
+want
+
+0:21:23.679,0:21:28.720
+i'll make mine red for example
+
+0:21:27.039,0:21:30.799
+and then i click in here and then i just
+
+0:21:28.720,0:21:32.640
+type a number one
+
+0:21:30.799,0:21:34.640
+now the nice thing about vector mode is
+
+0:21:32.640,0:21:36.480
+that i can like edit this later and it's
+
+0:21:34.640,0:21:37.360
+not like squished into my picture so i'm
+
+0:21:36.480,0:21:39.120
+going to get it
+
+0:21:37.360,0:21:40.480
+to right there which i think is where i
+
+0:21:39.120,0:21:42.880
+want it
+
+0:21:40.480,0:21:43.840
+now i numbered this one number one
+
+0:21:42.880,0:21:46.480
+because i know my
+
+0:21:43.840,0:21:48.240
+image and i know that this is the upper
+
+0:21:46.480,0:21:49.039
+left hand corner and so i put a one on
+
+0:21:48.240,0:21:50.080
+it
+
+0:21:49.039,0:21:52.159
+now what i'm going to do is i'm going to
+
+0:21:50.080,0:21:53.200
+number all the other pictures the way i
+
+0:21:52.159,0:21:57.039
+choose to do it
+
+0:21:53.200,0:22:00.000
+is i choose to uh copy this i use ctrl
+
+0:21:57.039,0:22:01.039
+c and then i go to my one that's going
+
+0:22:00.000,0:22:04.000
+to be two
+
+0:22:01.039,0:22:05.760
+i paste it on there and then i change
+
+0:22:04.000,0:22:07.520
+the one to a two but i like to do that
+
+0:22:05.760,0:22:09.520
+because then it shows up in exactly the
+
+0:22:07.520,0:22:11.200
+same position every time
+
+0:22:09.520,0:22:13.760
+so it takes just a little bit of work to
+
+0:22:11.200,0:22:15.280
+do this so i go through each and every
+
+0:22:13.760,0:22:17.120
+one
+
+0:22:15.280,0:22:18.320
+you can pause the video of course as you
+
+0:22:17.120,0:22:20.720
+need
+
+0:22:18.320,0:22:23.520
+but they should be in order but they
+
+0:22:20.720,0:22:26.720
+might be in backwards order
+
+0:22:23.520,0:22:28.080
+strangely i've tried this on mac i've
+
+0:22:26.720,0:22:29.679
+tried it on windows i've tried it on
+
+0:22:28.080,0:22:32.480
+linux i've tried on chromebook
+
+0:22:29.679,0:22:34.640
+chromebook comes in a different order
+
+0:22:32.480,0:22:36.240
+than all the others
+
+0:22:34.640,0:22:37.600
+so that's why we kind of have to do this
+
+0:22:36.240,0:22:40.960
+manually because yours might have come
+
+0:22:37.600,0:22:42.880
+in a different a different order right
+
+0:22:40.960,0:22:44.640
+all right so i'm almost done with mine
+
+0:22:42.880,0:22:46.640
+uh bottom to top
+
+0:22:44.640,0:22:48.240
+um after i finish the task i'm going to
+
+0:22:46.640,0:22:50.080
+have to go back and check it
+
+0:22:48.240,0:22:51.520
+just to make sure that it that it all
+
+0:22:50.080,0:22:55.919
+looks right
+
+0:22:51.520,0:22:59.200
+all right so 9 is my lower right corner
+
+0:22:55.919,0:23:02.720
+and then oops so there's 9 8
+
+0:22:59.200,0:23:06.799
+7 6 5
+
+0:23:02.720,0:23:09.360
+4 3 2 1.
+
+0:23:06.799,0:23:10.720
+great so that's important the next thing
+
+0:23:09.360,0:23:12.400
+that i'm going to change is i'm going to
+
+0:23:10.720,0:23:15.840
+choose to change
+
+0:23:12.400,0:23:18.640
+the um name of the costume
+
+0:23:15.840,0:23:19.840
+so right now mine says 9 up here but
+
+0:23:18.640,0:23:23.600
+this is really
+
+0:23:19.840,0:23:25.760
+tile 1. being sneaky i'm going to copy
+
+0:23:23.600,0:23:26.400
+the word tile to my clipboard with ctrl
+
+0:23:25.760,0:23:27.600
+c
+
+0:23:26.400,0:23:29.520
+campers will help you do this in a
+
+0:23:27.600,0:23:31.520
+minute and i'm going to change the names
+
+0:23:29.520,0:23:33.919
+of all these
+
+0:23:31.520,0:23:35.520
+to a more logical name right so this i'm
+
+0:23:33.919,0:23:40.000
+going to call this image
+
+0:23:35.520,0:23:41.440
+tile 3 i'm going to call this tile 4.
+
+0:23:40.000,0:23:42.960
+i think you kind of see the pattern the
+
+0:23:41.440,0:23:44.799
+only one that actually succeeded was
+
+0:23:42.960,0:23:48.080
+tile 5. it's the only one
+
+0:23:44.799,0:23:51.200
+that actually had a reasonable name
+
+0:23:48.080,0:23:54.400
+and so now the names of all my images
+
+0:23:51.200,0:23:57.600
+uh match and they're appropriate um
+
+0:23:54.400,0:24:00.400
+and i do that because i'm ocd um
+
+0:23:57.600,0:24:02.159
+that actually has no value at all
+
+0:24:00.400,0:24:03.520
+because we we're never gonna refer to
+
+0:24:02.159,0:24:05.760
+them by their name
+
+0:24:03.520,0:24:07.120
+we're going to only refer to them by
+
+0:24:05.760,0:24:09.679
+their index
+
+0:24:07.120,0:24:11.200
+and the index is also backwards so what
+
+0:24:09.679,0:24:12.400
+i want to do is i want to drag these
+
+0:24:11.200,0:24:13.600
+around so you can see that this is
+
+0:24:12.400,0:24:16.320
+number nine
+
+0:24:13.600,0:24:18.080
+it needs to go to the very very bottom
+
+0:24:16.320,0:24:19.679
+you probably have to kind of move it in
+
+0:24:18.080,0:24:20.880
+two steps so like you kind of move it
+
+0:24:19.679,0:24:22.240
+about halfway
+
+0:24:20.880,0:24:23.600
+uh and then you move the rest away but i
+
+0:24:22.240,0:24:24.480
+can see that tile nine is down on the
+
+0:24:23.600,0:24:27.039
+bottom
+
+0:24:24.480,0:24:27.760
+uh tile one uh needs to come to the very
+
+0:24:27.039,0:24:29.360
+top
+
+0:24:27.760,0:24:31.760
+uh probably gonna have to do that in two
+
+0:24:29.360,0:24:33.679
+steps uh nope i got it up to where it's
+
+0:24:31.760,0:24:37.600
+in the top
+
+0:24:33.679,0:24:40.159
+so go back and forth and get your tiles
+
+0:24:37.600,0:24:41.440
+to the correct places
+
+0:24:40.159,0:24:43.200
+and so hopefully you'll kind of get a
+
+0:24:41.440,0:24:44.880
+little pattern going and it won't be too
+
+0:24:43.200,0:24:46.559
+bad
+
+0:24:44.880,0:24:48.720
+but make sure that it actually is in the
+
+0:24:46.559,0:24:49.520
+correct order so now my tile one is at
+
+0:24:48.720,0:24:51.279
+the top
+
+0:24:49.520,0:24:53.120
+it's called tile one and it's got a one
+
+0:24:51.279,0:24:57.600
+here tile two
+
+0:24:53.120,0:25:01.600
+uh all good three four
+
+0:24:57.600,0:25:04.799
+five 6 7
+
+0:25:01.600,0:25:07.120
+8 and 9. so
+
+0:25:04.799,0:25:08.400
+pause the video take as long as you need
+
+0:25:07.120,0:25:10.080
+to do that
+
+0:25:08.400,0:25:11.840
+and let's definitely save it because
+
+0:25:10.080,0:25:14.640
+that was a lot of work so this i'm going
+
+0:25:11.840,0:25:16.000
+to call my slide puzzle
+
+0:25:14.640,0:25:18.320
+all right i'm going to help my campers
+
+0:25:16.000,0:25:20.400
+out hopefully everybody can get this
+
+0:25:18.320,0:25:21.919
+up and running expect a lot of questions
+
+0:25:20.400,0:25:25.200
+at the zoom office hours today
+
+0:25:21.919,0:25:26.559
+that's okay all right so i had to help
+
+0:25:25.200,0:25:27.679
+my campers out a little bit there that
+
+0:25:26.559,0:25:28.880
+was no surprise
+
+0:25:27.679,0:25:30.720
+getting their numbers on and getting
+
+0:25:28.880,0:25:33.279
+their tiles renamed and things like that
+
+0:25:30.720,0:25:34.559
+again uh do keep in mind uh that if it's
+
+0:25:33.279,0:25:37.520
+going badly for you
+
+0:25:34.559,0:25:38.080
+um you can always uh remix this project
+
+0:25:37.520,0:25:39.600
+uh to
+
+0:25:38.080,0:25:40.640
+to just use it right it already had the
+
+0:25:39.600,0:25:42.080
+numbers in it already had them
+
+0:25:40.640,0:25:43.840
+rearranged things like that
+
+0:25:42.080,0:25:45.840
+love for you to be able to do your own
+
+0:25:43.840,0:25:47.039
+it goes badly use the remix instead of
+
+0:25:45.840,0:25:48.720
+giving up on the day right
+
+0:25:47.039,0:25:50.720
+that's kind of what i would say there
+
+0:25:48.720,0:25:53.440
+all right so uh now we're ready to go
+
+0:25:50.720,0:25:54.960
+um so you can leave whichever costume
+
+0:25:53.440,0:25:56.000
+selected you want it honestly doesn't
+
+0:25:54.960,0:25:58.480
+matter it's going to show up over
+
+0:25:56.000,0:26:00.080
+here but that honestly doesn't matter uh
+
+0:25:58.480,0:26:02.799
+and we're ready to uh to hop
+
+0:26:00.080,0:26:03.360
+into the code uh we're going to be doing
+
+0:26:02.799,0:26:05.840
+code
+
+0:26:03.360,0:26:07.440
+on uh this one sprite that we have which
+
+0:26:05.840,0:26:08.559
+is currently called sprite1
+
+0:26:07.440,0:26:10.640
+i don't like that name i'm going to
+
+0:26:08.559,0:26:12.480
+rename him to tile
+
+0:26:10.640,0:26:14.799
+so i just like that name better so now
+
+0:26:12.480,0:26:15.679
+he's named tile
+
+0:26:14.799,0:26:18.720
+and what we're going to do is we're
+
+0:26:15.679,0:26:21.039
+going to do some code on this sprite
+
+0:26:18.720,0:26:22.400
+and then some code on the backdrop and
+
+0:26:21.039,0:26:24.000
+just like our previous games we're going
+
+0:26:22.400,0:26:26.080
+to make use of clones really
+
+0:26:24.000,0:26:27.840
+heavily because we're just going to have
+
+0:26:26.080,0:26:29.600
+this one tile that has different images
+
+0:26:27.840,0:26:31.679
+it's going to be really creative
+
+0:26:29.600,0:26:34.000
+by the way the backdrop if you want you
+
+0:26:31.679,0:26:36.240
+can choose to leave it white
+
+0:26:34.000,0:26:38.400
+or you can actually add an image back
+
+0:26:36.240,0:26:39.520
+here the backdrop doesn't really affect
+
+0:26:38.400,0:26:40.720
+anything i always kind of like this
+
+0:26:39.520,0:26:41.919
+heart one right so i'm going to put a
+
+0:26:40.720,0:26:45.120
+heart back there
+
+0:26:41.919,0:26:47.600
+just because it like shows love right
+
+0:26:45.120,0:26:48.720
+backdrop completely optional i choose to
+
+0:26:47.600,0:26:50.799
+stick one on
+
+0:26:48.720,0:26:51.840
+uh let's go ahead and start into the
+
+0:26:50.799,0:26:53.600
+code
+
+0:26:51.840,0:26:55.039
+that's happening on the the backdrop
+
+0:26:53.600,0:26:56.640
+sometimes i call it a backdrop sometimes
+
+0:26:55.039,0:26:58.559
+i call it a stage
+
+0:26:56.640,0:27:00.320
+so our first goal here is going to be
+
+0:26:58.559,0:27:01.520
+very similar to what we did with the
+
+0:27:00.320,0:27:03.840
+lawnmower
+
+0:27:01.520,0:27:04.559
+so we're going to try to plant all these
+
+0:27:03.840,0:27:06.960
+things
+
+0:27:04.559,0:27:08.000
+so that forms a grid so if you remember
+
+0:27:06.960,0:27:08.799
+the lawn mower
+
+0:27:08.000,0:27:11.520
+the first thing we did with the
+
+0:27:08.799,0:27:14.400
+lawnmowers we did a bunch of math right
+
+0:27:11.520,0:27:15.760
+this one the math is easier so each of
+
+0:27:14.400,0:27:20.159
+these tiles
+
+0:27:15.760,0:27:23.600
+is exactly 120 across so this way is 120
+
+0:27:20.159,0:27:25.120
+uh and then this way is 120 as well
+
+0:27:23.600,0:27:26.640
+um and it turns out that you're going to
+
+0:27:25.120,0:27:27.760
+need to know where the centers are of
+
+0:27:26.640,0:27:29.840
+each tile
+
+0:27:27.760,0:27:31.679
+um and so if this is 120 and then this
+
+0:27:29.840,0:27:32.480
+is 120 then the distance from here to
+
+0:27:31.679,0:27:36.000
+there
+
+0:27:32.480,0:27:38.960
+is 60. uh and then the distance from
+
+0:27:36.000,0:27:40.159
+here to there is 60. by the way it looks
+
+0:27:38.960,0:27:41.360
+like there's a little gap in here but
+
+0:27:40.159,0:27:41.919
+there's not they're actually smushed
+
+0:27:41.360,0:27:43.440
+together
+
+0:27:41.919,0:27:45.640
+uh so camper is the easiest question of
+
+0:27:43.440,0:27:49.200
+the day what's 60 plus 60
+
+0:27:45.640,0:27:50.320
+110 120 uh and then this one's just
+
+0:27:49.200,0:27:52.320
+right at zero
+
+0:27:50.320,0:27:53.919
+uh and then this one is down so it's
+
+0:27:52.320,0:27:56.480
+actually negative 60
+
+0:27:53.919,0:27:57.440
+um plus a negative 60. so what's this
+
+0:27:56.480,0:28:00.000
+one down here
+
+0:27:57.440,0:28:01.360
+negative 100 negative 120 and then the
+
+0:28:00.000,0:28:03.440
+math this direction kind of works the
+
+0:28:01.360,0:28:06.799
+same so you've got a negative 120
+
+0:28:03.440,0:28:09.200
+a zero and a positive 120. so the math
+
+0:28:06.799,0:28:11.919
+is actually much easier this time
+
+0:28:09.200,0:28:15.279
+because the centers of these things it's
+
+0:28:11.919,0:28:18.640
+either at like negative 120 positive 120
+
+0:28:15.279,0:28:21.200
+or 0 positive 120
+
+0:28:18.640,0:28:23.200
+but it's always like 0 or 120 or a
+
+0:28:21.200,0:28:25.279
+negative 120. so the math is easier
+
+0:28:23.200,0:28:26.559
+so let's go ahead and see if we can do
+
+0:28:25.279,0:28:27.600
+some of the tricks that we did with
+
+0:28:26.559,0:28:29.600
+lawnmower
+
+0:28:27.600,0:28:31.279
+on the backdrop so the first thing we
+
+0:28:29.600,0:28:32.399
+need is we need a couple variables if
+
+0:28:31.279,0:28:35.279
+you remember how the
+
+0:28:32.399,0:28:36.640
+how the graphs worked we need a variable
+
+0:28:35.279,0:28:39.679
+i'm going to call this one the
+
+0:28:36.640,0:28:41.039
+placement x
+
+0:28:39.679,0:28:42.559
+interestingly whenever you're on the
+
+0:28:41.039,0:28:43.520
+backdrop it doesn't even give you that
+
+0:28:42.559,0:28:45.120
+choice of like
+
+0:28:43.520,0:28:46.320
+should it be just for this sprite or
+
+0:28:45.120,0:28:47.520
+should it be for all sprites if you're
+
+0:28:46.320,0:28:48.320
+on the backdrop it's always for
+
+0:28:47.520,0:28:49.600
+everybody
+
+0:28:48.320,0:28:51.679
+so i'm going to make a variable called
+
+0:28:49.600,0:28:53.360
+placement x
+
+0:28:51.679,0:28:56.000
+i'll make another variable called
+
+0:28:53.360,0:28:57.679
+placement y
+
+0:28:56.000,0:29:00.159
+and if you remember the trick that we
+
+0:28:57.679,0:29:01.360
+used with lawnmower is we kind of like
+
+0:29:00.159,0:29:02.799
+set these variables
+
+0:29:01.360,0:29:05.520
+uh to like where it was going to get
+
+0:29:02.799,0:29:07.200
+placed then we made a clone
+
+0:29:05.520,0:29:09.440
+and then we moved the clone to that
+
+0:29:07.200,0:29:12.799
+variable you remember that
+
+0:29:09.440,0:29:14.240
+you remember that campers all right
+
+0:29:12.799,0:29:15.840
+um so we need a placement x and
+
+0:29:14.240,0:29:16.640
+placement y and this time we need one
+
+0:29:15.840,0:29:20.240
+more
+
+0:29:16.640,0:29:24.320
+we need to know what costume number
+
+0:29:20.240,0:29:25.760
+we need costume i misspelt
+
+0:29:24.320,0:29:27.440
+again you can see that my preferred
+
+0:29:25.760,0:29:29.520
+naming convention for variables that i'm
+
+0:29:27.440,0:29:33.520
+gonna hide is this camel case
+
+0:29:29.520,0:29:35.840
+um and so our goal is um on the backdrop
+
+0:29:33.520,0:29:37.279
+um let's start by placing just this top
+
+0:29:35.840,0:29:38.640
+one in the corner
+
+0:29:37.279,0:29:40.399
+and then we'll place the whole row and
+
+0:29:38.640,0:29:41.919
+then we'll place the whole grid right
+
+0:29:40.399,0:29:44.880
+so what i want to do is i want to go to
+
+0:29:41.919,0:29:46.399
+events when green flag clicked
+
+0:29:44.880,0:29:47.919
+so no shock we're going to start with
+
+0:29:46.399,0:29:50.720
+the win green flag click that's how we
+
+0:29:47.919,0:29:53.039
+start like every program
+
+0:29:50.720,0:29:54.720
+and we're going to set these variables
+
+0:29:53.039,0:29:57.279
+so i'm going to drag over three set
+
+0:29:54.720,0:29:57.279
+commands
+
+0:29:57.760,0:30:02.720
+and the first one i'm going to set the
+
+0:29:59.120,0:30:05.279
+placement x and then the placement y
+
+0:30:02.720,0:30:07.200
+and then the costume number so for this
+
+0:30:05.279,0:30:08.960
+very first one see if you can figure out
+
+0:30:07.200,0:30:10.320
+how you would set these three things so
+
+0:30:08.960,0:30:11.440
+how are you going to set placement x how
+
+0:30:10.320,0:30:12.880
+are you going to set placement y and how
+
+0:30:11.440,0:30:14.480
+you're going to set the cost remember
+
+0:30:12.880,0:30:16.960
+take a minute and see if you can do it
+
+0:30:14.480,0:30:16.960
+on your own
+
+0:30:17.120,0:30:20.159
+all right so my campers actually did
+
+0:30:18.559,0:30:24.080
+pretty good with it uh so the
+
+0:30:20.159,0:30:25.679
+x is negative 120 the y is positive 120
+
+0:30:24.080,0:30:27.200
+and this is going to be costume number
+
+0:30:25.679,0:30:29.200
+one
+
+0:30:27.200,0:30:30.480
+um and then what i like to do is i like
+
+0:30:29.200,0:30:31.520
+to just because we had this problem with
+
+0:30:30.480,0:30:33.440
+the lawnmower
+
+0:30:31.520,0:30:35.520
+is oh i like to make the clone i need to
+
+0:30:33.440,0:30:36.640
+make that first right so create clone of
+
+0:30:35.520,0:30:39.679
+tile
+
+0:30:36.640,0:30:41.279
+and then i like to have a short delay
+
+0:30:39.679,0:30:42.960
+i don't know if this short delay is
+
+0:30:41.279,0:30:45.520
+actually necessary this time
+
+0:30:42.960,0:30:46.640
+it was for the lawnmower and so i'm just
+
+0:30:45.520,0:30:48.320
+going to stick it on right so i'm just
+
+0:30:46.640,0:30:50.000
+going to put a short delay after i place
+
+0:30:48.320,0:30:51.840
+a tile
+
+0:30:50.000,0:30:54.080
+if i run this code right now nothing's
+
+0:30:51.840,0:30:56.559
+going to happen because my tile
+
+0:30:54.080,0:30:59.039
+doesn't actually use these variables so
+
+0:30:56.559,0:31:00.880
+let's go into our tile code
+
+0:30:59.039,0:31:02.559
+and let's actually write a little bit
+
+0:31:00.880,0:31:05.600
+over here
+
+0:31:02.559,0:31:07.120
+so our tile code is going to be when i
+
+0:31:05.600,0:31:08.640
+start as clone
+
+0:31:07.120,0:31:10.240
+so i've kind of seen this pattern a few
+
+0:31:08.640,0:31:12.880
+times
+
+0:31:10.240,0:31:14.240
+that you when you're clone you don't
+
+0:31:12.880,0:31:15.919
+care about the green flag you care about
+
+0:31:14.240,0:31:17.200
+when i start his clone
+
+0:31:15.919,0:31:19.760
+and what he's going to do is he's going
+
+0:31:17.200,0:31:21.919
+to use those variables so he's got this
+
+0:31:19.760,0:31:24.880
+go to xy
+
+0:31:21.919,0:31:25.760
+um and then he's also got this switch
+
+0:31:24.880,0:31:29.279
+costume
+
+0:31:25.760,0:31:30.480
+2 command so these are the things he's
+
+0:31:29.279,0:31:32.000
+going to do oh and then he's going to
+
+0:31:30.480,0:31:34.559
+also
+
+0:31:32.000,0:31:35.760
+show up after that right so remember
+
+0:31:34.559,0:31:37.440
+that with clones
+
+0:31:35.760,0:31:38.960
+and i can do this now here's the
+
+0:31:37.440,0:31:39.679
+original i'm actually going to hide the
+
+0:31:38.960,0:31:42.240
+original
+
+0:31:39.679,0:31:44.240
+which is very common to do with clones
+
+0:31:42.240,0:31:45.679
+i'm going to go to where i need to go
+
+0:31:44.240,0:31:47.600
+i'm going to set my costume and then i'm
+
+0:31:45.679,0:31:48.799
+going to show these values are not
+
+0:31:47.600,0:31:49.679
+correct though i need to use these
+
+0:31:48.799,0:31:52.799
+variables
+
+0:31:49.679,0:31:55.519
+so i need to use the placement x i need
+
+0:31:52.799,0:31:57.440
+to use the placement y
+
+0:31:55.519,0:31:59.200
+and then the fun thing about costumes is
+
+0:31:57.440,0:32:00.720
+you can refer to them by name
+
+0:31:59.200,0:32:03.440
+so you can see i've got got names for
+
+0:32:00.720,0:32:06.159
+all mine here or you can refer to it by
+
+0:32:03.440,0:32:07.760
+number and that's the the number that
+
+0:32:06.159,0:32:08.559
+you see in this upper left hand corner
+
+0:32:07.760,0:32:10.080
+here
+
+0:32:08.559,0:32:11.919
+so it's interesting that the names
+
+0:32:10.080,0:32:13.120
+actually didn't matter at all so if you
+
+0:32:11.919,0:32:14.640
+went through and you changed them all
+
+0:32:13.120,0:32:16.880
+then great but if not
+
+0:32:14.640,0:32:17.840
+we're not using the names at all so if i
+
+0:32:16.880,0:32:20.960
+run this
+
+0:32:17.840,0:32:22.799
+my tile should now show up in the corner
+
+0:32:20.960,0:32:24.799
+which is cool
+
+0:32:22.799,0:32:26.960
+these variables are all in the way so
+
+0:32:24.799,0:32:28.000
+i'm going to hit the green check boxes
+
+0:32:26.960,0:32:30.640
+on these
+
+0:32:28.000,0:32:31.200
+to hide these variables also this is
+
+0:32:30.640,0:32:32.960
+optional
+
+0:32:31.200,0:32:34.799
+there's the built-in variable called my
+
+0:32:32.960,0:32:36.799
+variable if you want to you can right
+
+0:32:34.799,0:32:39.760
+click on this and you can delete
+
+0:32:36.799,0:32:40.159
+the my variable variable we're going to
+
+0:32:39.760,0:32:41.679
+have
+
+0:32:40.159,0:32:43.760
+enough variables that we don't need the
+
+0:32:41.679,0:32:45.600
+extra clutter today
+
+0:32:43.760,0:32:46.960
+all right now from here uh you can kind
+
+0:32:45.600,0:32:48.720
+of see that what you could do
+
+0:32:46.960,0:32:50.880
+is you could right click on this and
+
+0:32:48.720,0:32:53.919
+duplicate it
+
+0:32:50.880,0:32:55.760
+and you could um you know just change it
+
+0:32:53.919,0:32:57.039
+to the next one over so the placement x
+
+0:32:55.760,0:32:59.679
+on this next one over
+
+0:32:57.039,0:33:01.120
+is going to be a zero and then the
+
+0:32:59.679,0:33:04.640
+costume is gonna be two
+
+0:33:01.120,0:33:06.880
+right so if you uh ran this
+
+0:33:04.640,0:33:07.679
+uh it should be pretty easy to put one
+
+0:33:06.880,0:33:09.279
+and two together
+
+0:33:07.679,0:33:12.399
+it kind of looks like minor disjoint but
+
+0:33:09.279,0:33:15.519
+but it actually worked and you could
+
+0:33:12.399,0:33:17.600
+repeat that nine times um and it and it
+
+0:33:15.519,0:33:18.799
+would work to place all the grids
+
+0:33:17.600,0:33:20.880
+campers do you think that's what we're
+
+0:33:18.799,0:33:22.799
+gonna do no no
+
+0:33:20.880,0:33:23.840
+what are we gonna do what are you gonna
+
+0:33:22.799,0:33:24.960
+what are we gonna do instead we're
+
+0:33:23.840,0:33:26.399
+computer scientists what do you guys
+
+0:33:24.960,0:33:29.919
+think we're gonna do
+
+0:33:26.399,0:33:32.880
+um if else repeats yeah
+
+0:33:29.919,0:33:34.320
+loops and and fun things like that um
+
+0:33:32.880,0:33:35.600
+and not only are we gonna use
+
+0:33:34.320,0:33:37.200
+loops and things like that but we're
+
+0:33:35.600,0:33:38.480
+gonna use functions as well because i
+
+0:33:37.200,0:33:41.840
+like functions
+
+0:33:38.480,0:33:44.080
+so let's start off by going to my blocks
+
+0:33:41.840,0:33:46.000
+and click on make a block i just like to
+
+0:33:44.080,0:33:47.840
+practice with functions
+
+0:33:46.000,0:33:50.080
+and so this function is going to be to
+
+0:33:47.840,0:33:52.880
+add a row
+
+0:33:50.080,0:33:54.240
+so add row is the name of our function
+
+0:33:52.880,0:33:55.519
+uh you can see that whenever you make a
+
+0:33:54.240,0:33:56.320
+function it kind of like gives you a
+
+0:33:55.519,0:33:58.240
+spot to
+
+0:33:56.320,0:34:00.320
+to put stuff into the insides of the
+
+0:33:58.240,0:34:01.120
+functions and the ability to call it
+
+0:34:00.320,0:34:02.640
+here
+
+0:34:01.120,0:34:05.120
+now i'm going to do a little bit of
+
+0:34:02.640,0:34:06.640
+refactoring first i'm going to take off
+
+0:34:05.120,0:34:08.079
+this bottom part that was just kind of
+
+0:34:06.640,0:34:10.720
+like the second tile that was just kind
+
+0:34:08.079,0:34:12.079
+of showed that you could do it
+
+0:34:10.720,0:34:14.079
+and then i'm going to kind of like pull
+
+0:34:12.079,0:34:15.919
+this one apart a little bit
+
+0:34:14.079,0:34:17.200
+so some things are going to go into add
+
+0:34:15.919,0:34:17.919
+row and some things are going to stay
+
+0:34:17.200,0:34:21.599
+here
+
+0:34:17.919,0:34:23.040
+so placement x that goes into add row
+
+0:34:21.599,0:34:25.040
+because that's going to be like the x
+
+0:34:23.040,0:34:27.839
+things that's for a single row
+
+0:34:25.040,0:34:30.560
+uh placement y that goes into when the
+
+0:34:27.839,0:34:33.200
+green flag is clicked
+
+0:34:30.560,0:34:35.520
+costume number setting it to 1 that goes
+
+0:34:33.200,0:34:36.800
+into the green flag clicked
+
+0:34:35.520,0:34:39.200
+and then this stuff is going to go
+
+0:34:36.800,0:34:42.000
+inside of a loop over here
+
+0:34:39.200,0:34:43.440
+so i kind of took my code and i broke it
+
+0:34:42.000,0:34:45.280
+down some
+
+0:34:43.440,0:34:47.280
+i happen to know that the x stuff
+
+0:34:45.280,0:34:48.720
+happens like inside of a row so it's
+
+0:34:47.280,0:34:50.159
+inside of the row area
+
+0:34:48.720,0:34:52.079
+whereas all these other things are
+
+0:34:50.159,0:34:53.440
+outside of it so here's what we're going
+
+0:34:52.079,0:34:56.720
+to do we're going to call
+
+0:34:53.440,0:34:58.400
+add row and we're going to make it work
+
+0:34:56.720,0:35:00.000
+how many tiles are there any true
+
+0:34:58.400,0:35:01.680
+campers three
+
+0:35:00.000,0:35:04.480
+three so we're going to make a loop that
+
+0:35:01.680,0:35:07.200
+repeats how many times
+
+0:35:04.480,0:35:07.760
+three times you got it so inside of that
+
+0:35:07.200,0:35:11.119
+loop
+
+0:35:07.760,0:35:13.200
+uh we're going to create a clone of the
+
+0:35:11.119,0:35:14.480
+tile
+
+0:35:13.200,0:35:16.320
+and you'll notice that for the first
+
+0:35:14.480,0:35:17.760
+tile the placement x and the placement y
+
+0:35:16.320,0:35:19.839
+are correct
+
+0:35:17.760,0:35:21.040
+if we just did this loop right now so if
+
+0:35:19.839,0:35:22.800
+i ran it right now it's going to be a
+
+0:35:21.040,0:35:24.720
+disaster because it's just going to put
+
+0:35:22.800,0:35:27.040
+number one number one and number one all
+
+0:35:24.720,0:35:28.560
+in the same spot right
+
+0:35:27.040,0:35:30.320
+so what i'm going to need to do is after
+
+0:35:28.560,0:35:31.839
+i place number one
+
+0:35:30.320,0:35:34.560
+i'm gonna have to change some of the
+
+0:35:31.839,0:35:37.200
+variables so let's go into variables
+
+0:35:34.560,0:35:38.800
+and we're gonna have to change the
+
+0:35:37.200,0:35:42.000
+costume number
+
+0:35:38.800,0:35:45.440
+and we're gonna have to change the
+
+0:35:42.000,0:35:47.280
+placement x
+
+0:35:45.440,0:35:49.040
+so we're going to change the costume
+
+0:35:47.280,0:35:51.520
+number by one because it's going to go
+
+0:35:49.040,0:35:53.119
+one two three four five you get the idea
+
+0:35:51.520,0:35:55.359
+and we're going to change the placement
+
+0:35:53.119,0:35:57.440
+x all right campers how much we're going
+
+0:35:55.359,0:36:00.720
+to change the placement x by
+
+0:35:57.440,0:36:03.359
+so from here to get over to the next one
+
+0:36:00.720,0:36:04.320
+120 120 i was waiting to see if you're
+
+0:36:03.359,0:36:05.359
+going to get it right or if you were
+
+0:36:04.320,0:36:07.440
+going to say 60.
+
+0:36:05.359,0:36:09.119
+yeah so we're going to place this one
+
+0:36:07.440,0:36:10.240
+we're going to move over 120 and we're
+
+0:36:09.119,0:36:11.920
+going to place this one
+
+0:36:10.240,0:36:14.960
+going to move over 120 and place this
+
+0:36:11.920,0:36:16.560
+one so that's going to be the whole row
+
+0:36:14.960,0:36:20.480
+so if i go ahead and run this i can see
+
+0:36:16.560,0:36:22.560
+that that whole row just like popped up
+
+0:36:20.480,0:36:23.920
+all right so mine came up great uh
+
+0:36:22.560,0:36:26.000
+keegan's actually came up
+
+0:36:23.920,0:36:28.079
+crazy um it's interesting you know i
+
+0:36:26.000,0:36:30.160
+said that names of the um
+
+0:36:28.079,0:36:32.160
+the names of the tiles didn't matter it
+
+0:36:30.160,0:36:33.599
+turns out that if they're numbers
+
+0:36:32.160,0:36:35.520
+that are numbered different that does
+
+0:36:33.599,0:36:38.240
+matter so make sure that if you do have
+
+0:36:35.520,0:36:40.079
+a name for each uh each costume
+
+0:36:38.240,0:36:41.920
+make sure it's either the matching
+
+0:36:40.079,0:36:42.800
+number uh or it's something different
+
+0:36:41.920,0:36:44.880
+like tile so
+
+0:36:42.800,0:36:47.040
+thank you for that keegan all right so
+
+0:36:44.880,0:36:49.359
+now uh we got one row done
+
+0:36:47.040,0:36:50.160
+uh now we're going to do many rows now
+
+0:36:49.359,0:36:52.720
+we could
+
+0:36:50.160,0:36:53.520
+uh as you know kind of like manually do
+
+0:36:52.720,0:36:55.839
+them
+
+0:36:53.520,0:36:57.680
+is that what we're gonna do no way how
+
+0:36:55.839,0:36:59.680
+many rows are there
+
+0:36:57.680,0:37:01.520
+three so we're gonna need a repeat three
+
+0:36:59.680,0:37:03.440
+so go and drag over a repeat three
+
+0:37:01.520,0:37:06.560
+command
+
+0:37:03.440,0:37:08.640
+so repeat three oops i'm
+
+0:37:06.560,0:37:10.000
+inside the repeat three uh we're going
+
+0:37:08.640,0:37:12.640
+to add row
+
+0:37:10.000,0:37:14.400
+which is going to be great if we were to
+
+0:37:12.640,0:37:16.640
+run this right now would add
+
+0:37:14.400,0:37:18.560
+one two three and then it would right on
+
+0:37:16.640,0:37:20.079
+top of it put in a four five six and
+
+0:37:18.560,0:37:20.880
+then right on top of that put a seven
+
+0:37:20.079,0:37:23.440
+eight nine
+
+0:37:20.880,0:37:25.440
+so obviously after we add a row we're
+
+0:37:23.440,0:37:26.400
+going to change the placement y so it
+
+0:37:25.440,0:37:31.040
+comes down
+
+0:37:26.400,0:37:34.000
+so let's go into variables change
+
+0:37:31.040,0:37:34.000
+the placement y
+
+0:37:34.160,0:37:37.839
+what's the value for placement y gonna
+
+0:37:36.560,0:37:41.680
+need to get changed by
+
+0:37:37.839,0:37:43.680
+120. oh not 120 that would go up
+
+0:37:41.680,0:37:45.599
+negative 120 there we go so negative
+
+0:37:43.680,0:37:47.680
+120.
+
+0:37:45.599,0:37:50.000
+uh and so now if this works uh it's
+
+0:37:47.680,0:37:52.240
+going to make your your whole grid
+
+0:37:50.000,0:37:54.000
+which i think is pretty cool right so
+
+0:37:52.240,0:37:55.440
+it's actually like taking your picture
+
+0:37:54.000,0:37:58.560
+and recombined it
+
+0:37:55.440,0:38:00.000
+now it's funny that in this game
+
+0:37:58.560,0:38:02.640
+it's like we started with a complete
+
+0:38:00.000,0:38:04.560
+picture then we chopped it up
+
+0:38:02.640,0:38:05.920
+and we made it all separate tiles and
+
+0:38:04.560,0:38:07.280
+then the first thing we did in the code
+
+0:38:05.920,0:38:08.960
+is we put it back together
+
+0:38:07.280,0:38:10.400
+um and then the next thing we're going
+
+0:38:08.960,0:38:11.040
+to do is now we're going to scramble it
+
+0:38:10.400,0:38:14.400
+all up
+
+0:38:11.040,0:38:16.240
+so um we don't actually want it to be an
+
+0:38:14.400,0:38:18.240
+order we actually want it to be
+
+0:38:16.240,0:38:21.520
+scrambled up
+
+0:38:18.240,0:38:23.280
+we also don't need tile number nine
+
+0:38:21.520,0:38:24.960
+and so we're gonna go in and make some
+
+0:38:23.280,0:38:26.160
+of those things happen so the first
+
+0:38:24.960,0:38:27.599
+thing i'm gonna do is i'm gonna make
+
+0:38:26.160,0:38:30.160
+tile number nine
+
+0:38:27.599,0:38:32.960
+not show up so to do that i'm gonna go
+
+0:38:30.160,0:38:34.320
+into and make an if statement
+
+0:38:32.960,0:38:36.320
+i'm actually going to use this one right
+
+0:38:34.320,0:38:39.440
+here so this if condition
+
+0:38:36.320,0:38:41.440
+then and i'm going to have two cases and
+
+0:38:39.440,0:38:44.720
+my condition is going to be
+
+0:38:41.440,0:38:46.320
+is the costume number number nine so i'm
+
+0:38:44.720,0:38:49.440
+going to find in operators i'm going to
+
+0:38:46.320,0:38:53.680
+find the equality one
+
+0:38:49.440,0:38:56.880
+and i'm curious if the costume number
+
+0:38:53.680,0:39:00.000
+is number nine so
+
+0:38:56.880,0:39:00.800
+normally i place it and then i wait for
+
+0:39:00.000,0:39:02.320
+a little bit
+
+0:39:00.800,0:39:03.920
+but costume number nine is gonna be
+
+0:39:02.320,0:39:06.880
+different so i'm gonna
+
+0:39:03.920,0:39:07.760
+i'm gonna re-um redo my loop here a
+
+0:39:06.880,0:39:11.599
+little bit
+
+0:39:07.760,0:39:13.760
+i'm gonna say uh these two always happen
+
+0:39:11.599,0:39:15.200
+so they're kind of like below my fl
+
+0:39:13.760,0:39:15.839
+statement so they are always going to
+
+0:39:15.200,0:39:17.520
+happen
+
+0:39:15.839,0:39:19.599
+but this creating a clone is going to
+
+0:39:17.520,0:39:20.240
+only happen if it's not costume number
+
+0:39:19.599,0:39:21.920
+nine
+
+0:39:20.240,0:39:24.640
+if i put it in the top that'd be when it
+
+0:39:21.920,0:39:27.200
+is costume 9 so i want to create a clone
+
+0:39:24.640,0:39:28.000
+down here when it's not costume 9. and
+
+0:39:27.200,0:39:29.359
+then now that i've got
+
+0:39:28.000,0:39:32.079
+this whole thing set up i'm going to put
+
+0:39:29.359,0:39:34.240
+it back and tied the repeat loop
+
+0:39:32.079,0:39:35.760
+refactoring code is always just a little
+
+0:39:34.240,0:39:37.359
+bit confusing because you have something
+
+0:39:35.760,0:39:38.960
+that looks like this
+
+0:39:37.359,0:39:40.800
+and if you were able to track what i was
+
+0:39:38.960,0:39:41.760
+doing exactly you were able to do at the
+
+0:39:40.800,0:39:43.119
+same time as me
+
+0:39:41.760,0:39:44.160
+but more important is that you can look
+
+0:39:43.119,0:39:45.920
+at it now and you can see that it's
+
+0:39:44.160,0:39:47.440
+correct so i've got a repeat three
+
+0:39:45.920,0:39:49.440
+i've got an if i don't have anything up
+
+0:39:47.440,0:39:51.520
+here right now and then i only create
+
+0:39:49.440,0:39:53.280
+the clone there but i always change it
+
+0:39:51.520,0:39:55.040
+if you run it again it should
+
+0:39:53.280,0:39:58.320
+successfully just leave off
+
+0:39:55.040,0:39:59.119
+tile number nine which is good now tile
+
+0:39:58.320,0:40:01.839
+number nine
+
+0:39:59.119,0:40:02.400
+is actually important to us um it's our
+
+0:40:01.839,0:40:04.640
+blank
+
+0:40:02.400,0:40:06.880
+right so we need to keep track of where
+
+0:40:04.640,0:40:08.400
+our blank is at at all times
+
+0:40:06.880,0:40:09.920
+because whenever somebody clicks on a
+
+0:40:08.400,0:40:10.640
+tile they're going to swap with the
+
+0:40:09.920,0:40:11.680
+blank
+
+0:40:10.640,0:40:13.760
+so we're going to make a couple
+
+0:40:11.680,0:40:14.560
+variables we're going to make a variable
+
+0:40:13.760,0:40:18.480
+called blank
+
+0:40:14.560,0:40:21.200
+x and then another variable called
+
+0:40:18.480,0:40:21.200
+blank y
+
+0:40:21.760,0:40:24.319
+i don't need them to show up on the
+
+0:40:23.040,0:40:27.119
+screen so i'm going to click on this
+
+0:40:24.319,0:40:28.720
+little blue checkbox and hide them
+
+0:40:27.119,0:40:30.400
+strangely i found that if you show them
+
+0:40:28.720,0:40:31.599
+there can be a bug so definitely make
+
+0:40:30.400,0:40:33.119
+sure you hide those
+
+0:40:31.599,0:40:34.880
+and what i'm going to do is in this gap
+
+0:40:33.119,0:40:38.079
+right here i'm going to set
+
+0:40:34.880,0:40:41.680
+blank x and blank y so blank
+
+0:40:38.079,0:40:43.359
+x and then blank y
+
+0:40:41.680,0:40:45.359
+and they're going to get set to whatever
+
+0:40:43.359,0:40:48.720
+the placement x
+
+0:40:45.359,0:40:49.200
+and placement y are so wherever this
+
+0:40:48.720,0:40:51.760
+tile
+
+0:40:49.200,0:40:53.920
+should have gone in at we're gonna save
+
+0:40:51.760,0:40:55.920
+that off as blank x and blank y
+
+0:40:53.920,0:40:59.040
+and then we can use that knowledge uh
+
+0:40:55.920,0:41:00.800
+later in our code which is gonna be cool
+
+0:40:59.040,0:41:03.680
+all right now comes some fun stuff so
+
+0:41:00.800,0:41:05.440
+now like you're on day four of this camp
+
+0:41:03.680,0:41:06.720
+uh the gloves kind of come off against
+
+0:41:05.440,0:41:08.319
+coding we're going to do we're going to
+
+0:41:06.720,0:41:10.400
+start doing some crazier things
+
+0:41:08.319,0:41:12.640
+so what i want to do is i want to
+
+0:41:10.400,0:41:15.440
+shuffle these tiles all around
+
+0:41:12.640,0:41:16.720
+so here's my my plan i'm going to
+
+0:41:15.440,0:41:18.960
+randomly select
+
+0:41:16.720,0:41:20.640
+a number and then i'm going to move it
+
+0:41:18.960,0:41:21.520
+into the blank if it's a valid thing to
+
+0:41:20.640,0:41:23.280
+move
+
+0:41:21.520,0:41:24.480
+and i'm going to do that to shuffle it
+
+0:41:23.280,0:41:25.760
+up how many times do you guys think we
+
+0:41:24.480,0:41:26.880
+ought to do that just to kind of shuffle
+
+0:41:25.760,0:41:29.040
+it up
+
+0:41:26.880,0:41:30.480
+any guesses a million times so the first
+
+0:41:29.040,0:41:32.720
+guess was a million times
+
+0:41:30.480,0:41:34.319
+so you can go into control uh and you
+
+0:41:32.720,0:41:36.640
+can bring over repeat loop
+
+0:41:34.319,0:41:37.760
+the first guess was a million times uh
+
+0:41:36.640,0:41:40.480
+that would actually
+
+0:41:37.760,0:41:42.240
+take uh very long right um so here's
+
+0:41:40.480,0:41:44.160
+what we're gonna do
+
+0:41:42.240,0:41:45.359
+bob and i have played with this and we
+
+0:41:44.160,0:41:48.880
+think that 300
+
+0:41:45.359,0:41:50.480
+is the perfect number for testing though
+
+0:41:48.880,0:41:52.560
+i'm going to only use 100 so i'm going
+
+0:41:50.480,0:41:54.240
+to do 100 shuffles
+
+0:41:52.560,0:41:56.319
+and that way it's faster when i'm
+
+0:41:54.240,0:41:58.720
+testing but before i ship my game i'm
+
+0:41:56.319,0:42:00.880
+going to change this to 300 sound good
+
+0:41:58.720,0:42:02.240
+so this will make testing faster and
+
+0:42:00.880,0:42:03.440
+then the thing that i'm going to do a
+
+0:42:02.240,0:42:06.640
+hundred times
+
+0:42:03.440,0:42:11.280
+is i'm going to randomly pick
+
+0:42:06.640,0:42:14.079
+a costume number so i'm going to say set
+
+0:42:11.280,0:42:15.440
+costume number and i'm going to set it
+
+0:42:14.079,0:42:18.640
+to a random number
+
+0:42:15.440,0:42:21.200
+so i'm going to go into operators pick
+
+0:42:18.640,0:42:21.200
+random
+
+0:42:21.680,0:42:28.400
+and the random number that i pick
+
+0:42:24.880,0:42:30.000
+could be one through eight so there's no
+
+0:42:28.400,0:42:32.000
+reason to do number nine because there
+
+0:42:30.000,0:42:32.480
+is no number nine so i'm gonna randomly
+
+0:42:32.000,0:42:34.400
+pick
+
+0:42:32.480,0:42:36.000
+one through eight and then i'm gonna
+
+0:42:34.400,0:42:38.319
+broadcast an event
+
+0:42:36.000,0:42:40.720
+so i'm gonna go into events uh and i'm
+
+0:42:38.319,0:42:42.400
+gonna say broadcast
+
+0:42:40.720,0:42:43.760
+and the message i'm gonna broadcast i'm
+
+0:42:42.400,0:42:47.760
+gonna make a new message
+
+0:42:43.760,0:42:48.319
+called shuffle so at this point in the
+
+0:42:47.760,0:42:50.720
+code
+
+0:42:48.319,0:42:52.400
+there's eight clones out there they're
+
+0:42:50.720,0:42:54.240
+all gonna listen for shuffle
+
+0:42:52.400,0:42:55.839
+right and i'm gonna broadcast it a
+
+0:42:54.240,0:42:56.240
+hundred times in a row real fast i'm
+
+0:42:55.839,0:42:59.200
+gonna say
+
+0:42:56.240,0:42:59.680
+shuffle shuffle shuffle you get the idea
+
+0:42:59.200,0:43:02.000
+and then
+
+0:42:59.680,0:43:03.200
+each tile is going to have a job they're
+
+0:43:02.000,0:43:06.240
+going to say
+
+0:43:03.200,0:43:07.359
+um was it me that was total shuffle um
+
+0:43:06.240,0:43:08.640
+and then they're going to check to see
+
+0:43:07.359,0:43:09.680
+if they're with if they're touching the
+
+0:43:08.640,0:43:11.200
+blank or not
+
+0:43:09.680,0:43:12.800
+and if they are they're going to swap
+
+0:43:11.200,0:43:14.800
+does that sound sound good
+
+0:43:12.800,0:43:17.119
+so let's go uh from here so we're
+
+0:43:14.800,0:43:19.119
+broadcasting shuffle 100 times
+
+0:43:17.119,0:43:20.160
+we're picking a random tile to actually
+
+0:43:19.119,0:43:23.359
+listen to it
+
+0:43:20.160,0:43:24.880
+so let's go into our tile code
+
+0:43:23.359,0:43:26.880
+so in our tile code what we're going to
+
+0:43:24.880,0:43:30.000
+do is we're going to say when i receive
+
+0:43:26.880,0:43:31.920
+shuffle so there's
+
+0:43:30.000,0:43:33.280
+eight clones of this right and they all
+
+0:43:31.920,0:43:34.720
+have different costume numbers
+
+0:43:33.280,0:43:36.560
+the first thing we want to know is is
+
+0:43:34.720,0:43:38.400
+this message for me so we're going to
+
+0:43:36.560,0:43:39.839
+have an if statement
+
+0:43:38.400,0:43:41.440
+and we're going to decide is this
+
+0:43:39.839,0:43:43.359
+message for me
+
+0:43:41.440,0:43:45.200
+um and we're going to check that with
+
+0:43:43.359,0:43:48.640
+the equals operator
+
+0:43:45.200,0:43:50.720
+so he called out a number so he called
+
+0:43:48.640,0:43:53.440
+out a costume number
+
+0:43:50.720,0:43:54.160
+and the question is is that costume
+
+0:43:53.440,0:43:56.880
+number
+
+0:43:54.160,0:43:58.319
+my costume number so if it was my
+
+0:43:56.880,0:43:58.960
+costume number then i need to do
+
+0:43:58.319,0:44:01.200
+something
+
+0:43:58.960,0:44:03.280
+how do i know if it's my costume number
+
+0:44:01.200,0:44:06.000
+well over in looks
+
+0:44:03.280,0:44:07.040
+each clone has this variable called
+
+0:44:06.000,0:44:09.839
+costume number
+
+0:44:07.040,0:44:10.800
+that's perfect so if the number he
+
+0:44:09.839,0:44:12.480
+called
+
+0:44:10.800,0:44:14.480
+so if the number he called his costume
+
+0:44:12.480,0:44:17.280
+number um if it was me
+
+0:44:14.480,0:44:18.480
+then i need to do something the thing
+
+0:44:17.280,0:44:20.000
+i'm going to do i'm going to put in a
+
+0:44:18.480,0:44:22.640
+function because i like functions
+
+0:44:20.000,0:44:24.079
+so let's go ahead and make a function
+
+0:44:22.640,0:44:27.760
+and we'll call this function
+
+0:44:24.079,0:44:30.880
+try to move so
+
+0:44:27.760,0:44:32.480
+if we're next to the blank we will move
+
+0:44:30.880,0:44:33.760
+if we're not next to the blank then we
+
+0:44:32.480,0:44:36.319
+won't move so i'm going to make a
+
+0:44:33.760,0:44:39.520
+function called try to move
+
+0:44:36.319,0:44:42.160
+so i'm going to call it right here so if
+
+0:44:39.520,0:44:44.079
+it's my number that he called then try
+
+0:44:42.160,0:44:46.400
+to move
+
+0:44:44.079,0:44:47.839
+all right now it's right try to move so
+
+0:44:46.400,0:44:49.359
+the first thing try to move has to
+
+0:44:47.839,0:44:50.000
+figure out is they have to figure out if
+
+0:44:49.359,0:44:51.920
+they're next to
+
+0:44:50.000,0:44:53.760
+the blank so let's look at my board here
+
+0:44:51.920,0:44:55.760
+so my board doesn't have a tile nine
+
+0:44:53.760,0:44:57.760
+anymore
+
+0:44:55.760,0:45:01.440
+um it's instead got this blank and this
+
+0:44:57.760,0:45:02.880
+blank has a value that's right here
+
+0:45:01.440,0:45:05.680
+so based on the board that i'm looking
+
+0:45:02.880,0:45:07.680
+at here campers which tiles can move
+
+0:45:05.680,0:45:09.599
+so which ones can move into this blank
+
+0:45:07.680,0:45:11.119
+six six and eight that's right so
+
+0:45:09.599,0:45:13.200
+they're the only ones that can do it
+
+0:45:11.119,0:45:14.480
+so the question is how how are they
+
+0:45:13.200,0:45:16.720
+special um
+
+0:45:14.480,0:45:17.520
+and they're special in my opinion
+
+0:45:16.720,0:45:21.440
+because their
+
+0:45:17.520,0:45:22.880
+centers are close to this center
+
+0:45:21.440,0:45:25.680
+and the distance that they are away from
+
+0:45:22.880,0:45:27.200
+the center is they're 120 away from the
+
+0:45:25.680,0:45:28.720
+center
+
+0:45:27.200,0:45:30.319
+and so what we're going to say is we're
+
+0:45:28.720,0:45:32.720
+going to we're going to look at
+
+0:45:30.319,0:45:34.800
+rx compared to his x we're going to look
+
+0:45:32.720,0:45:37.920
+at our y compared to his y
+
+0:45:34.800,0:45:40.720
+and if the grand total is less than uh
+
+0:45:37.920,0:45:43.359
+maybe like 121 or 130
+
+0:45:40.720,0:45:44.880
+then we know that we can move mckinley
+
+0:45:43.359,0:45:47.280
+do you have a question
+
+0:45:44.880,0:45:48.880
+what if they're all hers what if they're
+
+0:45:47.280,0:45:51.119
+all hers i keep saying him so
+
+0:45:48.880,0:45:53.040
+yeah i should work on my my pronouns
+
+0:45:51.119,0:45:54.880
+thank you for keeping me honest there
+
+0:45:53.040,0:45:57.040
+now there's also ones that are like way
+
+0:45:54.880,0:46:01.520
+up here um and this one is
+
+0:45:57.040,0:46:03.119
+is too far right so um here's our plan
+
+0:46:01.520,0:46:05.920
+we're going to figure out how far we are
+
+0:46:03.119,0:46:08.960
+away so we're going to do a comparison
+
+0:46:05.920,0:46:13.359
+between the blanks
+
+0:46:08.960,0:46:18.240
+x and y versus
+
+0:46:13.359,0:46:18.240
+my current x position and y position
+
+0:46:19.359,0:46:23.119
+so these are the the variables that are
+
+0:46:21.680,0:46:24.640
+going to be involved in this
+
+0:46:23.119,0:46:27.040
+um and what we want to do is we want to
+
+0:46:24.640,0:46:28.880
+know the the delta between the x's and
+
+0:46:27.040,0:46:32.240
+the delta between the y's
+
+0:46:28.880,0:46:34.480
+so to get a delta that's uh subtraction
+
+0:46:32.240,0:46:35.760
+so i'm going to grab a subtraction
+
+0:46:34.480,0:46:37.119
+symbol here
+
+0:46:35.760,0:46:38.960
+and a subtraction symbol here so i'm
+
+0:46:37.119,0:46:42.480
+going to say blank x
+
+0:46:38.960,0:46:45.599
+minus x position blank y
+
+0:46:42.480,0:46:46.640
+minus y position so this is going to
+
+0:46:45.599,0:46:50.400
+give me the
+
+0:46:46.640,0:46:52.400
+the delta x or the delta y
+
+0:46:50.400,0:46:54.079
+now it might be a positive number might
+
+0:46:52.400,0:46:55.359
+be a negative number and i don't i don't
+
+0:46:54.079,0:46:56.560
+care if it's positive or negative i
+
+0:46:55.359,0:46:58.160
+always want a positive
+
+0:46:56.560,0:47:00.560
+do you guys know what function will will
+
+0:46:58.160,0:47:03.599
+make something always be a positive
+
+0:47:00.560,0:47:05.839
+all right i think keegan's got it
+
+0:47:03.599,0:47:07.359
+absolute value that's right i took a
+
+0:47:05.839,0:47:08.480
+little coaxing here but it's called an
+
+0:47:07.359,0:47:10.160
+absolute value
+
+0:47:08.480,0:47:12.079
+so scratch has this thing it's like can
+
+0:47:10.160,0:47:13.920
+do all kinds of crazy math things but
+
+0:47:12.079,0:47:15.839
+the one we want is abs
+
+0:47:13.920,0:47:17.599
+because it stands for absolute value you
+
+0:47:15.839,0:47:18.480
+may have never seen absolute value in
+
+0:47:17.599,0:47:20.559
+school yet
+
+0:47:18.480,0:47:23.520
+but believe me you will right so i want
+
+0:47:20.559,0:47:26.720
+the absolute value of the delta x
+
+0:47:23.520,0:47:28.079
+and the absolute value of the delta y
+
+0:47:26.720,0:47:29.280
+now what i'm going to choose to do is
+
+0:47:28.079,0:47:30.160
+i'm going to choose to add these two
+
+0:47:29.280,0:47:33.520
+together
+
+0:47:30.160,0:47:35.119
+so to add them i need the plus operator
+
+0:47:33.520,0:47:36.240
+make sure that you get the plus operator
+
+0:47:35.119,0:47:37.920
+when i prep this i grab the
+
+0:47:36.240,0:47:38.960
+multiplication operator trust me that
+
+0:47:37.920,0:47:41.040
+did not work right
+
+0:47:38.960,0:47:42.160
+so i need the plus operator and i'm just
+
+0:47:41.040,0:47:43.839
+going to add
+
+0:47:42.160,0:47:45.599
+these two together by the way whenever
+
+0:47:43.839,0:47:47.040
+your your operators kind of get complex
+
+0:47:45.599,0:47:47.680
+make sure you always grab it from the
+
+0:47:47.040,0:47:50.079
+middle
+
+0:47:47.680,0:47:53.280
+so this one the middle is the of so i'm
+
+0:47:50.079,0:47:54.640
+going to drop this into one half
+
+0:47:53.280,0:47:56.400
+and then i'm going to grab the of here
+
+0:47:54.640,0:47:58.000
+and drop this into the other half
+
+0:47:56.400,0:47:59.440
+and now for this big one if i want to
+
+0:47:58.000,0:48:00.400
+move it i have to make sure i grab the
+
+0:47:59.440,0:48:02.880
+plus right so
+
+0:48:00.400,0:48:05.040
+so we're not done yet what we want to do
+
+0:48:02.880,0:48:07.520
+is we want to see if this whole thing
+
+0:48:05.040,0:48:10.000
+is less than i'm going to use a
+
+0:48:07.520,0:48:12.800
+threshold of 130 right
+
+0:48:10.000,0:48:14.800
+and the 130 will make sure to pick off
+
+0:48:12.800,0:48:15.760
+everybody including the diagonal
+
+0:48:14.800,0:48:17.440
+but that'll give you a little
+
+0:48:15.760,0:48:18.800
+flexibility in case your images are a
+
+0:48:17.440,0:48:23.280
+little too big right
+
+0:48:18.800,0:48:26.319
+so i'm going to say if
+
+0:48:23.280,0:48:28.400
+this whole thing is less than 130 so i'm
+
+0:48:26.319,0:48:32.240
+going to go ahead and grab a less than
+
+0:48:28.400,0:48:34.400
+and 130. so if this whole thing so i've
+
+0:48:32.240,0:48:37.680
+got to grab it from the plus here
+
+0:48:34.400,0:48:39.040
+and drop it into there it's so big it
+
+0:48:37.680,0:48:39.599
+doesn't even fit on the screen anymore
+
+0:48:39.040,0:48:42.160
+right
+
+0:48:39.599,0:48:42.880
+so if that whole thing is less than 130
+
+0:48:42.160,0:48:46.160
+then
+
+0:48:42.880,0:48:47.839
+i must be next to the blank and this
+
+0:48:46.160,0:48:49.440
+algorithm will work even if the blanks
+
+0:48:47.839,0:48:51.200
+in the middle then it'll figure out that
+
+0:48:49.440,0:48:53.680
+these four can move right so it's kind
+
+0:48:51.200,0:48:57.520
+of a smart algorithm
+
+0:48:53.680,0:48:59.599
+so now what happens if if we are a match
+
+0:48:57.520,0:49:03.040
+if we're a match we've got a swap with
+
+0:48:59.599,0:49:05.200
+the blank um swapping
+
+0:49:03.040,0:49:07.200
+is a very popular thing that happens in
+
+0:49:05.200,0:49:09.119
+computer science
+
+0:49:07.200,0:49:10.400
+so uh let's see here so let's say i had
+
+0:49:09.119,0:49:13.599
+two variables i had a
+
+0:49:10.400,0:49:16.079
+is five and b is seven
+
+0:49:13.599,0:49:17.760
+if i wanted to swap them i could say
+
+0:49:16.079,0:49:20.800
+that a is equal to b
+
+0:49:17.760,0:49:20.800
+and b is equal to a
+
+0:49:21.119,0:49:25.119
+campers would this work in code
+
+0:49:25.760,0:49:29.280
+so this is an interesting problem that
+
+0:49:27.680,0:49:30.800
+happens in code let's let's step through
+
+0:49:29.280,0:49:33.359
+what happens just because i like it
+
+0:49:30.800,0:49:34.800
+so this is the values of a and b like as
+
+0:49:33.359,0:49:37.839
+this code executes
+
+0:49:34.800,0:49:38.079
+so right here a is five after this line
+
+0:49:37.839,0:49:39.760
+a
+
+0:49:38.079,0:49:41.119
+is still five of course but now b is
+
+0:49:39.760,0:49:43.280
+seven
+
+0:49:41.119,0:49:45.119
+after this line of code runs it says b
+
+0:49:43.280,0:49:48.559
+is equal to a so it actually
+
+0:49:45.119,0:49:50.640
+reassigns a so a is now seven
+
+0:49:48.559,0:49:51.839
+but b is still seven and then this line
+
+0:49:50.640,0:49:55.520
+does nothing
+
+0:49:51.839,0:49:58.640
+so um this direct
+
+0:49:55.520,0:50:00.880
+change a is b and b is a doesn't work
+
+0:49:58.640,0:50:02.480
+which is interesting because of how
+
+0:50:00.880,0:50:05.119
+sequential programming works
+
+0:50:02.480,0:50:06.960
+and the trick to fix this problem is you
+
+0:50:05.119,0:50:10.079
+need a temporary variable
+
+0:50:06.960,0:50:12.319
+so i'm going to call it t so i'm going
+
+0:50:10.079,0:50:14.880
+to save off the value of a
+
+0:50:12.319,0:50:16.079
+into this variable t that's a temporary
+
+0:50:14.880,0:50:18.480
+variable
+
+0:50:16.079,0:50:20.960
+now i can blow away a and then at the
+
+0:50:18.480,0:50:23.440
+bottom here i just have to use t
+
+0:50:20.960,0:50:24.640
+and this trick does work if i were to
+
+0:50:23.440,0:50:28.559
+put t over here
+
+0:50:24.640,0:50:32.240
+we'd have like five seven and five
+
+0:50:28.559,0:50:33.839
+and then we blow away a and then we set
+
+0:50:32.240,0:50:35.359
+b to that temporary variable
+
+0:50:33.839,0:50:36.800
+and then interestingly at the end of the
+
+0:50:35.359,0:50:38.000
+day we don't care about that temporary
+
+0:50:36.800,0:50:41.520
+variable
+
+0:50:38.000,0:50:42.240
+so it's a very common thing in computer
+
+0:50:41.520,0:50:44.880
+science
+
+0:50:42.240,0:50:45.280
+where you want to swap two things and
+
+0:50:44.880,0:50:47.200
+you
+
+0:50:45.280,0:50:49.119
+you can't just swap them like you would
+
+0:50:47.200,0:50:50.559
+think you have to make a temporary
+
+0:50:49.119,0:50:52.640
+variable
+
+0:50:50.559,0:50:54.079
+all right let's just do it right so we
+
+0:50:52.640,0:50:56.160
+want to swap
+
+0:50:54.079,0:50:57.599
+my position with the blanks position so
+
+0:50:56.160,0:50:58.720
+that's our goal
+
+0:50:57.599,0:51:00.559
+and we're going to have to make a
+
+0:50:58.720,0:51:00.960
+temporary variable which we just learned
+
+0:51:00.559,0:51:02.559
+about
+
+0:51:00.960,0:51:06.160
+so let's go and make two variables we'll
+
+0:51:02.559,0:51:08.000
+call one temp x
+
+0:51:06.160,0:51:09.920
+and then the other one is going to be
+
+0:51:08.000,0:51:11.760
+temp y
+
+0:51:09.920,0:51:13.520
+so we need a temporary variable for the
+
+0:51:11.760,0:51:14.800
+x and temporary variable y
+
+0:51:13.520,0:51:16.880
+i don't want to show them so i'm going
+
+0:51:14.800,0:51:20.559
+to hide them
+
+0:51:16.880,0:51:21.920
+and now i'm going to do a bunch of steps
+
+0:51:20.559,0:51:24.480
+so the first thing i'm going to do is
+
+0:51:21.920,0:51:29.200
+i'm going to set my temporary variables
+
+0:51:24.480,0:51:30.480
+so i'm going to say temp x and temp y
+
+0:51:29.200,0:51:32.319
+and the thing that i'm going to choose
+
+0:51:30.480,0:51:35.440
+to save off is i'm going to choose to
+
+0:51:32.319,0:51:39.359
+save off the x position and y position
+
+0:51:35.440,0:51:42.319
+so i'm going to save off x position
+
+0:51:39.359,0:51:42.319
+and y position
+
+0:51:43.200,0:51:47.520
+so the nice thing is is that once i save
+
+0:51:45.680,0:51:50.240
+them off into a temporary variable
+
+0:51:47.520,0:51:51.920
+then i can blow them away right so i can
+
+0:51:50.240,0:51:54.079
+change them
+
+0:51:51.920,0:51:55.040
+the fastest way to change them is this
+
+0:51:54.079,0:51:58.960
+command that says
+
+0:51:55.040,0:52:00.400
+go to xy
+
+0:51:58.960,0:52:02.000
+interestingly you could also set them
+
+0:52:00.400,0:52:03.599
+individually with this like set x and
+
+0:52:02.000,0:52:05.200
+set y but we'll just kind of do it
+
+0:52:03.599,0:52:06.720
+all in one shot and the thing we're
+
+0:52:05.200,0:52:08.079
+going to set them to is we're going to
+
+0:52:06.720,0:52:10.079
+move this tile
+
+0:52:08.079,0:52:11.839
+to wherever the blank is at does that
+
+0:52:10.079,0:52:15.040
+make sense
+
+0:52:11.839,0:52:16.880
+so this tile is going to move and it's
+
+0:52:15.040,0:52:18.400
+going to move to wherever the blank was
+
+0:52:16.880,0:52:20.000
+at
+
+0:52:18.400,0:52:22.240
+and then the blank is going to be where
+
+0:52:20.000,0:52:23.599
+this tile was so they they swapped it's
+
+0:52:22.240,0:52:26.800
+called a swap right
+
+0:52:23.599,0:52:26.800
+so now i need to set
+
+0:52:26.960,0:52:36.480
+blank x and blank y
+
+0:52:32.319,0:52:39.440
+to those temporary variables temp x
+
+0:52:36.480,0:52:40.720
+and temp y i can't set them to x and y
+
+0:52:39.440,0:52:42.640
+anymore because those those have been
+
+0:52:40.720,0:52:46.240
+changed by this blue line right
+
+0:52:42.640,0:52:49.359
+but i can use those temporary variables
+
+0:52:46.240,0:52:51.359
+so it's kind of a fun crazy thing so
+
+0:52:49.359,0:52:52.800
+i'm going to pause it and ask my campers
+
+0:52:51.359,0:52:54.880
+if they understand this code
+
+0:52:52.800,0:52:56.240
+because it's kind of complex right so
+
+0:52:54.880,0:52:59.440
+make sure you can look at this
+
+0:52:56.240,0:53:00.960
+and explain what's going on
+
+0:52:59.440,0:53:03.680
+all right well i should see if this
+
+0:53:00.960,0:53:05.200
+works uh so when i click this green flag
+
+0:53:03.680,0:53:07.040
+what should happens it should shuffle
+
+0:53:05.200,0:53:08.800
+them a hundred times
+
+0:53:07.040,0:53:10.720
+and so it happens kind of quick uh and
+
+0:53:08.800,0:53:12.559
+it shuffles them around
+
+0:53:10.720,0:53:14.720
+you'll notice that they're not shuffled
+
+0:53:12.559,0:53:16.079
+great they're shuffled uh good enough
+
+0:53:14.720,0:53:17.440
+for testing
+
+0:53:16.079,0:53:19.280
+eventually we're going to change this
+
+0:53:17.440,0:53:20.960
+number to be 300
+
+0:53:19.280,0:53:22.800
+uh which i think will shuffle them a
+
+0:53:20.960,0:53:24.480
+little bit better so like you can see
+
+0:53:22.800,0:53:25.599
+before my number one was still in the
+
+0:53:24.480,0:53:27.920
+upper left
+
+0:53:25.599,0:53:30.000
+but with 300 it shuffles them a little
+
+0:53:27.920,0:53:31.839
+better i think that one shuffled enough
+
+0:53:30.000,0:53:34.640
+uh but but i'm going to actually leave
+
+0:53:31.839,0:53:37.040
+it at 100 for my testing
+
+0:53:34.640,0:53:38.800
+that way it's faster and then as soon as
+
+0:53:37.040,0:53:39.520
+i finish my game i'll put it back to
+
+0:53:38.800,0:53:41.520
+300.
+
+0:53:39.520,0:53:43.200
+does that sound good by the way it's
+
+0:53:41.520,0:53:45.200
+also good to take breaks every so often
+
+0:53:43.200,0:53:47.760
+so as soon as you see that this works
+
+0:53:45.200,0:53:49.680
+um maybe take a break right so just take
+
+0:53:47.760,0:53:51.920
+a take a break pause the video walk away
+
+0:53:49.680,0:53:53.200
+and come back a little bit later
+
+0:53:51.920,0:53:54.960
+all right are you back from your break
+
+0:53:53.200,0:53:56.079
+uh let's do some more stuff so the next
+
+0:53:54.960,0:53:58.240
+thing that i think really
+
+0:53:56.079,0:53:59.839
+needs to happen is i want to be able to
+
+0:53:58.240,0:54:02.319
+click on a tile
+
+0:53:59.839,0:54:04.160
+and have it glide into position right so
+
+0:54:02.319,0:54:06.000
+i want it to kind of glide over
+
+0:54:04.160,0:54:07.520
+so let's see if we can implement that
+
+0:54:06.000,0:54:10.000
+and to be honest that's actually one of
+
+0:54:07.520,0:54:11.280
+the last required things for today
+
+0:54:10.000,0:54:13.520
+my campers are going to have to do the
+
+0:54:11.280,0:54:15.040
+whole thing but after this step you
+
+0:54:13.520,0:54:17.200
+you could be done after today because it
+
+0:54:15.040,0:54:18.640
+is pretty big so let's make it to where
+
+0:54:17.200,0:54:21.599
+when you click on one of these
+
+0:54:18.640,0:54:22.960
+it'll glide into position really nicely
+
+0:54:21.599,0:54:24.960
+so here's what i want to do i want to go
+
+0:54:22.960,0:54:26.400
+into my tile code
+
+0:54:24.960,0:54:28.319
+and you can see that my tile code
+
+0:54:26.400,0:54:31.440
+already has like a when i receive
+
+0:54:28.319,0:54:32.559
+shuffle when i start as clone so it's
+
+0:54:31.440,0:54:33.760
+kind of got all these things
+
+0:54:32.559,0:54:36.480
+and we're going to make something else
+
+0:54:33.760,0:54:39.599
+we're going to get an event
+
+0:54:36.480,0:54:41.200
+called when the sprite is clicked so
+
+0:54:39.599,0:54:42.799
+when the sprite is clicked what do we
+
+0:54:41.200,0:54:44.240
+want to do
+
+0:54:42.799,0:54:46.799
+so what we're going to do is actually
+
+0:54:44.240,0:54:49.760
+similar in many ways to shuffle
+
+0:54:46.799,0:54:50.960
+because we're going to try to move
+
+0:54:49.760,0:54:52.400
+that's going to be our main thing
+
+0:54:50.960,0:54:54.079
+we don't have to check where the ones
+
+0:54:52.400,0:54:56.319
+click we know where the ones clicked
+
+0:54:54.079,0:54:57.520
+and so like when this tile is clicked we
+
+0:54:56.319,0:54:59.200
+want to try to move
+
+0:54:57.520,0:55:02.000
+let's go ahead and try it with just that
+
+0:54:59.200,0:55:04.000
+additional code so it does my shuffling
+
+0:55:02.000,0:55:05.280
+and so now oh i had this goof this
+
+0:55:04.000,0:55:06.000
+sometimes happens i've got a goof to
+
+0:55:05.280,0:55:08.000
+where i've got two
+
+0:55:06.000,0:55:10.240
+holes i'm going to pretend like i didn't
+
+0:55:08.000,0:55:12.480
+see that and just run it again so you
+
+0:55:10.240,0:55:13.920
+can do the same but that happens to you
+
+0:55:12.480,0:55:16.079
+so right now what should happen if i
+
+0:55:13.920,0:55:17.359
+click on seven it should try to move
+
+0:55:16.079,0:55:20.079
+one should try to move and it should
+
+0:55:17.359,0:55:21.280
+work but if i click on like four it
+
+0:55:20.079,0:55:23.760
+shouldn't do anything
+
+0:55:21.280,0:55:24.559
+right only the ones that are next to the
+
+0:55:23.760,0:55:27.920
+tile
+
+0:55:24.559,0:55:28.880
+uh can move so i think that that
+
+0:55:27.920,0:55:31.440
+actually uh
+
+0:55:28.880,0:55:33.359
+is doing pretty well it looks like i can
+
+0:55:31.440,0:55:35.520
+play the game if i wanted right now
+
+0:55:33.359,0:55:37.599
+i could use my algorithm to try to solve
+
+0:55:35.520,0:55:39.359
+it i'm not going to right now but i
+
+0:55:37.599,0:55:41.920
+could right so i could actually like try
+
+0:55:39.359,0:55:43.599
+to solve this thing
+
+0:55:41.920,0:55:46.880
+instead what i want to do is i want when
+
+0:55:43.599,0:55:48.640
+i click it i want it to smoothly glide
+
+0:55:46.880,0:55:51.359
+right so you can see that right now it's
+
+0:55:48.640,0:55:53.119
+just going there it's just snapping over
+
+0:55:51.359,0:55:54.880
+i think it would be cool to have kind of
+
+0:55:53.119,0:55:57.920
+like a slide animation
+
+0:55:54.880,0:55:59.839
+so how do we do that so uh the first
+
+0:55:57.920,0:56:00.400
+thing we need to do is this go block in
+
+0:55:59.839,0:56:02.640
+here
+
+0:56:00.400,0:56:03.520
+needs to have an if statement around it
+
+0:56:02.640,0:56:05.200
+so here's what i'm going to do i'm going
+
+0:56:03.520,0:56:08.240
+to go into control
+
+0:56:05.200,0:56:10.160
+and i'm going to grab an if else
+
+0:56:08.240,0:56:12.079
+so sometimes i want to get there like
+
+0:56:10.160,0:56:13.040
+immediately and then other times i want
+
+0:56:12.079,0:56:15.680
+to glide
+
+0:56:13.040,0:56:17.440
+so i'm going to go ahead and break this
+
+0:56:15.680,0:56:20.960
+up a little bit
+
+0:56:17.440,0:56:24.319
+and i want just this blue line in here
+
+0:56:20.960,0:56:28.480
+and then i want to put that on the top
+
+0:56:24.319,0:56:30.799
+sorry that on the bottom that on the top
+
+0:56:28.480,0:56:32.559
+so this refactoring thing again and this
+
+0:56:30.799,0:56:35.200
+is going to be in this area
+
+0:56:32.559,0:56:36.960
+i'm going to kind of put it all back in
+
+0:56:35.200,0:56:38.559
+so i'm still going to do the swap so
+
+0:56:36.960,0:56:40.079
+same thing as before
+
+0:56:38.559,0:56:41.839
+it's just instead of a go to i'm going
+
+0:56:40.079,0:56:45.040
+to use a different command
+
+0:56:41.839,0:56:48.160
+called glide 2
+
+0:56:45.040,0:56:50.720
+x y so sometimes i'm going to go there
+
+0:56:48.160,0:56:51.839
+and sometimes i'm going to glide there
+
+0:56:50.720,0:56:53.520
+now
+
+0:56:51.839,0:56:55.200
+operator or variables here i'm going to
+
+0:56:53.520,0:56:59.920
+move in
+
+0:56:55.200,0:57:03.359
+blank x and blank y
+
+0:56:59.920,0:57:04.480
+and this glide i'm going to glide in 0.2
+
+0:57:03.359,0:57:07.839
+seconds
+
+0:57:04.480,0:57:09.040
+so sometimes i want to go sometimes i
+
+0:57:07.839,0:57:11.040
+want to glide
+
+0:57:09.040,0:57:12.720
+how am i going to decide whether it
+
+0:57:11.040,0:57:14.480
+should be a go or a glide
+
+0:57:12.720,0:57:15.920
+so what i want to do is i want to pass
+
+0:57:14.480,0:57:18.480
+into this function
+
+0:57:15.920,0:57:19.680
+an argument this is something new so
+
+0:57:18.480,0:57:21.440
+right click
+
+0:57:19.680,0:57:22.720
+so your right mouse button right click
+
+0:57:21.440,0:57:25.839
+on this word define
+
+0:57:22.720,0:57:27.359
+and click on edit and what i want to do
+
+0:57:25.839,0:57:28.000
+is i don't just want to have a function
+
+0:57:27.359,0:57:29.599
+i want to
+
+0:57:28.000,0:57:32.640
+add an input i'm going to add this
+
+0:57:29.599,0:57:34.240
+number or text so i'm click right here
+
+0:57:32.640,0:57:35.920
+and i'm going to give this argument a
+
+0:57:34.240,0:57:40.000
+name i'm going to call it
+
+0:57:35.920,0:57:41.280
+go or glide and you can make it say like
+
+0:57:40.000,0:57:43.599
+uh go over glide like this but what
+
+0:57:41.280,0:57:47.280
+we're gonna do is go is gonna be a one
+
+0:57:43.599,0:57:50.880
+so i'm gonna say like go one or glide
+
+0:57:47.280,0:57:52.640
+two so i'm gonna call it go one
+
+0:57:50.880,0:57:54.960
+or glide two so they're gonna pass in a
+
+0:57:52.640,0:57:58.400
+one or a two one for go
+
+0:57:54.960,0:58:00.880
+two for glide and so now you can see
+
+0:57:58.400,0:58:02.720
+that it says up here uh try to move go
+
+0:58:00.880,0:58:04.400
+or glide right there
+
+0:58:02.720,0:58:05.760
+and then when i call it you can see that
+
+0:58:04.400,0:58:08.400
+it added this thing so this
+
+0:58:05.760,0:58:09.440
+when i'm shuffling it's a go so go is
+
+0:58:08.400,0:58:11.200
+one
+
+0:58:09.440,0:58:12.480
+and then when i click it it's a glide so
+
+0:58:11.200,0:58:16.400
+glide is two
+
+0:58:12.480,0:58:19.520
+so go one glide two
+
+0:58:16.400,0:58:22.240
+now i need to use that variable
+
+0:58:19.520,0:58:23.760
+in here so i'm gonna go to operators and
+
+0:58:22.240,0:58:26.720
+grab an equals
+
+0:58:23.760,0:58:28.400
+so where's my equals operator so if and
+
+0:58:26.720,0:58:29.520
+then this is tricky you actually grab it
+
+0:58:28.400,0:58:31.119
+from here
+
+0:58:29.520,0:58:32.319
+and put it down there which i think
+
+0:58:31.119,0:58:34.079
+that's kind of tricky how you just kind
+
+0:58:32.319,0:58:37.760
+of do it from right right inside here
+
+0:58:34.079,0:58:39.359
+so if go or glide is a one
+
+0:58:37.760,0:58:41.280
+then we want to go there that way
+
+0:58:39.359,0:58:43.359
+shuffling is fast right
+
+0:58:41.280,0:58:44.960
+um but if it's a click we want to glide
+
+0:58:43.359,0:58:45.599
+there so let's try it so right now i
+
+0:58:44.960,0:58:48.960
+shuffle
+
+0:58:45.599,0:58:50.160
+and it's fast um it did the two blank
+
+0:58:48.960,0:58:50.720
+thing i'm gonna pretend like i didn't
+
+0:58:50.160,0:58:53.440
+see that
+
+0:58:50.720,0:58:54.559
+moving on so now uh whenever i click it
+
+0:58:53.440,0:58:56.400
+uh things should
+
+0:58:54.559,0:58:58.000
+glide to the correct position which is
+
+0:58:56.400,0:58:59.599
+cool
+
+0:58:58.000,0:59:02.240
+uh and now what we're gonna do is we're
+
+0:58:59.599,0:59:05.359
+gonna give you the option
+
+0:59:02.240,0:59:06.720
+of adding the extra features or not so
+
+0:59:05.359,0:59:08.000
+you can see that right now the game is
+
+0:59:06.720,0:59:10.160
+completely playable
+
+0:59:08.000,0:59:11.440
+uh and you you can win it uh which is
+
+0:59:10.160,0:59:13.920
+cool
+
+0:59:11.440,0:59:14.720
+if you would like to be done right here
+
+0:59:13.920,0:59:17.520
+today
+
+0:59:14.720,0:59:18.079
+you could be pat yourself in the back go
+
+0:59:17.520,0:59:21.200
+do something
+
+0:59:18.079,0:59:23.200
+else call it done if you wanted to
+
+0:59:21.200,0:59:24.079
+though we've got some extra features for
+
+0:59:23.200,0:59:27.280
+you
+
+0:59:24.079,0:59:27.920
+so for example it feels unsatisfying uh
+
+0:59:27.280,0:59:30.960
+that you
+
+0:59:27.920,0:59:33.599
+win and nothing happens right and so
+
+0:59:30.960,0:59:35.200
+it'd be nice to add that feature
+
+0:59:33.599,0:59:36.799
+it also would be neat to add kind of
+
+0:59:35.200,0:59:38.160
+like a moves counter so you know how
+
+0:59:36.799,0:59:39.920
+long it took you to do it
+
+0:59:38.160,0:59:41.760
+um and so those added features is what
+
+0:59:39.920,0:59:43.599
+we're going to add next
+
+0:59:41.760,0:59:45.599
+and it is just a little bit complicated
+
+0:59:43.599,0:59:47.920
+so if you feel like calling it today
+
+0:59:45.599,0:59:49.680
+great job we'll see you tomorrow for the
+
+0:59:47.920,0:59:51.359
+final day of coding camp
+
+0:59:49.680,0:59:53.119
+if you've got the energy to do these
+
+0:59:51.359,0:59:55.839
+last things then
+
+0:59:53.119,0:59:58.240
+let's go ahead and do them together so
+
+0:59:55.839,1:00:01.280
+what i want to do first is i want to
+
+0:59:58.240,1:00:03.599
+check to see if we solve the
+
+1:00:01.280,1:00:04.880
+puzzle or not so how do we check to see
+
+1:00:03.599,1:00:07.839
+if we solve the puzzle
+
+1:00:04.880,1:00:09.680
+well each tile needs to know if it's in
+
+1:00:07.839,1:00:10.960
+the correct position or not
+
+1:00:09.680,1:00:13.280
+and to do this we're going to use
+
+1:00:10.960,1:00:14.319
+something called an array an array is
+
+1:00:13.280,1:00:17.119
+new
+
+1:00:14.319,1:00:18.880
+so if you go into variables in the past
+
+1:00:17.119,1:00:20.480
+we've used all kinds of variables
+
+1:00:18.880,1:00:22.000
+we've made a fair number of blocks as
+
+1:00:20.480,1:00:24.079
+well but see where it says
+
+1:00:22.000,1:00:25.680
+make a list so here's what we're going
+
+1:00:24.079,1:00:28.799
+to do
+
+1:00:25.680,1:00:30.480
+each of these tiles has a certain x
+
+1:00:28.799,1:00:32.160
+position it's supposed to be in
+
+1:00:30.480,1:00:35.599
+so this is supposed to be at negative
+
+1:00:32.160,1:00:37.200
+120 0 and then positive 120
+
+1:00:35.599,1:00:39.520
+they also have a specific y they're
+
+1:00:37.200,1:00:41.200
+supposed to be in this top row the y is
+
+1:00:39.520,1:00:44.240
+always 120
+
+1:00:41.200,1:00:47.520
+and so we're going to make um a
+
+1:00:44.240,1:00:48.480
+list of what the correct x's and correct
+
+1:00:47.520,1:00:50.640
+y's are
+
+1:00:48.480,1:00:51.920
+so go ahead and do this with me go and
+
+1:00:50.640,1:00:53.680
+go into your backdrop because that's
+
+1:00:51.920,1:00:56.720
+where we're going to be putting the code
+
+1:00:53.680,1:01:00.400
+click on make a list so
+
+1:00:56.720,1:01:03.440
+this list is going to be the correct
+
+1:01:00.400,1:01:04.720
+x i could say correct x values but it's
+
+1:01:03.440,1:01:06.480
+going to be correct x
+
+1:01:04.720,1:01:08.079
+so this is going to be a list of correct
+
+1:01:06.480,1:01:10.160
+x values and it's going to have the
+
+1:01:08.079,1:01:13.520
+values like negative 120
+
+1:01:10.160,1:01:16.240
+0 positive 120 negative 120 0 positive
+
+1:01:13.520,1:01:18.079
+120 negative 120 0 positive 120 so let's
+
+1:01:16.240,1:01:21.359
+have nine values total so
+
+1:01:18.079,1:01:22.559
+those are the correct x list values
+
+1:01:21.359,1:01:23.839
+and you can see it shows up on the
+
+1:01:22.559,1:01:24.799
+screen we're going to eventually hide it
+
+1:01:23.839,1:01:26.160
+but let's go ahead and
+
+1:01:24.799,1:01:27.520
+leave it for now and then we're going to
+
+1:01:26.160,1:01:28.880
+make another one this is probably no
+
+1:01:27.520,1:01:32.079
+surprise
+
+1:01:28.880,1:01:33.599
+called correct y i mean it's going to
+
+1:01:32.079,1:01:35.680
+have a list with 9 items and it's going
+
+1:01:33.599,1:01:38.799
+to be 120 120 120
+
+1:01:35.680,1:01:39.839
+0 0 0 negative 120 negative 120 negative
+
+1:01:38.799,1:01:42.000
+120.
+
+1:01:39.839,1:01:44.240
+so those are going to be the values so
+
+1:01:42.000,1:01:46.799
+we have to make this list
+
+1:01:44.240,1:01:47.839
+the easiest way to make this list is to
+
+1:01:46.799,1:01:50.960
+cleverly put
+
+1:01:47.839,1:01:51.760
+into your code where you should clear
+
+1:01:50.960,1:01:53.680
+the array
+
+1:01:51.760,1:01:55.440
+and where you should put things in so
+
+1:01:53.680,1:02:00.160
+we're going to clear the arrays
+
+1:01:55.440,1:02:02.720
+at the very start so to clear the arrays
+
+1:02:00.160,1:02:03.200
+we're just going to say delete all of
+
+1:02:02.720,1:02:06.799
+correct
+
+1:02:03.200,1:02:08.079
+x delete all of correct y
+
+1:02:06.799,1:02:10.160
+and so that's going to make sure that
+
+1:02:08.079,1:02:11.359
+they start empty so right now they're
+
+1:02:10.160,1:02:12.559
+empty but we're going to guarantee they
+
+1:02:11.359,1:02:14.480
+start empty
+
+1:02:12.559,1:02:16.400
+and then we're going to add things at
+
+1:02:14.480,1:02:20.319
+very appropriate
+
+1:02:16.400,1:02:23.920
+points so let's do this um i'm going to
+
+1:02:20.319,1:02:26.000
+drag over add thing to correct x
+
+1:02:23.920,1:02:27.280
+and i'm going to put it inside my add
+
+1:02:26.000,1:02:30.480
+row function
+
+1:02:27.280,1:02:31.839
+inside the repeat 3 loop just before the
+
+1:02:30.480,1:02:33.520
+if statement so you can see where it's
+
+1:02:31.839,1:02:34.799
+out there
+
+1:02:33.520,1:02:36.880
+and so what i'm going to do is i'm going
+
+1:02:34.799,1:02:40.400
+to add
+
+1:02:36.880,1:02:44.240
+placement x to the correct
+
+1:02:40.400,1:02:47.440
+x list and i'm going to add placement y
+
+1:02:44.240,1:02:48.000
+to the correct y list and so my goal
+
+1:02:47.440,1:02:50.400
+here is
+
+1:02:48.000,1:02:51.359
+that these two lists that you see which
+
+1:02:50.400,1:02:53.680
+are currently empty
+
+1:02:51.359,1:02:56.240
+they're going to get filled in uh with
+
+1:02:53.680,1:02:58.559
+the what are the solution locations
+
+1:02:56.240,1:03:00.000
+so when i run it it'll still do like the
+
+1:02:58.559,1:03:01.680
+other things in the background
+
+1:03:00.000,1:03:03.520
+but the thing i care about is that this
+
+1:03:01.680,1:03:07.119
+filled in with a negative 120 0
+
+1:03:03.520,1:03:07.760
+120 negative 120 0 120 uh you can see
+
+1:03:07.119,1:03:09.599
+the pattern
+
+1:03:07.760,1:03:11.119
+and then this one's like the 120s the
+
+1:03:09.599,1:03:14.400
+zeros and the negative 120s
+
+1:03:11.119,1:03:15.119
+so we've now we know where things should
+
+1:03:14.400,1:03:17.839
+be
+
+1:03:15.119,1:03:17.839
+now i'm going to hide them
+
+1:03:18.319,1:03:23.920
+now what i want to do is once i do a
+
+1:03:20.720,1:03:27.760
+glide so i'm going to go over to my tile
+
+1:03:23.920,1:03:29.839
+whenever i do a glide i'm going to
+
+1:03:27.760,1:03:31.440
+have people count themselves so i'm
+
+1:03:29.839,1:03:31.920
+going to say hey how many tiles are
+
+1:03:31.440,1:03:34.000
+correct
+
+1:03:31.920,1:03:35.760
+so i'm going to broadcast out that
+
+1:03:34.000,1:03:37.359
+everybody should count themselves
+
+1:03:35.760,1:03:39.680
+and i'm going to make a variable that
+
+1:03:37.359,1:03:41.119
+keeps track of how many are correct
+
+1:03:39.680,1:03:44.480
+so let's do it then it'll make more
+
+1:03:41.119,1:03:49.760
+sense first click on make a variable
+
+1:03:44.480,1:03:49.760
+this variable is going to be num correct
+
+1:03:50.160,1:03:54.640
+again there's lots of different ways to
+
+1:03:51.760,1:03:55.760
+do variables i choose to use camel case
+
+1:03:54.640,1:03:57.599
+mush them together
+
+1:03:55.760,1:03:59.599
+instead of spelling out the word number
+
+1:03:57.599,1:04:03.280
+i just type num correct
+
+1:03:59.599,1:04:04.480
+so i've got that variable and whenever i
+
+1:04:03.280,1:04:07.760
+glide
+
+1:04:04.480,1:04:11.039
+i'm going to set it to zero
+
+1:04:07.760,1:04:14.160
+so after a glide i'm going to set
+
+1:04:11.039,1:04:16.319
+num correct to zero and then i'm gonna
+
+1:04:14.160,1:04:17.359
+broadcast that everybody needs to count
+
+1:04:16.319,1:04:20.799
+themselves
+
+1:04:17.359,1:04:22.079
+so i'm gonna broadcast a message uh that
+
+1:04:20.799,1:04:25.359
+says like
+
+1:04:22.079,1:04:28.160
+um check for
+
+1:04:25.359,1:04:29.520
+win so everybody's going to count
+
+1:04:28.160,1:04:30.640
+themselves we're going to see how many
+
+1:04:29.520,1:04:32.640
+of us are correct
+
+1:04:30.640,1:04:34.400
+and if there's eight correct then that
+
+1:04:32.640,1:04:36.640
+means that we've won the game
+
+1:04:34.400,1:04:37.920
+so um let's go ahead and keep going but
+
+1:04:36.640,1:04:38.400
+i'm going to check in on my campers
+
+1:04:37.920,1:04:40.400
+first
+
+1:04:38.400,1:04:42.160
+before i before i do this next step so i
+
+1:04:40.400,1:04:43.599
+checked in on my campers and keegan was
+
+1:04:42.160,1:04:45.200
+no longer on his computer keegan are you
+
+1:04:43.599,1:04:47.440
+calling it done for today
+
+1:04:45.200,1:04:49.119
+yup so he was happy with the previous
+
+1:04:47.440,1:04:50.880
+thought what about you sis
+
+1:04:49.119,1:04:52.400
+i'm adding the extra piece yeah she's
+
+1:04:50.880,1:04:54.400
+going strong enough the extra features
+
+1:04:52.400,1:04:56.400
+and that did not surprise me
+
+1:04:54.400,1:04:58.240
+at all knowing my kiddos but i did want
+
+1:04:56.400,1:04:59.839
+to point out that it is okay that if you
+
+1:04:58.240,1:05:02.960
+if you chose to stop
+
+1:04:59.839,1:05:04.319
+so i've got um numcrack set to zero and
+
+1:05:02.960,1:05:06.720
+then i broadcast
+
+1:05:04.319,1:05:08.559
+check for win so the idea is i'm just
+
+1:05:06.720,1:05:10.559
+screaming hey everybody
+
+1:05:08.559,1:05:12.160
+see if you're in the right spot um and
+
+1:05:10.559,1:05:15.359
+then we're gonna see how many of us
+
+1:05:12.160,1:05:16.480
+are in the right spot so uh down here
+
+1:05:15.359,1:05:20.640
+we're gonna have to say
+
+1:05:16.480,1:05:24.400
+when i receive so when i receive
+
+1:05:20.640,1:05:25.920
+check for a win so all tiles do this
+
+1:05:24.400,1:05:28.079
+they have to see if they're in the right
+
+1:05:25.920,1:05:31.760
+spot and so what we need to do
+
+1:05:28.079,1:05:34.880
+is we need to compare our current
+
+1:05:31.760,1:05:36.319
+x and y so we're going to compare our
+
+1:05:34.880,1:05:38.960
+current x and y
+
+1:05:36.319,1:05:39.520
+to the correct x and y so i'm going to
+
+1:05:38.960,1:05:42.880
+go into
+
+1:05:39.520,1:05:44.960
+variables i just like to
+
+1:05:42.880,1:05:46.559
+get the things that i need right so i
+
+1:05:44.960,1:05:50.319
+need
+
+1:05:46.559,1:05:54.240
+item 1 of correct x
+
+1:05:50.319,1:05:58.000
+and item one of correct y
+
+1:05:54.240,1:05:59.599
+now this is a list right there's nine
+
+1:05:58.000,1:06:02.079
+different items in there
+
+1:05:59.599,1:06:04.079
+i don't always want number one i want
+
+1:06:02.079,1:06:04.640
+the appropriate one for my costume
+
+1:06:04.079,1:06:07.119
+number
+
+1:06:04.640,1:06:08.799
+so like if i'm costume 4 i want to
+
+1:06:07.119,1:06:09.359
+compare against the fourth item in the
+
+1:06:08.799,1:06:10.720
+array
+
+1:06:09.359,1:06:12.400
+so i don't want a one here i want to
+
+1:06:10.720,1:06:16.079
+actually go into looks
+
+1:06:12.400,1:06:19.039
+and i want my costume number
+
+1:06:16.079,1:06:19.520
+so costume number costume number so if
+
+1:06:19.039,1:06:22.960
+my
+
+1:06:19.520,1:06:26.880
+x is equal to the correct
+
+1:06:22.960,1:06:29.200
+x for my costume number and my y
+
+1:06:26.880,1:06:29.920
+is equal to the correct y for my costume
+
+1:06:29.200,1:06:32.319
+number
+
+1:06:29.920,1:06:33.520
+then and only then i can add one to the
+
+1:06:32.319,1:06:35.440
+number correct
+
+1:06:33.520,1:06:36.720
+so i'm going to need some operators here
+
+1:06:35.440,1:06:38.240
+so i'm going to have to check these for
+
+1:06:36.720,1:06:39.280
+equality
+
+1:06:38.240,1:06:41.119
+so i'm going to go ahead and grab an
+
+1:06:39.280,1:06:43.200
+equality here inequality here so i'm
+
+1:06:41.119,1:06:47.520
+going to say if my x
+
+1:06:43.200,1:06:50.720
+is equal to this and my y
+
+1:06:47.520,1:06:52.799
+is equal to that so if that is true and
+
+1:06:50.720,1:06:54.400
+that is true so i need an and statement
+
+1:06:52.799,1:06:55.839
+now
+
+1:06:54.400,1:06:57.599
+again these these things get really
+
+1:06:55.839,1:06:58.160
+complex right so you got to grab it from
+
+1:06:57.599,1:07:01.359
+like the
+
+1:06:58.160,1:07:03.280
+the middle of it so big i can barely
+
+1:07:01.359,1:07:05.119
+even see it
+
+1:07:03.280,1:07:07.200
+and so and i've got to zoom out so i'm
+
+1:07:05.119,1:07:10.160
+just to see my whole thing so if my x
+
+1:07:07.200,1:07:12.000
+is equal to the correct x and my y is
+
+1:07:10.160,1:07:14.319
+equal to the correct y
+
+1:07:12.000,1:07:16.079
+then i can do something so i need an if
+
+1:07:14.319,1:07:19.760
+statement
+
+1:07:16.079,1:07:19.760
+so i got to grab it from the and
+
+1:07:21.039,1:07:24.319
+then what i'm going to do is i'm going
+
+1:07:22.400,1:07:26.079
+to report that i was correct and the way
+
+1:07:24.319,1:07:28.079
+that i report that i was correct as i go
+
+1:07:26.079,1:07:31.119
+to variables
+
+1:07:28.079,1:07:33.680
+and i change the number correct
+
+1:07:31.119,1:07:34.559
+so num correct by one so you can see
+
+1:07:33.680,1:07:38.000
+that
+
+1:07:34.559,1:07:39.520
+somebody did a glide he reset it to zero
+
+1:07:38.000,1:07:41.760
+and then he told everybody to count
+
+1:07:39.520,1:07:42.000
+themselves so let's go ahead and see if
+
+1:07:41.760,1:07:44.240
+this
+
+1:07:42.000,1:07:46.160
+is working so if i run it now it does
+
+1:07:44.240,1:07:47.839
+some shuffling
+
+1:07:46.160,1:07:49.760
+if i get my two blank thing i just click
+
+1:07:47.839,1:07:51.520
+it again um and so as soon as i do a
+
+1:07:49.760,1:07:54.000
+glide so i'm gonna glide the five
+
+1:07:51.520,1:07:54.880
+tile over um everybody should count
+
+1:07:54.000,1:07:56.480
+themselves
+
+1:07:54.880,1:07:58.799
+and so if we look at mine we can see
+
+1:07:56.480,1:08:02.000
+that uh 1 2 and 3 are all wrong
+
+1:07:58.799,1:08:03.280
+4 5 is correct right here and then 6 7
+
+1:08:02.000,1:08:04.400
+and 8 are all wrong
+
+1:08:03.280,1:08:06.240
+let's go ahead and do another one i'm
+
+1:08:04.400,1:08:07.440
+going to put 4 is in the correct
+
+1:08:06.240,1:08:09.280
+position
+
+1:08:07.440,1:08:10.799
+and now 7 is in the correct position and
+
+1:08:09.280,1:08:12.079
+now as soon as i slide eight over it
+
+1:08:10.799,1:08:14.559
+should go up to three so
+
+1:08:12.079,1:08:15.760
+test it however you want um but the
+
+1:08:14.559,1:08:17.839
+number correct
+
+1:08:15.760,1:08:19.359
+should be getting tracked now um if you
+
+1:08:17.839,1:08:20.159
+wanted to solve the whole puzzle you
+
+1:08:19.359,1:08:21.520
+could
+
+1:08:20.159,1:08:23.520
+but that of course takes a little bit of
+
+1:08:21.520,1:08:25.440
+time i'm gonna go ahead and solve mine
+
+1:08:23.520,1:08:27.359
+just for fun
+
+1:08:25.440,1:08:29.679
+i've done these uh algorithms enough
+
+1:08:27.359,1:08:31.359
+that i can usually get them done in a
+
+1:08:29.679,1:08:34.719
+timely fashion right
+
+1:08:31.359,1:08:37.279
+so i'm gonna go ahead and click here
+
+1:08:34.719,1:08:38.239
+um and so right there it should be eight
+
+1:08:37.279,1:08:41.359
+so there
+
+1:08:38.239,1:08:41.920
+num correct is equal to eight nothing
+
+1:08:41.359,1:08:43.359
+happened
+
+1:08:41.920,1:08:44.880
+when num correct was equal to eight
+
+1:08:43.359,1:08:45.359
+because i haven't written that code yet
+
+1:08:44.880,1:08:47.279
+right
+
+1:08:45.359,1:08:48.719
+so it's all about writing the code to
+
+1:08:47.279,1:08:50.000
+make these things happen
+
+1:08:48.719,1:08:52.719
+mckimley are you caught up or do you
+
+1:08:50.000,1:08:53.600
+fall behind so she's good so we're still
+
+1:08:52.719,1:08:55.600
+going strong
+
+1:08:53.600,1:08:56.799
+so who's going to check to see if we're
+
+1:08:55.600,1:08:59.440
+correct um
+
+1:08:56.799,1:09:00.319
+it could actually be about anybody i'm
+
+1:08:59.440,1:09:03.839
+going to choose
+
+1:09:00.319,1:09:05.440
+for the backdrop to check if i'm correct
+
+1:09:03.839,1:09:07.920
+and just because i can i'm going to
+
+1:09:05.440,1:09:11.120
+actually just make another
+
+1:09:07.920,1:09:12.799
+win green flag clicked over here
+
+1:09:11.120,1:09:14.480
+when this green flag is clicked i'm
+
+1:09:12.799,1:09:17.600
+going to make sure that my
+
+1:09:14.480,1:09:18.839
+num correct variable is set to zero so
+
+1:09:17.600,1:09:22.239
+i'm going to say
+
+1:09:18.839,1:09:24.080
+set num correct equal to zero
+
+1:09:22.239,1:09:25.520
+this is because like when the last game
+
+1:09:24.080,1:09:26.640
+finishes if it was eight when the last
+
+1:09:25.520,1:09:28.080
+one finishes i want to make sure to
+
+1:09:26.640,1:09:31.839
+clear that off
+
+1:09:28.080,1:09:31.839
+and i want to forever check
+
+1:09:32.839,1:09:37.279
+if the number correct
+
+1:09:37.520,1:09:43.839
+is equal to eight so i want to check
+
+1:09:41.600,1:09:46.239
+if it's equal to eight i did that really
+
+1:09:43.839,1:09:47.520
+fast uh but it's because i think that
+
+1:09:46.239,1:09:48.880
+you're kind of getting to the point
+
+1:09:47.520,1:09:49.440
+where you can do some of these things
+
+1:09:48.880,1:09:51.679
+right
+
+1:09:49.440,1:09:53.440
+so i'm not just checking once it's not a
+
+1:09:51.679,1:09:54.159
+single if statement i'm just forever
+
+1:09:53.440,1:09:55.920
+checking
+
+1:09:54.159,1:09:57.840
+to see if the number correct is equal to
+
+1:09:55.920,1:10:01.120
+eight if it is
+
+1:09:57.840,1:10:02.800
+then i've won the game right um and when
+
+1:10:01.120,1:10:03.440
+i win the game i want to do a couple of
+
+1:10:02.800,1:10:05.760
+things
+
+1:10:03.440,1:10:07.360
+uh one is i need to play a sound that's
+
+1:10:05.760,1:10:09.120
+probably the most important
+
+1:10:07.360,1:10:10.480
+i think the sound i'm going to play is
+
+1:10:09.120,1:10:17.840
+cheer
+
+1:10:10.480,1:10:17.840
+so i have to add cheer to my library
+
+1:10:18.000,1:10:21.120
+so it's kind of loud but uh but cheer
+
+1:10:20.000,1:10:23.280
+worked
+
+1:10:21.120,1:10:24.560
+so i i added that to my sounds like
+
+1:10:23.280,1:10:26.159
+we've done before and then i'm gonna
+
+1:10:24.560,1:10:28.960
+play it over here
+
+1:10:26.159,1:10:31.360
+uh so i'm gonna play it until it's done
+
+1:10:28.960,1:10:34.159
+so i'm going to play cheer
+
+1:10:31.360,1:10:34.960
+i'm also going to bring in the ninth
+
+1:10:34.159,1:10:37.520
+tile
+
+1:10:34.960,1:10:38.000
+so if you remember when we started this
+
+1:10:37.520,1:10:40.480
+lecture
+
+1:10:38.000,1:10:41.360
+like an hour ago the way we bring in a
+
+1:10:40.480,1:10:47.040
+tile
+
+1:10:41.360,1:10:51.120
+is we set um we set three things we set
+
+1:10:47.040,1:10:56.480
+the placement x placement x
+
+1:10:51.120,1:10:56.480
+the placement y and the costume number
+
+1:10:56.640,1:11:03.280
+and then we um create a clone
+
+1:10:59.840,1:11:03.280
+which is in control
+
+1:11:03.520,1:11:07.600
+again i i brought those in kind of fast
+
+1:11:06.480,1:11:09.679
+it's because only
+
+1:11:07.600,1:11:11.360
+only like the true troopers have made it
+
+1:11:09.679,1:11:13.440
+this far right
+
+1:11:11.360,1:11:14.480
+and what i want to set the placement x
+
+1:11:13.440,1:11:16.159
+and placement y to
+
+1:11:14.480,1:11:17.920
+and the costume number is well the
+
+1:11:16.159,1:11:19.199
+costume number is going to be 9
+
+1:11:17.920,1:11:22.400
+because that that's going to be where
+
+1:11:19.199,1:11:23.280
+it's at and then i want this spot right
+
+1:11:22.400,1:11:25.520
+here
+
+1:11:23.280,1:11:27.600
+this spot right here is actually saved
+
+1:11:25.520,1:11:30.560
+off in the variables
+
+1:11:27.600,1:11:30.560
+blank x
+
+1:11:30.960,1:11:35.520
+and blank y by the way i don't really
+
+1:11:34.159,1:11:37.040
+need to show that number correct so i'm
+
+1:11:35.520,1:11:38.239
+going to hit this green check box to get
+
+1:11:37.040,1:11:41.520
+rid of it
+
+1:11:38.239,1:11:43.280
+so when i win i want to
+
+1:11:41.520,1:11:45.040
+load in the ninth tile so i set
+
+1:11:43.280,1:11:46.239
+placement x and placement y i set the
+
+1:11:45.040,1:11:48.000
+costume number
+
+1:11:46.239,1:11:50.080
+i say create clone and that'll actually
+
+1:11:48.000,1:11:53.120
+bring him in
+
+1:11:50.080,1:11:54.880
+and then i want to play a sound and then
+
+1:11:53.120,1:11:56.640
+i'm gonna wait for a minute or wait for
+
+1:11:54.880,1:11:58.000
+a few seconds maybe like two or three
+
+1:11:56.640,1:12:01.600
+seconds
+
+1:11:58.000,1:12:03.199
+um and then i'm gonna stop all
+
+1:12:01.600,1:12:04.880
+and i'm just waiting for two or three
+
+1:12:03.199,1:12:06.719
+seconds just so you can enjoy the
+
+1:12:04.880,1:12:09.120
+victory while you're there
+
+1:12:06.719,1:12:11.520
+bob likes for this number to be like a
+
+1:12:09.120,1:12:14.719
+full minute so he does like 60 seconds
+
+1:12:11.520,1:12:17.440
+whatever you want i'm just going to do
+
+1:12:14.719,1:12:19.440
+three seconds because that'll be plenty
+
+1:12:17.440,1:12:21.520
+and i think i'm ready to give it a go
+
+1:12:19.440,1:12:23.040
+now i will say that in order to test
+
+1:12:21.520,1:12:25.679
+this i do have to like get them
+
+1:12:23.040,1:12:26.480
+all right to test it so if it fails i'm
+
+1:12:25.679,1:12:29.520
+going to like
+
+1:12:26.480,1:12:29.920
+really regret how hard it was to test if
+
+1:12:29.520,1:12:32.000
+you
+
+1:12:29.920,1:12:33.520
+want to test it easier change this
+
+1:12:32.000,1:12:34.320
+number eight to like two or something
+
+1:12:33.520,1:12:36.239
+like that
+
+1:12:34.320,1:12:38.640
+i think that i can do uh do the whole
+
+1:12:36.239,1:12:42.800
+thing uh so i'm gonna go ahead and
+
+1:12:38.640,1:12:44.880
+just try it alright so i'm almost there
+
+1:12:42.800,1:12:46.239
+so as soon as i slide this up uh i
+
+1:12:44.880,1:12:50.000
+should be able to see my
+
+1:12:46.239,1:12:52.000
+my victory sequence so i slide it up
+
+1:12:50.000,1:12:55.120
+it'll work great and then after my three
+
+1:12:52.000,1:12:58.239
+seconds uh it goes away
+
+1:12:55.120,1:12:59.600
+so i'm going to help my camper out oh
+
+1:12:58.239,1:13:00.560
+man i just learned something great from
+
+1:12:59.600,1:13:03.120
+mckinley
+
+1:13:00.560,1:13:04.480
+so a great way to test this is to
+
+1:13:03.120,1:13:06.320
+shuffle it less
+
+1:13:04.480,1:13:08.400
+so where it says like repeat 100 or
+
+1:13:06.320,1:13:10.880
+something over here just shuffle it like
+
+1:13:08.400,1:13:11.679
+three or four times and then play your
+
+1:13:10.880,1:13:13.280
+game
+
+1:13:11.679,1:13:15.520
+and now it's actually like super easy to
+
+1:13:13.280,1:13:15.520
+win
+
+1:13:15.600,1:13:21.120
+[ __ ] brilliant nicely done
+
+1:13:18.800,1:13:21.840
+so um i think that mine is going pretty
+
+1:13:21.120,1:13:24.880
+good
+
+1:13:21.840,1:13:25.840
+i'm going to crank this up to 300 now if
+
+1:13:24.880,1:13:26.880
+it didn't work
+
+1:13:25.840,1:13:28.400
+you're just going to have to look at the
+
+1:13:26.880,1:13:28.960
+code that we did recently rewind the
+
+1:13:28.400,1:13:30.800
+video
+
+1:13:28.960,1:13:32.320
+[ __ ] had a goof here on on correct y
+
+1:13:30.800,1:13:35.199
+that we fixed
+
+1:13:32.320,1:13:36.239
+but i think that we're ready for the
+
+1:13:35.199,1:13:38.000
+last thing
+
+1:13:36.239,1:13:39.600
+which is to track how many moves we've
+
+1:13:38.000,1:13:41.120
+got so i'm going to go into variables
+
+1:13:39.600,1:13:44.560
+i'm going to make my final variable
+
+1:13:41.120,1:13:47.600
+called moves i'm going to set
+
+1:13:44.560,1:13:49.920
+moves to be zero somewhere again i don't
+
+1:13:47.600,1:13:51.440
+really care where you set it to zero
+
+1:13:49.920,1:13:52.719
+i'll tell you what i've just been
+
+1:13:51.440,1:13:54.000
+goofing around over here so i'll go
+
+1:13:52.719,1:13:58.480
+ahead and do this i'm going to say
+
+1:13:54.000,1:14:01.120
+set moves to zero
+
+1:13:58.480,1:14:02.560
+moves actually i'm going to uh click on
+
+1:14:01.120,1:14:03.280
+it here or sorry right click on it and
+
+1:14:02.560,1:14:05.280
+say
+
+1:14:03.280,1:14:06.960
+large readout just so it's actually it's
+
+1:14:05.280,1:14:08.560
+funny that large readout is smaller i
+
+1:14:06.960,1:14:11.280
+find that funny
+
+1:14:08.560,1:14:13.600
+but every time i move so every time i
+
+1:14:11.280,1:14:15.760
+glide a tile
+
+1:14:13.600,1:14:17.280
+uh i'm going to increment moves by one
+
+1:14:15.760,1:14:19.280
+so i'm going to change
+
+1:14:17.280,1:14:20.960
+so every time i do a glide i'm going to
+
+1:14:19.280,1:14:24.239
+change moves
+
+1:14:20.960,1:14:26.840
+by one now if it
+
+1:14:24.239,1:14:28.400
+works mckinley got a messed up somewhere
+
+1:14:26.840,1:14:32.000
+question
+
+1:14:28.400,1:14:33.360
+all right so i um i went a little too
+
+1:14:32.000,1:14:34.640
+fast uh so i'm going to go back and help
+
+1:14:33.360,1:14:36.000
+mckinley i'll tell you what i'll just
+
+1:14:34.640,1:14:39.440
+i'll just say what i said
+
+1:14:36.000,1:14:41.600
+so i created a variable called moves
+
+1:14:39.440,1:14:45.040
+i set moves to be 0 somewhere in the
+
+1:14:41.600,1:14:47.520
+code i chose to set it to be zero
+
+1:14:45.040,1:14:49.760
+on the stage right after a green flag
+
+1:14:47.520,1:14:52.000
+check so that just sets it to zero
+
+1:14:49.760,1:14:53.120
+and then i increment it when i do a
+
+1:14:52.000,1:14:56.560
+glide
+
+1:14:53.120,1:14:58.640
+and so the glide happens inside the tile
+
+1:14:56.560,1:14:59.760
+right after a glide then i change moves
+
+1:14:58.640,1:15:01.840
+by one
+
+1:14:59.760,1:15:04.400
+and so now as i move it should just keep
+
+1:15:01.840,1:15:08.320
+track of how many moves that i've got
+
+1:15:04.400,1:15:09.840
+that fix you up [ __ ] so now
+
+1:15:08.320,1:15:12.480
+it's going to like keep track of how
+
+1:15:09.840,1:15:14.719
+long i take to do this algorithm
+
+1:15:12.480,1:15:16.880
+uh which you know can sometimes be quick
+
+1:15:14.719,1:15:18.320
+and it sometimes can be disastrous
+
+1:15:16.880,1:15:20.320
+um so i'm gonna go ahead and see if i
+
+1:15:18.320,1:15:22.320
+can finish mine and see what it is
+
+1:15:20.320,1:15:24.640
+you could also choose to add like a
+
+1:15:22.320,1:15:27.920
+fastest time or something like that
+
+1:15:24.640,1:15:29.679
+but hey you know what that's up to you
+
+1:15:27.920,1:15:31.600
+i i would recommend that you click on
+
+1:15:29.679,1:15:33.840
+share
+
+1:15:31.600,1:15:35.760
+and so uh if you share it then other
+
+1:15:33.840,1:15:37.360
+people can visit it
+
+1:15:35.760,1:15:39.840
+looks like it took just a minute to
+
+1:15:37.360,1:15:42.080
+share there and then this url you can
+
+1:15:39.840,1:15:44.159
+send to friends and family
+
+1:15:42.080,1:15:45.280
+and you can see how things work i
+
+1:15:44.159,1:15:47.440
+suppose i ought to see
+
+1:15:45.280,1:15:49.760
+uh one last time how long it takes to do
+
+1:15:47.440,1:15:50.880
+my algorithm here
+
+1:15:49.760,1:15:53.040
+all right so i think i've got mine
+
+1:15:50.880,1:15:53.920
+towards almost solved uh and so i put it
+
+1:15:53.040,1:15:57.120
+together
+
+1:15:53.920,1:15:57.840
+um and mine works um what about my
+
+1:15:57.120,1:15:59.840
+campers
+
+1:15:57.840,1:16:00.960
+uh so campers let's see how you did so
+
+1:15:59.840,1:16:04.239
+keegan obviously
+
+1:16:00.960,1:16:06.960
+um isn't gonna have the win thing in his
+
+1:16:04.239,1:16:08.320
+uh because he chose the uh to finish
+
+1:16:06.960,1:16:08.719
+when i said it's fine oh look at that
+
+1:16:08.320,1:16:11.920
+picture
+
+1:16:08.719,1:16:12.480
+tim and his dog duvy excellent very nice
+
+1:16:11.920,1:16:15.040
+i love the
+
+1:16:12.480,1:16:16.960
+i love the picture so uh if you ever
+
+1:16:15.040,1:16:18.159
+want to do the win thing i can always do
+
+1:16:16.960,1:16:20.239
+it with you later okay
+
+1:16:18.159,1:16:22.400
+very nice king did you enjoy today's
+
+1:16:20.239,1:16:23.760
+yeah do you like the slide puzzle
+
+1:16:22.400,1:16:26.239
+was it a little more complicated than
+
+1:16:23.760,1:16:28.080
+anything we've ever done before
+
+1:16:26.239,1:16:32.159
+all right mckinley let's see yours oh
+
+1:16:28.080,1:16:35.520
+she's got uh all these these cool horses
+
+1:16:32.159,1:16:37.760
+very nice very nice that's cool
+
+1:16:35.520,1:16:41.760
+did you learn some new things today sis
+
+1:16:37.760,1:16:41.760
+yeah yeah today was crazy
+
+1:16:42.159,1:16:45.280
+all right so i want to say a couple
+
+1:16:43.440,1:16:47.120
+things uh and then we'll turn you loose
+
+1:16:45.280,1:16:49.199
+uh so the final things that i want to
+
+1:16:47.120,1:16:51.760
+say today
+
+1:16:49.199,1:16:53.520
+are that you've done a lot of crazy
+
+1:16:51.760,1:16:56.480
+things with clones now
+
+1:16:53.520,1:16:58.480
+you learn how to use arrays and with
+
+1:16:56.480,1:16:59.679
+code you can do a lot more than you
+
+1:16:58.480,1:17:01.520
+think right so like
+
+1:16:59.679,1:17:03.520
+a complex puzzle like this is totally
+
+1:17:01.520,1:17:05.600
+something that scratch can handle
+
+1:17:03.520,1:17:07.040
+and it's really kind of cool all right
+
+1:17:05.600,1:17:08.719
+go share your link with
+
+1:17:07.040,1:17:11.040
+friends and family let them try their
+
+1:17:08.719,1:17:12.480
+puzzle don't tell them the algorithm
+
+1:17:11.040,1:17:14.719
+right just make them try to figure it
+
+1:17:12.480,1:17:16.480
+out and then you can use the algorithm
+
+1:17:14.719,1:17:18.640
+and show off
+
+1:17:16.480,1:17:20.239
+show off your skills all right loved
+
+1:17:18.640,1:17:22.159
+having you can't wait to see you
+
+1:17:20.239,1:17:22.719
+tomorrow for the final day of our coding
+
+1:17:22.159,1:17:30.480
+camp
+
+1:17:22.719,1:17:30.480
+see you then bye
+

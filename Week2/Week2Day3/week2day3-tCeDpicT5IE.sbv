@@ -1,0 +1,4776 @@
+0:00:00.390,0:00:06.080
+[Music]
+
+0:00:04.720,0:00:09.120
+hey hey welcome back
+
+0:00:06.080,0:00:10.559
+it is day three day three is always an
+
+0:00:09.120,0:00:12.960
+exciting day in camp
+
+0:00:10.559,0:00:14.639
+because we put the hardest one on day
+
+0:00:12.960,0:00:16.240
+three it's just kind of how we do the
+
+0:00:14.639,0:00:17.840
+do the camp so you you get better and
+
+0:00:16.240,0:00:19.119
+better and better and so wednesday is
+
+0:00:17.840,0:00:20.080
+like when you're ready to tackle the
+
+0:00:19.119,0:00:22.080
+hardest thing
+
+0:00:20.080,0:00:23.519
+uh and then it'll get easier uh after
+
+0:00:22.080,0:00:25.119
+that thursday's a little easier
+
+0:00:23.519,0:00:27.039
+friday's usually kind of like a half day
+
+0:00:25.119,0:00:27.680
+right so today we're going to tackle
+
+0:00:27.039,0:00:30.080
+something
+
+0:00:27.680,0:00:31.840
+uh something big i'm here with my
+
+0:00:30.080,0:00:33.760
+campers again as per usual
+
+0:00:31.840,0:00:35.440
+uh campers are you ready to tackle
+
+0:00:33.760,0:00:38.480
+something huge today
+
+0:00:35.440,0:00:39.120
+yeah are you ready to go we'll see we'll
+
+0:00:38.480,0:00:41.840
+see
+
+0:00:39.120,0:00:43.360
+um i will say that like it is literally
+
+0:00:41.840,0:00:45.600
+so big you may want to plan
+
+0:00:43.360,0:00:46.879
+to do this video like part of it now and
+
+0:00:45.600,0:00:48.800
+then part of it later
+
+0:00:46.879,0:00:50.640
+because it's it's a big one right it's
+
+0:00:48.800,0:00:53.199
+good for you though
+
+0:00:50.640,0:00:55.840
+uh let's uh let's see what we're making
+
+0:00:53.199,0:00:58.239
+so i've got a demo solution on here
+
+0:00:55.840,0:00:58.960
+now normally the demo solution i just
+
+0:00:58.239,0:01:01.520
+kind of show
+
+0:00:58.960,0:01:02.640
+pretty quickly just for what we're
+
+0:01:01.520,0:01:04.159
+trying to do
+
+0:01:02.640,0:01:06.640
+but this time what i want to do is i
+
+0:01:04.159,0:01:08.320
+want you to think about
+
+0:01:06.640,0:01:09.680
+what types of things you would have to
+
+0:01:08.320,0:01:11.200
+write in the code so what are some
+
+0:01:09.680,0:01:12.000
+things and i'll say some out loud as
+
+0:01:11.200,0:01:14.159
+we're doing it
+
+0:01:12.000,0:01:15.280
+um but here's how the game works so when
+
+0:01:14.159,0:01:18.320
+i hit the play button
+
+0:01:15.280,0:01:20.640
+uh this game is called irish sheepdog i
+
+0:01:18.320,0:01:21.360
+am the irish sheepdog so i'm running
+
+0:01:20.640,0:01:23.439
+around
+
+0:01:21.360,0:01:24.720
+um and what i'm doing is i'm trying to
+
+0:01:23.439,0:01:27.119
+push sheep
+
+0:01:24.720,0:01:29.040
+into the pen and you can see that the
+
+0:01:27.119,0:01:30.000
+way that i push them is i get behind
+
+0:01:29.040,0:01:32.640
+them
+
+0:01:30.000,0:01:34.320
+and then i drive them into the pen
+
+0:01:32.640,0:01:35.600
+driving the dog around is actually kind
+
+0:01:34.320,0:01:39.520
+of hard
+
+0:01:35.600,0:01:42.399
+he uses up arrow to go forwards
+
+0:01:39.520,0:01:44.240
+and then he turns with left and right
+
+0:01:42.399,0:01:46.399
+and then he can also go backwards that's
+
+0:01:44.240,0:01:49.119
+just kind of a feature of the dog
+
+0:01:46.399,0:01:49.520
+and whenever he's touching the sheep the
+
+0:01:49.119,0:01:53.040
+sheep
+
+0:01:49.520,0:01:54.560
+go into the pin one trick you can do
+
+0:01:53.040,0:01:55.520
+which is kind of fun is backwards you
+
+0:01:54.560,0:01:57.280
+don't push sheep
+
+0:01:55.520,0:01:58.640
+so you kind of like back over the top of
+
+0:01:57.280,0:01:58.960
+them and then you can get in front of
+
+0:01:58.640,0:02:02.159
+them
+
+0:01:58.960,0:02:02.960
+you'll you'll learn that it takes a
+
+0:02:02.159,0:02:05.119
+little while
+
+0:02:02.960,0:02:06.840
+to get good at driving the sheepdog so
+
+0:02:05.119,0:02:10.080
+that was a demo now let's talk about
+
+0:02:06.840,0:02:12.560
+responsibilities so when the game starts
+
+0:02:10.080,0:02:13.680
+a few things had to happen right so one
+
+0:02:12.560,0:02:16.400
+thing that had to happen
+
+0:02:13.680,0:02:16.720
+is somebody has to make all the sheep
+
+0:02:16.400,0:02:19.920
+right
+
+0:02:16.720,0:02:19.920
+that's something that has to happen
+
+0:02:20.239,0:02:23.280
+also the dog has to move with the arrow
+
+0:02:22.800,0:02:26.000
+keys
+
+0:02:23.280,0:02:26.560
+uh that's something that has to happen
+
+0:02:26.000,0:02:28.319
+sheep
+
+0:02:26.560,0:02:30.400
+um if they're touching the dog they need
+
+0:02:28.319,0:02:33.280
+to move with the dog
+
+0:02:30.400,0:02:35.280
+uh sheep that are touching the pin have
+
+0:02:33.280,0:02:38.239
+to move with the pin
+
+0:02:35.280,0:02:39.920
+so i have to move into the pin um and
+
+0:02:38.239,0:02:40.239
+then at the end of the game there's also
+
+0:02:39.920,0:02:42.400
+this
+
+0:02:40.239,0:02:43.920
+fastest time so right now last time my
+
+0:02:42.400,0:02:45.760
+fastest time was 45
+
+0:02:43.920,0:02:47.120
+i'm going to see if i'm faster this time
+
+0:02:45.760,0:02:48.560
+not really behind him good so i'll get
+
+0:02:47.120,0:02:50.959
+behind him good
+
+0:02:48.560,0:02:52.800
+and there you can see that i got 39
+
+0:02:50.959,0:02:54.560
+seconds so the idea of this game
+
+0:02:52.800,0:02:56.959
+is you're trying to crawl them as fast
+
+0:02:54.560,0:02:58.319
+as you can and it keeps track of your
+
+0:02:56.959,0:02:59.519
+fastest time
+
+0:02:58.319,0:03:02.640
+by the way there's also a feature that
+
+0:02:59.519,0:03:05.200
+if spacebar resets the fastest time
+
+0:03:02.640,0:03:06.000
+so that's what the game is and our goal
+
+0:03:05.200,0:03:08.400
+this time
+
+0:03:06.000,0:03:09.599
+since it is it doesn't necessarily look
+
+0:03:08.400,0:03:13.360
+big yet but it's big
+
+0:03:09.599,0:03:15.840
+trust me it's big is to work on planning
+
+0:03:13.360,0:03:17.599
+so one of the big things for today uh
+
+0:03:15.840,0:03:18.000
+that we want to do is we want you to be
+
+0:03:17.599,0:03:20.319
+able to
+
+0:03:18.000,0:03:21.599
+think about a plan so really when you're
+
+0:03:20.319,0:03:22.959
+making games on your own you just kind
+
+0:03:21.599,0:03:24.959
+of come up with ideas
+
+0:03:22.959,0:03:27.360
+um but what you need to do is you kind
+
+0:03:24.959,0:03:29.599
+of need to get out a pencil and paper
+
+0:03:27.360,0:03:31.760
+and just kind of like plan who's going
+
+0:03:29.599,0:03:33.519
+to be responsible for what
+
+0:03:31.760,0:03:35.440
+so we're going to do that with our
+
+0:03:33.519,0:03:36.799
+campers together
+
+0:03:35.440,0:03:39.200
+so we're going to try to come up with
+
+0:03:36.799,0:03:41.360
+what are some of the different tasks
+
+0:03:39.200,0:03:42.239
+that we need to do in this game and then
+
+0:03:41.360,0:03:44.159
+which sprite
+
+0:03:42.239,0:03:45.360
+is going to be responsible for it i'm
+
+0:03:44.159,0:03:47.440
+going to move the camera over to where
+
+0:03:45.360,0:03:50.239
+you can see this projector better
+
+0:03:47.440,0:03:51.840
+all right so um obviously these are
+
+0:03:50.239,0:03:53.599
+slides so i can only like go in
+
+0:03:51.840,0:03:55.599
+in some order but i'm going to ask my
+
+0:03:53.599,0:03:57.200
+campers um what are some things that
+
+0:03:55.599,0:03:58.840
+that need to happen what are some tasks
+
+0:03:57.200,0:04:02.319
+that need to happen this game
+
+0:03:58.840,0:04:04.000
+keegan need to create 10 sheep uh that's
+
+0:04:02.319,0:04:06.560
+a good one so i'm gonna go ahead and go
+
+0:04:04.000,0:04:07.439
+uh to that one um you got you got one
+
+0:04:06.560,0:04:08.799
+for free so
+
+0:04:07.439,0:04:10.720
+i had started timer is something that
+
+0:04:08.799,0:04:11.519
+needs to happen so we need to create ten
+
+0:04:10.720,0:04:13.280
+sheep
+
+0:04:11.519,0:04:15.200
+um these ten sheep are all going to be
+
+0:04:13.280,0:04:15.920
+clones so i could have written on the
+
+0:04:15.200,0:04:18.560
+word
+
+0:04:15.920,0:04:19.759
+clones on here because there's only one
+
+0:04:18.560,0:04:21.280
+sheep sprite
+
+0:04:19.759,0:04:23.360
+also i'm going to add one more on here
+
+0:04:21.280,0:04:25.040
+for what keegan said these sheep
+
+0:04:23.360,0:04:27.199
+i don't know if you noticed but they're
+
+0:04:25.040,0:04:29.440
+randomly put on there but in places that
+
+0:04:27.199,0:04:30.400
+are not touching the pen or the dog
+
+0:04:29.440,0:04:31.440
+because you don't want to start on the
+
+0:04:30.400,0:04:32.880
+dog and you definitely don't want to
+
+0:04:31.440,0:04:33.919
+start in the pen
+
+0:04:32.880,0:04:36.400
+so that's something that we're going to
+
+0:04:33.919,0:04:38.000
+do what's another task that we need to
+
+0:04:36.400,0:04:40.400
+do
+
+0:04:38.000,0:04:41.199
+mckinley have the dog move with the
+
+0:04:40.400,0:04:42.639
+arrow keys
+
+0:04:41.199,0:04:44.160
+have the dog move the arrow keys that's
+
+0:04:42.639,0:04:44.880
+that's a great one i don't know what's
+
+0:04:44.160,0:04:47.280
+next
+
+0:04:44.880,0:04:49.680
+uh oh awesome you you locked right into
+
+0:04:47.280,0:04:50.639
+it so the dog needs to move using the
+
+0:04:49.680,0:04:54.000
+arrow keys
+
+0:04:50.639,0:04:55.600
+um so he's got the up uh the down
+
+0:04:54.000,0:04:57.600
+uh and then the left and the right so
+
+0:04:55.600,0:05:01.120
+we're gonna have to do those things
+
+0:04:57.600,0:05:01.120
+uh what other things have to happen
+
+0:05:01.520,0:05:06.400
+keegan you need to make a sound you need
+
+0:05:04.479,0:05:07.120
+to make a sound so like whenever the
+
+0:05:06.400,0:05:08.960
+sheep
+
+0:05:07.120,0:05:10.639
+uh get put into the pen you have to make
+
+0:05:08.960,0:05:12.160
+a sound that's a little lower on my list
+
+0:05:10.639,0:05:13.360
+someone asked mckinley for one
+
+0:05:12.160,0:05:15.759
+mckimley what's another thing you have
+
+0:05:13.360,0:05:18.400
+to do um
+
+0:05:15.759,0:05:19.199
+whenever you're touching the sheet in
+
+0:05:18.400,0:05:22.560
+the back
+
+0:05:19.199,0:05:23.520
+you can move them okay so what she said
+
+0:05:22.560,0:05:27.039
+was she said
+
+0:05:23.520,0:05:29.039
+um when you're touching a sheep with the
+
+0:05:27.039,0:05:31.919
+dog they have to also move right so
+
+0:05:29.039,0:05:32.800
+sheep touching the dog will move with
+
+0:05:31.919,0:05:34.639
+the dog
+
+0:05:32.800,0:05:36.400
+and then the one keegan said was
+
+0:05:34.639,0:05:38.479
+basically sheep touching the pen
+
+0:05:36.400,0:05:39.680
+are moved into the pen right so there's
+
+0:05:38.479,0:05:41.919
+there's a couple things that have to
+
+0:05:39.680,0:05:43.520
+happen there
+
+0:05:41.919,0:05:44.720
+um other things that have to happen i'll
+
+0:05:43.520,0:05:46.160
+just kind of throw these last couple you
+
+0:05:44.720,0:05:47.759
+guys did great thank you very much
+
+0:05:46.160,0:05:49.440
+um we're gonna have to track the number
+
+0:05:47.759,0:05:50.800
+of sheep that are in the pin
+
+0:05:49.440,0:05:52.479
+um and then we're gonna have to like
+
+0:05:50.800,0:05:54.000
+know when the game ends
+
+0:05:52.479,0:05:55.680
+and then you can't see this but there's
+
+0:05:54.000,0:05:58.000
+some like game over like check
+
+0:05:55.680,0:05:59.840
+for the fastest time now the next
+
+0:05:58.000,0:06:00.720
+question who's responsible for these
+
+0:05:59.840,0:06:04.240
+things
+
+0:06:00.720,0:06:08.160
+now obviously we've got a dog
+
+0:06:04.240,0:06:09.600
+we've got a sheep uh we've got a pen
+
+0:06:08.160,0:06:12.400
+um and then we've also got the
+
+0:06:09.600,0:06:15.280
+background or the stage
+
+0:06:12.400,0:06:16.240
+and so those are the the three sprites
+
+0:06:15.280,0:06:17.520
+that we're gonna have
+
+0:06:16.240,0:06:20.000
+and then you've also always got the
+
+0:06:17.520,0:06:21.199
+background so who's going to start the
+
+0:06:20.000,0:06:22.319
+timer so who do you think is going to
+
+0:06:21.199,0:06:25.280
+reset the timer
+
+0:06:22.319,0:06:26.639
+keegan yeah so you can actually do this
+
+0:06:25.280,0:06:28.000
+on either it could be done by the
+
+0:06:26.639,0:06:30.000
+backdrop
+
+0:06:28.000,0:06:31.280
+or you could do it with the dog uh
+
+0:06:30.000,0:06:32.840
+either would work
+
+0:06:31.280,0:06:34.880
+who's going to create the 10 sheep
+
+0:06:32.840,0:06:37.360
+mckinley the backdrop
+
+0:06:34.880,0:06:38.639
+the backdrop yep and now i'm gonna i'm
+
+0:06:37.360,0:06:41.919
+gonna cheat a little bit
+
+0:06:38.639,0:06:44.960
+this game is pretty big i'm gonna
+
+0:06:41.919,0:06:47.280
+choose this is a voluntary choice to
+
+0:06:44.960,0:06:48.080
+um do these things that could happen on
+
+0:06:47.280,0:06:49.280
+the backdrop
+
+0:06:48.080,0:06:52.319
+i'm going to choose to do them on the
+
+0:06:49.280,0:06:53.120
+dog just so that i have no code on the
+
+0:06:52.319,0:06:54.639
+backdrop
+
+0:06:53.120,0:06:55.759
+that may not be the greatest choice in
+
+0:06:54.639,0:06:57.039
+the world but that's how i'm going to do
+
+0:06:55.759,0:06:59.280
+it and you're stuck
+
+0:06:57.039,0:07:00.840
+with the way i do things right so we're
+
+0:06:59.280,0:07:02.080
+going to choose to just do them on the
+
+0:07:00.840,0:07:04.639
+dog
+
+0:07:02.080,0:07:05.840
+and then this creation of the sheep that
+
+0:07:04.639,0:07:08.400
+aren't touching the pen
+
+0:07:05.840,0:07:09.680
+this is going to be the job of the sheep
+
+0:07:08.400,0:07:11.039
+by the way the sheep are actually going
+
+0:07:09.680,0:07:12.400
+to be involved with the creation of
+
+0:07:11.039,0:07:14.560
+sheep as well right because they have to
+
+0:07:12.400,0:07:16.160
+have a little bit of code
+
+0:07:14.560,0:07:17.680
+dog moves with the arrow key who does
+
+0:07:16.160,0:07:20.880
+that dog
+
+0:07:17.680,0:07:24.560
+dog so that one's right um the sheep
+
+0:07:20.880,0:07:24.560
+will move with the dog who does that
+
+0:07:25.680,0:07:30.800
+that's actually a combo so it's a it's a
+
+0:07:27.840,0:07:32.560
+dog and the sheep combo right
+
+0:07:30.800,0:07:34.080
+sheep touching the pen moved into the
+
+0:07:32.560,0:07:35.520
+pen
+
+0:07:34.080,0:07:38.319
+that's the sheep and then it also
+
+0:07:35.520,0:07:41.280
+involves the pen right
+
+0:07:38.319,0:07:42.479
+uh and then there's some um tracking of
+
+0:07:41.280,0:07:44.160
+the sheep in the pen who do you think's
+
+0:07:42.479,0:07:48.240
+gonna do that though
+
+0:07:44.160,0:07:50.000
+yeah so the pen plus the sheep
+
+0:07:48.240,0:07:52.160
+um and then the game over stuff i'm just
+
+0:07:50.000,0:07:55.520
+gonna all do with the dog
+
+0:07:52.160,0:07:57.759
+um so this is my this is my plan
+
+0:07:55.520,0:07:58.800
+i could say that with the slides a
+
+0:07:57.759,0:08:00.560
+little cleaner
+
+0:07:58.800,0:08:02.479
+uh so i mean i think that maybe it looks
+
+0:08:00.560,0:08:04.560
+cleaner on the slides
+
+0:08:02.479,0:08:06.639
+i always like this game but you cover up
+
+0:08:04.560,0:08:09.120
+your whiteboard uh with this
+
+0:08:06.639,0:08:10.240
+so each of these responsibilities uh is
+
+0:08:09.120,0:08:13.599
+going to happen
+
+0:08:10.240,0:08:14.960
+by one of our sprites right and then if
+
+0:08:13.599,0:08:17.440
+i were to take this list
+
+0:08:14.960,0:08:18.560
+uh and rearrange it by by whose
+
+0:08:17.440,0:08:20.000
+responsibilities
+
+0:08:18.560,0:08:22.000
+everything was there's certain
+
+0:08:20.000,0:08:24.479
+responsibilities for the sheep
+
+0:08:22.000,0:08:26.160
+so this is what the sheep needs to do uh
+
+0:08:24.479,0:08:29.440
+there's certain responsibilities
+
+0:08:26.160,0:08:31.680
+uh for the pen um and then there's
+
+0:08:29.440,0:08:33.440
+certain responsibilities for the dog
+
+0:08:31.680,0:08:35.120
+so it's gonna be kind of complex i'm
+
+0:08:33.440,0:08:37.279
+gonna move the camera back over
+
+0:08:35.120,0:08:39.599
+uh and so we'll actually refer to this
+
+0:08:37.279,0:08:41.919
+plan uh as we build our game
+
+0:08:39.599,0:08:43.200
+um and we're gonna start somewhere uh
+
+0:08:41.919,0:08:45.440
+we're actually gonna start
+
+0:08:43.200,0:08:47.279
+with um i'm gonna give you some some
+
+0:08:45.440,0:08:48.800
+images uh here in just a second
+
+0:08:47.279,0:08:50.480
+and we're gonna start by implementing
+
+0:08:48.800,0:08:52.399
+things on the dog
+
+0:08:50.480,0:08:53.519
+now the dog actually i'll say has a
+
+0:08:52.399,0:08:55.279
+couple things he's got
+
+0:08:53.519,0:08:57.279
+kind of some initialization things that
+
+0:08:55.279,0:08:58.800
+happen uh and then he's got some
+
+0:08:57.279,0:09:00.320
+movement things that happen
+
+0:08:58.800,0:09:02.160
+and then he's got some game over things
+
+0:09:00.320,0:09:03.839
+that happen those three categories
+
+0:09:02.160,0:09:06.240
+we're actually going to break down for
+
+0:09:03.839,0:09:07.120
+the dog so to get started with this what
+
+0:09:06.240,0:09:10.160
+i need you to do
+
+0:09:07.120,0:09:12.880
+is i need you to remix
+
+0:09:10.160,0:09:14.160
+a scratch project that i made for you
+
+0:09:12.880,0:09:16.080
+the link
+
+0:09:14.160,0:09:19.360
+that you need to go to is is right here
+
+0:09:16.080,0:09:21.200
+so it's scratch.mit.edu projects and
+
+0:09:19.360,0:09:24.959
+then you can see this is the number
+
+0:09:21.200,0:09:27.519
+i'll put this number in the email
+
+0:09:24.959,0:09:28.240
+i'll put this number in the video just
+
+0:09:27.519,0:09:30.800
+below
+
+0:09:28.240,0:09:32.040
+this youtube video also put this number
+
+0:09:30.800,0:09:33.440
+on the main camp page so
+
+0:09:32.040,0:09:36.080
+connectingwithcode.org
+
+0:09:33.440,0:09:37.440
+camp if all those things failed you can
+
+0:09:36.080,0:09:38.880
+always type it
+
+0:09:37.440,0:09:40.480
+and essentially what you need to do is
+
+0:09:38.880,0:09:41.600
+you need to go to this webpage so here
+
+0:09:40.480,0:09:43.200
+i'm on this webpage
+
+0:09:41.600,0:09:46.240
+and then you need to click on the word
+
+0:09:43.200,0:09:47.920
+remix so if you click on the word remix
+
+0:09:46.240,0:09:50.160
+it will actually make a copy of this
+
+0:09:47.920,0:09:52.320
+project and put it over in your area
+
+0:09:50.160,0:09:54.000
+and it will name it irish sheepdog
+
+0:09:52.320,0:09:55.120
+starting code remix
+
+0:09:54.000,0:09:56.959
+what i'm going to choose to do is i'm
+
+0:09:55.120,0:09:58.320
+going to take off the word starting code
+
+0:09:56.959,0:10:01.760
+remix
+
+0:09:58.320,0:10:02.959
+because this is my irish sheepdog
+
+0:10:01.760,0:10:05.200
+so that's what i'm going to save this
+
+0:10:02.959,0:10:06.399
+project as all right so whenever i get
+
+0:10:05.200,0:10:08.399
+starting code
+
+0:10:06.399,0:10:09.839
+from someone i always like to take a
+
+0:10:08.399,0:10:11.600
+minute and see
+
+0:10:09.839,0:10:13.360
+what all is there right what am i
+
+0:10:11.600,0:10:14.880
+looking at so you can see that i've got
+
+0:10:13.360,0:10:15.760
+a couple different sprites i've got a
+
+0:10:14.880,0:10:18.640
+sheep sprite
+
+0:10:15.760,0:10:20.079
+so here's my sheep i've got a sheep dog
+
+0:10:18.640,0:10:22.880
+sprite
+
+0:10:20.079,0:10:24.000
+and then i've got a pen and also i've
+
+0:10:22.880,0:10:25.600
+got a backdrop
+
+0:10:24.000,0:10:27.920
+by the way these are all just kind of
+
+0:10:25.600,0:10:29.360
+custom images which is why it was easier
+
+0:10:27.920,0:10:30.320
+to remix than to let you find these
+
+0:10:29.360,0:10:31.839
+things
+
+0:10:30.320,0:10:33.279
+if you go look at the costumes you can
+
+0:10:31.839,0:10:34.880
+see there's only one costume for the
+
+0:10:33.279,0:10:38.000
+sheep that's pretty simple
+
+0:10:34.880,0:10:39.200
+the dog was actually an animated gif so
+
+0:10:38.000,0:10:43.519
+he actually has
+
+0:10:39.200,0:10:44.800
+um literally like 141 costumes
+
+0:10:43.519,0:10:48.000
+and it'll make him look like he's
+
+0:10:44.800,0:10:49.760
+barking so it's an animated gif file
+
+0:10:48.000,0:10:51.120
+and then the pen i did something super
+
+0:10:49.760,0:10:54.800
+sneaky for the pen
+
+0:10:51.120,0:10:58.240
+the pen actually is a costume
+
+0:10:54.800,0:11:01.040
+that has various sheep in it right so
+
+0:10:58.240,0:11:02.160
+it's kind of funny costume one has zero
+
+0:11:01.040,0:11:04.640
+sheep
+
+0:11:02.160,0:11:05.440
+costume two has one sheep custom three
+
+0:11:04.640,0:11:07.040
+has two sheep
+
+0:11:05.440,0:11:08.880
+and so actually what we're gonna do is
+
+0:11:07.040,0:11:11.200
+whenever they uh get put
+
+0:11:08.880,0:11:12.399
+into the pin really we're gonna delete
+
+0:11:11.200,0:11:13.920
+the clone
+
+0:11:12.399,0:11:16.240
+and we're gonna switch the costume on
+
+0:11:13.920,0:11:19.600
+the pen sneaky isn't it
+
+0:11:16.240,0:11:22.079
+yeah very sneaky all right so uh let's
+
+0:11:19.600,0:11:25.040
+let's dive in and start coding we're
+
+0:11:22.079,0:11:28.399
+going to start in uh with the dog
+
+0:11:25.040,0:11:31.519
+and so the dog some
+
+0:11:28.399,0:11:32.399
+initialized tasks he's got some movement
+
+0:11:31.519,0:11:33.760
+tasks
+
+0:11:32.399,0:11:35.440
+and then he's got some like check for
+
+0:11:33.760,0:11:36.800
+game over task
+
+0:11:35.440,0:11:38.160
+and one thing you can do when you're
+
+0:11:36.800,0:11:39.440
+planning your code is you can use
+
+0:11:38.160,0:11:42.160
+functions
+
+0:11:39.440,0:11:43.200
+just to organize complex things so what
+
+0:11:42.160,0:11:45.120
+we're going to do is we're going to make
+
+0:11:43.200,0:11:48.240
+these three functions initialize
+
+0:11:45.120,0:11:49.760
+move and check for game over and you can
+
+0:11:48.240,0:11:51.120
+see that this is what the dog does he
+
+0:11:49.760,0:11:52.959
+initializes once
+
+0:11:51.120,0:11:54.639
+and then he forever moves and checks her
+
+0:11:52.959,0:11:58.000
+game over so let's go ahead
+
+0:11:54.639,0:12:01.519
+and go into the code for the dog
+
+0:11:58.000,0:12:03.440
+let's grab a win green flag clicked
+
+0:12:01.519,0:12:04.800
+and then to keep ourselves organized
+
+0:12:03.440,0:12:05.360
+because we've got a big game here we're
+
+0:12:04.800,0:12:08.079
+going to use
+
+0:12:05.360,0:12:10.160
+functions i have to stay organized the
+
+0:12:08.079,0:12:12.880
+first function is going to be called
+
+0:12:10.160,0:12:15.120
+initialize i'm going to go and type the
+
+0:12:12.880,0:12:18.320
+whole the whole thing here
+
+0:12:15.120,0:12:20.160
+so you create the function initialize uh
+
+0:12:18.320,0:12:21.360
+and then we'll stick on the initialize
+
+0:12:20.160,0:12:23.279
+block
+
+0:12:21.360,0:12:24.639
+initialize is of course hard to spell i
+
+0:12:23.279,0:12:25.839
+think i got it right i had to go help
+
+0:12:24.639,0:12:27.760
+keegan
+
+0:12:25.839,0:12:30.720
+after initialize i also want to make a
+
+0:12:27.760,0:12:33.760
+block called move
+
+0:12:30.720,0:12:35.200
+and so move is going to happen inside a
+
+0:12:33.760,0:12:36.079
+forever loop
+
+0:12:35.200,0:12:40.240
+so i'm going to go ahead and go to
+
+0:12:36.079,0:12:42.000
+control and say forever
+
+0:12:40.240,0:12:44.160
+and then i'm going to stick on my move
+
+0:12:42.000,0:12:46.000
+block in there
+
+0:12:44.160,0:12:47.279
+and then the last function we're going
+
+0:12:46.000,0:12:51.360
+to use is
+
+0:12:47.279,0:12:53.279
+check for game over
+
+0:12:51.360,0:12:55.040
+of a long one to type there so check for
+
+0:12:53.279,0:12:56.480
+game over by the way if you ever need to
+
+0:12:55.040,0:12:58.160
+pause the video because it takes you
+
+0:12:56.480,0:13:00.959
+longer to type than it takes me to type
+
+0:12:58.160,0:13:02.560
+that's totally fine just pause the video
+
+0:13:00.959,0:13:04.079
+no big deal
+
+0:13:02.560,0:13:07.360
+and we've got these these three
+
+0:13:04.079,0:13:10.320
+functions check for game over
+
+0:13:07.360,0:13:12.399
+so the code so far doesn't do anything
+
+0:13:10.320,0:13:14.560
+it's simply
+
+0:13:12.399,0:13:16.240
+getting some planning together i'm gonna
+
+0:13:14.560,0:13:17.600
+do check for game over last so i'm just
+
+0:13:16.240,0:13:18.639
+gonna kind of like set it over here out
+
+0:13:17.600,0:13:20.240
+of the way
+
+0:13:18.639,0:13:22.000
+but this initialize and move we're going
+
+0:13:20.240,0:13:24.079
+to do pretty early
+
+0:13:22.000,0:13:25.519
+so what are some things that the dog
+
+0:13:24.079,0:13:27.920
+needs to do
+
+0:13:25.519,0:13:30.399
+during the initialize thing and this is
+
+0:13:27.920,0:13:34.000
+where plans are really useful
+
+0:13:30.399,0:13:36.000
+he needs to start a timer
+
+0:13:34.000,0:13:37.600
+all right so so part of this is he needs
+
+0:13:36.000,0:13:39.680
+to start a timer
+
+0:13:37.600,0:13:41.760
+there's also some things that i realize
+
+0:13:39.680,0:13:42.880
+now should have been in my plan that
+
+0:13:41.760,0:13:45.120
+weren't there
+
+0:13:42.880,0:13:46.160
+and that's fine i just add them for
+
+0:13:45.120,0:13:47.680
+example
+
+0:13:46.160,0:13:49.600
+i never said in my plan that i should
+
+0:13:47.680,0:13:51.199
+set the dog's starting position
+
+0:13:49.600,0:13:52.240
+well i would like for him to start i'm
+
+0:13:51.199,0:13:53.040
+just going to make him start in the
+
+0:13:52.240,0:13:54.720
+corner
+
+0:13:53.040,0:13:56.639
+um there's a good spot that he can kind
+
+0:13:54.720,0:13:58.320
+of start over here and that wasn't in my
+
+0:13:56.639,0:14:00.240
+plan but i've got to do it
+
+0:13:58.320,0:14:02.560
+so i'm actually going to put him where i
+
+0:14:00.240,0:14:04.240
+want him to start and then i'm going to
+
+0:14:02.560,0:14:07.040
+go to motion and i'm going to say
+
+0:14:04.240,0:14:08.800
+go to xy that's going to be part of
+
+0:14:07.040,0:14:09.920
+initialize
+
+0:14:08.800,0:14:12.399
+and then i'm going to go ahead and also
+
+0:14:09.920,0:14:14.160
+put on this point in direction 90. so he
+
+0:14:12.399,0:14:15.680
+points in direction 90.
+
+0:14:14.160,0:14:17.440
+so just to make sure that my code's
+
+0:14:15.680,0:14:19.360
+working if i put him somewhere different
+
+0:14:17.440,0:14:21.040
+when i hit the green flag he should snap
+
+0:14:19.360,0:14:23.600
+to that starting position
+
+0:14:21.040,0:14:25.199
+so um the code doesn't do much yet but
+
+0:14:23.600,0:14:26.880
+it does work
+
+0:14:25.199,0:14:28.399
+it's kind of nice that you can just make
+
+0:14:26.880,0:14:29.760
+these dummy functions
+
+0:14:28.399,0:14:31.600
+it's just kind of like placeholders for
+
+0:14:29.760,0:14:32.800
+your planning but we haven't actually
+
+0:14:31.600,0:14:34.000
+used them yet
+
+0:14:32.800,0:14:36.000
+all right so the thing that it's said to
+
+0:14:34.000,0:14:37.519
+do is start a timer there's actually a
+
+0:14:36.000,0:14:40.639
+built-in timer
+
+0:14:37.519,0:14:42.800
+it's in sensing and so the timer is
+
+0:14:40.639,0:14:44.720
+actually like a magical built-in thing
+
+0:14:42.800,0:14:46.160
+and so the only thing we need to do uh
+
+0:14:44.720,0:14:49.760
+to start the timer
+
+0:14:46.160,0:14:51.040
+is we need this function reset timer
+
+0:14:49.760,0:14:52.240
+so that's literally the only thing we
+
+0:14:51.040,0:14:54.000
+need to do i'll make my screen just a
+
+0:14:52.240,0:14:56.959
+little bigger for you here
+
+0:14:54.000,0:14:57.519
+uh so reset timer uh we'll we'll do that
+
+0:14:56.959,0:14:59.760
+task
+
+0:14:57.519,0:15:01.519
+and so like if i was marking them off i
+
+0:14:59.760,0:15:02.480
+would just mark that line off that one's
+
+0:15:01.519,0:15:04.000
+done
+
+0:15:02.480,0:15:06.320
+uh the next thing i need to do is i need
+
+0:15:04.000,0:15:08.160
+to create 10 sheep
+
+0:15:06.320,0:15:10.240
+so i'm going to use cloning to my
+
+0:15:08.160,0:15:12.480
+advantage here
+
+0:15:10.240,0:15:13.920
+so i'm going to go to uh control and
+
+0:15:12.480,0:15:17.120
+make a loop
+
+0:15:13.920,0:15:18.639
+that goes 10 times obviously we could
+
+0:15:17.120,0:15:19.199
+put 10 of them in a row but we just want
+
+0:15:18.639,0:15:21.839
+a loop
+
+0:15:19.199,0:15:22.720
+that does it and what i want to do is i
+
+0:15:21.839,0:15:27.839
+want to
+
+0:15:22.720,0:15:27.839
+create a clone of sheep
+
+0:15:27.920,0:15:32.959
+if i were to run this now it would look
+
+0:15:29.839,0:15:36.320
+like nothing happened so if i run it now
+
+0:15:32.959,0:15:38.720
+it it worked it created 10 sheep
+
+0:15:36.320,0:15:40.079
+the original is still there so there's
+
+0:15:38.720,0:15:42.240
+actually 11 sheep
+
+0:15:40.079,0:15:44.560
+uh if i were to move them all out there
+
+0:15:42.240,0:15:46.639
+should be 11 sheep in there
+
+0:15:44.560,0:15:49.279
+so obviously it worked but it wasn't
+
+0:15:46.639,0:15:50.880
+what i wanted to have happen right
+
+0:15:49.279,0:15:52.800
+so what i want to happen is i want to
+
+0:15:50.880,0:15:54.959
+create 10 sheep but i want the sheep to
+
+0:15:52.800,0:15:58.240
+go to random positions
+
+0:15:54.959,0:16:01.839
+that responsibility is actually not
+
+0:15:58.240,0:16:04.320
+on the dog that responsibility
+
+0:16:01.839,0:16:06.000
+is going to be on the the sheep right so
+
+0:16:04.320,0:16:07.839
+not touching the pen or the dog so
+
+0:16:06.000,0:16:08.160
+they're going to be in a random position
+
+0:16:07.839,0:16:10.399
+uh
+
+0:16:08.160,0:16:12.399
+not touching the sheep of the dog so go
+
+0:16:10.399,0:16:13.759
+into the sheep
+
+0:16:12.399,0:16:16.399
+we're going to be bouncing around
+
+0:16:13.759,0:16:17.680
+sprites for a long time so just kind of
+
+0:16:16.399,0:16:18.959
+expect that we're just kind of like
+
+0:16:17.680,0:16:20.240
+we're in the dog for a second we're in
+
+0:16:18.959,0:16:22.399
+the sheep for a second we're in the pen
+
+0:16:20.240,0:16:25.519
+for a second you get the idea
+
+0:16:22.399,0:16:28.800
+in the sheep so the sheep need
+
+0:16:25.519,0:16:32.000
+when i start as cloned so sheep
+
+0:16:28.800,0:16:32.959
+start as clone the first thing that you
+
+0:16:32.000,0:16:35.440
+want sheep to do
+
+0:16:32.959,0:16:36.880
+is you want them to show up because
+
+0:16:35.440,0:16:38.720
+we're going to hide the original we've
+
+0:16:36.880,0:16:41.920
+done this trick a few times
+
+0:16:38.720,0:16:44.240
+so i want them to show up and i want
+
+0:16:41.920,0:16:47.440
+them to be in a random position
+
+0:16:44.240,0:16:51.040
+so i'm going to go to motion
+
+0:16:47.440,0:16:53.680
+and say go to random position
+
+0:16:51.040,0:16:55.120
+now if i start the game again it goes
+
+0:16:53.680,0:16:57.519
+much better
+
+0:16:55.120,0:16:58.959
+if you were to actually count the sheep
+
+0:16:57.519,0:17:00.639
+there would be 11 of them
+
+0:16:58.959,0:17:02.320
+because we haven't hidden the original
+
+0:17:00.639,0:17:05.120
+yet so i'm going to
+
+0:17:02.320,0:17:06.480
+stop the game i'm going to find the
+
+0:17:05.120,0:17:08.720
+original and i'm going to hide the
+
+0:17:06.480,0:17:10.640
+original
+
+0:17:08.720,0:17:13.280
+and so now when i run it there should
+
+0:17:10.640,0:17:15.039
+actually be 10 sheep
+
+0:17:13.280,0:17:16.959
+now the next thing i want to do is i
+
+0:17:15.039,0:17:19.120
+want to point out a problem
+
+0:17:16.959,0:17:21.679
+oh the mine's a perfect example notice
+
+0:17:19.120,0:17:24.160
+where one of my sheep randomly started
+
+0:17:21.679,0:17:25.280
+i had a sheep that randomly started
+
+0:17:24.160,0:17:28.319
+right in the pen
+
+0:17:25.280,0:17:29.600
+right um and that we could make that
+
+0:17:28.319,0:17:30.720
+work but that's not what i want to do
+
+0:17:29.600,0:17:31.840
+because i don't want to start with them
+
+0:17:30.720,0:17:34.720
+in the pen
+
+0:17:31.840,0:17:35.760
+likewise they might randomly start on
+
+0:17:34.720,0:17:39.039
+top of the dog
+
+0:17:35.760,0:17:39.760
+right that's not terrible but it's not
+
+0:17:39.039,0:17:42.720
+what i want
+
+0:17:39.760,0:17:44.160
+so i want to make sure that they don't
+
+0:17:42.720,0:17:46.000
+start on the dog
+
+0:17:44.160,0:17:47.280
+and that they don't start on the pen so
+
+0:17:46.000,0:17:50.000
+how do we do that
+
+0:17:47.280,0:17:51.039
+uh do you guys have any ideas if
+
+0:17:50.000,0:17:52.880
+statements
+
+0:17:51.039,0:17:54.799
+all right so mckinley said if statements
+
+0:17:52.880,0:17:57.039
+if statements uh would totally work
+
+0:17:54.799,0:17:58.000
+um but the thing is if we put an if
+
+0:17:57.039,0:18:00.240
+statement in here
+
+0:17:58.000,0:18:01.280
+it would check it once right so like we
+
+0:18:00.240,0:18:04.240
+could say if
+
+0:18:01.280,0:18:05.760
+uh you're on the pen or on the dog then
+
+0:18:04.240,0:18:08.960
+go to a new random position
+
+0:18:05.760,0:18:10.720
+uh mckinley you got an idea
+
+0:18:08.960,0:18:12.160
+yeah so an if statement in a forever
+
+0:18:10.720,0:18:13.600
+loop now
+
+0:18:12.160,0:18:15.200
+we don't want to go forever though
+
+0:18:13.600,0:18:17.440
+because we want to just keep picking new
+
+0:18:15.200,0:18:18.880
+random positions until
+
+0:18:17.440,0:18:21.520
+we're somewhere not touching the dog
+
+0:18:18.880,0:18:23.919
+does that make sense yeah
+
+0:18:21.520,0:18:25.440
+so yeah so there's a lot of good a lot
+
+0:18:23.919,0:18:26.720
+of good options i love that you guys are
+
+0:18:25.440,0:18:29.919
+just firing things out
+
+0:18:26.720,0:18:32.720
+we're going to use repeat and tell
+
+0:18:29.919,0:18:35.039
+so here's what we're going to do we're
+
+0:18:32.720,0:18:37.760
+going to
+
+0:18:35.039,0:18:38.400
+pick a random position and then we're
+
+0:18:37.760,0:18:41.440
+going to
+
+0:18:38.400,0:18:45.280
+repeat until we're not touching
+
+0:18:41.440,0:18:47.360
+the dog and we're not touching the pin
+
+0:18:45.280,0:18:49.280
+if we are if either of those things are
+
+0:18:47.360,0:18:50.480
+true then we're going to pick a new
+
+0:18:49.280,0:18:52.240
+random position
+
+0:18:50.480,0:18:54.240
+and then we'll check again right so
+
+0:18:52.240,0:18:56.640
+we're going to pick a random position
+
+0:18:54.240,0:18:57.760
+maybe it's fine if it's not we're gonna
+
+0:18:56.640,0:18:59.760
+pick a new one
+
+0:18:57.760,0:19:02.480
+until this condition is true now what
+
+0:18:59.760,0:19:05.600
+makes this hard is this condition
+
+0:19:02.480,0:19:08.960
+so it has to be not touching the dog
+
+0:19:05.600,0:19:10.960
+or the pen so how do we write uh this
+
+0:19:08.960,0:19:13.600
+this statement so we're going to repeat
+
+0:19:10.960,0:19:15.919
+until it's going to be complex
+
+0:19:13.600,0:19:17.360
+so one thing we're going to do is we're
+
+0:19:15.919,0:19:20.559
+going to have in here
+
+0:19:17.360,0:19:25.520
+a touching uh the dog
+
+0:19:20.559,0:19:27.600
+and a touching uh the pen
+
+0:19:25.520,0:19:29.120
+now we want to go and tell we're not
+
+0:19:27.600,0:19:32.640
+touching those things
+
+0:19:29.120,0:19:36.080
+so operators have knots so
+
+0:19:32.640,0:19:39.600
+not touching the sheep dog
+
+0:19:36.080,0:19:40.400
+not touching the pen so i want to repeat
+
+0:19:39.600,0:19:43.679
+until
+
+0:19:40.400,0:19:45.200
+i'm not touching him and i'm not
+
+0:19:43.679,0:19:47.039
+touching him right
+
+0:19:45.200,0:19:48.320
+so there's an and statement in here so
+
+0:19:47.039,0:19:50.240
+this thing
+
+0:19:48.320,0:19:51.919
+it's subtle but it gets really big
+
+0:19:50.240,0:19:53.200
+really quick right now you have to be
+
+0:19:51.919,0:19:55.360
+careful when you drag these things in
+
+0:19:53.200,0:19:56.960
+make sure you grab it like from the knot
+
+0:19:55.360,0:20:00.240
+um and so this is like
+
+0:19:56.960,0:20:01.679
+the biggest if statement ever right um
+
+0:20:00.240,0:20:04.400
+it's so big that i can't even like see
+
+0:20:01.679,0:20:07.840
+the whole thing so repeat until
+
+0:20:04.400,0:20:09.600
+i'm not touching the sheepdog and
+
+0:20:07.840,0:20:10.880
+i'm not touching the pen it's actually
+
+0:20:09.600,0:20:12.159
+quite readable
+
+0:20:10.880,0:20:13.760
+the hardest part is actually like
+
+0:20:12.159,0:20:14.159
+getting it situated to where it goes in
+
+0:20:13.760,0:20:16.000
+here
+
+0:20:14.159,0:20:18.799
+remember that you like put the tip of it
+
+0:20:16.000,0:20:21.679
+in there and it goes white
+
+0:20:18.799,0:20:22.720
+so we test your uh your code dexterity
+
+0:20:21.679,0:20:24.799
+skills there
+
+0:20:22.720,0:20:26.799
+um to see if you can make that line of
+
+0:20:24.799,0:20:29.360
+code so you can see that this time
+
+0:20:26.799,0:20:30.320
+a sheep started right on me but now with
+
+0:20:29.360,0:20:33.280
+my new revised
+
+0:20:30.320,0:20:34.000
+code uh it should not happen it looks
+
+0:20:33.280,0:20:36.400
+like it happened
+
+0:20:34.000,0:20:37.520
+why did it happen um must have goofed
+
+0:20:36.400,0:20:38.960
+something up
+
+0:20:37.520,0:20:40.720
+they started the pen so i goofed
+
+0:20:38.960,0:20:41.840
+something up
+
+0:20:40.720,0:20:43.360
+all right so what did i do wrong i
+
+0:20:41.840,0:20:44.080
+actually i noticed what i did wrong uh
+
+0:20:43.360,0:20:45.919
+almost right away
+
+0:20:44.080,0:20:47.280
+my show is at the bottom the problem
+
+0:20:45.919,0:20:48.640
+with having show at the bottom is it's
+
+0:20:47.280,0:20:50.159
+invisible right there's no way to be
+
+0:20:48.640,0:20:52.640
+touching something when you're invisible
+
+0:20:50.159,0:20:53.760
+so you actually need the show this time
+
+0:20:52.640,0:20:55.679
+to be at the top
+
+0:20:53.760,0:20:57.360
+technically it could be here or here it
+
+0:20:55.679,0:20:58.960
+doesn't really matter
+
+0:20:57.360,0:21:00.720
+i'll put it put it right here just to
+
+0:20:58.960,0:21:03.280
+prove that i understand how it works
+
+0:21:00.720,0:21:04.400
+so now when you run it they never show
+
+0:21:03.280,0:21:06.799
+up whoa he's
+
+0:21:04.400,0:21:08.559
+he showed up above the dog just barely
+
+0:21:06.799,0:21:10.640
+snuck in there right
+
+0:21:08.559,0:21:13.679
+another thing that mckinley did is she
+
+0:21:10.640,0:21:17.679
+added another and statement
+
+0:21:13.679,0:21:20.400
+and another sensor and she added a
+
+0:21:17.679,0:21:22.080
+um and not oh i should have done it the
+
+0:21:20.400,0:21:25.760
+way mckinley did it
+
+0:21:22.080,0:21:27.919
+and not touching edge as well
+
+0:21:25.760,0:21:29.520
+right so if you want to throw this in
+
+0:21:27.919,0:21:30.799
+you can because you'll notice that right
+
+0:21:29.520,0:21:33.679
+now they can show up like
+
+0:21:30.799,0:21:34.720
+half off the screen i think that seems
+
+0:21:33.679,0:21:37.600
+like a good thing to add
+
+0:21:34.720,0:21:38.000
+it makes it even more complicated right
+
+0:21:37.600,0:21:41.200
+so
+
+0:21:38.000,0:21:42.559
+i'm going to stick this whole and
+
+0:21:41.200,0:21:44.320
+i don't care if you do this or not this
+
+0:21:42.559,0:21:45.919
+is optional if you've got this working
+
+0:21:44.320,0:21:48.159
+feel free to move forwards if you want
+
+0:21:45.919,0:21:50.799
+to use sissy's fancy thing
+
+0:21:48.159,0:21:52.799
+she took this whole and and dropped it
+
+0:21:50.799,0:21:56.480
+into right there
+
+0:21:52.799,0:21:59.120
+and now she made a oh shoot i messed up
+
+0:21:56.480,0:22:01.039
+so now she grabbed a mega thing so i've
+
+0:21:59.120,0:22:01.919
+got to grab the right word and to move
+
+0:22:01.039,0:22:04.559
+it around
+
+0:22:01.919,0:22:05.360
+um and then there it is i told you it
+
+0:22:04.559,0:22:07.440
+was a hard day
+
+0:22:05.360,0:22:09.200
+i didn't uh i didn't hide that fact at
+
+0:22:07.440,0:22:10.480
+all maybe i'll get to where i can show
+
+0:22:09.200,0:22:12.960
+you more code
+
+0:22:10.480,0:22:14.880
+but now i've got sissy's solution so i'm
+
+0:22:12.960,0:22:18.559
+not touching the sheepdog
+
+0:22:14.880,0:22:21.600
+and not touching the pen and
+
+0:22:18.559,0:22:23.520
+not touching the edge um pretty easy to
+
+0:22:21.600,0:22:26.400
+read and review it's just hard to make
+
+0:22:23.520,0:22:28.080
+right so now let's see if sissy's
+
+0:22:26.400,0:22:31.200
+solution works so now i should never be
+
+0:22:28.080,0:22:32.559
+on the edge as well [ __ ] i love it good
+
+0:22:31.200,0:22:36.640
+call
+
+0:22:32.559,0:22:38.640
+all right so we are uh doing things uh
+
+0:22:36.640,0:22:41.200
+great we're knocking things off of our
+
+0:22:38.640,0:22:43.840
+list that's super
+
+0:22:41.200,0:22:45.600
+next what we probably ought to do is we
+
+0:22:43.840,0:22:48.159
+ought to
+
+0:22:45.600,0:22:49.280
+move the dog using the arrow keys i went
+
+0:22:48.159,0:22:52.559
+one slide too far
+
+0:22:49.280,0:22:54.720
+so initialization is in good shape
+
+0:22:52.559,0:22:55.919
+moving the dog using the arrow keys is
+
+0:22:54.720,0:22:58.640
+next
+
+0:22:55.919,0:23:00.720
+so i'm going to go back to the dogs code
+
+0:22:58.640,0:23:01.520
+so the dog's initialize is in is in
+
+0:23:00.720,0:23:03.120
+pretty good shape
+
+0:23:01.520,0:23:04.799
+uh i'm i'm okay with what's going on
+
+0:23:03.120,0:23:06.559
+there now i'm going to go over to the
+
+0:23:04.799,0:23:09.200
+dog's move area
+
+0:23:06.559,0:23:09.679
+the dog's move area is going to move
+
+0:23:09.200,0:23:13.120
+using
+
+0:23:09.679,0:23:15.440
+four different keys um up down left and
+
+0:23:13.120,0:23:15.440
+right
+
+0:23:15.520,0:23:18.799
+this does not need to be in a forever
+
+0:23:17.840,0:23:20.320
+loop because
+
+0:23:18.799,0:23:22.320
+over here we've already got a forever
+
+0:23:20.320,0:23:23.600
+loop right so we we just we just have if
+
+0:23:22.320,0:23:25.520
+statements over here
+
+0:23:23.600,0:23:28.720
+and so he's going to respond to the four
+
+0:23:25.520,0:23:31.039
+different keys so i'm going to have
+
+0:23:28.720,0:23:34.240
+a key for up down left and right so i'm
+
+0:23:31.039,0:23:34.240
+going to drag them all in
+
+0:23:34.480,0:23:38.320
+and then i'm going gonna switch them to
+
+0:23:36.640,0:23:42.159
+up
+
+0:23:38.320,0:23:44.320
+down left
+
+0:23:42.159,0:23:46.960
+uh and right uh and i'm gonna give my
+
+0:23:44.320,0:23:48.960
+campers just a minute to catch up
+
+0:23:46.960,0:23:50.320
+all right so let's move uh let's do the
+
+0:23:48.960,0:23:52.320
+movement with the arrow keys
+
+0:23:50.320,0:23:54.240
+so up arrow is going to move the dog
+
+0:23:52.320,0:23:56.000
+forward uh so we're going to move at
+
+0:23:54.240,0:23:57.679
+some speed
+
+0:23:56.000,0:24:00.640
+so i'm going to drag this move 10 in
+
+0:23:57.679,0:24:02.880
+there i could type in a number
+
+0:24:00.640,0:24:04.400
+for his speed that'd be fine but again
+
+0:24:02.880,0:24:05.919
+it's kind of like ground level in the
+
+0:24:04.400,0:24:07.679
+last app it's a variable that we're
+
+0:24:05.919,0:24:09.600
+going to use in various places
+
+0:24:07.679,0:24:11.120
+so i'm going to actually make a variable
+
+0:24:09.600,0:24:13.200
+called dog speed
+
+0:24:11.120,0:24:14.480
+i'm going to set it in initials and
+
+0:24:13.200,0:24:17.360
+initialize
+
+0:24:14.480,0:24:19.039
+so go to variables click on make a
+
+0:24:17.360,0:24:20.960
+variable
+
+0:24:19.039,0:24:22.480
+we want this to be available for all
+
+0:24:20.960,0:24:24.480
+sprites because we want the sheep to
+
+0:24:22.480,0:24:25.840
+know the dog speed as well
+
+0:24:24.480,0:24:28.320
+i'm going to type it like this i'm going
+
+0:24:25.840,0:24:29.760
+to type dog speed
+
+0:24:28.320,0:24:32.400
+again that's just how i like to do
+
+0:24:29.760,0:24:34.000
+variables so it's two words
+
+0:24:32.400,0:24:37.440
+it's smooshed together it's called camel
+
+0:24:34.000,0:24:40.159
+case so i've got dog speed
+
+0:24:37.440,0:24:41.520
+so i make the variable first the next
+
+0:24:40.159,0:24:42.400
+thing i want to do is i want to set the
+
+0:24:41.520,0:24:43.760
+variable
+
+0:24:42.400,0:24:45.760
+i don't care where you set it and
+
+0:24:43.760,0:24:48.080
+initialize it does not matter at all
+
+0:24:45.760,0:24:50.799
+i'm going to set it right at the top i'm
+
+0:24:48.080,0:24:52.640
+going to set my dog speed to 3.
+
+0:24:50.799,0:24:54.320
+i like doing this because if you use
+
+0:24:52.640,0:24:55.600
+this variable in multiple places and you
+
+0:24:54.320,0:24:57.679
+decide to change it you're going to
+
+0:24:55.600,0:24:59.679
+only need to change it right here it's a
+
+0:24:57.679,0:25:02.400
+really great way to do code
+
+0:24:59.679,0:25:04.000
+and so over here i'm going to move at
+
+0:25:02.400,0:25:05.440
+dog speed
+
+0:25:04.000,0:25:06.960
+by the way i don't really need to show
+
+0:25:05.440,0:25:07.679
+it on the screen so i'm just going to
+
+0:25:06.960,0:25:09.919
+hide it
+
+0:25:07.679,0:25:11.120
+so it's not visible there but what up
+
+0:25:09.919,0:25:12.480
+arrow is going to do is going to move at
+
+0:25:11.120,0:25:13.520
+dog speed so you can actually play your
+
+0:25:12.480,0:25:15.039
+game now
+
+0:25:13.520,0:25:17.440
+and when you hit up arrow your dog
+
+0:25:15.039,0:25:18.799
+should move at dog speed
+
+0:25:17.440,0:25:22.240
+and if you want him faster you can make
+
+0:25:18.799,0:25:22.240
+him faster but three is good enough
+
+0:25:22.320,0:25:27.039
+down arrow is going to move in the
+
+0:25:25.279,0:25:29.200
+negative direction
+
+0:25:27.039,0:25:31.360
+so i'm going to go into motion i'm going
+
+0:25:29.200,0:25:34.320
+to say move
+
+0:25:31.360,0:25:35.360
+and then he's going to move in negative
+
+0:25:34.320,0:25:37.840
+dog speed
+
+0:25:35.360,0:25:40.480
+now this one i don't care if you want to
+
+0:25:37.840,0:25:42.080
+just type in negative 3 i'm ok with that
+
+0:25:40.480,0:25:44.480
+but if you wanted to actually do it like
+
+0:25:42.080,0:25:48.080
+the elegant way you would use
+
+0:25:44.480,0:25:50.880
+multiplication um and you would use
+
+0:25:48.080,0:25:51.760
+the variable dog speed again and you
+
+0:25:50.880,0:25:54.960
+move it
+
+0:25:51.760,0:25:56.640
+negative one times dog speed right
+
+0:25:54.960,0:25:57.679
+so that's like the elegant way to do it
+
+0:25:56.640,0:25:58.480
+because you actually get to use your
+
+0:25:57.679,0:26:00.640
+variable again
+
+0:25:58.480,0:26:03.039
+so now i can go forwards uh with up
+
+0:26:00.640,0:26:04.159
+arrow uh and then i can go backwards
+
+0:26:03.039,0:26:06.080
+with down arrow
+
+0:26:04.159,0:26:07.360
+because he's moving at negative dog
+
+0:26:06.080,0:26:11.440
+speed right
+
+0:26:07.360,0:26:14.000
+kind of fun uh left and right arrows
+
+0:26:11.440,0:26:15.440
+are going to be turns so let's go ahead
+
+0:26:14.000,0:26:17.679
+and figure out which is which so
+
+0:26:15.440,0:26:18.880
+turning left is this one because that's
+
+0:26:17.679,0:26:22.480
+going to be kind of like a
+
+0:26:18.880,0:26:25.200
+left turn i'm going to be a little lazy
+
+0:26:22.480,0:26:26.480
+i'm just going to type a 5 in here and
+
+0:26:25.200,0:26:29.200
+then the other one
+
+0:26:26.480,0:26:30.799
+is going to be a 5 there again if i was
+
+0:26:29.200,0:26:32.480
+like trying to be really elegant with my
+
+0:26:30.799,0:26:33.120
+code i'd make a variable for that as
+
+0:26:32.480,0:26:34.480
+well
+
+0:26:33.120,0:26:36.320
+but i think that i'm going to cheat a
+
+0:26:34.480,0:26:38.559
+little bit here because this app
+
+0:26:36.320,0:26:39.919
+is is quite long so now i go forwards
+
+0:26:38.559,0:26:44.000
+and backwards
+
+0:26:39.919,0:26:45.279
+and then i can also go right uh and left
+
+0:26:44.000,0:26:46.799
+and take a minute and just kind of
+
+0:26:45.279,0:26:48.480
+practice with your dog right because you
+
+0:26:46.799,0:26:49.679
+need to be able to like drive them into
+
+0:26:48.480,0:26:51.279
+the pen
+
+0:26:49.679,0:26:54.320
+and then what i typically do is i back
+
+0:26:51.279,0:26:55.279
+up and then i like drive these guys into
+
+0:26:54.320,0:26:57.279
+the pen
+
+0:26:55.279,0:27:00.000
+um and then i kind of back up behind
+
+0:26:57.279,0:27:01.840
+them and then drive one and getting good
+
+0:27:00.000,0:27:03.120
+at your own game is fun
+
+0:27:01.840,0:27:05.279
+because then you'll be able to get the
+
+0:27:03.120,0:27:08.080
+fastest time so driving things
+
+0:27:05.279,0:27:10.000
+into the pen so i'm pretty happy with
+
+0:27:08.080,0:27:12.559
+the dog movements
+
+0:27:10.000,0:27:13.600
+so i would call that a check mark on
+
+0:27:12.559,0:27:17.520
+that
+
+0:27:13.600,0:27:19.919
+so dog moves using arrow keys is done
+
+0:27:17.520,0:27:20.799
+next thing we want to do is we want the
+
+0:27:19.919,0:27:23.520
+sheep
+
+0:27:20.799,0:27:24.480
+that are touching the dog to move with
+
+0:27:23.520,0:27:27.520
+the dog
+
+0:27:24.480,0:27:29.360
+this is is a little sneaky as well so
+
+0:27:27.520,0:27:31.520
+the sheep have to move with me
+
+0:27:29.360,0:27:34.080
+so we've never done anything like this
+
+0:27:31.520,0:27:36.000
+in a game before how do we do that so
+
+0:27:34.080,0:27:38.399
+essentially right here the dog moved
+
+0:27:36.000,0:27:39.919
+right so he moved at 10 steps
+
+0:27:38.399,0:27:41.919
+and what he really needs to do is he
+
+0:27:39.919,0:27:44.880
+needs to tell everybody else
+
+0:27:41.919,0:27:45.360
+that he's moving and then if they want
+
+0:27:44.880,0:27:47.840
+to move
+
+0:27:45.360,0:27:50.000
+with him they need to know two things
+
+0:27:47.840,0:27:51.520
+they need to know how fast he's going
+
+0:27:50.000,0:27:53.679
+and they need to know what direction
+
+0:27:51.520,0:27:54.559
+he's pointing in um so here's what we're
+
+0:27:53.679,0:27:56.480
+going to do
+
+0:27:54.559,0:27:58.000
+we're going to make a variable so go to
+
+0:27:56.480,0:28:02.320
+variables
+
+0:27:58.000,0:28:04.480
+we're going to call it dog direction
+
+0:28:02.320,0:28:05.919
+because the idea is is that these other
+
+0:28:04.480,0:28:07.600
+sheep if they're going to move with the
+
+0:28:05.919,0:28:09.679
+dog they've got to know his speed
+
+0:28:07.600,0:28:11.440
+which is already a global variable and
+
+0:28:09.679,0:28:13.600
+they also need to know his direction so
+
+0:28:11.440,0:28:15.679
+go ahead and save off dog direction
+
+0:28:13.600,0:28:16.960
+so what he's going to do is when he
+
+0:28:15.679,0:28:20.320
+moves
+
+0:28:16.960,0:28:20.320
+he's going to set
+
+0:28:20.399,0:28:25.120
+the variable called dog direction so
+
+0:28:22.720,0:28:26.799
+he's going to set dog direction
+
+0:28:25.120,0:28:30.399
+and inside motion there's actually a
+
+0:28:26.799,0:28:31.919
+variable already called direction
+
+0:28:30.399,0:28:33.600
+so he's going to set this global
+
+0:28:31.919,0:28:36.159
+variable that everybody can see
+
+0:28:33.600,0:28:37.440
+called dog direction to his direction so
+
+0:28:36.159,0:28:39.919
+now everybody knows
+
+0:28:37.440,0:28:40.960
+how fast he's going and what direction
+
+0:28:39.919,0:28:42.480
+he's pointing in
+
+0:28:40.960,0:28:44.000
+and then he's going to broadcast an
+
+0:28:42.480,0:28:46.240
+event
+
+0:28:44.000,0:28:48.480
+so he's going to so it's in events
+
+0:28:46.240,0:28:50.960
+broadcast
+
+0:28:48.480,0:28:52.480
+and the name of this message it could be
+
+0:28:50.960,0:28:52.880
+anything you want i'm just going to call
+
+0:28:52.480,0:28:56.559
+it
+
+0:28:52.880,0:28:58.799
+dog moved so the dog moved
+
+0:28:56.559,0:28:59.919
+so he's just telling everybody hey the
+
+0:28:58.799,0:29:03.279
+dog moved
+
+0:28:59.919,0:29:04.720
+um and then it'll be their job to see if
+
+0:29:03.279,0:29:07.520
+they also should move
+
+0:29:04.720,0:29:08.159
+right um and so he's broadcasting dog
+
+0:29:07.520,0:29:10.720
+move to
+
+0:29:08.159,0:29:11.760
+everybody and it's the sheep that are
+
+0:29:10.720,0:29:15.120
+gonna have to listen
+
+0:29:11.760,0:29:16.960
+right so let's come over to the sheep
+
+0:29:15.120,0:29:18.799
+um and this was part of our plan right
+
+0:29:16.960,0:29:20.720
+so we said that um
+
+0:29:18.799,0:29:22.080
+that the sheep uh we're gonna have to
+
+0:29:20.720,0:29:22.960
+move with the dog that was something
+
+0:29:22.080,0:29:25.360
+that we planned
+
+0:29:22.960,0:29:26.480
+so come in here to sheep and for the
+
+0:29:25.360,0:29:30.399
+sheep say
+
+0:29:26.480,0:29:33.440
+when i receive so find when i receive
+
+0:29:30.399,0:29:34.720
+so when i receive dog moved i have to
+
+0:29:33.440,0:29:37.840
+decide
+
+0:29:34.720,0:29:38.799
+if i should move too so campers i get
+
+0:29:37.840,0:29:41.039
+your opinion
+
+0:29:38.799,0:29:43.440
+how are how are the sheep gonna know if
+
+0:29:41.039,0:29:45.279
+they should move
+
+0:29:43.440,0:29:47.520
+if they're touching the dog if they're
+
+0:29:45.279,0:29:52.559
+touching the dog that's exactly right so
+
+0:29:47.520,0:29:56.080
+i'm gonna go into control and if
+
+0:29:52.559,0:29:59.919
+i am touching
+
+0:29:56.080,0:30:00.480
+the dog so if he moved and i'm touching
+
+0:29:59.919,0:30:03.279
+him
+
+0:30:00.480,0:30:03.760
+then i should move too and so what i
+
+0:30:03.279,0:30:07.120
+should do
+
+0:30:03.760,0:30:09.840
+is i should um point
+
+0:30:07.120,0:30:11.440
+in the same direction as the dog so i
+
+0:30:09.840,0:30:12.559
+should point myself in the dog's
+
+0:30:11.440,0:30:14.080
+direction
+
+0:30:12.559,0:30:15.760
+by the way i don't need to display that
+
+0:30:14.080,0:30:16.559
+on the screen so i can i can get rid of
+
+0:30:15.760,0:30:19.200
+that
+
+0:30:16.559,0:30:19.919
+i just hit the check mark here to not
+
+0:30:19.200,0:30:21.360
+display it
+
+0:30:19.919,0:30:24.880
+so i need to point in the direction of
+
+0:30:21.360,0:30:28.720
+the dog and i need to move
+
+0:30:24.880,0:30:32.559
+um at the speed of the dog
+
+0:30:28.720,0:30:35.360
+so dog speed and it will appear
+
+0:30:32.559,0:30:37.200
+visually like he's pushing me but really
+
+0:30:35.360,0:30:37.679
+i'm just traveling at the same speed as
+
+0:30:37.200,0:30:39.840
+him
+
+0:30:37.679,0:30:40.720
+and at the same direction as him let's
+
+0:30:39.840,0:30:43.840
+try it
+
+0:30:40.720,0:30:46.559
+and see if this works so now every time
+
+0:30:43.840,0:30:47.840
+i move i broadcast that i'm moving
+
+0:30:46.559,0:30:50.240
+but if they're not touching me then
+
+0:30:47.840,0:30:50.960
+nothing happens but if i start touching
+
+0:30:50.240,0:30:53.039
+this one
+
+0:30:50.960,0:30:54.799
+you can see how they snap to the same
+
+0:30:53.039,0:30:56.880
+direction so as soon as i touch this one
+
+0:30:54.799,0:30:59.360
+it snaps to the same direction
+
+0:30:56.880,0:31:01.440
+and it appears as though i'm moving them
+
+0:30:59.360,0:31:02.720
+which is cool
+
+0:31:01.440,0:31:04.559
+and so i'm going to push them to the
+
+0:31:02.720,0:31:06.159
+sheep push them to the pin when they get
+
+0:31:04.559,0:31:08.799
+to the pin nothing happens
+
+0:31:06.159,0:31:10.320
+notice that i can back right over them
+
+0:31:08.799,0:31:12.960
+and nothing big happens
+
+0:31:10.320,0:31:14.559
+and then i can push them in and this is
+
+0:31:12.960,0:31:16.480
+where kind of like backing up
+
+0:31:14.559,0:31:18.640
+makes you better at your game you'll
+
+0:31:16.480,0:31:20.159
+also notice that if you look at the code
+
+0:31:18.640,0:31:22.080
+it doesn't care if you're actually
+
+0:31:20.159,0:31:24.480
+behind them so this is kind of funny i'm
+
+0:31:22.080,0:31:26.240
+just going to put my tail on this guy
+
+0:31:24.480,0:31:27.679
+my tail is enough to make him come with
+
+0:31:26.240,0:31:31.039
+me right
+
+0:31:27.679,0:31:32.559
+um cool so this is going really well
+
+0:31:31.039,0:31:34.240
+i'm going to pause and help my campers
+
+0:31:32.559,0:31:35.600
+for a little bit um
+
+0:31:34.240,0:31:37.440
+all right so things are going really
+
+0:31:35.600,0:31:38.080
+good by the way this is a great time to
+
+0:31:37.440,0:31:39.919
+take a break
+
+0:31:38.080,0:31:41.360
+um our family we decided to just take a
+
+0:31:39.919,0:31:42.640
+little break we we jumped and touched
+
+0:31:41.360,0:31:43.760
+the ceiling for a little while we ate
+
+0:31:42.640,0:31:45.200
+some snacks
+
+0:31:43.760,0:31:47.519
+pause it take a little break good time
+
+0:31:45.200,0:31:49.200
+to take a break um hey i did notice one
+
+0:31:47.519,0:31:51.360
+thing i noticed that my dog
+
+0:31:49.200,0:31:52.799
+um he isn't going through different
+
+0:31:51.360,0:31:54.480
+costumes that's actually something i
+
+0:31:52.799,0:31:56.159
+meant to do earlier
+
+0:31:54.480,0:31:58.159
+let's fix this real quick go into the
+
+0:31:56.159,0:32:00.159
+dogs code
+
+0:31:58.159,0:32:01.440
+and go find his like main event loop
+
+0:32:00.159,0:32:04.559
+over here
+
+0:32:01.440,0:32:07.600
+and inside here uh just grab a
+
+0:32:04.559,0:32:08.720
+um next costume command uh where is it
+
+0:32:07.600,0:32:10.000
+at i always have trouble finding this
+
+0:32:08.720,0:32:11.440
+next costume
+
+0:32:10.000,0:32:13.440
+and just stick it you can honestly you
+
+0:32:11.440,0:32:14.880
+can stick it anywhere in this loop
+
+0:32:13.440,0:32:15.919
+i'm going to stick it right there it
+
+0:32:14.880,0:32:17.679
+doesn't really matter that way it just
+
+0:32:15.919,0:32:19.279
+kind of makes a cool pyramid
+
+0:32:17.679,0:32:21.760
+and so now you can see like as soon as i
+
+0:32:19.279,0:32:23.919
+stick it in there the dog starts uh
+
+0:32:21.760,0:32:25.360
+starts barking by the way when i first
+
+0:32:23.919,0:32:27.039
+made this game i
+
+0:32:25.360,0:32:29.519
+actually made a bark sound the whole
+
+0:32:27.039,0:32:31.600
+time it gets really annoying
+
+0:32:29.519,0:32:32.880
+right so if he just sits there and he
+
+0:32:31.600,0:32:35.039
+just barks the whole time you're just
+
+0:32:32.880,0:32:37.120
+like dog stop barking
+
+0:32:35.039,0:32:39.919
+all right so overall very happy with the
+
+0:32:37.120,0:32:41.760
+game i'd say it seems pretty obvious
+
+0:32:39.919,0:32:43.039
+what needs to happen next uh what
+
+0:32:41.760,0:32:44.240
+campers what do you guys think we should
+
+0:32:43.039,0:32:46.640
+do next
+
+0:32:44.240,0:32:48.000
+have the sheep actually go into the pen
+
+0:32:46.640,0:32:50.000
+have the sheep
+
+0:32:48.000,0:32:51.679
+have the sheep actually like go into the
+
+0:32:50.000,0:32:53.760
+pen that seems like a good thing
+
+0:32:51.679,0:32:55.360
+um and that's hopefully what our plan is
+
+0:32:53.760,0:32:57.279
+telling us to do next so
+
+0:32:55.360,0:32:58.880
+uh sheep touching the dog will move so
+
+0:32:57.279,0:33:00.880
+we did that one
+
+0:32:58.880,0:33:02.720
+and then our plan says the next thing is
+
+0:33:00.880,0:33:05.919
+sheep touching the pin
+
+0:33:02.720,0:33:07.440
+are moved into the pin um and we need to
+
+0:33:05.919,0:33:07.919
+track the number of sheep that are in
+
+0:33:07.440,0:33:10.880
+the pin
+
+0:33:07.919,0:33:12.960
+right so that's our next task so we
+
+0:33:10.880,0:33:15.039
+decided that responsibility would be on
+
+0:33:12.960,0:33:18.320
+the sheep so the sheep would do that
+
+0:33:15.039,0:33:21.600
+so let's go into the sheep's code
+
+0:33:18.320,0:33:24.960
+and so the sheep needs to check
+
+0:33:21.600,0:33:26.320
+if they're in the pen we could put that
+
+0:33:24.960,0:33:28.559
+code down here because this is where
+
+0:33:26.320,0:33:30.240
+they move so we could put it down here
+
+0:33:28.559,0:33:31.679
+or we could put it up here it honestly
+
+0:33:30.240,0:33:34.720
+doesn't matter
+
+0:33:31.679,0:33:36.880
+i'm going to choose to put it
+
+0:33:34.720,0:33:38.320
+as a forever loop up here just because
+
+0:33:36.880,0:33:38.720
+that's how i typically write code and
+
+0:33:38.320,0:33:39.919
+that
+
+0:33:38.720,0:33:42.960
+like there's something that you're doing
+
+0:33:39.919,0:33:45.600
+forever so i'm going to go into control
+
+0:33:42.960,0:33:46.559
+and i'm going to stick a forever loop um
+
+0:33:45.600,0:33:49.679
+on the bottom
+
+0:33:46.559,0:33:51.200
+of this when i start as clone script
+
+0:33:49.679,0:33:54.080
+so he's going to like go to some
+
+0:33:51.200,0:33:57.120
+position and then he's going to forever
+
+0:33:54.080,0:34:00.480
+check if he's touching the pin or not
+
+0:33:57.120,0:34:04.080
+so that's of course an if statement and
+
+0:34:00.480,0:34:07.440
+touching the pin is a sensing so
+
+0:34:04.080,0:34:10.480
+forever if i'm touching
+
+0:34:07.440,0:34:11.839
+uh the pen so the sheet pen then i'm
+
+0:34:10.480,0:34:13.359
+going to do the code that's inside of
+
+0:34:11.839,0:34:15.359
+here
+
+0:34:13.359,0:34:16.399
+the code that i want to do is i want to
+
+0:34:15.359,0:34:18.960
+increment a counter
+
+0:34:16.399,0:34:20.000
+so that we know how many sheep there are
+
+0:34:18.960,0:34:22.879
+and then i also want
+
+0:34:20.000,0:34:23.919
+to change the pin so that it looks like
+
+0:34:22.879,0:34:25.520
+i'm in there
+
+0:34:23.919,0:34:27.200
+and then i want to delete the clone so a
+
+0:34:25.520,0:34:29.200
+lot of things i need to do
+
+0:34:27.200,0:34:31.040
+let's do the variable first so click on
+
+0:34:29.200,0:34:34.399
+variables
+
+0:34:31.040,0:34:36.720
+let's make a variable we might
+
+0:34:34.399,0:34:37.520
+display this variable so i'm going to
+
+0:34:36.720,0:34:39.040
+use the
+
+0:34:37.520,0:34:40.639
+the naming convention that i use when
+
+0:34:39.040,0:34:41.919
+something is displayed
+
+0:34:40.639,0:34:43.919
+i make it public because i'm going to
+
+0:34:41.919,0:34:48.240
+display it and i'm going to call it num
+
+0:34:43.919,0:34:50.320
+sheep whenever you make a variable
+
+0:34:48.240,0:34:51.599
+you need to initialize its value
+
+0:34:50.320,0:34:53.280
+somewhere um
+
+0:34:51.599,0:34:54.639
+and the question of where do i
+
+0:34:53.280,0:34:57.280
+initialize the value
+
+0:34:54.639,0:34:59.680
+um that could be anywhere normally i'd
+
+0:34:57.280,0:35:01.280
+put something like that on the stage
+
+0:34:59.680,0:35:02.640
+this time i'm not using stage code so
+
+0:35:01.280,0:35:05.280
+i'm going to put it on the dog so the
+
+0:35:02.640,0:35:06.800
+dog already has like an initialized area
+
+0:35:05.280,0:35:08.320
+that seems like a good place to
+
+0:35:06.800,0:35:11.520
+initialize
+
+0:35:08.320,0:35:12.480
+uh num sheep uh to be zero as well so
+
+0:35:11.520,0:35:14.240
+this is like
+
+0:35:12.480,0:35:16.160
+number of sheep in the pen right if you
+
+0:35:14.240,0:35:18.720
+want to be very verbose about it
+
+0:35:16.160,0:35:20.320
+so i initialize it there so you make it
+
+0:35:18.720,0:35:23.359
+you initialize it
+
+0:35:20.320,0:35:24.079
+um and then you increment it over on the
+
+0:35:23.359,0:35:25.760
+sheep
+
+0:35:24.079,0:35:28.320
+again notice how i just seamlessly hop
+
+0:35:25.760,0:35:30.640
+back and forth from the sheep to the dog
+
+0:35:28.320,0:35:31.440
+so i'm going to change it in here so i'm
+
+0:35:30.640,0:35:36.880
+going to change
+
+0:35:31.440,0:35:38.160
+my num sheet so change num sheet by one
+
+0:35:36.880,0:35:40.240
+so that's an important thing i have to
+
+0:35:38.160,0:35:42.960
+do the next thing i have to do
+
+0:35:40.240,0:35:44.800
+is i need to um play a sound because we
+
+0:35:42.960,0:35:46.720
+always play sounds
+
+0:35:44.800,0:35:49.119
+let's go ahead and play i kind of like
+
+0:35:46.720,0:35:52.240
+pop because it's like i pop
+
+0:35:49.119,0:35:56.079
+into the pen so
+
+0:35:52.240,0:35:58.000
+code sound
+
+0:35:56.079,0:35:59.520
+play sound pop i'll go ahead and play it
+
+0:35:58.000,0:36:00.800
+until it's done
+
+0:35:59.520,0:36:02.000
+because i'm going to delete myself at
+
+0:36:00.800,0:36:03.520
+the end of this i want to make sure that
+
+0:36:02.000,0:36:07.119
+it plays
+
+0:36:03.520,0:36:08.800
+i also need to tell the pin to update
+
+0:36:07.119,0:36:11.280
+right so i'm going to need to tell the
+
+0:36:08.800,0:36:13.119
+pen to update whenever you communicate
+
+0:36:11.280,0:36:14.640
+from one sprite to another
+
+0:36:13.119,0:36:16.240
+uh campers what are we going to need to
+
+0:36:14.640,0:36:16.800
+do to communicate from one sprite to
+
+0:36:16.240,0:36:19.119
+another
+
+0:36:16.800,0:36:21.119
+broadcast we have to broadcast an event
+
+0:36:19.119,0:36:24.480
+um so he's going to
+
+0:36:21.119,0:36:24.480
+broadcast an event
+
+0:36:24.880,0:36:28.079
+i'm i'm gonna have to make a new event
+
+0:36:26.400,0:36:31.359
+name so a new message
+
+0:36:28.079,0:36:33.440
+i'm gonna call this one update pin
+
+0:36:31.359,0:36:35.119
+so i'm gonna broadcast that the pin
+
+0:36:33.440,0:36:38.079
+image needs to be updated
+
+0:36:35.119,0:36:38.079
+so update pin
+
+0:36:38.960,0:36:42.240
+um and then after i tell the pin to
+
+0:36:41.599,0:36:44.880
+update
+
+0:36:42.240,0:36:46.000
+i'm going to delete myself so i'm going
+
+0:36:44.880,0:36:48.320
+to come down
+
+0:36:46.000,0:36:50.800
+and control it's the bottom command
+
+0:36:48.320,0:36:52.480
+delete this clone
+
+0:36:50.800,0:36:53.920
+and so with code you want to do things
+
+0:36:52.480,0:36:55.280
+sequentially and you want to think about
+
+0:36:53.920,0:36:56.640
+what needs to happen
+
+0:36:55.280,0:36:57.839
+and then you've got to execute your plan
+
+0:36:56.640,0:37:00.160
+so i'm going to change the number of
+
+0:36:57.839,0:37:01.760
+sheet by one because i'm now in the pen
+
+0:37:00.160,0:37:04.240
+i'm going to play a sound because sounds
+
+0:37:01.760,0:37:06.880
+are fun i'm going to tell the pin hey
+
+0:37:04.240,0:37:08.240
+update pin and then i'm going to delete
+
+0:37:06.880,0:37:11.119
+this clone
+
+0:37:08.240,0:37:12.880
+so let's go ahead and go into the pen
+
+0:37:11.119,0:37:17.599
+and let's respond to
+
+0:37:12.880,0:37:17.599
+update pen so i'm in the pen now
+
+0:37:17.760,0:37:25.040
+in the pen i need to go to events
+
+0:37:21.839,0:37:30.640
+say when i receive
+
+0:37:25.040,0:37:30.640
+so when the pen receives update pen
+
+0:37:31.200,0:37:34.560
+he's going to use the variable num sheep
+
+0:37:33.839,0:37:39.680
+to set
+
+0:37:34.560,0:37:39.680
+his costume so looks
+
+0:37:39.839,0:37:45.760
+switch to costume
+
+0:37:42.880,0:37:47.040
+now the question is how do you switch to
+
+0:37:45.760,0:37:49.760
+the correct costume
+
+0:37:47.040,0:37:50.079
+right so it's going to somehow have to
+
+0:37:49.760,0:37:53.599
+be
+
+0:37:50.079,0:37:56.240
+based on uh num sheep right
+
+0:37:53.599,0:37:58.480
+and so let's look at his costumes so his
+
+0:37:56.240,0:37:59.280
+costumes have names they also have
+
+0:37:58.480,0:38:01.760
+numbers
+
+0:37:59.280,0:38:02.480
+so i could set this by saying costume
+
+0:38:01.760,0:38:05.839
+one
+
+0:38:02.480,0:38:08.560
+or the name which is called sheep zero
+
+0:38:05.839,0:38:10.560
+this is costume number two and its name
+
+0:38:08.560,0:38:12.400
+is sheep one
+
+0:38:10.560,0:38:13.760
+so there's kind of a weird off by one
+
+0:38:12.400,0:38:16.800
+here right so um
+
+0:38:13.760,0:38:20.640
+when the sheep is zero i want to use
+
+0:38:16.800,0:38:22.400
+costume one when the sheep is one
+
+0:38:20.640,0:38:24.480
+i want to use costume two so it's kind
+
+0:38:22.400,0:38:27.200
+of off by one there right
+
+0:38:24.480,0:38:29.040
+so um i'll ask my campers if i were to
+
+0:38:27.200,0:38:30.320
+put this in here it would work out badly
+
+0:38:29.040,0:38:32.079
+because it's kind of gotten off by one
+
+0:38:30.320,0:38:33.040
+so what do i need to do campers have you
+
+0:38:32.079,0:38:35.280
+figured this out
+
+0:38:33.040,0:38:37.680
+um number is sheep minus one yeah so
+
+0:38:35.280,0:38:41.760
+there's a a statement that it's
+
+0:38:37.680,0:38:44.079
+number sheep minus one um it's actually
+
+0:38:41.760,0:38:44.960
+not minus it's plus yeah yeah that makes
+
+0:38:44.079,0:38:48.240
+sense um
+
+0:38:44.960,0:38:51.440
+so i want uh plus so
+
+0:38:48.240,0:38:53.520
+number of sheep so my costume is equal
+
+0:38:51.440,0:38:56.400
+to the number of sheep so right now it's
+
+0:38:53.520,0:38:58.160
+num sheep is zero so i want costume one
+
+0:38:56.400,0:39:01.359
+does that make sense
+
+0:38:58.160,0:39:03.680
+and so as the number of sheep increases
+
+0:39:01.359,0:39:05.760
+um my costume is gonna gonna get better
+
+0:39:03.680,0:39:07.839
+and better and it'll look like
+
+0:39:05.760,0:39:09.280
+uh the sheep are going into the pen
+
+0:39:07.839,0:39:11.599
+right because the sheep
+
+0:39:09.280,0:39:13.280
+the clone itself is gonna get deleted uh
+
+0:39:11.599,0:39:16.480
+let's see if it works
+
+0:39:13.280,0:39:19.200
+so now i um i run i've got a couple
+
+0:39:16.480,0:39:22.480
+sheep here that are going in
+
+0:39:19.200,0:39:22.480
+so overall that was going good
+
+0:39:25.520,0:39:28.880
+one thing that was broken about my game
+
+0:39:27.280,0:39:30.079
+is when i started it it looked like
+
+0:39:28.880,0:39:30.960
+there was sheep in there it's like when
+
+0:39:30.079,0:39:32.320
+i started it
+
+0:39:30.960,0:39:34.160
+um it looked like there were sheep in
+
+0:39:32.320,0:39:34.960
+there that's a mistake and the reason it
+
+0:39:34.160,0:39:38.320
+did that
+
+0:39:34.960,0:39:41.599
+is because um i never reset
+
+0:39:38.320,0:39:44.960
+it to be empty does that make sense
+
+0:39:41.599,0:39:47.359
+so a task that i never predicted
+
+0:39:44.960,0:39:48.960
+was necessary i realized that i need to
+
+0:39:47.359,0:39:52.000
+do now i need to call
+
+0:39:48.960,0:39:54.800
+update pen when the game first starts
+
+0:39:52.000,0:39:56.000
+i'm going to do that from the dog so
+
+0:39:54.800,0:39:57.920
+this is a task that i
+
+0:39:56.000,0:39:59.520
+did not see coming which was fine i
+
+0:39:57.920,0:40:02.000
+didn't plan for this
+
+0:39:59.520,0:40:03.760
+i just know that i need to do it now so
+
+0:40:02.000,0:40:06.560
+i need to
+
+0:40:03.760,0:40:07.599
+um inside my initialize area i need to
+
+0:40:06.560,0:40:10.319
+broadcast
+
+0:40:07.599,0:40:11.599
+uh update pen and that way like see how
+
+0:40:10.319,0:40:12.000
+there's a bunch of people in there right
+
+0:40:11.599,0:40:14.720
+now
+
+0:40:12.000,0:40:15.760
+that way when the game starts it's going
+
+0:40:14.720,0:40:17.599
+to update the pen
+
+0:40:15.760,0:40:19.280
+uh to clear them all out in fact it
+
+0:40:17.599,0:40:20.720
+would probably look better if i did that
+
+0:40:19.280,0:40:23.599
+like really early right
+
+0:40:20.720,0:40:24.000
+so i set the number of sheep to zero and
+
+0:40:23.599,0:40:26.240
+then i
+
+0:40:24.000,0:40:27.680
+broadcast update pen then i do the rest
+
+0:40:26.240,0:40:30.800
+of the stuff
+
+0:40:27.680,0:40:34.560
+that way even if i um start with
+
+0:40:30.800,0:40:36.319
+a bunch of sheep in there when my game
+
+0:40:34.560,0:40:38.960
+starts
+
+0:40:36.319,0:40:41.119
+they'll they'll be gone by the way it
+
+0:40:38.960,0:40:42.240
+looks like my original sheep is uh still
+
+0:40:41.119,0:40:44.480
+on the screen here
+
+0:40:42.240,0:40:45.920
+um i'm gonna go back and hide my
+
+0:40:44.480,0:40:48.480
+original sheep i don't know
+
+0:40:45.920,0:40:50.400
+i don't know how he got unhidden uh but
+
+0:40:48.480,0:40:52.160
+i want my original uh to be hidden
+
+0:40:50.400,0:40:54.640
+until i'm going to move him way over in
+
+0:40:52.160,0:40:56.560
+the corner uh and hide him there
+
+0:40:54.640,0:40:58.400
+mckinley you got a statement so she has
+
+0:40:56.560,0:41:01.520
+a theory about how it happened and
+
+0:40:58.400,0:41:02.319
+uh that that probably writes this but
+
+0:41:01.520,0:41:06.000
+now i can put
+
+0:41:02.319,0:41:09.040
+sheep in here and it looks like they go
+
+0:41:06.000,0:41:11.599
+into the pen which is cool um and then
+
+0:41:09.040,0:41:13.040
+eventually i'll get the the final sheep
+
+0:41:11.599,0:41:16.720
+in there
+
+0:41:13.040,0:41:21.200
+um and then um nothing happens right
+
+0:41:16.720,0:41:23.680
+so our game is going really really good
+
+0:41:21.200,0:41:25.280
+we've got the sheep touching the pen are
+
+0:41:23.680,0:41:26.240
+moved in tracking the number of people
+
+0:41:25.280,0:41:29.359
+moved in
+
+0:41:26.240,0:41:31.839
+the only thing i need to do now is the
+
+0:41:29.359,0:41:33.440
+what's called the in-game stuff so i
+
+0:41:31.839,0:41:34.880
+need to
+
+0:41:33.440,0:41:37.119
+make sure i've started my timer which
+
+0:41:34.880,0:41:38.960
+we've already done that and then once
+
+0:41:37.119,0:41:42.079
+all the sheep are in the pin
+
+0:41:38.960,0:41:43.040
+the game ends and i check for fastest
+
+0:41:42.079,0:41:44.720
+time
+
+0:41:43.040,0:41:46.079
+let's go look to see what what the
+
+0:41:44.720,0:41:47.200
+solution did on this
+
+0:41:46.079,0:41:50.000
+so you can see that there was this
+
+0:41:47.200,0:41:51.839
+variable fastest time
+
+0:41:50.000,0:41:53.599
+um and the idea was is that it would
+
+0:41:51.839,0:41:54.720
+track how long it took you to get all
+
+0:41:53.599,0:41:56.079
+the sheep in
+
+0:41:54.720,0:41:58.240
+uh so i'll just go ahead and get them
+
+0:41:56.079,0:41:59.839
+all in again here
+
+0:41:58.240,0:42:01.040
+um all right so i paused it there just
+
+0:41:59.839,0:42:01.440
+so you didn't have to watch me collect
+
+0:42:01.040,0:42:03.359
+sheep
+
+0:42:01.440,0:42:05.040
+um but i'm about to push the final two
+
+0:42:03.359,0:42:06.720
+sheep in and then i'm going to let you
+
+0:42:05.040,0:42:08.800
+see this is the solution what should
+
+0:42:06.720,0:42:10.240
+happen
+
+0:42:08.800,0:42:12.400
+and so what should happen is it should
+
+0:42:10.240,0:42:14.319
+bark a few times
+
+0:42:12.400,0:42:15.599
+it should say a message about how long
+
+0:42:14.319,0:42:17.599
+it took you
+
+0:42:15.599,0:42:19.200
+and then if it was the fastest time then
+
+0:42:17.599,0:42:21.599
+it should update the fastest time so
+
+0:42:19.200,0:42:23.200
+there's a lot of details going on there
+
+0:42:21.599,0:42:24.960
+so let's go ahead and see
+
+0:42:23.200,0:42:26.400
+if we can do some of those things so
+
+0:42:24.960,0:42:27.760
+when all the sheep are in the pen the
+
+0:42:26.400,0:42:29.440
+game ends
+
+0:42:27.760,0:42:31.680
+our plan is that that's going to be a
+
+0:42:29.440,0:42:35.520
+responsibility of the dog
+
+0:42:31.680,0:42:35.520
+so let's go into the dogs code
+
+0:42:35.680,0:42:39.680
+and a function we have never used is
+
+0:42:37.920,0:42:41.280
+actually this check for game over so now
+
+0:42:39.680,0:42:44.480
+we're going to focus on
+
+0:42:41.280,0:42:45.839
+a check for game over so what check for
+
+0:42:44.480,0:42:49.359
+game over needs to do
+
+0:42:45.839,0:42:50.800
+is it needs to check to see if num sheep
+
+0:42:49.359,0:42:52.960
+is 10.
+
+0:42:50.800,0:42:53.920
+maybe i zoomed in too much there so i
+
+0:42:52.960,0:42:58.079
+need to check
+
+0:42:53.920,0:43:02.000
+if my number of sheep is equal to
+
+0:42:58.079,0:43:05.760
+10 so i need an operator for equals
+
+0:43:02.000,0:43:08.800
+i need a num sheep
+
+0:43:05.760,0:43:11.760
+is equal to 10. so if that
+
+0:43:08.800,0:43:12.160
+happens then i need to start my game
+
+0:43:11.760,0:43:15.760
+over
+
+0:43:12.160,0:43:18.000
+sequence right so my game over sequence
+
+0:43:15.760,0:43:21.119
+has to do a couple of things
+
+0:43:18.000,0:43:24.560
+it has to um say a message
+
+0:43:21.119,0:43:26.800
+so let's just go ahead and go into looks
+
+0:43:24.560,0:43:28.160
+i'm going to choose to have him think it
+
+0:43:26.800,0:43:29.920
+right
+
+0:43:28.160,0:43:32.880
+um and so i'm going to have him think
+
+0:43:29.920,0:43:36.319
+like you win
+
+0:43:32.880,0:43:39.760
+is how i'm going to start to test this
+
+0:43:36.319,0:43:40.160
+i could play the whole game it becomes
+
+0:43:39.760,0:43:42.079
+very
+
+0:43:40.160,0:43:43.760
+tedious to test the whole game because
+
+0:43:42.079,0:43:45.920
+you have to actually get to 10 sheep
+
+0:43:43.760,0:43:47.520
+so here's what i'm gonna do to make
+
+0:43:45.920,0:43:51.680
+testing easier
+
+0:43:47.520,0:43:53.440
+i'm gonna temporarily set this to one
+
+0:43:51.680,0:43:54.560
+now whenever you do temporary testing
+
+0:43:53.440,0:43:55.359
+like that you've got to remember to put
+
+0:43:54.560,0:43:57.359
+it back later
+
+0:43:55.359,0:43:59.200
+right but now you can see that we can
+
+0:43:57.359,0:44:02.960
+test this much faster
+
+0:43:59.200,0:44:05.119
+because we just have to get one sheep in
+
+0:44:02.960,0:44:07.119
+and then it'll it'll save my message now
+
+0:44:05.119,0:44:10.560
+what i want my message to say
+
+0:44:07.119,0:44:13.680
+is i want my message to be more complex
+
+0:44:10.560,0:44:16.560
+i wanted to say you collected
+
+0:44:13.680,0:44:16.560
+all the sheep
+
+0:44:17.599,0:44:23.200
+in some number of seconds right
+
+0:44:21.440,0:44:24.720
+it turns out that you you can't put the
+
+0:44:23.200,0:44:26.640
+variable right into the sentence here
+
+0:44:24.720,0:44:29.520
+unless you use this thing called a
+
+0:44:26.640,0:44:31.119
+a join operator so here's what i'm going
+
+0:44:29.520,0:44:33.280
+to do i'm actually going to like
+
+0:44:31.119,0:44:37.839
+slowly join this together so i'm going
+
+0:44:33.280,0:44:37.839
+to say you collected all the sheep in
+
+0:44:37.920,0:44:41.839
+and then it's going to say like some
+
+0:44:39.440,0:44:44.000
+number of seconds
+
+0:44:41.839,0:44:46.400
+and so what i want to do here uh keegan
+
+0:44:44.000,0:44:49.760
+i'll help you type this don't worry
+
+0:44:46.400,0:44:51.760
+i'm going to grab the timer the timer is
+
+0:44:49.760,0:44:54.720
+in sensing
+
+0:44:51.760,0:44:55.520
+so timer is right here so you collected
+
+0:44:54.720,0:44:59.440
+all the sheep
+
+0:44:55.520,0:45:02.319
+in this many seconds
+
+0:44:59.440,0:45:04.000
+can you see how i built that up so i i
+
+0:45:02.319,0:45:06.000
+started off with
+
+0:45:04.000,0:45:08.000
+this thing you collected all the sheep
+
+0:45:06.000,0:45:09.680
+in timer
+
+0:45:08.000,0:45:11.680
+and then on this one down here it says
+
+0:45:09.680,0:45:13.280
+apple seconds but where it currently
+
+0:45:11.680,0:45:13.760
+says apple i'm going to drop this other
+
+0:45:13.280,0:45:16.560
+one
+
+0:45:13.760,0:45:18.079
+so i'm going to say you collected all
+
+0:45:16.560,0:45:20.640
+the sheep in
+
+0:45:18.079,0:45:21.920
+blank seconds and then to make sure that
+
+0:45:20.640,0:45:25.280
+there's spaces i'm going to make sure
+
+0:45:21.920,0:45:26.720
+that there's a space after the word in
+
+0:45:25.280,0:45:28.160
+just to make sure that there's a space
+
+0:45:26.720,0:45:29.119
+there and then i'm going to make sure
+
+0:45:28.160,0:45:31.200
+that there's a space
+
+0:45:29.119,0:45:33.839
+before the word seconds right so there's
+
+0:45:31.200,0:45:38.079
+actually kind of like a space there
+
+0:45:33.839,0:45:38.079
+and so i'm going to stick that in here
+
+0:45:38.319,0:45:41.920
+and so i'm going to say go so now when i
+
+0:45:40.880,0:45:46.000
+get one sheep
+
+0:45:41.920,0:45:48.720
+in it says you collected all the sheep
+
+0:45:46.000,0:45:50.079
+in four point blah blah blah seconds um
+
+0:45:48.720,0:45:52.800
+and notice that
+
+0:45:50.079,0:45:54.400
+the game keeps playing uh well the the
+
+0:45:52.800,0:45:57.599
+game keeps playing that's fine
+
+0:45:54.400,0:46:01.040
+um i'm gonna stick on a stop all
+
+0:45:57.599,0:46:02.160
+at the bottom here so now the game won't
+
+0:46:01.040,0:46:04.560
+keep playing
+
+0:46:02.160,0:46:07.040
+but as soon as i get one sheep in it'll
+
+0:46:04.560,0:46:08.400
+say you collected all the sheep in 4.5
+
+0:46:07.040,0:46:09.760
+seconds
+
+0:46:08.400,0:46:11.119
+that's just a little faster than i can
+
+0:46:09.760,0:46:12.960
+read so i'm going to bump the message up
+
+0:46:11.119,0:46:15.359
+to like four seconds
+
+0:46:12.960,0:46:16.240
+and you can see how useful it is uh to
+
+0:46:15.359,0:46:18.000
+do
+
+0:46:16.240,0:46:20.480
+fast testing you collected all the sheep
+
+0:46:18.000,0:46:22.960
+in 4.18 seconds
+
+0:46:20.480,0:46:24.880
+great i'm going to help keegan type this
+
+0:46:22.960,0:46:27.119
+all right so we are doing super good the
+
+0:46:24.880,0:46:29.119
+only thing i want to add is i want to
+
+0:46:27.119,0:46:30.560
+keep track of the fastest time to make
+
+0:46:29.119,0:46:33.920
+it like a game right
+
+0:46:30.560,0:46:38.079
+so let's go to variables make a variable
+
+0:46:33.920,0:46:39.920
+make the variable called fastest time
+
+0:46:38.079,0:46:41.440
+for all sprites you can see that i'm
+
+0:46:39.920,0:46:44.079
+planning on showing this
+
+0:46:41.440,0:46:45.359
+so i use my like show it on the screen
+
+0:46:44.079,0:46:46.800
+format
+
+0:46:45.359,0:46:48.079
+by the way num sheep i don't think i
+
+0:46:46.800,0:46:49.359
+really need to show that so i'm gonna
+
+0:46:48.079,0:46:51.040
+hide numb sheep
+
+0:46:49.359,0:46:52.880
+um and fastest time i'm gonna actually
+
+0:46:51.040,0:46:56.000
+put it up in this corner just because uh
+
+0:46:52.880,0:46:59.520
+this corner is where my dog starts right
+
+0:46:56.000,0:47:02.560
+um cool so let's go ahead and
+
+0:46:59.520,0:47:03.680
+have a cheat to where we can reset it so
+
+0:47:02.560,0:47:06.720
+here's what i want to do
+
+0:47:03.680,0:47:10.560
+if you press the space bar then
+
+0:47:06.720,0:47:13.839
+set fastest time
+
+0:47:10.560,0:47:16.720
+to 999 999
+
+0:47:13.839,0:47:18.560
+so um we made the variable and then the
+
+0:47:16.720,0:47:19.280
+way we initialize it is kind of a funny
+
+0:47:18.560,0:47:21.359
+system
+
+0:47:19.280,0:47:23.280
+um you press the space bar and it'll
+
+0:47:21.359,0:47:26.079
+just set it to 999. so that way it kind
+
+0:47:23.280,0:47:28.800
+of like resets the fastest time so it
+
+0:47:26.079,0:47:29.599
+resets the high scores board so now what
+
+0:47:28.800,0:47:32.559
+we want to do
+
+0:47:29.599,0:47:35.200
+is inside this check for game over i
+
+0:47:32.559,0:47:37.520
+want to see if this is the fastest time
+
+0:47:35.200,0:47:38.720
+so really what i want to do is i want an
+
+0:47:37.520,0:47:40.240
+if statement so i'm going to go to
+
+0:47:38.720,0:47:41.280
+control
+
+0:47:40.240,0:47:42.240
+and i'm going to set it down here
+
+0:47:41.280,0:47:44.000
+because i'm going to do like a little
+
+0:47:42.240,0:47:46.960
+planning first
+
+0:47:44.000,0:47:46.960
+so i'm going to say if
+
+0:47:47.200,0:47:51.760
+something is less than something else my
+
+0:47:50.160,0:47:53.040
+campers told me i was going too fast so
+
+0:47:51.760,0:47:55.839
+i'll pause for just a minute here
+
+0:47:53.040,0:47:57.040
+um so um so we made this variable
+
+0:47:55.839,0:47:59.040
+fastest time
+
+0:47:57.040,0:48:00.160
+we made this win space key press set it
+
+0:47:59.040,0:48:01.599
+to 999.
+
+0:48:00.160,0:48:03.280
+um and now we're kind of like building
+
+0:48:01.599,0:48:04.720
+up an if statement over here so this is
+
+0:48:03.280,0:48:06.319
+eventually going to get in my code but
+
+0:48:04.720,0:48:07.839
+right now it's over here so i'm going to
+
+0:48:06.319,0:48:10.480
+say if
+
+0:48:07.839,0:48:12.160
+my current time is less than the
+
+0:48:10.480,0:48:13.839
+previous fastest
+
+0:48:12.160,0:48:15.920
+so i'm going to on the right hand side
+
+0:48:13.839,0:48:16.800
+it's going to be like so if my current
+
+0:48:15.920,0:48:19.920
+time
+
+0:48:16.800,0:48:23.200
+is less than fastest the current time by
+
+0:48:19.920,0:48:26.480
+the way is a variable that's in sensing
+
+0:48:23.200,0:48:28.559
+so i'm going to come down to um sensing
+
+0:48:26.480,0:48:32.000
+and so it's the timer
+
+0:48:28.559,0:48:35.280
+that's what it's called so if the timer
+
+0:48:32.000,0:48:35.839
+is less than fastest time um and then
+
+0:48:35.280,0:48:39.040
+i'm gonna
+
+0:48:35.839,0:48:42.800
+set fastest time if that happens so
+
+0:48:39.040,0:48:46.240
+set fastest time
+
+0:48:42.800,0:48:47.680
+equal to uh the timer
+
+0:48:46.240,0:48:50.240
+so i had to kind of like jump back and
+
+0:48:47.680,0:48:52.000
+forth uh quite a bit there
+
+0:48:50.240,0:48:54.319
+but i think the concept is pretty clear
+
+0:48:52.000,0:48:55.760
+so like if the timer is less than
+
+0:48:54.319,0:48:59.920
+fastest time
+
+0:48:55.760,0:49:02.559
+then set fastest time to timer
+
+0:48:59.920,0:49:04.160
+and i want to stick this if statement
+
+0:49:02.559,0:49:07.119
+just above
+
+0:49:04.160,0:49:09.040
+uh where it does the thinking i chose to
+
+0:49:07.119,0:49:10.960
+put it above the thinking because i
+
+0:49:09.040,0:49:14.720
+don't want that thinking
+
+0:49:10.960,0:49:16.240
+to like hurt my fastest time right
+
+0:49:14.720,0:49:17.920
+um oops it looks like it's kind of
+
+0:49:16.240,0:49:19.920
+blurred there
+
+0:49:17.920,0:49:21.680
+um so i could test that but i'm gonna do
+
+0:49:19.920,0:49:23.920
+one more thing uh really quick
+
+0:49:21.680,0:49:24.720
+um i'm gonna choose to to bark a couple
+
+0:49:23.920,0:49:27.280
+times
+
+0:49:24.720,0:49:29.040
+um there's a sound that's built in uh
+
+0:49:27.280,0:49:30.960
+called bark uh it's actually already
+
+0:49:29.040,0:49:32.480
+here on the dog
+
+0:49:30.960,0:49:35.839
+and i'm going to choose to bark four
+
+0:49:32.480,0:49:39.599
+times so to bark four times
+
+0:49:35.839,0:49:42.720
+i'm gonna grab a repeat four
+
+0:49:39.599,0:49:45.119
+and in sound i'm going to play sound
+
+0:49:42.720,0:49:47.440
+bark until done four times
+
+0:49:45.119,0:49:48.160
+um and that'll be like the last uh thing
+
+0:49:47.440,0:49:51.920
+that i do
+
+0:49:48.160,0:49:53.119
+right so i'm gonna think that thought
+
+0:49:51.920,0:49:55.280
+for a little while
+
+0:49:53.119,0:49:57.119
+uh and then i'm gonna bark some uh and
+
+0:49:55.280,0:49:59.200
+then the game will be over
+
+0:49:57.119,0:50:01.119
+you could choose to bark first you could
+
+0:49:59.200,0:50:03.280
+choose to do them at the same time
+
+0:50:01.119,0:50:05.200
+there's lots of ways you could do it i'm
+
+0:50:03.280,0:50:07.280
+currently at num1
+
+0:50:05.200,0:50:08.319
+but i want to try it at num1 just to see
+
+0:50:07.280,0:50:11.359
+if it works
+
+0:50:08.319,0:50:12.640
+so i'm going to slowly win the game so i
+
+0:50:11.359,0:50:17.200
+slowly won the game
+
+0:50:12.640,0:50:19.440
+so that took 7.342 seconds
+
+0:50:17.200,0:50:21.040
+and then the machine gun barking that's
+
+0:50:19.440,0:50:22.400
+fine now i'm going to
+
+0:50:21.040,0:50:24.400
+quickly win the game so you can see
+
+0:50:22.400,0:50:26.240
+right now it's 7.4 seconds but if i
+
+0:50:24.400,0:50:29.359
+quickly win the game
+
+0:50:26.240,0:50:31.680
+um oops i caught too many sheep
+
+0:50:29.359,0:50:33.040
+hold on i need to catch only one jeep
+
+0:50:31.680,0:50:35.200
+kind of a bad test
+
+0:50:33.040,0:50:36.319
+um does this look like one sheep to you
+
+0:50:35.200,0:50:38.160
+keegan
+
+0:50:36.319,0:50:39.359
+uh yeah that didn't work either all
+
+0:50:38.160,0:50:42.079
+right i can do this
+
+0:50:39.359,0:50:44.079
+i've got to catch exactly one sheep uh
+
+0:50:42.079,0:50:45.760
+so let's try to catch exactly one sheep
+
+0:50:44.079,0:50:49.040
+for my test
+
+0:50:45.760,0:50:52.400
+um so 6.17 seconds i
+
+0:50:49.040,0:50:54.160
+work and then my machine gun bark
+
+0:50:52.400,0:50:56.319
+by the way if you if you don't like how
+
+0:50:54.160,0:51:00.079
+that worked you could bark
+
+0:50:56.319,0:51:02.000
+um at the same time um as you think
+
+0:51:00.079,0:51:03.440
+things
+
+0:51:02.000,0:51:05.119
+i don't know if i would recommend this
+
+0:51:03.440,0:51:08.160
+but but you could change it
+
+0:51:05.119,0:51:09.359
+so i i switched it right so i switched
+
+0:51:08.160,0:51:12.800
+it to where it's going to like
+
+0:51:09.359,0:51:16.000
+bark first and then it's going to think
+
+0:51:12.800,0:51:16.000
+at the same time it's barking
+
+0:51:16.160,0:51:19.200
+don't care if you change that or not
+
+0:51:17.280,0:51:21.280
+whichever you want last thing i want to
+
+0:51:19.200,0:51:23.520
+do is put this back to 10
+
+0:51:21.280,0:51:25.200
+and i should have a finished game i'm
+
+0:51:23.520,0:51:27.760
+going to play it one time
+
+0:51:25.200,0:51:31.440
+see if it works and so i'm going to go
+
+0:51:27.760,0:51:31.440
+ahead and put my sheep in the pin here
+
+0:51:31.760,0:51:35.440
+my fastest time by the way is currently
+
+0:51:33.760,0:51:37.040
+6.1 seconds
+
+0:51:35.440,0:51:39.200
+i'm just going to hit the space bar to
+
+0:51:37.040,0:51:41.359
+reset it
+
+0:51:39.200,0:51:42.559
+and now as soon as i get these guys in
+
+0:51:41.359,0:51:47.760
+then i've got my
+
+0:51:42.559,0:51:49.680
+new record so 17.3 not bad
+
+0:51:47.760,0:51:52.160
+i was going to try to beat it just one
+
+0:51:49.680,0:51:53.200
+time so i think that i can beat 17
+
+0:51:52.160,0:51:55.760
+seconds
+
+0:51:53.200,0:51:57.359
+so i'm going to get them all in i find a
+
+0:51:55.760,0:51:59.520
+good trick is to go backwards with the
+
+0:51:57.359,0:52:00.800
+dog and if you want to be really fast
+
+0:51:59.520,0:52:02.880
+don't even get all the way behind them
+
+0:52:00.800,0:52:04.160
+just get like on them and that's
+
+0:52:02.880,0:52:07.359
+actually enough for the dog
+
+0:52:04.160,0:52:10.079
+i got 15.7 seconds uh so i
+
+0:52:07.359,0:52:12.880
+i'm a winner uh once i finish my game
+
+0:52:10.079,0:52:15.040
+what i like to do is i like to share it
+
+0:52:12.880,0:52:17.119
+um and i like to add some instructions
+
+0:52:15.040,0:52:20.960
+so use the sheep dog
+
+0:52:17.119,0:52:24.400
+to put your sheep in the pen with
+
+0:52:20.960,0:52:27.920
+up down left and
+
+0:52:24.400,0:52:29.520
+right arrows cool
+
+0:52:27.920,0:52:31.119
+and then i could tell how to reset the
+
+0:52:29.520,0:52:33.359
+high score but i won't
+
+0:52:31.119,0:52:34.720
+now i've got a url that i could send to
+
+0:52:33.359,0:52:36.240
+uh to grandparents
+
+0:52:34.720,0:52:37.839
+to friends to family and things like
+
+0:52:36.240,0:52:39.359
+that um
+
+0:52:37.839,0:52:42.079
+i suppose i should check in on my
+
+0:52:39.359,0:52:44.480
+campers to see to see how they're doing
+
+0:52:42.079,0:52:45.839
+so campers let's see how you did all
+
+0:52:44.480,0:52:46.400
+right so keegan you're gonna show yours
+
+0:52:45.839,0:52:49.200
+first
+
+0:52:46.400,0:52:51.440
+um this game uh has a little bit less
+
+0:52:49.200,0:52:52.960
+originality uh but go ahead and um
+
+0:52:51.440,0:52:55.119
+hope keegan's ready to score his last
+
+0:52:52.960,0:52:57.760
+sheep um and it looks like he
+
+0:52:55.119,0:52:59.680
+uh collected them all in 37 seconds
+
+0:52:57.760,0:53:01.240
+which is his fastest time
+
+0:52:59.680,0:53:03.040
+since did you get yours working
+
+0:53:01.240,0:53:04.800
+[Music]
+
+0:53:03.040,0:53:06.640
+so i made her wait with only one sheep
+
+0:53:04.800,0:53:09.280
+left too because it takes a while
+
+0:53:06.640,0:53:10.720
+her fastest time is 70 seconds uh and
+
+0:53:09.280,0:53:12.480
+this one because i made her weight
+
+0:53:10.720,0:53:14.720
+is going to be worse but i just want to
+
+0:53:12.480,0:53:16.760
+see if it works so it says yep
+
+0:53:14.720,0:53:18.480
+you collected them all um and it was in
+
+0:53:16.760,0:53:21.760
+115 seconds
+
+0:53:18.480,0:53:22.960
+uh great so you guys can keep playing uh
+
+0:53:21.760,0:53:23.520
+to see if you can collect them even
+
+0:53:22.960,0:53:25.119
+faster
+
+0:53:23.520,0:53:26.960
+did you guys have fun with the hardest
+
+0:53:25.119,0:53:29.599
+project of the whole week yes
+
+0:53:26.960,0:53:31.040
+cool i'm glad you liked it i think this
+
+0:53:29.599,0:53:32.880
+is a fun one i'm sorry it doesn't allow
+
+0:53:31.040,0:53:35.359
+for more uh creativity
+
+0:53:32.880,0:53:36.960
+uh but we kind of have to like focus it
+
+0:53:35.359,0:53:38.079
+just to uh just to be able to do this
+
+0:53:36.960,0:53:41.280
+whole thing
+
+0:53:38.079,0:53:41.599
+uh so the summary of this um is really
+
+0:53:41.280,0:53:44.880
+just
+
+0:53:41.599,0:53:48.240
+coding is fun i need to update the slide
+
+0:53:44.880,0:53:51.440
+and we learned a lot of cool skills uh
+
+0:53:48.240,0:53:52.640
+about planning how do you tackle uh big
+
+0:53:51.440,0:53:54.880
+projects
+
+0:53:52.640,0:53:56.000
+and how do you assign responsibilities
+
+0:53:54.880,0:53:58.160
+we also learned a lot
+
+0:53:56.000,0:53:59.440
+of cool tricks about like communication
+
+0:53:58.160,0:54:01.200
+between sprites
+
+0:53:59.440,0:54:02.640
+uh and having the dog move the sheep
+
+0:54:01.200,0:54:05.280
+into the pen
+
+0:54:02.640,0:54:06.880
+whew that was a big one very impressed
+
+0:54:05.280,0:54:07.839
+pat yourself on the back if you finished
+
+0:54:06.880,0:54:10.160
+today
+
+0:54:07.839,0:54:13.130
+you are over the hump and we will see
+
+0:54:10.160,0:54:16.119
+you again tomorrow
+
+0:54:13.130,0:54:19.119
+[Music]
+
+0:54:16.119,0:54:19.119
+bye
+

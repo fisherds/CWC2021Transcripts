@@ -1,0 +1,1110 @@
+0:00:00.390,0:00:07.200
+[Music]
+
+0:00:04.640,0:00:09.040
+hey hey welcome to the final day of code
+
+0:00:07.200,0:00:10.160
+camp uh you made it to day five
+
+0:00:09.040,0:00:11.840
+congratulations
+
+0:00:10.160,0:00:14.080
+uh what we're going to be doing today is
+
+0:00:11.840,0:00:15.519
+something called kaleidoscope dessert
+
+0:00:14.080,0:00:17.520
+uh and as i kind of teased about
+
+0:00:15.519,0:00:18.800
+mckinley is going to be leading this one
+
+0:00:17.520,0:00:20.960
+uh so you're going to see her in just a
+
+0:00:18.800,0:00:22.160
+minute before i let her take the stage i
+
+0:00:20.960,0:00:23.519
+want to kind of review a couple things
+
+0:00:22.160,0:00:25.199
+we learned last time just because it's a
+
+0:00:23.519,0:00:27.760
+really good way to learn
+
+0:00:25.199,0:00:29.439
+so last time was the the catching dinner
+
+0:00:27.760,0:00:30.320
+uh we learned a lot of new skills and
+
+0:00:29.439,0:00:32.559
+that we learned
+
+0:00:30.320,0:00:34.559
+that you could use a command called
+
+0:00:32.559,0:00:35.920
+change the x by so you could actually
+
+0:00:34.559,0:00:38.079
+just change the x
+
+0:00:35.920,0:00:40.160
+which is the side to side and change the
+
+0:00:38.079,0:00:41.600
+y to go up and down
+
+0:00:40.160,0:00:43.760
+we learned that you could put code on
+
+0:00:41.600,0:00:45.280
+the stage so we had never put code on
+
+0:00:43.760,0:00:46.719
+the stage before but you have code that
+
+0:00:45.280,0:00:48.399
+you can put on each sprite
+
+0:00:46.719,0:00:50.640
+which is a good thing that you can do
+
+0:00:48.399,0:00:52.160
+but you can also put code on your stage
+
+0:00:50.640,0:00:53.360
+the stage is also sometimes called the
+
+0:00:52.160,0:00:55.360
+background
+
+0:00:53.360,0:00:57.120
+and what we did with that stage code is
+
+0:00:55.360,0:00:59.359
+we created clones
+
+0:00:57.120,0:01:00.559
+so cloning was really the big concept we
+
+0:00:59.359,0:01:02.079
+learned last time
+
+0:01:00.559,0:01:04.080
+and that's instead of having an
+
+0:01:02.079,0:01:06.159
+individual sprite down there
+
+0:01:04.080,0:01:07.680
+you have one sprite and then many clones
+
+0:01:06.159,0:01:08.960
+of it on your game it's a really
+
+0:01:07.680,0:01:11.520
+powerful concept
+
+0:01:08.960,0:01:12.000
+in programming we also did some more
+
+0:01:11.520,0:01:13.840
+things with
+
+0:01:12.000,0:01:16.720
+random numbers uh so hopefully you kind
+
+0:01:13.840,0:01:18.640
+of got some of those concepts uh down
+
+0:01:16.720,0:01:20.080
+today what we're doing is uh kind of
+
+0:01:18.640,0:01:21.200
+something completely different it's a
+
+0:01:20.080,0:01:23.200
+lightweight thing
+
+0:01:21.200,0:01:24.640
+it's kind of what i call like a half day
+
+0:01:23.200,0:01:26.000
+it's just meant to be a fun way to
+
+0:01:24.640,0:01:27.360
+finish our week
+
+0:01:26.000,0:01:29.680
+and so let me go ahead and start off by
+
+0:01:27.360,0:01:32.000
+clicking on this solution demo
+
+0:01:29.680,0:01:33.280
+and you can kind of see what we're up to
+
+0:01:32.000,0:01:36.240
+so to stick with our
+
+0:01:33.280,0:01:37.680
+dessert theme we made it kind of like as
+
+0:01:36.240,0:01:38.880
+though you're putting icing on the top
+
+0:01:37.680,0:01:40.640
+of a cake
+
+0:01:38.880,0:01:42.000
+but really it has almost nothing to do
+
+0:01:40.640,0:01:44.640
+with dessert
+
+0:01:42.000,0:01:45.920
+and the idea is is that you can ice the
+
+0:01:44.640,0:01:47.360
+top of a cake
+
+0:01:45.920,0:01:49.680
+i'm missing my background image here but
+
+0:01:47.360,0:01:51.119
+that's okay and so if i was putting
+
+0:01:49.680,0:01:53.600
+icing on a cake
+
+0:01:51.119,0:01:55.439
+i could decorate the top of my cake what
+
+0:01:53.600,0:01:55.920
+i'm doing here to do this and you'll see
+
+0:01:55.439,0:01:57.920
+when you
+
+0:01:55.920,0:01:59.280
+when you start doing it is i'm using the
+
+0:01:57.920,0:02:01.600
+arrow keys
+
+0:01:59.280,0:02:02.320
+so if i hit the up arrow i'm actually
+
+0:02:01.600,0:02:05.119
+controlling
+
+0:02:02.320,0:02:06.719
+three sprites at once so if i press
+
+0:02:05.119,0:02:08.319
+arrow that goes forwards
+
+0:02:06.719,0:02:10.160
+if i press arrow and right it kind of
+
+0:02:08.319,0:02:11.920
+like turns to the right some
+
+0:02:10.160,0:02:13.760
+um and the neat thing that you can do
+
+0:02:11.920,0:02:15.760
+here with a kaleidoscope
+
+0:02:13.760,0:02:16.879
+is you can make cool uh shapes and
+
+0:02:15.760,0:02:19.440
+patterns with it
+
+0:02:16.879,0:02:20.480
+so that's what we're up to uh so what i
+
+0:02:19.440,0:02:22.000
+want you to do
+
+0:02:20.480,0:02:24.319
+i'm supposed to say what we're going to
+
+0:02:22.000,0:02:25.040
+learn today as well but what i want you
+
+0:02:24.319,0:02:30.400
+to do
+
+0:02:25.040,0:02:33.920
+is go ahead and open up scratch.mit.edu
+
+0:02:30.400,0:02:34.959
+and create a new project and i am going
+
+0:02:33.920,0:02:37.840
+to get that far
+
+0:02:34.959,0:02:38.800
+done and then i'm going to turn it over
+
+0:02:37.840,0:02:40.160
+to mckinley
+
+0:02:38.800,0:02:42.480
+so mckinley you want to take the lead
+
+0:02:40.160,0:02:42.480
+from here
+
+0:02:42.959,0:02:46.160
+hi my name is mckinley fisher and i'm
+
+0:02:45.120,0:02:48.959
+going to be teaching
+
+0:02:46.160,0:02:49.680
+um today's lesson and so our campers
+
+0:02:48.959,0:02:54.160
+today
+
+0:02:49.680,0:02:57.760
+are mila bone
+
+0:02:54.160,0:03:00.319
+keegan and daddy
+
+0:02:57.760,0:03:01.599
+dave all right go ahead let's go ahead
+
+0:03:00.319,0:03:03.360
+and get started
+
+0:03:01.599,0:03:06.080
+so the first thing you need to do is
+
+0:03:03.360,0:03:07.920
+delete your cat sprite
+
+0:03:06.080,0:03:10.560
+after that you're going to go into the
+
+0:03:07.920,0:03:11.519
+cat on the sprite library to choose a
+
+0:03:10.560,0:03:13.840
+new sprite
+
+0:03:11.519,0:03:16.159
+the sprite you're going to choose is the
+
+0:03:13.840,0:03:16.159
+ball
+
+0:03:16.959,0:03:20.159
+once you get the ball it should look
+
+0:03:18.319,0:03:24.319
+like this
+
+0:03:20.159,0:03:27.360
+and then you can go into events
+
+0:03:24.319,0:03:28.239
+and get the green flagged so so far you
+
+0:03:27.360,0:03:30.400
+should have
+
+0:03:28.239,0:03:33.360
+your ball on your screen and green flag
+
+0:03:30.400,0:03:35.680
+in the code
+
+0:03:33.360,0:03:36.560
+after that you need to tell the ball
+
+0:03:35.680,0:03:40.319
+where to go
+
+0:03:36.560,0:03:40.319
+and that is found in motion
+
+0:03:40.720,0:03:45.360
+you need to drag over a go to x and y
+
+0:03:43.360,0:03:48.400
+block
+
+0:03:45.360,0:03:51.040
+and you change it to zero
+
+0:03:48.400,0:03:53.519
+zero so it'll be in the middle of the
+
+0:03:51.040,0:03:53.519
+screen
+
+0:03:56.319,0:04:00.560
+after that you um drag over a point and
+
+0:03:59.280,0:04:03.760
+direction block
+
+0:04:00.560,0:04:07.519
+right now it should have 90 in it
+
+0:04:03.760,0:04:10.959
+you're gonna change that 90 to zero
+
+0:04:07.519,0:04:15.840
+so so far your this is what your code
+
+0:04:10.959,0:04:15.840
+should look like along with your ball
+
+0:04:16.639,0:04:20.400
+after that you're going to go into
+
+0:04:18.479,0:04:23.519
+control and drag over
+
+0:04:20.400,0:04:23.519
+a forever loop
+
+0:04:26.160,0:04:43.120
+then you're going to drag over four
+
+0:04:30.000,0:04:46.960
+if statements once you do that you're
+
+0:04:43.120,0:04:51.199
+going to go into sensing
+
+0:04:46.960,0:04:57.600
+and drag over if he pressed
+
+0:04:51.199,0:04:59.360
+into those little boxes
+
+0:04:57.600,0:05:01.520
+so right now your code should look like
+
+0:04:59.360,0:05:05.360
+this uh when green flied
+
+0:05:01.520,0:05:07.520
+go to um x and y point and direction
+
+0:05:05.360,0:05:08.960
+a forever loop with four if statements
+
+0:05:07.520,0:05:14.080
+inside and inside this
+
+0:05:08.960,0:05:14.080
+if statements key space press
+
+0:05:14.160,0:05:17.600
+once you have that you're going to
+
+0:05:15.520,0:05:22.479
+change the spaces
+
+0:05:17.600,0:05:22.479
+to up arrow for the first if statement
+
+0:05:22.880,0:05:27.360
+down arrow for the second if statement
+
+0:05:28.400,0:05:36.400
+left for the third statement
+
+0:05:31.600,0:05:36.400
+and right for the fourth statement
+
+0:05:36.960,0:05:44.000
+once you do that or um you can go into
+
+0:05:40.479,0:05:47.120
+motion again so that um your ball will
+
+0:05:44.000,0:05:49.280
+actually move when you press these keys
+
+0:05:47.120,0:05:50.479
+for the up arrow you're going to drag
+
+0:05:49.280,0:05:53.919
+over a move
+
+0:05:50.479,0:05:58.430
+10 steps and you're going to
+
+0:05:53.919,0:06:00.319
+change that 10 steps to 3 steps
+
+0:05:58.430,0:06:02.319
+[Music]
+
+0:06:00.319,0:06:04.840
+and then you're going to drag over and
+
+0:06:02.319,0:06:07.759
+move 10 steps into the down
+
+0:06:04.840,0:06:12.720
+arrow and make
+
+0:06:07.759,0:06:12.720
+that 10 be a negative three steps
+
+0:06:12.790,0:06:16.720
+[Music]
+
+0:06:15.199,0:06:19.360
+once you do that you're going to get
+
+0:06:16.720,0:06:23.680
+into the turns for the
+
+0:06:19.360,0:06:25.280
+left arrow you are going to want to drag
+
+0:06:23.680,0:06:28.560
+this one over
+
+0:06:25.280,0:06:31.360
+which one's this one the lower
+
+0:06:28.560,0:06:31.360
+turn one
+
+0:06:31.759,0:06:35.840
+that has its arrow pointing left
+
+0:06:38.000,0:06:43.440
+and you're gonna change that 15 degrees
+
+0:06:40.800,0:06:43.440
+to five
+
+0:06:44.639,0:06:48.960
+and then once you do that you're going
+
+0:06:46.479,0:06:52.000
+to take the top term one
+
+0:06:48.960,0:06:52.000
+that's pointing right
+
+0:06:52.800,0:06:59.039
+and change that to five so right now
+
+0:06:56.479,0:07:02.800
+your code should have
+
+0:06:59.039,0:07:04.620
+um move or turn blocks
+
+0:07:02.800,0:07:06.319
+inside those if statements
+
+0:07:04.620,0:07:09.599
+[Music]
+
+0:07:06.319,0:07:12.960
+after that you're going to go into this
+
+0:07:09.599,0:07:12.960
+extension button
+
+0:07:13.120,0:07:16.479
+once you click on it your screen should
+
+0:07:14.800,0:07:18.639
+look like this
+
+0:07:16.479,0:07:19.840
+and you're going to see there's a lot of
+
+0:07:18.639,0:07:24.400
+different options
+
+0:07:19.840,0:07:24.400
+but the one we want is pen
+
+0:07:24.800,0:07:27.919
+once you do that you should see it opens
+
+0:07:26.960,0:07:30.960
+up an um
+
+0:07:27.919,0:07:34.319
+whole new block area that have
+
+0:07:30.960,0:07:36.240
+teal colored blocks once you do that
+
+0:07:34.319,0:07:38.639
+you're gonna grab um drag the first
+
+0:07:36.240,0:07:43.039
+command erase all
+
+0:07:38.639,0:07:44.960
+in between before the forever group for
+
+0:07:43.039,0:07:46.960
+before the forever loop and after the
+
+0:07:44.960,0:07:48.670
+point in direction zero
+
+0:07:46.960,0:07:51.120
+so your code should look like this
+
+0:07:48.670,0:07:54.400
+[Music]
+
+0:07:51.120,0:07:57.680
+and then um you're going to drag over a
+
+0:07:54.400,0:07:58.080
+stamp block and put it under the move
+
+0:07:57.680,0:08:00.800
+three
+
+0:07:58.080,0:08:01.919
+steps so now move your bottle and move
+
+0:08:00.800,0:08:04.960
+three steps and then
+
+0:08:01.919,0:08:08.639
+stamp and then
+
+0:08:04.960,0:08:11.360
+you're going to um for the down arrow
+
+0:08:08.639,0:08:12.240
+um this is optional you can do the same
+
+0:08:11.360,0:08:15.440
+thing
+
+0:08:12.240,0:08:17.360
+i'm going to um so that your ball makes
+
+0:08:15.440,0:08:19.360
+a line whenever it moves backwards
+
+0:08:17.360,0:08:23.280
+you don't have to do this it is
+
+0:08:19.360,0:08:23.280
+completely optional and up to you
+
+0:08:25.199,0:08:30.479
+once you do that you should be able to
+
+0:08:28.560,0:08:32.959
+move your ball around and it has a line
+
+0:08:30.479,0:08:36.000
+underneath it
+
+0:08:32.959,0:08:38.479
+and also if you would like your ball a
+
+0:08:36.000,0:08:40.080
+little faster you can change this move
+
+0:08:38.479,0:08:42.560
+three steps and move negative three
+
+0:08:40.080,0:08:42.560
+steps
+
+0:08:43.309,0:08:47.839
+[Music]
+
+0:08:44.800,0:08:50.800
+okay now that you have that um
+
+0:08:47.839,0:08:51.760
+you can duplicate this and how you do
+
+0:08:50.800,0:08:55.120
+that
+
+0:08:51.760,0:08:58.560
+is you click on the sprite and it should
+
+0:08:55.120,0:09:00.480
+show up with a duplicate and you're
+
+0:08:58.560,0:09:03.519
+going to hit that
+
+0:09:00.480,0:09:06.399
+so now you should have ball and ball too
+
+0:09:03.519,0:09:06.399
+right click yes
+
+0:09:07.600,0:09:12.160
+now there's it should be two balls
+
+0:09:13.200,0:09:17.519
+and now you do that one more time so
+
+0:09:15.519,0:09:21.440
+there is going to be
+
+0:09:17.519,0:09:22.000
+three balls duplicate so now you should
+
+0:09:21.440,0:09:25.440
+have
+
+0:09:22.000,0:09:25.440
+three balls on your screen
+
+0:09:25.680,0:09:31.040
+and now you can
+
+0:09:28.880,0:09:32.320
+change the balls colors if you would
+
+0:09:31.040,0:09:35.680
+like
+
+0:09:32.320,0:09:39.200
+to do that you go into ball
+
+0:09:35.680,0:09:41.920
+and then you click on costumes
+
+0:09:39.200,0:09:44.160
+you'll see it already has um a bunch of
+
+0:09:41.920,0:09:45.760
+different colored costumes
+
+0:09:44.160,0:09:48.480
+and you can choose whichever one you
+
+0:09:45.760,0:09:51.120
+would like but i'm going to choose blue
+
+0:09:48.480,0:09:54.800
+and also if you would like you can um
+
+0:09:51.120,0:09:54.800
+fill the ball of your own color
+
+0:09:55.360,0:09:59.360
+so now there's um and then you can do
+
+0:09:58.240,0:10:02.000
+the same for the
+
+0:09:59.360,0:10:04.320
+other balls so you click on the ball
+
+0:10:02.000,0:10:08.000
+then you click on its costumes
+
+0:10:04.320,0:10:08.000
+and choose a color you would like
+
+0:10:17.600,0:10:20.880
+once you do that um you'll see in the
+
+0:10:20.240,0:10:23.120
+code
+
+0:10:20.880,0:10:24.160
+for ball two and three it has the exact
+
+0:10:23.120,0:10:27.040
+same code
+
+0:10:24.160,0:10:28.399
+we want to um modify this code just a
+
+0:10:27.040,0:10:31.200
+bit
+
+0:10:28.399,0:10:33.200
+and so you're gonna change it so it says
+
+0:10:31.200,0:10:35.600
+one green flag to go to
+
+0:10:33.200,0:10:36.480
+x and y zero zero and then point in
+
+0:10:35.600,0:10:39.279
+direction
+
+0:10:36.480,0:10:39.760
+zero you want to change that zero to one
+
+0:10:39.279,0:10:42.160
+hundred
+
+0:10:39.760,0:10:42.160
+twenty
+
+0:10:44.480,0:10:49.120
+and then you're going to go into ball
+
+0:10:47.360,0:10:51.440
+three
+
+0:10:49.120,0:10:52.160
+and do almost the same thing except it's
+
+0:10:51.440,0:10:54.910
+going to be
+
+0:10:52.160,0:10:57.200
+a negative 120.
+
+0:10:54.910,0:10:59.200
+[Music]
+
+0:10:57.200,0:11:00.720
+once you do that and click the green
+
+0:10:59.200,0:11:04.320
+flag you should have
+
+0:11:00.720,0:11:06.320
+a kaleidoscope you made and you can um
+
+0:11:04.320,0:11:08.240
+have whatever colors you want and change
+
+0:11:06.320,0:11:11.519
+it
+
+0:11:08.240,0:11:14.560
+and um since it is cool
+
+0:11:11.519,0:11:15.519
+since it is kaleidoscope dessert we need
+
+0:11:14.560,0:11:19.120
+a background
+
+0:11:15.519,0:11:21.600
+which is going to be our cake
+
+0:11:19.120,0:11:24.000
+so you could draw your own but i'm going
+
+0:11:21.600,0:11:25.680
+to click on choose a background
+
+0:11:24.000,0:11:29.760
+and i'm going to choose a background
+
+0:11:25.680,0:11:33.279
+that i think looks like a cake
+
+0:11:29.760,0:11:34.959
+i like this heart i'm going to click on
+
+0:11:33.279,0:11:35.680
+it and now i'm going to have a heart
+
+0:11:34.959,0:11:42.640
+background
+
+0:11:35.680,0:11:45.920
+and um my balls kind of look like icing
+
+0:11:42.640,0:11:48.720
+so to do that your
+
+0:11:45.920,0:11:51.760
+project should look like this and now
+
+0:11:48.720,0:11:57.040
+you're going to give your project a name
+
+0:11:51.760,0:11:57.040
+i'm going to name mine kaleidoscope
+
+0:12:00.720,0:12:04.240
+okay um now that your project has a name
+
+0:12:03.440,0:12:07.600
+you can go
+
+0:12:04.240,0:12:10.000
+into file and hit save now
+
+0:12:07.600,0:12:10.880
+so now your project should be saved and
+
+0:12:10.000,0:12:13.200
+you're going to hit
+
+0:12:10.880,0:12:13.200
+share
+
+0:12:15.200,0:12:19.519
+in the instructions you can just tell
+
+0:12:17.519,0:12:22.959
+people to
+
+0:12:19.519,0:12:25.839
+use the arrow
+
+0:12:22.959,0:12:25.839
+arrow keys
+
+0:12:27.680,0:12:33.360
+and then there's also a url
+
+0:12:30.880,0:12:35.680
+you can share to your friends if you
+
+0:12:33.360,0:12:40.320
+would like
+
+0:12:35.680,0:12:43.200
+and so now let's see how our campers did
+
+0:12:40.320,0:12:45.120
+so now let's see how nina did can you
+
+0:12:43.200,0:12:48.040
+show us your project
+
+0:12:45.120,0:12:49.440
+whoa you're decorating your cake with
+
+0:12:48.040,0:12:52.560
+unicorns
+
+0:12:49.440,0:12:57.200
+great idea
+
+0:12:52.560,0:13:01.839
+okay now let's see how bowen did
+
+0:12:57.200,0:13:05.600
+i like your cake different colors
+
+0:13:01.839,0:13:08.800
+nice now let's see
+
+0:13:05.600,0:13:08.800
+how daddy did
+
+0:13:10.000,0:13:15.760
+he did his cake and he even gave one of
+
+0:13:12.639,0:13:15.760
+his balls a face
+
+0:13:17.360,0:13:22.240
+thank you now let's see how keaton did
+
+0:13:24.639,0:13:31.760
+very nice um this is one way to make it
+
+0:13:28.560,0:13:34.399
+i have um made an extension
+
+0:13:31.760,0:13:35.600
+extension i made i called it rainbow
+
+0:13:34.399,0:13:37.480
+worms
+
+0:13:35.600,0:13:38.959
+and so it looks like this
+
+0:13:37.480,0:13:43.360
+[Music]
+
+0:13:38.959,0:13:43.360
+and then you can move using this
+
+0:13:43.760,0:13:47.920
+and then you have a rainbow worm in the
+
+0:13:45.920,0:13:49.160
+middle that you activate with space and
+
+0:13:47.920,0:13:51.839
+then you use
+
+0:13:49.160,0:13:55.680
+wasd to move it
+
+0:13:51.839,0:13:59.680
+and so that is an extension you can
+
+0:13:55.680,0:14:03.650
+make and now i'm going to turn it back
+
+0:13:59.680,0:14:04.959
+over to daddy
+
+0:14:03.650,0:14:08.320
+[Music]
+
+0:14:04.959,0:14:11.120
+all right so that is the end folks uh
+
+0:14:08.320,0:14:13.040
+so uh kaleidoscope dessert was the final
+
+0:14:11.120,0:14:15.279
+thing that we wanted to teach you about
+
+0:14:13.040,0:14:16.720
+um we just kind of wanted to ramp up
+
+0:14:15.279,0:14:17.440
+camp a little bit and say a couple
+
+0:14:16.720,0:14:18.880
+things
+
+0:14:17.440,0:14:20.720
+the real take-home message from this
+
+0:14:18.880,0:14:22.560
+camp is coding is fun it's something you
+
+0:14:20.720,0:14:24.320
+can do you can totally do this
+
+0:14:22.560,0:14:26.720
+you'll see coding in your life just know
+
+0:14:24.320,0:14:29.519
+that it is something that you can handle
+
+0:14:26.720,0:14:30.000
+each day we work through a different app
+
+0:14:29.519,0:14:31.199
+or
+
+0:14:30.000,0:14:33.360
+project whatever you want to call it in
+
+0:14:31.199,0:14:34.720
+this camp we started with alphabet
+
+0:14:33.360,0:14:37.440
+breakfast where we worked on like
+
+0:14:34.720,0:14:39.519
+sprites and variables and flow control
+
+0:14:37.440,0:14:41.199
+day two was hedgehog snack where we did
+
+0:14:39.519,0:14:42.399
+some things with drawing and touching
+
+0:14:41.199,0:14:44.399
+color
+
+0:14:42.399,0:14:46.320
+day three was fish lunch it was the big
+
+0:14:44.399,0:14:49.279
+one where we did like movement control
+
+0:14:46.320,0:14:50.800
+and broadcasting events uh day four was
+
+0:14:49.279,0:14:52.800
+catching dinner where we learned about
+
+0:14:50.800,0:14:54.800
+clones and random numbers
+
+0:14:52.800,0:14:56.240
+uh and then day five was kaleidoscope
+
+0:14:54.800,0:14:57.760
+dessert
+
+0:14:56.240,0:14:59.360
+um each of these is just kind of meant
+
+0:14:57.760,0:15:01.040
+to teach you some different concepts let
+
+0:14:59.360,0:15:02.560
+you kind of get familiar with computer
+
+0:15:01.040,0:15:04.720
+science a little bit
+
+0:15:02.560,0:15:06.000
+if you want more there's a whole another
+
+0:15:04.720,0:15:07.680
+week of this camp
+
+0:15:06.000,0:15:09.360
+fair warning it is meant for an older
+
+0:15:07.680,0:15:10.720
+audience so some of those projects get
+
+0:15:09.360,0:15:12.000
+intense right
+
+0:15:10.720,0:15:14.000
+but if you wanted to give a shot we
+
+0:15:12.000,0:15:16.160
+certainly welcome having you there
+
+0:15:14.000,0:15:17.600
+but i wanted to say thanks for my whole
+
+0:15:16.160,0:15:19.440
+family for joining us
+
+0:15:17.600,0:15:20.880
+it's been a great camp week we hope that
+
+0:15:19.440,0:15:25.930
+you really liked it all right
+
+0:15:20.880,0:15:27.040
+see you next year bye
+
+0:15:25.930,0:15:29.120
+[Music]
+
+0:15:27.040,0:15:29.120
+you
+

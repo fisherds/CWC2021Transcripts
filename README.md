@@ -15,8 +15,17 @@ Status of each video could be (copy paste from here):
 | | Status |
 | :---        |    :----:   |
 | Status | 4. Transcript review complete, ready for upload |
+| Status | 2. Ready for transcript review|
 | Title   | Alphabet Breakfast |
 | YouTube URL   | https://youtu.be/UY7fRGr7Qog |
+
+### Week 1 - Day 1 - updated first part
+
+| | Status |
+| :---        |    :----:   |
+| Status | 2. Ready for transcript review|
+| Title   | Alphabet Breakfast |
+| YouTube URL   | https://youtu.be/M5PiHplrUmc|
  
 ### Week 1 - Day 2
 
@@ -38,55 +47,55 @@ Status of each video could be (copy paste from here):
 
 | | Status |
 | :---        |    :----:   |
-| Status | 1. Waiting for Dr. Fisher to create a file|
+| Status | 2. Ready for transcript review|
 | Title   | Catching Dinner |
-| YouTube URL   | --        |
+| YouTube URL   | https://youtu.be/vLpZJpISlIs |
 
 ### Week 1 - Day 5
 
 | | Status |
 | :---        |    :----:   |
-| Status | 1. Waiting for Dr. Fisher to create a file|
+| Status | 2. Ready for transcript review|
 | Title   | Kaleidoscope Dessert |
-| YouTube URL   | --        |
+| YouTube URL   | https://youtu.be/KrnGz2Iak30 |
  
  
 ### Week 2 - Day 1
 
 | | Status |
 | :---        |    :----:   |
-| Status | 1. Waiting for Dr. Fisher to create a file|
+| Status | 2. Ready for transcript review|
 | Title   |  Dino Jump  |
-| YouTube URL   | --        |
+| YouTube URL   | https://youtu.be/g3TVHc7pJQc |
 
 ### Week 2 - Day 2
 
 | | Status |
 | :---        |    :----:   |
-| Status | 1. Waiting for Dr. Fisher to create a file|
+| Status | 2. Ready for transcript review|
 | Title   | Lawn Mower |
-| YouTube URL   | --        |
+| YouTube URL   | https://youtu.be/DLuCTMkd8WM |
 
 ### Week 2 - Day 3
 
 | | Status |
 | :---        |    :----:   |
-| Status | 1. Waiting for Dr. Fisher to create a file|
+| Status | 2. Ready for transcript review|
 | Title   | Irish Sheepdog |
-| YouTube URL   | --        |
+| YouTube URL   | https://youtu.be/tCeDpicT5lE |
 
 ### Week 2 - Day 4
 
 | | Status |
 | :---        |    :----:   |
-| Status | 1. Waiting for Dr. Fisher to create a file|
+| Status | 2. Ready for transcript review|
 | Title   | Slide Puzzle |
-| YouTube URL   | --        |
+| YouTube URL   | https://youtu.be/GBb_AC8CJqU |
 
 ### Week 2 - Day 5
 
 | | Status |
 | :---        |    :----:   |
-| Status | 1. Waiting for Dr. Fisher to create a file|
+| Status | 2. Ready for transcript review|
 | Title   | Advanced Kaleidoscope |
-| YouTube URL   | --        |
+| YouTube URL   | https://youtu.be/PjAkJGwHp1w |
