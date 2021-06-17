@@ -14,8 +14,7 @@ Status of each video could be (copy paste from here):
 
 | | Status |
 | :---        |    :----:   |
-| Status | 4. Transcript review complete, ready for upload |
-| Status | 2. Ready for transcript review|
+| Status |  5. Uploaded |
 | Title   | Alphabet Breakfast |
 | YouTube URL   | https://youtu.be/UY7fRGr7Qog |
 
@@ -31,7 +30,7 @@ Status of each video could be (copy paste from here):
 
 | | Status |
 | :---        |    :----:   |
-| Status | 4. Transcript review complete, ready for upload |
+| Status |  5. Uploaded |
 | Title   | Hedgehog Snack |
 | YouTube URL   | https://youtu.be/mFnrMbV56lg |
  
@@ -39,7 +38,7 @@ Status of each video could be (copy paste from here):
 
 | | Status |
 | :---        |    :----:   |
-| Status | 4. Transcript review complete, ready for upload |
+| Status |  5. Uploaded |
 | Title   | Fish Lunch |
 | YouTube URL   | https://youtu.be/ogfsUZnk_tU |
 
